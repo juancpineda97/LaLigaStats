@@ -9,8 +9,8 @@ Cualquier amante del fútbol está acostumbrado a tener aplicaciones que le info
 - Usaré como lenguaje de programación [Javascript](https://www.javascript.com/)
 
 ## Documentación
-- Motivación al uso de las herramientas indicadas.
-- Configuración git.
+- [Motivación al uso de las herramientas indicadas.](./docs/motivacion_herramientas.md)
+- [Configuración git.](./docs/configuracion_git.md)
 
 ## Autor
 [Juan Carlos Pineda](https://github.com/juancpineda97)

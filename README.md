@@ -8,6 +8,7 @@ Cualquier amante del fútbol está acostumbrado a tener aplicaciones que le info
 ## Herramientas
 - Usaré como lenguaje de programación [Javascript](https://www.javascript.com/)
 - Como Framework usaré [Node.js](https://nodejs.org/es/), ya que permite la programación en el Back-end, es asíncrono y además es un framework muy popular y usado.
+- Ya que necesitaré guardar ciertos datos para ser consultados como resultados, jugadores o estadísticas, usaré una base de datos SQL gestionada con [PostgreSQL](https://www.postgresql.org/), ya que es un SGDB de código abierto que gestiona bases de datos relacionales.
 
 ## Documentación
 - [Motivación al uso de las herramientas indicadas.](./docs/motivacion_herramientas.md)

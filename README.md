@@ -7,6 +7,7 @@ Cualquier amante del fútbol está acostumbrado a tener aplicaciones que le info
 
 ## Herramientas
 - Usaré como lenguaje de programación [Javascript](https://www.javascript.com/)
+- Como Framework usaré [Node.js](https://nodejs.org/es/), ya que permite la programación en el Back-end, es asíncrono y además es un framework muy popular y usado.
 
 ## Documentación
 - [Motivación al uso de las herramientas indicadas.](./docs/motivacion_herramientas.md)

@@ -20,3 +20,4 @@ En este documento se muestran los pasos seguidos en el desarrollo de este proyec
 - Creación de las clases principales [Equipo](https://github.com/juancpineda97/LaLigaStats/blob/main/src/equipo.js) y [Jugador](https://github.com/juancpineda97/LaLigaStats/blob/main/src/jugador.js).
 - Creación de los métodos [verEquipo](https://github.com/juancpineda97/LaLigaStats/blob/f8fa6ee0784b2794fd778e89589f534750aec792/src/equipo.js#L21) y [verJugador](https://github.com/juancpineda97/LaLigaStats/blob/f8fa6ee0784b2794fd778e89589f534750aec792/src/jugador.js#L26).
 - Creación de un [fichero](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/descripcion_clases.md) con la descripción de las clases y los métodos.
+- Creación del fichero [iv.yaml](iv.yaml) para tests.

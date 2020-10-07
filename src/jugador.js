@@ -9,12 +9,14 @@ class Jugador{
      * @param {String} equipo - Nombre del equipo al que pertenece
      * @param {String} nacionalidad - Nacionalidad del jugador
      * @param {String} fechaNacimiento - Fecha de nacimiento
+     * @param {double} valor - Valor del jugador en millones de euros.
      */
-    constructor(nombre, equipo, nacionalidad, fechaNacimiento){
+    constructor(nombre, equipo, nacionalidad, fechaNacimiento, valor){
         this.nombre = nombre;
         this.equipo = equipo;
         this.nacionalidad = nacionalidad;
         this.fechaNacimiento = fechaNacimiento;
+        this.valor = valor
     }
 
 }

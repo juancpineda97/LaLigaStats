@@ -19,4 +19,11 @@ class Jugador{
         this.valor = valor
     }
 
+    /**
+     * Método que muestra los datos del jugador indicado.
+     * @param {String} nombreJugador 
+     */
+    verJugador(nombreJugador){
+
+    }
 }

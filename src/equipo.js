@@ -4,7 +4,7 @@
 class Equipo{
 
     /**
-     * 
+     * Constructor básico de la clase Equipo.
      * @param {string} nombre - Nombre del equipo
      * @param {Array[Jugador]} listaJugadores - Lista con los jugadores del equipo
      */

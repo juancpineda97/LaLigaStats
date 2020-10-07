@@ -1,7 +1,15 @@
 # Pasos del proyecto
 En este documento se muestran los pasos seguidos en el desarrollo de este proyecto, ordenados por hitos.
 
+## Hito 0
+- Familiarización con el uso de git y GitHub.
+- [Fork](https://github.com/juancpineda97/IV-20-21) a mi cuenta del repositorio de la asignatura.
+- [Configuración](docs/configuracion_git.md) de git en el repositorio local, así como configuración de la clave público/privada.
+- Creación del [proyecto](https://github.com/juancpineda97/LaLigaStats) que desarrollaré para la asignatura en GitHub.
+- Documentación del proyecto, con su correspondiente archivo [README](https://github.com/juancpineda97/LaLigaStats/blob/main/README.md), su [licencia](https://github.com/juancpineda97/LaLigaStats/blob/main/LICENSE) y creación del archivo [.gitignore](https://github.com/juancpineda97/LaLigaStats/blob/main/.gitignore).
+
 ## Hito 1
+- Corrección de la [imagen](https://github.com/juancpineda97/LaLigaStats#laligastats) que aparecía en el README, por motivos de copyright.
 - Creación del documento con los [pasos](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/pasos.md) del proyecto.
 - Creación de [Millestones](https://github.com/juancpineda97/LaLigaStats/milestones) correspondientes a los hitos de la asignatura.
 - Creación de diversos [Issues](https://github.com/juancpineda97/LaLigaStats/issues).

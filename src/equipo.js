@@ -12,5 +12,13 @@ class Equipo{
         this.nombre = nombre;
         this.listaJugadores = new Array();
         this.listaJugadores = listaJugadores;
-    }    
+    }
+    
+    /**
+     * Método que muestra todos los jugadores de un equipo.
+     * @param {String} nombreEquipo 
+     */
+    verEquipo(nombreEquipo){
+
+    }
 }

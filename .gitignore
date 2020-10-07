@@ -1,3 +1,6 @@
 # Archivos del sistema
 .DS_Store
 Thumbs.db
+
+# Archivos de Visual Studio Code
+.vscode/*

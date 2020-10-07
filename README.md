@@ -23,6 +23,7 @@ En las siguientes historias de usuario se describen las diferentes funcionalidad
 ## Documentación
 - [Motivación al uso de las herramientas indicadas.](./docs/motivacion_herramientas.md)
 - [Configuración git.](./docs/configuracion_git.md)
+- [Descripción Clases y Métodos del proyecto.](docs/descripcion_clases.md)
 
 ## Autor
 [Juan Carlos Pineda](https://github.com/juancpineda97)

@@ -14,6 +14,12 @@ Cualquier amante del fútbol está acostumbrado a tener aplicaciones que le info
 ## Pasos
 En el siguiente [documento](docs/pasos.md) se muestran todos los pasos seguidos para el desarrollo de la aplicación.
 
+## Historias de usuario
+En las siguientes historias de usuario se describen las diferentes funcionalidades de la aplicación:
+
+- [(HU01) Ver jugadores de un equipo](https://github.com/juancpineda97/LaLigaStats/issues/4)
+- [(HU02) Mostrar datos del jugador](https://github.com/juancpineda97/LaLigaStats/issues/5)
+
 ## Documentación
 - [Motivación al uso de las herramientas indicadas.](./docs/motivacion_herramientas.md)
 - [Configuración git.](./docs/configuracion_git.md)

@@ -7,6 +7,7 @@ En este documento se muestran los pasos seguidos en el desarrollo de este proyec
 - [Configuración](docs/configuracion_git.md) de git en el repositorio local, así como configuración de la clave público/privada.
 - Creación del [proyecto](https://github.com/juancpineda97/LaLigaStats) que desarrollaré para la asignatura en GitHub.
 - Documentación del proyecto, con su correspondiente archivo [README](https://github.com/juancpineda97/LaLigaStats/blob/main/README.md), su [licencia](https://github.com/juancpineda97/LaLigaStats/blob/main/LICENSE) y creación del archivo [.gitignore](https://github.com/juancpineda97/LaLigaStats/blob/main/.gitignore).
+- Creación del tag correspondiente a la versión [v0.0.2](https://github.com/juancpineda97/LaLigaStats/releases/tag/v0.0.2), versión final del hito 0.
 
 ## Hito 1
 - Corrección de la [imagen](https://github.com/juancpineda97/LaLigaStats#laligastats) que aparecía en el README, por motivos de copyright.

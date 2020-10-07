@@ -11,6 +11,9 @@ Cualquier amante del fútbol está acostumbrado a tener aplicaciones que le info
 - Como Framework usaré [Node.js](https://nodejs.org/es/), ya que permite la programación en el Back-end, es asíncrono y además es un framework muy popular y usado.
 - Ya que necesitaré guardar ciertos datos para ser consultados como resultados, jugadores o estadísticas, usaré una base de datos SQL gestionada con [PostgreSQL](https://www.postgresql.org/), ya que es un SGDB de código abierto que gestiona bases de datos relacionales.
 
+## Pasos
+En el siguiente [documento](docs/pasos.md) se muestran todos los pasos seguidos para el desarrollo de la aplicación.
+
 ## Documentación
 - [Motivación al uso de las herramientas indicadas.](./docs/motivacion_herramientas.md)
 - [Configuración git.](./docs/configuracion_git.md)

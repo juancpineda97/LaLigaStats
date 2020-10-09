@@ -13,12 +13,17 @@ La idea es empezar desarrollando una aplicación sencilla que muestre estadísti
 
 ## Pasos
 En el siguiente [documento](docs/pasos.md) se muestran todos los pasos seguidos para el desarrollo de la aplicación.
+También se pueden ver con estos enlaces los diferentes *issues* y *milestones* creados:
+- [Issues](https://github.com/juancpineda97/LaLigaStats/issues)
+- [Milestones](https://github.com/juancpineda97/LaLigaStats/milestones)
 
 ## Descripción del código
 Además, en este otro [documento](docs/descripcion_clases.md) se muestra una descripción de la funcionalidad de las clases y métodos del proyecto.
 
 ## Historias de usuario
-En las siguientes historias de usuario se describen las diferentes funcionalidades de la aplicación:
+En este [documento](docs/historias_usuario.md) se exponen todas las historias de usuario del proyecto, además de una descripción de ellas.
+
+Las últimas HU creadas y abiertas son las siguientes:
 
 - [(HU01) Ver jugadores de un equipo](https://github.com/juancpineda97/LaLigaStats/issues/4)
 - [(HU02) Mostrar datos del jugador](https://github.com/juancpineda97/LaLigaStats/issues/5)

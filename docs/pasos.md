@@ -24,3 +24,4 @@ En este documento se muestran los pasos seguidos en el desarrollo de este proyec
 
 ## Hito 2
 - Corrección de la confusión entre aplicación y API REST en el [README](https://github.com/juancpineda97/LaLigaStats/blob/main/README.md).
+- Familiarización con el uso e inclusión en el archivo de herramientas de una nueva herramienta a usar, [Node.js](https://nodejs.org/es/).

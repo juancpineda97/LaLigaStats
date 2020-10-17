@@ -1,0 +1,22 @@
+{
+  "name": "laligastats",
+  "version": "1.0.1",
+  "description": "Proyecto de la asignatura Infraestructura Virtual del grado de Ingeniería Informática de la UGR.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juancpineda97/LaLigaStats.git"
+  },
+  "author": "Juan Carlos Pineda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juancpineda97/LaLigaStats/issues"
+  },
+  "homepage": "https://github.com/juancpineda97/LaLigaStats#readme"
+}

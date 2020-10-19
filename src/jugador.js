@@ -31,6 +31,22 @@ class Jugador{
         "Valor(M): " + this.valor;
         return datosJugador;
     }
+
+    /**
+     * Método que comprueba que los datos son del tipo correcto.
+     * @param {String} nombre_p - Nombre del jugador
+     * @param {String} equipo_p - Nombre del equipo al que pertenece
+     * @param {String} nacionalidad_p - Nacionalidad del jugador
+     * @param {String} fechaNacimiento_p - Fecha de nacimiento
+     * @param {double} valor_p - Valor del jugador en millones de euros.
+     */
+    comprobarDatos(nombre_p, equipo_p, nacionalidad_p, fechaNacimiento_p, valor_p){
+        var correctos = false;
+        if(typeof nombre_p === 'string' && typeof equipo_p === 'string' && typeof nacionalidad_p === 'string' && typeof fechaNacimiento_p === 'string' && typeof valor_p === 'number'){
+            correctos = true;
+        }
+        return correctos;
+    }
 }
 
 module.exports = Jugador;

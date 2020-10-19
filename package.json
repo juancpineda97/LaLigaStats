@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/juancpineda97/LaLigaStats/issues"
   },
-  "homepage": "https://github.com/juancpineda97/LaLigaStats#readme"
+  "homepage": "https://github.com/juancpineda97/LaLigaStats#readme",
+  "devDependencies": {
+    "jest": "^26.5.3"
+  }
 }

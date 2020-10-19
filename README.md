@@ -12,10 +12,11 @@ La aplicación contará con una [API REST](https://www.idento.es/blog/desarrollo
 La idea es empezar desarrollando una aplicación sencilla que muestre estadísticas de partidos de La Liga Española, para luego incorporar las predicciones sobre eventos de los partidos de la jornada. Una vez desarrollada una versión estable con estas características, se empezará a trabajar en mejoras como la posibilidad de mostrar estadísticas y predicciones en tiempo real sobre partidos que estén en juego, añadir más competiciones, la mejora del algoritmo de predicciones, etc...
 
 ## Herramientas
-En el siguiente [documento](./docs/motivacion_herramientas.md) se describen las herramientas utilizadas, las cuales son:
+En el siguiente [documento](./docs/motivacion_herramientas.md) se describen las herramientas utilizadas así como la motivación para usarlas, las cuales son:
 
 - [Javascript](https://www.javascript.com/): Lenguaje de programación.
 - [Node.js](https://nodejs.org/es/): Entorno de ejecución del lenguaje.
+- [Jest](https://jestjs.io/): Framework para ejecutar tests.
 
 ## Pasos
 En el siguiente [documento](docs/pasos.md) se muestran todos los pasos seguidos para el desarrollo de la aplicación.

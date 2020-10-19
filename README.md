@@ -18,6 +18,16 @@ En el siguiente [documento](./docs/motivacion_herramientas.md) se describen las 
 - [Node.js](https://nodejs.org/es/): Entorno de ejecución del lenguaje.
 - [Jest](https://jestjs.io/): Framework para ejecutar tests.
 
+## Instalación
+Para la instalación de la aplicación se necesita tener instalado **Node.js** y su gestor de módulos, **npm**. Una vez se disponga de este software instalado, para instalar las dependencias de otros módulos de la aplicación basta con ejecutar el siguiente comando situado en la raíz del proyecto:
+~~~
+npm install
+~~~
+Esto instalará automáticamente los módulos de los que dependa la aplicación. Además, si se quieren ejecutar los tests del código de la aplicación, basta con ejecutar el comando:
+~~~
+npm test
+~~~
+
 ## Pasos
 En el siguiente [documento](docs/pasos.md) se muestran todos los pasos seguidos para el desarrollo de la aplicación.
 También se pueden ver con estos enlaces los diferentes *issues* y *milestones* creados:

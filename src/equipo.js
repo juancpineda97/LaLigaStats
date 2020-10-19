@@ -19,7 +19,13 @@ class Equipo{
      * @returns {String} Datos de los jugadoresd el equipo dado.
      */
     verEquipo(){
+        var jugadores = "Lista de jugadores del " + this.nombre + ":";
+        
+        this.listaJugadores.forEach(function(elemento) {
+            jugadores += "\n\n" + elemento.verJugador();
+        })
 
+        return jugadores;
     }
 }
 

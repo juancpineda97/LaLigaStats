@@ -20,10 +20,10 @@ class Jugador{
     }
 
     /**
-     * Método que muestra los datos del jugador indicado.
-     * @param {String} nombreJugador 
+     * Método que muestra los datos del jugador.
+     * @returns {String} Datos del jugador. 
      */
-    verJugador(nombreJugador){
+    verJugador(){
 
     }
 }

@@ -1,1 +1,4 @@
 entidad: src/equipo.js
+lenguaje: javascript
+test: test/equipo-jugador.test.js
+taskfile: package.json

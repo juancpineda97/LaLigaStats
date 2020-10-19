@@ -27,6 +27,17 @@ También se pueden ver con estos enlaces los diferentes *issues* y *milestones* 
 ## Descripción del código
 Además, en este otro [documento](docs/descripcion_clases.md) se muestra una descripción de la funcionalidad de las clases y métodos del proyecto.
 
+## Tests
+Un buen proyecto debe incluir tests para determinar si un cambio en el código afecta al funcionamiento correcto del mismo, y este proyecto no iba a ser menos. Los tests, como se ha comentado anteriormente, se realizarán con el framework [Jest](https://jestjs.io/) (en el siguiente [documento](./docs/motivacion_herramientas.md) se explica el por qué de su uso), el cuál funciona con archivos de configuración en los que implementan los test, en este caso, los archivos actuales son los siguientes:
+- [equipo-jugador.test.js](test/equipo-jugador.test.js)
+
+Además, en el siguiente [documento](docs/test.md) se enumeran con más detalle cada test disponible, ordenados por archivo y clases.
+
+Para ejecutar los tests, basta con haber seguido los pasos para la instalación del proyecto y ejecutar el siguiente comando estando ubicado en el proyecto:
+~~~
+npm test
+~~~
+
 ## Historias de usuario
 En este [documento](docs/historias_usuario.md) se exponen todas las historias de usuario del proyecto, además de una descripción de ellas.
 

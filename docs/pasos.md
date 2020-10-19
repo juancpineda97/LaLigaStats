@@ -30,3 +30,4 @@ En este documento se muestran los pasos seguidos en el desarrollo de este proyec
 - Modificado archivo [.gitignore](https://github.com/juancpineda97/LaLigaStats/blob/main/.gitignore) con la inclusión de la excepción de los archivos de [modulos de node](https://github.com/juancpineda97/LaLigaStats/blob/ad3ce0b40b99ffb28f81b2122c1a9069126fa33e/.gitignore#L9).
 - Instalación de Jest.
 - Inclusión del archivo [package-lock.json](https://github.com/juancpineda97/LaLigaStats/blob/main/package.json), propio de node.js, que también sirve para controlar las dependencias y las versiones instaladas de estas dependencias.
+- Cambio en la definición del método [verEquipo()](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/descripcion_clases.md#m%C3%A9todos) correspondiente al *issue* [(HU01)](https://github.com/juancpineda97/LaLigaStats/issues/4), así como finalización de su implementación.

@@ -41,3 +41,4 @@ En este documento se muestran los pasos seguidos en el desarrollo de este proyec
 - Se crea el método [comprobarDatos(...)](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/descripcion_clases.md#m%C3%A9todos-1) de la clase Jugador.
 - Se crean nuevos [tests](test.md) relacionados con la comprobación del tipo de dato al crear un objeto en las dos clases actuales.
 - Se comprueba que el código supera los tests satisfactoriamente :heavy_check_mark:
+- Se añade una sección con al información de instalación del proyecto al [README](https://github.com/juancpineda97/LaLigaStats/blob/main/README.md).

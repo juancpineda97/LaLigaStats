@@ -11,4 +11,4 @@ Esta clase servirá para crear la instancia Equipo, la cuál representará a cad
 Esta clase servirá para crear la instancia Jugador, que reperesentará a cada jugador de LaLiga, con su nombre, equipo, nacionalidad, fecha de nacimiento y valor en millones de euros.
 
 ### Métodos:
-- [verJugador](https://github.com/juancpineda97/LaLigaStats/blob/f8fa6ee0784b2794fd778e89589f534750aec792/src/jugador.js#L26)(nombreJugador): Este método mostrará los datos del jugador con nombre pasado por parámetro.
+- [verJugador](https://github.com/juancpineda97/LaLigaStats/blob/f8fa6ee0784b2794fd778e89589f534750aec792/src/jugador.js#L26)(): Este método mostrará los datos del jugador al que se le aplica el método.

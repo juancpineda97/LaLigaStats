@@ -28,3 +28,5 @@ En este documento se muestran los pasos seguidos en el desarrollo de este proyec
 - Añadido al proyecto un archivo llamado [package.json](package.json), propio de node.js y que servirá para controlar las dependencias del proyecto.
 - Elegida nueva herramienta para tests, el framework [Jest](https://jestjs.io/), familiarización con su uso, inclusión en el archivo de [herramientas](https://github.com/juancpineda97/LaLigaStats#herramientas) y en [README](https://github.com/juancpineda97/LaLigaStats/blob/main/README.md).
 - Modificado archivo [.gitignore](https://github.com/juancpineda97/LaLigaStats/blob/main/.gitignore) con la inclusión de la excepción de los archivos de [modulos de node](https://github.com/juancpineda97/LaLigaStats/blob/ad3ce0b40b99ffb28f81b2122c1a9069126fa33e/.gitignore#L9).
+- Instalación de Jest.
+- Inclusión del archivo [package-lock.json](https://github.com/juancpineda97/LaLigaStats/blob/main/package.json), propio de node.js, que también sirve para controlar las dependencias y las versiones instaladas de estas dependencias.

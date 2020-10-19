@@ -5,13 +5,18 @@ class Equipo{
 
     /**
      * Constructor básico de la clase Equipo.
-     * @param {string} nombre - Nombre del equipo
-     * @param {Array[Jugador]} listaJugadores - Lista con los jugadores del equipo
+     * @param {string} nombre_p - Nombre del equipo
+     * @param {Array[Jugador]} listaJugadores_P - Lista con los jugadores del equipo
      */
-    constructor(nombre, listaJugadores){
-        this.nombre = nombre;
-        this.listaJugadores = new Array();
-        this.listaJugadores = listaJugadores;
+    constructor(nombre_p, listaJugadores_p){
+        if(typeof nombre_p !== 'string' || typeof listaJugadores_p !== 'object'){
+            throw new Error('Tipos de dato no validos');
+        }
+        else{
+            this.nombre = nombre_p;
+            this.listaJugadores = new Array();
+            this.listaJugadores = listaJugadores_p;
+        }    
     }
     
     /**

@@ -17,7 +17,13 @@ describe("Test de la clase Jugador", () =>{
         expect(player1.equipo).toBe("Barcelona");
         expect(player1.nacionalidad).toBe("Francia");
         expect(player1.fechaNacimiento).toBe("21/03/1991");
-        expect(player1.valor).toBe("80");
+        expect(player1.valor).toBe(80);
+    });
+
+    test("Comprobación del funcionamiento del constructor con tipos de dato no válidos", () => {
+        thrown_error = () => new Jugador(404, "Barcelona", "Brasil", "12/06/1992", 60);
+        expectedError = new Error('Tipos de dato no validos');
+        expect(thrown_error).toThrow(expectedError);
     });
 
     test("Comprobación del funcionamiento del método verJugador()", () => {
@@ -27,6 +33,16 @@ describe("Test de la clase Jugador", () =>{
         expect(salidametodo.includes(player1.nacionalidad)).toBe(true);
         expect(salidametodo.includes(player1.fechaNacimiento)).toBe(true);
         expect(salidametodo.includes(player1.valor)).toBe(true);
+    });
+
+    test("Comprobación del método comprobarDatos(...) con datos correctos", () => {
+        var salidaMetodo = player1.comprobarDatos("Coutinho", "Barcelona", "Brasil", "12/06/1992", 60);
+        expect(salidaMetodo).toBe(true);
+    });
+
+    test("Comprobación del método comprobarDatos(...) con datos no válidos", () => {
+        var salidaMetodo = player1.comprobarDatos("Coutinho", 555, "Brasil", "12/06/1992", 60);
+        expect(salidaMetodo).toBe(false);
     });
 
 });

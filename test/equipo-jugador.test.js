@@ -2,9 +2,9 @@ const Equipo = require("../src/equipo.js");
 const Jugador = require("../src/jugador.js");
 
 // Variables para tests
-var player1 = new Jugador("Griezmann", "Barcelona", "Francia", "21/03/1991", "80");
-var player2 = new Jugador("Messi", "Barcelona", "Argentina", "24/06/1987", "100");
-var player3 = new Jugador("Coutinho", "Barcelona", "Brasil", "12/06/1992", "60");
+var player1 = new Jugador("Griezmann", "Barcelona", "Francia", "21/03/1991", 80);
+var player2 = new Jugador("Messi", "Barcelona", "Argentina", "24/06/1987", 100);
+var player3 = new Jugador("Coutinho", "Barcelona", "Brasil", "12/06/1992", 60);
 let listaJugadores = [player1, player2, player3];
 var team = new Equipo("Barcelona", listaJugadores);
 let listempty = new Array();

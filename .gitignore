@@ -4,3 +4,6 @@ Thumbs.db
 
 # Archivos de Visual Studio Code
 .vscode/*
+
+# Archivos de node.js
+node_modules

@@ -11,12 +11,19 @@ class Jugador{
      * @param {String} fechaNacimiento - Fecha de nacimiento
      * @param {double} valor - Valor del jugador en millones de euros.
      */
-    constructor(nombre, equipo, nacionalidad, fechaNacimiento, valor){
-        this.nombre = nombre;
-        this.equipo = equipo;
-        this.nacionalidad = nacionalidad;
-        this.fechaNacimiento = fechaNacimiento;
-        this.valor = valor
+    constructor(nombre_p, equipo_p, nacionalidad_p, fechaNacimiento_p, valor_p){
+        var sonValidos = this.comprobarDatos(nombre_p, equipo_p, nacionalidad_p, fechaNacimiento_p, valor_p);
+        if(!sonValidos){
+            throw new Error('Tipos de dato no validos');
+        }
+        else{
+            this.nombre = nombre_p;
+            this.equipo = equipo_p;
+            this.nacionalidad = nacionalidad_p;
+            this.fechaNacimiento = fechaNacimiento_p;
+            this.valor = valor_p;
+        }
+        
     }
 
     /**

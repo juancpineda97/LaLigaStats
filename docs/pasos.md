@@ -27,3 +27,4 @@ En este documento se muestran los pasos seguidos en el desarrollo de este proyec
 - Familiarización con el uso e inclusión en el archivo de herramientas de una nueva herramienta a usar, [Node.js](https://nodejs.org/es/).
 - Añadido al proyecto un archivo llamado [package.json](package.json), propio de node.js y que servirá para controlar las dependencias del proyecto.
 - Elegida nueva herramienta para tests, el framework [Jest](https://jestjs.io/), familiarización con su uso, inclusión en el archivo de [herramientas](https://github.com/juancpineda97/LaLigaStats#herramientas) y en [README](https://github.com/juancpineda97/LaLigaStats/blob/main/README.md).
+- Modificado archivo [.gitignore](.gitignore) con la inclusión de la excepción de los archivos de [modulos de node](https://github.com/juancpineda97/LaLigaStats/blob/ad3ce0b40b99ffb28f81b2122c1a9069126fa33e/.gitignore#L9).

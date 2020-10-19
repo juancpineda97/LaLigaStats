@@ -26,3 +26,4 @@ En este documento se muestran los pasos seguidos en el desarrollo de este proyec
 - Corrección de la confusión entre aplicación y API REST en el [README](https://github.com/juancpineda97/LaLigaStats/blob/main/README.md).
 - Familiarización con el uso e inclusión en el archivo de herramientas de una nueva herramienta a usar, [Node.js](https://nodejs.org/es/).
 - Añadido al proyecto un archivo llamado [package.json](package.json), propio de node.js y que servirá para controlar las dependencias del proyecto.
+- Elegida nueva herramienta para tests, el framework [Jest](https://jestjs.io/), familiarización con su uso, inclusión en el archivo de [herramientas](https://github.com/juancpineda97/LaLigaStats#herramientas) y en [README](https://github.com/juancpineda97/LaLigaStats/blob/main/README.md).

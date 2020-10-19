@@ -35,4 +35,4 @@ En este documento se muestran los pasos seguidos en el desarrollo de este proyec
 - Se añade nuevo código al método [verEquipo()](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/descripcion_clases.md#m%C3%A9todos), para informar de cuando un equipo no tiene jugadores.
 - Se añade el fichero [equipo-jugador.test.js](../test/equipo-jugador.test.js) con los tests implementados que se usarán en este proyecto, así como un [documento](test.md) con un listado de los mismos.
 - Se completa el archivo README.md con el apartado [Tests](https://github.com/juancpineda97/LaLigaStats#tests) con todos los enlaces de interés respecto a los tests, y una explicación de cómo ejecutarlos.
-- Se añade nueva información sobre tests al archivo [iv.yaml](iv.yaml).
+- Se añade nueva información sobre tests al archivo [iv.yaml](../iv.yaml).

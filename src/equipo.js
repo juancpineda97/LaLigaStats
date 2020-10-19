@@ -16,9 +16,9 @@ class Equipo{
     
     /**
      * Método que muestra todos los jugadores de un equipo.
-     * @param {String} nombreEquipo 
+     * @returns {String} Datos de los jugadoresd el equipo dado.
      */
-    verEquipo(nombreEquipo){
+    verEquipo(){
 
     }
 }

@@ -23,8 +23,13 @@ class Jugador{
      * Método que muestra los datos del jugador.
      * @returns {String} Datos del jugador. 
      */
-    verJugador(){
-
+    verJugador(){{
+        var datosJugador = "Nombre: " + this.nombre + "\n" +
+        "Equipo: " + this.equipo + "\n" +
+        "Nacionalidad: " + this.nacionalidad + "\n" +
+        "Fecha de nacimiento: " + this.fechaNacimiento + "\n" +
+        "Valor(M): " + this.valor;
+        return datosJugador;
     }
 }
 

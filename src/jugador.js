@@ -27,3 +27,5 @@ class Jugador{
 
     }
 }
+
+module.exports = Jugador;

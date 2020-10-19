@@ -37,4 +37,7 @@ En este documento se muestran los pasos seguidos en el desarrollo de este proyec
 - Se completa el archivo README.md con el apartado [Tests](https://github.com/juancpineda97/LaLigaStats#tests) con todos los enlaces de interés respecto a los tests, y una explicación de cómo ejecutarlos.
 - Se añade nueva información sobre tests al archivo [iv.yaml](../iv.yaml).
 - Se añade un nuevo [milestone](https://github.com/juancpineda97/LaLigaStats/milestone/4), que servirá para asegurar la integridad de los datos manejados en la aplicación.
-- Se modifica el constructor de la clsae Equipo para que controle que los parámetros son del tipo correcto.
+- Se modifica el constructor de la clase Equipo para que controle que los parámetros son del tipo correcto.
+- Se crea el método [comprobarDatos(...)](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/descripcion_clases.md#m%C3%A9todos-1) de la clase Jugador.
+- Se crean nuevos [tests](test.md) relacionados con la comprobación del tipo de dato al crear un objeto en las dos clases actuales.
+- Se comprueba que el código supera los tests satisfactoriamente :heavy_check_mark:

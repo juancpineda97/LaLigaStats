@@ -38,6 +38,12 @@ describe("Test de la clase Equipo", () =>{
         expect(team.listaJugadores.length).toBe(3);
     });
 
+    test("Comprobación del funcionamiento del constructor con tipos de dato no válidos", () => {
+        thrown_error = () => new Equipo(404, listempty);
+        expectedError = new Error('Tipos de dato no validos');
+        expect(thrown_error).toThrow(expectedError);
+    });
+
     test("Comprobación del funcionamiento del método verEquipo()", () => {
         var salidametodo = team.verEquipo();
         team.listaJugadores.forEach(function(elemento) {

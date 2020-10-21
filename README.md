@@ -14,9 +14,11 @@ La idea es empezar desarrollando una aplicación sencilla que muestre estadísti
 ## Herramientas
 En el siguiente [documento](./docs/motivacion_herramientas.md) se describen las herramientas utilizadas así como la motivación para usarlas, las cuales son:
 
-- [Javascript](https://www.javascript.com/): Lenguaje de programación.
-- [Node.js](https://nodejs.org/es/): Entorno de ejecución del lenguaje.
-- [Jest](https://jestjs.io/): Framework para ejecutar tests.
+- [Javascript](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/motivacion_herramientas.md#lenguaje-de-programaci%C3%B3n-javascript): Lenguaje de programación.
+- [Node.js](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/motivacion_herramientas.md#entorno-de-ejecuci%C3%B3n-nodejs): Entorno de ejecución del lenguaje.
+- [Jest](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/motivacion_herramientas.md#framework-test-jest): Framework para ejecutar tests.
+- [npm](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/motivacion_herramientas.md#gestor-de-tareas--dependencias-npm): Gestor de tareas / dependencias.
+  - Taskfile: [package.json](https://github.com/juancpineda97/LaLigaStats/blob/main/package.json)
 
 ## Instalación
 Para la instalación de la aplicación se necesita tener instalado **Node.js** y su gestor de módulos, **npm**. Una vez se disponga de este software instalado, para instalar las dependencias de otros módulos de la aplicación basta con ejecutar el siguiente comando situado en la raíz del proyecto:

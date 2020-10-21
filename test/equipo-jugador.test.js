@@ -5,6 +5,8 @@ const Jugador = require("../src/jugador.js");
 var player1 = new Jugador("Griezmann", "Barcelona", "Francia", "21/03/1991", 80);
 var player2 = new Jugador("Messi", "Barcelona", "Argentina", "24/06/1987", 100);
 var player3 = new Jugador("Coutinho", "Barcelona", "Brasil", "12/06/1992", 60);
+var player4 = new Jugador("Koke", "Atlético de Madrid", "España", "08/01/1992", 60);
+var player5 = new Jugador("Courtois", "Real Madrid", "Bélgica", "11/05/1992", 75);
 let listaJugadores = [player1, player2, player3];
 var team = new Equipo("Barcelona", listaJugadores);
 let listempty = new Array();
@@ -35,6 +37,36 @@ describe("Tests relacionados con la funcionalidad de mostrar al usuario los juga
 
 });
 
+describe("Tests relacionados con la funcionalidad de mostrar al usuario los datos de un jugador", () =>{
+    
+    test("Comprobación del funcionamiento del método verJugador()", () => {
+        var salidametodo = player1.verJugador();
+        expect(salidametodo.includes(player1.nombre)).toBe(true);
+        expect(salidametodo.includes(player1.equipo)).toBe(true);
+        expect(salidametodo.includes(player1.nacionalidad)).toBe(true);
+        expect(salidametodo.includes(player1.fechaNacimiento)).toBe(true);
+        expect(salidametodo.includes(player1.valor)).toBe(true);
+    });
+
+    test("Comprobando que se muestran los datos de varios jugadores correctamente", () => {
+        var salidametodo3 = player3.verJugador();
+        var salidametodo4 = player4.verJugador();
+        var salidametodo5 = player5.verJugador();
+
+        expect(typeof salidametodo3 === "string" && typeof salidametodo4 === "string" && typeof salidametodo5 === "string").toBe(true);
+        
+        var valor_player3 = player3.valor;
+        var equipo_player4 = player4.equipo;
+        var fecha_n_player5 = player5.fechaNacimiento;
+
+        expect(salidametodo3.includes(valor_player3)).toBe(true);
+        expect(salidametodo4.includes(equipo_player4)).toBe(true);
+        expect(salidametodo5.includes(fecha_n_player5)).toBe(true);
+        expect(salidametodo3.includes(player5.nombre)).toBe(false);
+    });
+
+});
+
 describe("Test de la clase Jugador", () =>{
 
     test("Comprobación del funcionamiento del constructor", () => {
@@ -49,15 +81,6 @@ describe("Test de la clase Jugador", () =>{
         thrown_error = () => new Jugador(404, "Barcelona", "Brasil", "12/06/1992", 60);
         expectedError = new Error('Tipos de dato no validos');
         expect(thrown_error).toThrow(expectedError);
-    });
-
-    test("Comprobación del funcionamiento del método verJugador()", () => {
-        var salidametodo = player1.verJugador();
-        expect(salidametodo.includes(player1.nombre)).toBe(true);
-        expect(salidametodo.includes(player1.equipo)).toBe(true);
-        expect(salidametodo.includes(player1.nacionalidad)).toBe(true);
-        expect(salidametodo.includes(player1.fechaNacimiento)).toBe(true);
-        expect(salidametodo.includes(player1.valor)).toBe(true);
     });
 
     test("Comprobación del método comprobarDatos(...) con datos correctos", () => {

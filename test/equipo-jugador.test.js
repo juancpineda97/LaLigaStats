@@ -10,6 +10,31 @@ var team = new Equipo("Barcelona", listaJugadores);
 let listempty = new Array();
 var teamempty = new Equipo("Barcelona", listempty);
 
+describe("Tests relacionados con la funcionalidad de mostrar al usuario los jugadores de un equipo", () =>{
+
+    test("Comprobación del funcionamiento del método verEquipo()", () => {
+        var salidametodo = team.verEquipo();
+        team.listaJugadores.forEach(function(elemento) {
+            expect(salidametodo.includes(elemento.verJugador())).toBe(true);
+        })
+    });
+
+    test("Comprobación del funcionamiento del método verEquipo() con un equipo sin jugadores", () => {
+        var salidametodo = teamempty.verEquipo();
+        expect(salidametodo.includes("Equipo sin jugadores actualmente.")).toBe(true);  
+    });
+
+    test("Comprobando que se muestran los jugadores de un equipo correctamente", () => {
+        var salidametodo = team.verEquipo();
+        expect(typeof salidametodo).toBe("string");
+        expect(salidametodo.includes("Lista de jugadores del")).toBe(true);
+        expect(salidametodo.includes(player1.verJugador())).toBe(true);
+        expect(salidametodo.includes(player2.verJugador())).toBe(true);
+        expect(salidametodo.includes(player3.verJugador())).toBe(true);
+    });
+
+});
+
 describe("Test de la clase Jugador", () =>{
 
     test("Comprobación del funcionamiento del constructor", () => {
@@ -58,18 +83,6 @@ describe("Test de la clase Equipo", () =>{
         thrown_error = () => new Equipo(404, listempty);
         expectedError = new Error('Tipos de dato no validos');
         expect(thrown_error).toThrow(expectedError);
-    });
-
-    test("Comprobación del funcionamiento del método verEquipo()", () => {
-        var salidametodo = team.verEquipo();
-        team.listaJugadores.forEach(function(elemento) {
-            expect(salidametodo.includes(elemento.verJugador())).toBe(true);
-        })
-    });
-
-    test("Comprobación del funcionamiento del método verEquipo() con un equipo sin jugadores", () => {
-        var salidametodo = teamempty.verEquipo();
-        expect(salidametodo.includes("Equipo sin jugadores actualmente.")).toBe(true);  
     });
 
 });

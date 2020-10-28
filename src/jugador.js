@@ -39,7 +39,9 @@ class Jugador{
         "Equipo: " + this.equipo + "\n" +
         "Nacionalidad: " + this.nacionalidad + "\n" +
         "Fecha de nacimiento: " + this.fechaNacimiento + "\n" +
-        "Valor(M): " + this.valor
+        "Valor(M): " + this.valor + "\n" +
+        "Dorsal: " + this.dorsal + "\n" +
+        "Posición: " + this.posicion;
         return datosJugador;
     }
 

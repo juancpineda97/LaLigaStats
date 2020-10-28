@@ -11,7 +11,7 @@ class Jugador{
      * @param {String} fechaNacimiento - Fecha de nacimiento
      * @param {double} valor - Valor del jugador en millones de euros.
      * @param {int} dorsal_p - Dorsal del jugador en el equipo.
-     * @param {String} posicion_p - Posición del jugador.
+     * @param {String} posicion_p - Posición del jugador, valores posibles = "PT" , "DF" , "MC" , "DL".
      */
     constructor(nombre_p, equipo_p, nacionalidad_p, fechaNacimiento_p, valor_p, dorsal_p, posicion_p){
         var sonValidos = this.comprobarDatos(nombre_p, equipo_p, nacionalidad_p, fechaNacimiento_p, valor_p, dorsal_p, posicion_p);
@@ -57,7 +57,10 @@ class Jugador{
      */
     comprobarDatos(nombre_p, equipo_p, nacionalidad_p, fechaNacimiento_p, valor_p, dorsal_p, posicion_p){
         var correctos = false;
-        if(typeof nombre_p === 'string' && typeof equipo_p === 'string' && typeof nacionalidad_p === 'string' && typeof fechaNacimiento_p === 'string' && typeof valor_p === 'number' && typeof dorsal_p === 'number' && typeof posicion_p === 'string'){
+        if(typeof nombre_p === 'string' && typeof equipo_p === 'string' && 
+        typeof nacionalidad_p === 'string' && typeof fechaNacimiento_p === 'string' && 
+        typeof valor_p === 'number' && typeof dorsal_p === 'number' && 
+        typeof posicion_p === 'string' && (posicion_p === "PT" || posicion_p === "DF" || posicion_p === "MC" || posicion_p === "DL")){
             correctos = true;
         }
         return correctos;

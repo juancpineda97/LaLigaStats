@@ -97,7 +97,7 @@ describe("Test de la clase Jugador", () =>{
     });
 
     test("Comprobación del método comprobarDatos(...) con datos no válidos", () => {
-        var salidaMetodo = player1.comprobarDatos("Coutinho", 555, "Brasil", "12/06/1992", 60, 14, "DL");
+        var salidaMetodo = player1.comprobarDatos("Coutinho", 555, "Brasil", "12/06/1992", 60, 14, "RF");
         expect(salidaMetodo).toBe(false);
     });
 

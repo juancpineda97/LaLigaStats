@@ -10,8 +10,10 @@ class Jugador{
      * @param {String} nacionalidad - Nacionalidad del jugador
      * @param {String} fechaNacimiento - Fecha de nacimiento
      * @param {double} valor - Valor del jugador en millones de euros.
+     * @param {int} dorsal_p - Dorsal del jugador en el equipo.
+     * @param {String} posicion_p - Posición del jugador.
      */
-    constructor(nombre_p, equipo_p, nacionalidad_p, fechaNacimiento_p, valor_p){
+    constructor(nombre_p, equipo_p, nacionalidad_p, fechaNacimiento_p, valor_p, dorsal_p, posicion_p){
         var sonValidos = this.comprobarDatos(nombre_p, equipo_p, nacionalidad_p, fechaNacimiento_p, valor_p);
         if(!sonValidos){
             throw new Error('Tipos de dato no validos');
@@ -46,8 +48,10 @@ class Jugador{
      * @param {String} nacionalidad_p - Nacionalidad del jugador
      * @param {String} fechaNacimiento_p - Fecha de nacimiento
      * @param {double} valor_p - Valor del jugador en millones de euros.
+     * @param {int} dorsal_p - Dorsal del jugador en el equipo.
+     * @param {String} posicion_p - Posición del jugador.
      */
-    comprobarDatos(nombre_p, equipo_p, nacionalidad_p, fechaNacimiento_p, valor_p){
+    comprobarDatos(nombre_p, equipo_p, nacionalidad_p, fechaNacimiento_p, valor_p, dorsal_p, posicion_p){
         var correctos = false;
         if(typeof nombre_p === 'string' && typeof equipo_p === 'string' && typeof nacionalidad_p === 'string' && typeof fechaNacimiento_p === 'string' && typeof valor_p === 'number'){
             correctos = true;

@@ -24,6 +24,8 @@ class Jugador{
             this.nacionalidad = nacionalidad_p;
             this.fechaNacimiento = fechaNacimiento_p;
             this.valor = valor_p;
+            this.dorsal = dorsal_p;
+            this.posicion = posicion_p;
         }
         
     }
@@ -37,7 +39,7 @@ class Jugador{
         "Equipo: " + this.equipo + "\n" +
         "Nacionalidad: " + this.nacionalidad + "\n" +
         "Fecha de nacimiento: " + this.fechaNacimiento + "\n" +
-        "Valor(M): " + this.valor;
+        "Valor(M): " + this.valor
         return datosJugador;
     }
 

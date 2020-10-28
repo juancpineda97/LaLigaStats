@@ -42,3 +42,10 @@ En este documento se muestran los pasos seguidos en el desarrollo de este proyec
 - Se crean nuevos [tests](test.md) relacionados con la comprobación del tipo de dato al crear un objeto en las dos clases actuales.
 - Se comprueba que el código supera los tests satisfactoriamente :heavy_check_mark:
 - Se añade una sección con al información de instalación del proyecto al [README](https://github.com/juancpineda97/LaLigaStats/blob/main/README.md).
+
+## Hito 3
+- Se añaden los tributos Dorsal y Posición a la clase del Jugador, para almacenar en cada objeto Jugador su dorsal y posición de juego correspondientes.
+- Se realizan los cambios necesarios en los métodos de la clase Jugador para incorporar estos dos atributos
+- Se cambia la [documentación](descripcion_clases.md) correspondiente.
+- Se modifican los tests para probar esta nueva funcionalidad.
+- Se comprueba que el código sigue superando los tests satisfactoriamente :heavy_check_mark:

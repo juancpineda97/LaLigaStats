@@ -2,11 +2,11 @@ const Equipo = require("../src/equipo.js");
 const Jugador = require("../src/jugador.js");
 
 // Variables para tests
-var player1 = new Jugador("Griezmann", "Barcelona", "Francia", "21/03/1991", 80);
-var player2 = new Jugador("Messi", "Barcelona", "Argentina", "24/06/1987", 100);
-var player3 = new Jugador("Coutinho", "Barcelona", "Brasil", "12/06/1992", 60);
-var player4 = new Jugador("Koke", "Atlético de Madrid", "España", "08/01/1992", 60);
-var player5 = new Jugador("Courtois", "Real Madrid", "Bélgica", "11/05/1992", 75);
+var player1 = new Jugador("Griezmann", "Barcelona", "Francia", "21/03/1991", 80, 7, "DL");
+var player2 = new Jugador("Messi", "Barcelona", "Argentina", "24/06/1987", 100, 10, "DL");
+var player3 = new Jugador("Coutinho", "Barcelona", "Brasil", "12/06/1992", 60, 14, "MC");
+var player4 = new Jugador("Koke", "Atlético de Madrid", "España", "08/01/1992", 60, 6, "MC");
+var player5 = new Jugador("Courtois", "Real Madrid", "Bélgica", "11/05/1992", 75, 1, "PT");
 let listaJugadores = [player1, player2, player3];
 var team = new Equipo("Barcelona", listaJugadores);
 let listempty = new Array();
@@ -46,6 +46,8 @@ describe("Tests relacionados con la funcionalidad de mostrar al usuario los dato
         expect(salidametodo.includes(player1.nacionalidad)).toBe(true);
         expect(salidametodo.includes(player1.fechaNacimiento)).toBe(true);
         expect(salidametodo.includes(player1.valor)).toBe(true);
+        expect(salidametodo.includes(player1.dorsal)).toBe(true);
+        expect(salidametodo.includes(player1.posicion)).toBe(true);
     });
 
     test("Comprobando que se muestran los datos de varios jugadores correctamente", () => {
@@ -58,10 +60,14 @@ describe("Tests relacionados con la funcionalidad de mostrar al usuario los dato
         var valor_player3 = player3.valor;
         var equipo_player4 = player4.equipo;
         var fecha_n_player5 = player5.fechaNacimiento;
+        var dorsal_player4 = player4.dorsal;
+        var posicion_player5 = player5.posicion;
 
         expect(salidametodo3.includes(valor_player3)).toBe(true);
         expect(salidametodo4.includes(equipo_player4)).toBe(true);
         expect(salidametodo5.includes(fecha_n_player5)).toBe(true);
+        expect(salidametodo4.includes(dorsal_player4)).toBe(true);
+        expect(salidametodo5.includes(posicion_player5)).toBe(true);
         expect(salidametodo3.includes(player5.nombre)).toBe(false);
     });
 
@@ -75,21 +81,23 @@ describe("Test de la clase Jugador", () =>{
         expect(player1.nacionalidad).toBe("Francia");
         expect(player1.fechaNacimiento).toBe("21/03/1991");
         expect(player1.valor).toBe(80);
+        expect(player1.dorsal).toBe(7);
+        expect(player1.posicion).toBe("DL");
     });
 
     test("Comprobación del funcionamiento del constructor con tipos de dato no válidos", () => {
-        thrown_error = () => new Jugador(404, "Barcelona", "Brasil", "12/06/1992", 60);
+        thrown_error = () => new Jugador(404, "Barcelona", "Brasil", "12/06/1992", 60, 14, "DL");
         expectedError = new Error('Tipos de dato no validos');
         expect(thrown_error).toThrow(expectedError);
     });
 
     test("Comprobación del método comprobarDatos(...) con datos correctos", () => {
-        var salidaMetodo = player1.comprobarDatos("Coutinho", "Barcelona", "Brasil", "12/06/1992", 60);
+        var salidaMetodo = player1.comprobarDatos("Coutinho", "Barcelona", "Brasil", "12/06/1992", 60, 14, "DL");
         expect(salidaMetodo).toBe(true);
     });
 
     test("Comprobación del método comprobarDatos(...) con datos no válidos", () => {
-        var salidaMetodo = player1.comprobarDatos("Coutinho", 555, "Brasil", "12/06/1992", 60);
+        var salidaMetodo = player1.comprobarDatos("Coutinho", 555, "Brasil", "12/06/1992", 60, 14, "DL");
         expect(salidaMetodo).toBe(false);
     });
 

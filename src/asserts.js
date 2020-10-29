@@ -10,6 +10,13 @@ class Asercion {
                 }
             },
 
+            toBeType(expected){
+                var tipo = typeof actual;
+                if (actual !== expected) {
+                    throw new Error(`${actual} no es del tipo esperado: ${expected}`);
+                }
+            },
+
             toInclude(expected){
                 if (actual.includes(expected) !== true){
                     throw new Error(`[${actual}] \nno incluye el siguiente valor: ${expected}`);

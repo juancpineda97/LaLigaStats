@@ -12,8 +12,8 @@ class Asercion {
 
             toBeType(expected){
                 var tipo = typeof actual;
-                if (actual !== expected) {
-                    throw new Error(`${actual} no es del tipo esperado: ${expected}`);
+                if (tipo != expected) {
+                    throw new Error(`${tipo} no es el tipo esperado: ${expected}`);
                 }
             },
 

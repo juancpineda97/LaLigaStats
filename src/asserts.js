@@ -9,6 +9,12 @@ class Asercion {
                     throw new Error(`${actual} no es igual al valor esperado: ${expected}`);
                 }
             },
+
+            toInclude(expected){
+                if (actual.includes(expected) !== true){
+                    throw new Error(`[${actual}] \nno incluye el siguiente valor: ${expected}`);
+                }
+            },
           
             toBeLowerThan(expected) {
                 if (actual < expected) {

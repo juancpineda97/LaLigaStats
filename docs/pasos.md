@@ -49,3 +49,4 @@ En este documento se muestran los pasos seguidos en el desarrollo de este proyec
 - Se cambia la [documentación](descripcion_clases.md) correspondiente.
 - Se modifican los tests para probar esta nueva funcionalidad.
 - Se comprueba que el código sigue superando los tests satisfactoriamente :heavy_check_mark:
+- Se crea un nuevo archivo: `.git/hooks/prepare-commit-msg` que ejecutarálos tests cada vez que se realiza un commit.

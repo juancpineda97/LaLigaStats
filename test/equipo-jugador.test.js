@@ -1,5 +1,6 @@
 const Equipo = require("../src/equipo.js");
 const Jugador = require("../src/jugador.js");
+const Asercion = require("../src/asserts.js");
 
 // Variables para tests
 var player1 = new Jugador("Griezmann", "Barcelona", "Francia", "21/03/1991", 80, 7, "DL");
@@ -11,6 +12,7 @@ let listaJugadores = [player1, player2, player3];
 var team = new Equipo("Barcelona", listaJugadores);
 let listempty = new Array();
 var teamempty = new Equipo("Barcelona", listempty);
+var aserciones = new Asercion();
 
 describe("Tests relacionados con la funcionalidad de mostrar al usuario los jugadores de un equipo", () =>{
 

@@ -27,6 +27,13 @@ class Asercion {
                 }
             },
 
+            //Comprueba si el valor actual NO incluye el valor esperado
+            toNotInclude(expected){
+                if (actual.includes(expected) == true){
+                    throw new Error(`[${actual}] \nincluye el siguiente valor no esperado: ${expected}`);
+                }
+            },
+
             //Comprueba si el valor actual es menor que el esperado
             toBeLowerThan(expected) {
                 if (actual < expected) {

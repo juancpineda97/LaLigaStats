@@ -1,0 +1,161 @@
+[   
+    {
+        "nombre": "Ter Stegen",
+        "equipo": "Barcelona",
+        "nacionalidad": "Alemania",
+        "fechaNacimiento": "30/04/1992",
+        "valor": 75,
+        "dorsal": 1,
+        "posicion": "PT"
+    },
+
+    {
+        "nombre": "Jordi Alba",
+        "equipo": "Barcelona",
+        "nacionalidad": "España",
+        "fechaNacimiento": "21/03/1989",
+        "valor": 30,
+        "dorsal": 18,
+        "posicion": "DF"
+    },
+
+    {
+        "nombre": "Lenglet",
+        "equipo": "Barcelona",
+        "nacionalidad": "Francia",
+        "fechaNacimiento": "17/06/1995",
+        "valor": 50,
+        "dorsal": 15,
+        "posicion": "DF"
+    },
+
+    {
+        "nombre": "Piqué",
+        "equipo": "Barcelona",
+        "nacionalidad": "España",
+        "fechaNacimiento": "02/02/1987",
+        "valor": 15,
+        "dorsal": 3,
+        "posicion": "DF"
+    },
+
+    {
+        "nombre": "Sergi Roberto",
+        "equipo": "Barcelona",
+        "nacionalidad": "España",
+        "fechaNacimiento": "07/02/1992",
+        "valor": 20,
+        "dorsal": 20,
+        "posicion": "DF"
+    },
+
+    {
+        "nombre": "Busquets",
+        "equipo": "Barcelona",
+        "nacionalidad": "España",
+        "fechaNacimiento": "16/07/1988",
+        "valor": 15,
+        "dorsal": 5,
+        "posicion": "MC"
+    },
+
+    {
+        "nombre": "Frenkie de Jong",
+        "equipo": "Barcelona",
+        "nacionalidad": "Países Bajos",
+        "fechaNacimiento": "15/05/1997",
+        "valor": 70,
+        "dorsal": 21,
+        "posicion": "MC"
+    },
+
+    {
+        "nombre": "Coutinho",
+        "equipo": "Barcelona",
+        "nacionalidad": "Brasil",
+        "fechaNacimiento": "12/06/1992",
+        "valor": 60,
+        "dorsal": 14,
+        "posicion": "MC"
+    },
+
+    {
+        "nombre": "Dembélé",
+        "equipo": "Barcelona",
+        "nacionalidad": "Francia",
+        "fechaNacimiento": "15/05/1997",
+        "valor": 50,
+        "dorsal": 11,
+        "posicion": "DL"
+    },
+
+    {
+        "nombre": "Griezmann",
+        "equipo": "Barcelona",
+        "nacionalidad": "Francia",
+        "fechaNacimiento": "21/03/1991",
+        "valor": 80,
+        "dorsal": 7,
+        "posicion": "DL"
+    },
+
+    {
+        "nombre": "Messi",
+        "equipo": "Barcelona",
+        "nacionalidad": "Argentina",
+        "fechaNacimiento": "24/06/1987",
+        "valor": 100,
+        "dorsal": 10,
+        "posicion": "DL"
+    },
+
+    {
+        "nombre": "Neto",
+        "equipo": "Barcelona",
+        "nacionalidad": "Brasil",
+        "fechaNacimiento": "19/07/1989",
+        "valor": 10,
+        "dorsal": 13,
+        "posicion": "PT"
+    },
+
+    {
+        "nombre": "Dest",
+        "equipo": "Barcelona",
+        "nacionalidad": "Estados Unidos",
+        "fechaNacimiento": "03/11/2000",
+        "valor": 20,
+        "dorsal": 2,
+        "posicion": "DF"
+    },
+
+    {
+        "nombre": "Pjanic",
+        "equipo": "Barcelona",
+        "nacionalidad": "Bosnia y Herzegovina",
+        "fechaNacimiento": "02/04/1990",
+        "valor": 50,
+        "dorsal": 8,
+        "posicion": "MC"
+    },
+
+    {
+        "nombre": "Ansu Fati",
+        "equipo": "Barcelona",
+        "nacionalidad": "España",
+        "fechaNacimiento": "31/10/2002",
+        "valor": 80,
+        "dorsal": 22,
+        "posicion": "DL"
+    },
+
+    {
+        "nombre": "Trincão",
+        "equipo": "Barcelona",
+        "nacionalidad": "Portugal",
+        "fechaNacimiento": "29/12/1999",
+        "valor": 30,
+        "dorsal": 17,
+        "posicion": "DL"
+    }
+]

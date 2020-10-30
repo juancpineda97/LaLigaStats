@@ -49,4 +49,8 @@ En este documento se muestran los pasos seguidos en el desarrollo de este proyec
 - Se cambia la [documentación](descripcion_clases.md) correspondiente.
 - Se modifican los tests para probar esta nueva funcionalidad.
 - Se comprueba que el código sigue superando los tests satisfactoriamente :heavy_check_mark:
-- Se crea un nuevo archivo: `.git/hooks/prepare-commit-msg` que ejecutarálos tests cada vez que se realiza un commit.
+- Se crea un nuevo archivo: `.git/hooks/prepare-commit-msg` que ejecutará los tests cada vez que se realiza un commit.
+- Se añade una nueva [historia de usuario](https://github.com/juancpineda97/LaLigaStats/issues/40) que permite que se pueda ver toda la información relacionada con un partido determinado.
+- Se crea una nueva clase, Partido, en el archivo [partido.json](../src/partido.js).
+- Se añaden dos archivos con datos de ejemplo de jugadores de dos equipos para tests, [barcelona.json](../test/barcelona.json) y [real_madrid.json](../test/real_madrid.json).
+- Se crea e implementa el constructor de la clase [Partido](../src/partido.js), y se crean los [tests](../test/equipo-jugador.test.js) para éste, con resultado satisfactorio :heavy_check_mark:

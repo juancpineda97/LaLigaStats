@@ -1,6 +1,9 @@
 const Equipo = require("../src/equipo.js");
 const Jugador = require("../src/jugador.js");
 const Asercion = require("../src/asserts.js");
+const datosBarcelona = require("../test/barcelona.json");
+const datosRealMadrid = require("../test/real_madrid.json");
+const Partido = require("../src/partido.js");
 
 // Variables para tests
 var player1 = new Jugador("Griezmann", "Barcelona", "Francia", "21/03/1991", 80, 7, "DL");
@@ -13,6 +16,30 @@ var team = new Equipo("Barcelona", listaJugadores);
 let listempty = new Array();
 var teamempty = new Equipo("Barcelona", listempty);
 var aserciones = new Asercion();
+
+var archivobarcelona = JSON.parse(JSON.stringify(datosBarcelona));
+var archivorealmadrid = JSON.parse(JSON.stringify(datosRealMadrid));
+var barcelonajugadores = [];
+var realmadridjugadores = [];
+
+for (let i = 0; i < 16; i++) {
+    var tempplayer1 = new Jugador(archivobarcelona[i]["nombre"], archivobarcelona[i]["equipo"], archivobarcelona[i]["nacionalidad"], 
+    archivobarcelona[i]["fechaNacimiento"], parseInt(archivobarcelona[i]["valor"], 10), parseInt(archivobarcelona[i]["dorsal"], 10), archivobarcelona[i]["posicion"]);
+    
+    var tempplayer2 = new Jugador(archivorealmadrid[i]["nombre"], archivorealmadrid[i]["equipo"], archivorealmadrid[i]["nacionalidad"], 
+    archivorealmadrid[i]["fechaNacimiento"], parseInt(archivorealmadrid[i]["valor"], 10), parseInt(archivorealmadrid[i]["dorsal"], 10), archivorealmadrid[i]["posicion"]);
+    
+    barcelonajugadores.push(tempplayer1);
+    realmadridjugadores.push(tempplayer2);
+}
+
+var barcelona = new Equipo("Barcelona", barcelonajugadores);
+var realmadrid = new Equipo("Real Madrid", realmadridjugadores);
+var oncebarcelona = [1,18,15,3,20,15,21,14,11,7,10];
+var suplentesbarcelona = [13,2,8,22,17];
+var oncerealmadrid = [1,23,4,5,2,14,15,8,7,20,9];
+var suplentesrealmadrid = [13,12,10,22,18];
+
 
 describe("Tests relacionados con la funcionalidad de mostrar al usuario los jugadores de un equipo", () =>{
 
@@ -119,6 +146,34 @@ describe("Test de la clase Equipo", () =>{
         thrown_error = () => new Equipo(404, listempty);
         expectedError = new Error('Tipos de dato no validos');
         expect(thrown_error).toThrow(expectedError);
+    });
+
+});
+
+describe("Test de la clase Partido", () =>{
+
+    test("Comprobación del funcionamiento del constructor", () => {
+        var partido_prueba = new Partido(barcelona, realmadrid, new Date(2020, 10, 24, 16, 0, 0), oncebarcelona,
+        oncerealmadrid, suplentesbarcelona, suplentesrealmadrid, "Camp Nou", "Martinez Munuera");
+        aserciones.expect(partido_prueba.equipoLocal.nombre).toEqual("Barcelona");
+        aserciones.expect(partido_prueba.equipoVisitante.nombre).toEqual("Real Madrid");
+        aserciones.expect(partido_prueba.onceInicialLocal.length).toEqual(11);
+        aserciones.expect(partido_prueba.onceInicialVisitante.length).toEqual(11);
+        for (let i = 0; i < 11; i++) {
+            expect(partido_prueba.onceInicialLocal[i]).toEqual(oncebarcelona[i]);
+            expect(partido_prueba.onceInicialVisitante[i]).toEqual(oncerealmadrid[i]);
+        }
+        for (let i = 0; i < suplentesbarcelona; i++) {
+            expect(partido_prueba.suplentesLocal[i]).toEqual(suplentesbarcelona[i]);
+        }
+        for (let i = 0; i < suplentesrealmadrid; i++) {
+            expect(partido_prueba.suplentesVisitante[i]).toEqual(suplentesrealmadrid[i]);
+        }
+        aserciones.expect(partido_prueba.fecha.toString()).toInclude("Nov 24 2020 16:00:00");
+        aserciones.expect(partido_prueba.estadio).toEqual("Camp Nou");
+        aserciones.expect(partido_prueba.arbitro).toEqual("Martinez Munuera");
+        aserciones.expect(partido_prueba.golesLocal).toEqual(0);
+        aserciones.expect(partido_prueba.golesVisitante).toEqual(0);
     });
 
 });

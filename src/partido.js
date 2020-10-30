@@ -1,6 +1,3 @@
-const Equipo = require("./equipo");
-const Equipo = require("./equipo");
-
 /**
  * Clase que representa a los partidos
  */
@@ -32,6 +29,8 @@ class Partido {
         this.suplentesVisitante = suplentesVisitante_p;
         this.estadio = estadio_p;
         this.arbitro = arbitro_p;
+        this.golesLocal = 0;
+        this.golesVisitante = 0;
     }
 }
 

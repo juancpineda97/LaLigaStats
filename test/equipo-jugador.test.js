@@ -35,7 +35,7 @@ for (let i = 0; i < 16; i++) {
 
 var barcelona = new Equipo("Barcelona", barcelonajugadores);
 var realmadrid = new Equipo("Real Madrid", realmadridjugadores);
-var oncebarcelona = [1,18,15,3,20,15,21,14,11,7,10];
+var oncebarcelona = [1,18,15,3,20,5,21,14,11,7,10];
 var suplentesbarcelona = [13,2,8,22,17];
 var oncerealmadrid = [1,23,4,5,2,14,15,8,7,20,9];
 var suplentesrealmadrid = [13,12,10,22,18];
@@ -103,6 +103,45 @@ describe("Tests relacionados con la funcionalidad de mostrar al usuario los dato
         aserciones.expect(salidametodo4).toInclude(dorsal_player4);
         aserciones.expect(salidametodo5).toInclude(posicion_player5);
         aserciones.expect(salidametodo3).toNotInclude(player5.nombre);
+    });
+
+});
+
+describe("Tests relacionados con la funcionalidad de mostrar al usuario los datos de un partido", () =>{
+    
+    test("Comprobación del funcionamiento del método verPartido()", () => {
+        var salidametodo = partido_prueba.verPartido();
+        var lista_11inicial_barcelona = ["1 - Ter Stegen" , "18 - Jordi Alba" , "15 - Lenglet" , "3 - Piqué" , "20 - Sergi Roberto" ,
+        "5 - Busquets" , "21 - Frenkie de Jong" , "14 - Coutinho" , "11 - Dembélé" , "7 - Griezmann" , "10 - Messi"];
+        var lista_11inicial_realmadrid = ["1 - Courtois" , "23 - Mendy" , "4 - Sergio Ramos" , "5 - Varane" , "2 - Carvajal" , 
+        "14 - Casemiro" , "15 - Valverde" , "8 - Kroos" , "7 - Hazard" , "20 - Vinícius" , "9 - Benzema"];
+        var lista_suplentes_barcelona = ["13 - Neto" , "2 - Dest" , "8 - Pjanic" , "22 - Ansu Fati" , "17 - Trincão"];
+        var lista_suplentes_realmadrid = ["13 - Lunin" , "12 - Marcelo" , "10 - Modric" , "22 - Isco" , "18 - Jovic"];
+        
+        aserciones.expect(salidametodo).toInclude(barcelona.nombre);
+        aserciones.expect(salidametodo).toInclude(partido_prueba.arbitro);
+        aserciones.expect(salidametodo).toInclude(partido_prueba.fecha.getDate());
+        aserciones.expect(salidametodo).toInclude(partido_prueba.fecha.getMonth());
+        aserciones.expect(salidametodo).toInclude(partido_prueba.fecha.getFullYear());
+        aserciones.expect(salidametodo).toInclude(partido_prueba.fecha.getHours());
+        aserciones.expect(salidametodo).toInclude(partido_prueba.fecha.getSeconds());
+        aserciones.expect(salidametodo).toInclude(partido_prueba.fecha.getMinutes());
+
+        lista_11inicial_barcelona.forEach(element => {
+            aserciones.expect(salidametodo).toInclude(element);
+        });
+
+        lista_11inicial_realmadrid.forEach(element => {
+            aserciones.expect(salidametodo).toInclude(element);
+        });
+
+        lista_suplentes_barcelona.forEach(element => {
+            aserciones.expect(salidametodo).toInclude(element);
+        });
+
+        lista_suplentes_realmadrid.forEach(element => {
+            aserciones.expect(salidametodo).toInclude(element);
+        });
     });
 
 });

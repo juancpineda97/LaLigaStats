@@ -130,7 +130,7 @@ class Partido {
 
         resultado += "\nOnce inicial del " + this.equipoLocal.nombre + ":\n" + listaOnceLocal + "\n";
         resultado += "Suplentes:\n" + listaSuplentesLocal;
-        resultado += "\nOnce inicial del " + this.equipoVisitante.nombre + ":\n" + listaOnceVisitante;
+        resultado += "\nOnce inicial del " + this.equipoVisitante.nombre + ":\n" + listaOnceVisitante + "\n";
         resultado += "Suplentes:\n" + listaSuplentesVisitante;
 
         return resultado;

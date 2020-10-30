@@ -79,6 +79,62 @@ class Partido {
         }        
         return correctos;
     }
+
+    /**
+     * Método que muestra los datos de un partido
+     * @returns {String} Datos del partido dado.
+     */
+    verPartido(){
+        var resultado = "";
+        resultado += "Partido jugado el " + this.fecha.getDate() + "/" + this.fecha.getMonth() + "/" + this.fecha.getFullYear() + 
+        " a las " + this.fecha.getHours() + ":" + this.fecha.getMinutes() + ":" + this.fecha.getSeconds() + "\n";
+        resultado += "Equipo Local: " + this.equipoLocal.nombre + "\n" + "Equipo Visitante: " + this.equipoVisitante.nombre + "\n";
+        resultado += "Resultado: " + this.golesLocal + "-" + this.golesVisitante + "\n";
+        resultado += "Estadio: " + this.estadio + " Árbitro: " + this.arbitro + "\n";
+
+        var listaOnceLocal = "";
+        this.onceInicialLocal.forEach(dorsal_tmp => {
+            this.equipoLocal.listaJugadores.forEach(jugador_tmp => {
+                if(jugador_tmp.dorsal == dorsal_tmp){
+                    listaOnceLocal += dorsal_tmp + " - " + jugador_tmp.nombre + "\n";
+                }
+            });
+        });
+
+        var listaOnceVisitante = "";
+        this.onceInicialVisitante.forEach(dorsal_tmp => {
+            this.equipoVisitante.listaJugadores.forEach(jugador_tmp => {
+                if(jugador_tmp.dorsal == dorsal_tmp){
+                    listaOnceVisitante += dorsal_tmp + " - " + jugador_tmp.nombre + "\n";
+                }
+            });
+        });
+
+        var listaSuplentesLocal = "";
+        this.suplentesLocal.forEach(dorsal_tmp => {
+            this.equipoLocal.listaJugadores.forEach(jugador_tmp => {
+                if(jugador_tmp.dorsal == dorsal_tmp){
+                    listaSuplentesLocal += dorsal_tmp + " - " + jugador_tmp.nombre + "\n";
+                }
+            });
+        });
+
+        var listaSuplentesVisitante = "";
+        this.suplentesVisitante.forEach(dorsal_tmp => {
+            this.equipoVisitante.listaJugadores.forEach(jugador_tmp => {
+                if(jugador_tmp.dorsal == dorsal_tmp){
+                    listaSuplentesVisitante += dorsal_tmp + " - " + jugador_tmp.nombre + "\n";
+                }
+            });
+        });
+
+        resultado += "\nOnce inicial del " + this.equipoLocal.nombre + ":\n" + listaOnceLocal + "\n";
+        resultado += "Suplentes:\n" + listaSuplentesLocal;
+        resultado += "\nOnce inicial del " + this.equipoVisitante.nombre + ":\n" + listaOnceVisitante;
+        resultado += "Suplentes:\n" + listaSuplentesVisitante;
+
+        return resultado;
+    }
 }
 
 module.exports = Partido;

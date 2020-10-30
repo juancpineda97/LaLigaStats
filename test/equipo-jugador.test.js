@@ -1,6 +1,8 @@
 const Equipo = require("../src/equipo.js");
 const Jugador = require("../src/jugador.js");
 const Asercion = require("../src/asserts.js");
+const datosBarcelona = require("../test/barcelona.json");
+const datosRealMadrid = require("../test/real_madrid.json");
 
 // Variables para tests
 var player1 = new Jugador("Griezmann", "Barcelona", "Francia", "21/03/1991", 80, 7, "DL");
@@ -13,6 +15,26 @@ var team = new Equipo("Barcelona", listaJugadores);
 let listempty = new Array();
 var teamempty = new Equipo("Barcelona", listempty);
 var aserciones = new Asercion();
+
+var archivobarcelona = JSON.parse(JSON.stringify(datosBarcelona));
+var archivorealmadrid = JSON.parse(JSON.stringify(datosRealMadrid));
+var barcelonajugadores = [];
+var realmadridjugadores = [];
+
+for (let i = 0; i < 16; i++) {
+    var tempplayer1 = new Jugador(archivobarcelona[i]["nombre"], archivobarcelona[i]["equipo"], archivobarcelona[i]["nacionalidad"], 
+    archivobarcelona[i]["fechaNacimiento"], parseInt(archivobarcelona[i]["valor"], 10), parseInt(archivobarcelona[i]["dorsal"], 10), archivobarcelona[i]["posicion"]);
+    
+    var tempplayer2 = new Jugador(archivorealmadrid[i]["nombre"], archivorealmadrid[i]["equipo"], archivorealmadrid[i]["nacionalidad"], 
+    archivorealmadrid[i]["fechaNacimiento"], parseInt(archivorealmadrid[i]["valor"], 10), parseInt(archivorealmadrid[i]["dorsal"], 10), archivorealmadrid[i]["posicion"]);
+    
+    barcelonajugadores.push(tempplayer1);
+    realmadridjugadores.push(tempplayer2);
+}
+
+var barcelona = new Equipo("Barcelona", barcelonajugadores);
+var realmadrid = new Equipo("Real Madrid", realmadridjugadores);
+
 
 describe("Tests relacionados con la funcionalidad de mostrar al usuario los jugadores de un equipo", () =>{
 

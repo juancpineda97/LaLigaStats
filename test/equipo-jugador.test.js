@@ -39,6 +39,8 @@ var oncebarcelona = [1,18,15,3,20,15,21,14,11,7,10];
 var suplentesbarcelona = [13,2,8,22,17];
 var oncerealmadrid = [1,23,4,5,2,14,15,8,7,20,9];
 var suplentesrealmadrid = [13,12,10,22,18];
+var partido_prueba = new Partido(barcelona, realmadrid, new Date(2020, 10, 24, 16, 0, 0), oncebarcelona,
+oncerealmadrid, suplentesbarcelona, suplentesrealmadrid, "Camp Nou", "Martinez Munuera");
 
 
 describe("Tests relacionados con la funcionalidad de mostrar al usuario los jugadores de un equipo", () =>{
@@ -153,8 +155,6 @@ describe("Test de la clase Equipo", () =>{
 describe("Test de la clase Partido", () =>{
 
     test("Comprobación del funcionamiento del constructor", () => {
-        var partido_prueba = new Partido(barcelona, realmadrid, new Date(2020, 10, 24, 16, 0, 0), oncebarcelona,
-        oncerealmadrid, suplentesbarcelona, suplentesrealmadrid, "Camp Nou", "Martinez Munuera");
         aserciones.expect(partido_prueba.equipoLocal.nombre).toEqual("Barcelona");
         aserciones.expect(partido_prueba.equipoVisitante.nombre).toEqual("Real Madrid");
         aserciones.expect(partido_prueba.onceInicialLocal.length).toEqual(11);
@@ -181,6 +181,18 @@ describe("Test de la clase Partido", () =>{
         oncerealmadrid, suplentesbarcelona, suplentesrealmadrid, "Camp Nou", "Martinez Munuera");
         expectedError = new Error('Tipos de dato no validos');
         expect(thrown_error).toThrow(expectedError);
+    });
+
+    test("Comprobación del método comprobarDatosPartido(...)", () => {
+        var salidaMetodo = partido_prueba.comprobarDatosPartido(barcelona, realmadrid, new Date(2020, 10, 24, 16, 0, 0), oncebarcelona,
+        oncerealmadrid, suplentesbarcelona, suplentesrealmadrid, "Camp Nou", "Martinez Munuera");
+        aserciones.expect(salidaMetodo).toEqual(true);
+        
+        var lista_copia = oncerealmadrid;
+        lista_copia.pop();
+        var salidaMetodo2 = partido_prueba.comprobarDatosPartido(barcelona, realmadrid, new Date(2020, 10, 24, 16, 0, 0), oncebarcelona,
+        lista_copia, suplentesbarcelona, suplentesrealmadrid, "Camp Nou", "Martinez Munuera");
+        aserciones.expect(salidaMetodo2).toEqual(false);
     });
 
 });

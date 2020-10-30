@@ -176,4 +176,11 @@ describe("Test de la clase Partido", () =>{
         aserciones.expect(partido_prueba.golesVisitante).toEqual(0);
     });
 
+    test("Comprobación del funcionamiento del constructor con tipos de datos no válidos", () => {
+        thrown_error = () => new Partido("Barcelona", "Real Madrid", "20/12/2020 16:00", oncebarcelona,
+        oncerealmadrid, suplentesbarcelona, suplentesrealmadrid, "Camp Nou", "Martinez Munuera");
+        expectedError = new Error('Tipos de dato no validos');
+        expect(thrown_error).toThrow(expectedError);
+    });
+
 });

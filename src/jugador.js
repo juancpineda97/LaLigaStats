@@ -54,6 +54,7 @@ class Jugador{
      * @param {double} valor_p - Valor del jugador en millones de euros.
      * @param {int} dorsal_p - Dorsal del jugador en el equipo.
      * @param {String} posicion_p - Posición del jugador.
+     * @returns {String} True si los datos son correctos, False en otro caso.
      */
     comprobarDatos(nombre_p, equipo_p, nacionalidad_p, fechaNacimiento_p, valor_p, dorsal_p, posicion_p){
         var correctos = false;

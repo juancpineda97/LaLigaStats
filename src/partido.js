@@ -1,6 +1,3 @@
-const Equipo = require("./equipo");
-const Equipo = require("./equipo");
-
 /**
  * Clase que representa a los partidos
  */

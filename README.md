@@ -42,6 +42,8 @@ En esta fase del proyecto, se han creado tests para determinar si las siguientes
   - [Test](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/test.md#mostrar-al-usuario-los-jugadores-de-un-equipo) comprobando su correcto funcionamiento: :heavy_check_mark:
 - [Mostrar datos del jugador](https://github.com/juancpineda97/LaLigaStats/issues/5)
   - [Test](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/test.md#mostrar-al-usuario-los-datos-de-un-jugador) comprobando su correcto funcionamiento: :heavy_check_mark:
+- [Mostrar datos de un partido](https://github.com/juancpineda97/LaLigaStats/issues/40)
+  - [Test](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/test.md#mostrar-al-usuario-los-datos-de-un-partido) comprobando su correcto funcionamiento: :heavy_check_mark:
 
 Para ejecutar los tests, basta con haber seguido los pasos para la instalación del proyecto y ejecutar el siguiente comando estando ubicado en el proyecto:
 ~~~
@@ -65,6 +67,7 @@ Las últimas HU creadas y abiertas son las siguientes:
 
 - [(HU01) Ver jugadores de un equipo](https://github.com/juancpineda97/LaLigaStats/issues/4)
 - [(HU02) Mostrar datos del jugador](https://github.com/juancpineda97/LaLigaStats/issues/5)
+- [(HU03) Mostrar información sobre un partido](https://github.com/juancpineda97/LaLigaStats/issues/40)
 
 ## Documentación
 - [Motivación al uso de las herramientas indicadas.](./docs/motivacion_herramientas.md)

@@ -17,7 +17,7 @@ Esta clase servirá para crear la instancia Jugador, que reperesentará a cada j
 - [verJugador()](https://github.com/juancpineda97/LaLigaStats/blob/73a3732f20a2d8424c21352d794d060636323e9f/src/jugador.js#L33): Este método mostrará los datos del jugador al que se le aplica el método.
 - [comprobarDatos(nombre_p, equipo_p, nacionalidad_p, fechaNacimiento_p, valor_p, dorsal_p, posicion_p)](https://github.com/juancpineda97/LaLigaStats/blob/73a3732f20a2d8424c21352d794d060636323e9f/src/jugador.js#L50): Método que comprueba que los datos pasados por parámetro son del tipo correcto para crear un nuevo objeto de la clase, en caso de que lo sean, devuelve true, en otro caso, devuelve false.
 
-## Clase: Jugador
+## Clase: Partido
 Esta clase servirá para representar la instancia Partido, en la que se almacenará la información sobre el partido entre dos equipos cómo el nombre de estos equipos, fecha del partido, resultado, once inicial y suplentes de cada equipo, árbitro y estadio.
 
 ### Métodos:

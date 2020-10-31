@@ -6,3 +6,6 @@ En esta historia de usuario se trabaja para que la aplicación deba ser capaz de
 
 ## [(HU02) Mostrar datos del jugador](https://github.com/juancpineda97/LaLigaStats/issues/5) - *open*
 Esta historia de usuario trata de que dado un jugador en concreto, la aplicación debe mostrar sus datos tales como edad, estatura, nacionalidad, partidos jugados, etc...
+
+## [(HU03) Mostrar información sobre un partido](https://github.com/juancpineda97/LaLigaStats/issues/40) - *open*
+Esta historia de usuario trata de que un usuario pueda ver toda la información relacionada con un partido determinado.

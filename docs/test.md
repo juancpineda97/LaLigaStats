@@ -13,7 +13,7 @@ En este archivo se incluyen los tests para las siguientes funcionalidades de la 
 - [Test](https://github.com/juancpineda97/LaLigaStats/blob/fceea0bad4c07d8b0838582cf0404170623b7a88/test/equipo-jugador.test.js#L42) que comprueba el funcionamiento del método [verJugador()](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/descripcion_clases.md#m%C3%A9todos-1).
 - [Test](https://github.com/juancpineda97/LaLigaStats/blob/fceea0bad4c07d8b0838582cf0404170623b7a88/test/equipo-jugador.test.js#L51) que comprueba que se muestren correctamente al usuario los datos de un jugador, comprobado con varios jugadores diferentes.
 
-### [Mostrar al usuario los datos de un equipo](https://github.com/juancpineda97/LaLigaStats/issues/40)
+### [Mostrar al usuario los datos de un partido](https://github.com/juancpineda97/LaLigaStats/issues/40)
 - [Test](https://github.com/juancpineda97/LaLigaStats/blob/262fa4e0893980b826f0be490d89db32b64c5095/test/equipo-jugador.test.js#L112) que comprueba el funcionamiento del método [verPartido()](https://github.com/juancpineda97/LaLigaStats/blob/262fa4e0893980b826f0be490d89db32b64c5095/src/partido.js#L87).
 
 Además, en este archivo se incluyen los tests para las siguientes clases:

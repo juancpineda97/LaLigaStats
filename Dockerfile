@@ -1,25 +1,17 @@
-#Usaré como base ubuntu en su versión 20.04
-FROM ubuntu:20.04
+#Usaré como base la versión 14.14.0 slim de node
+FROM node:14.14.0-slim
 
-#Actualizo la lista de paquetes, 
-#Instalo cUrl,
-#Descargo los archivos necesarios para instalar node,
-#Desinstalo cUrl,
-#Instalo node
-RUN apt-get update && \
-	apt-get install -y curl && \
-	curl -sL https://deb.nodesource.com/setup_14.x | bash && \
-	apt-get remove -y curl && \
-	apt-get install -y nodejs
-
-# Copio mi archivo de dependencias
+#Copio el archivo de dependencias de node en la raíz
 COPY package.json ./
 
-# Instalo las dependecias del proyecto con npm
+#Instalo las dependencias con npm
 RUN npm install
 
 #Uso una variable de entorno para node_modules
 ENV PATH=/node_modules/.bin:$PATH
+
+#Uso el usuario node
+USER node
 
 #Creo y cambio el directorio de trabajo a /test
 WORKDIR /test

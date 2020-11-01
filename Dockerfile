@@ -1,10 +1,5 @@
-#Usaré como base alpine en su version 3.9
-FROM alpine:3.9
-
-#Instalo cUrl
-RUN apk add --no-cache \
-	nodejs \
-	npm
+#Usaré como base centos con nodejs
+FROM centos/nodejs-12-centos7
 
 # Copio mi archivo de dependencias
 COPY package.json ./

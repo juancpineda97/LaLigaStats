@@ -1,5 +1,5 @@
-#Usaré como base la versión 14.14.0 de node
-FROM node:14.14.0
+#Usaré como base la versión 14.14.0 alpine de node
+FROM node:14.14.0-alpine
 
 #Copio el archivo de dependencias de node en la raíz
 COPY package.json ./

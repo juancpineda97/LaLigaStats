@@ -1,17 +1,17 @@
-#Usaré como base fedora en su versión 33
-FROM fedora:33
+#Usaré como base la versión 14.14.0 de node
+FROM node:14.14.0
 
-#Instalo npm y node
-RUN dnf -y update && dnf -y install npm && dnf clean all
-
-# Copio mi archivo de dependencias
+#Copio el archivo de dependencias de node en la raíz
 COPY package.json ./
 
-# Instalo las dependecias del proyecto con npm
+#Instalo las dependencias con npm
 RUN npm install
 
 #Uso una variable de entorno para node_modules
 ENV PATH=/node_modules/.bin:$PATH
+
+#Uso el usuario node
+USER node
 
 #Creo y cambio el directorio de trabajo a /test
 WORKDIR /test

@@ -1,5 +1,8 @@
-#Usaré como base centos con nodejs
-FROM centos/nodejs-12-centos7
+#Usaré como base fedora en su versión 33
+FROM fedora:33
+
+#Instalo npm y node
+RUN dnf -y update && dnf -y install npm && dnf clean all
 
 # Copio mi archivo de dependencias
 COPY package.json ./

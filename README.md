@@ -31,7 +31,7 @@ npm test
 ~~~
 
 ## Docker
-Para este repositorio también existe una imagen de Docker, la cuál está disponible para descargar, ejecutar en un contenedor y probar en ella las funcionalidades de la aplicación. En el siguiente [documento]() se explican todos los detalles de que imagen de base se ha usado, el por qué y las diferentes versiones disponibles. Para descargar la imagen hace falta tener instalado `docker` en el sistema, y se podrá descargar con el siguiente comando, que descargará la versión más actualizada (latest):
+Para este repositorio también existe una imagen de Docker, la cuál está disponible para descargar, ejecutar en un contenedor y probar en ella las funcionalidades de la aplicación. En el siguiente [documento](docs/documentacion_docker.md) se explican todos los detalles de que imagen de base se ha usado, el por qué y las diferentes versiones disponibles. Para descargar la imagen hace falta tener instalado `docker` en el sistema, y se podrá descargar con el siguiente comando, que descargará la versión más actualizada (latest):
 ~~~
 docker pull juancpineda97/laligastats
 ~~~

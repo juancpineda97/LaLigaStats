@@ -30,6 +30,19 @@ Esto instalará automáticamente los módulos de los que dependa la aplicación.
 npm test
 ~~~
 
+## Docker
+Para este repositorio también existe una imagen de Docker, la cuál está disponible para descargar, ejecutar en un contenedor y probar en ella las funcionalidades de la aplicación. En el siguiente [documento]() se explican todos los detalles de que imagen de base se ha usado, el por qué y las diferentes versiones disponibles. Para descargar la imagen hace falta tener instalado `docker` en el sistema, y se podrá descargar con el siguiente comando, que descargará la versión más actualizada (latest):
+~~~
+docker pull juancpineda97/laligastats
+~~~
+Sin embargo este comando sólo descargará la imagen, no la ejecutará. Si se quiere descargar la imagen, y ejecutar montando en ella la carpeta del repositorio, se puede usar el siguiente comando en la **raíz** de la carpeta del repositorio [descargado](https://github.com/juancpineda97/LaLigaStats/archive/main.zip):
+~~~
+docker run -t -v `pwd`:/test juancpineda97/laligastats
+~~~
+Y se ejecutarán automáticamente los tests del repositorio en el contenedor con la imagen descargada (latest).
+
+**IMPORTANTE:** Por defecto, al descargar el repositorio de Github, se descarga un zip que contiene dentro una carpeta con los archivos del repositorio, la cuál tiene el nombre con mayúsculas (LaLigaStats). Para montarla al ejecutar el contenedor, docker no admite rutas de archivos con alguna mayúscula, por lo que antes de ejecutar el comando anterior, habría que cambiar el nombre de esta carpeta a, por ejemplo, *laligastats*.
+
 ## Tests
 Un buen proyecto debe incluir tests para determinar si un cambio en el código afecta al funcionamiento correcto del mismo, y este proyecto no iba a ser menos. Los tests, como se ha comentado anteriormente, se realizarán con el framework [Jest](https://jestjs.io/) (en el siguiente [documento](./docs/motivacion_herramientas.md) se explica el por qué de su uso), el cuál funciona con archivos de configuración en los que implementan los test, en este caso, los archivos actuales son los siguientes:
 - [equipo-jugador.test.js](test/equipo-jugador.test.js)

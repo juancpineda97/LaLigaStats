@@ -54,7 +54,7 @@ Y se ejecutarán automáticamente los tests del repositorio en el contenedor con
 - [`ubuntu`](https://hub.docker.com/layers/juancpineda97/laligastats/ubuntu/images/sha256-c52272f7b13931447c730c5cdddbc7613810bb7bbc7dfead059993bd6b090efb?context=repo)
 
 ## GitHub Container Registry
-También está disponible una [imagen](https://github.com/users/juancpineda97/packages/container/package/laligastats) para este repositorio en GitHub Container Registry, en este [documento]() se explica como se ha subido a este sitio web. Para instalarla, basta con ejecutar desde la línea de comandos el siguiente comando:
+También está disponible una [imagen](https://github.com/users/juancpineda97/packages/container/package/laligastats) para este repositorio en GitHub Container Registry, en este [documento](docs/documentacion_github_container.md) se explica como se ha subido a este sitio web. Para instalarla, basta con ejecutar desde la línea de comandos el siguiente comando:
 ~~~
 docker pull ghcr.io/juancpineda97/laligastats:latest
 ~~~

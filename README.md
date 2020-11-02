@@ -53,6 +53,12 @@ Y se ejecutarán automáticamente los tests del repositorio en el contenedor con
 - [`nodestretchslim`](https://hub.docker.com/layers/juancpineda97/laligastats/nodestretchslim/images/sha256-00e27f9d6ab11e70ba4d66d3f3dccd642181fa4f8b09e0bf49995f39487a4463?context=repo)
 - [`ubuntu`](https://hub.docker.com/layers/juancpineda97/laligastats/ubuntu/images/sha256-c52272f7b13931447c730c5cdddbc7613810bb7bbc7dfead059993bd6b090efb?context=repo)
 
+## GitHub Container Registry
+También está disponible una [imagen](https://github.com/users/juancpineda97/packages/container/package/laligastats) para este repositorio en GitHub Container Registry, en este [documento]() se explica como se ha subido a este sitio web. Para instalarla, basta con ejecutar desde la línea de comandos el siguiente comando:
+~~~
+docker pull ghcr.io/juancpineda97/laligastats:latest
+~~~
+
 ## Tests
 Un buen proyecto debe incluir tests para determinar si un cambio en el código afecta al funcionamiento correcto del mismo, y este proyecto no iba a ser menos. Los tests, como se ha comentado anteriormente, se realizarán con el framework [Jest](https://jestjs.io/) (en el siguiente [documento](./docs/motivacion_herramientas.md) se explica el por qué de su uso), el cuál funciona con archivos de configuración en los que implementan los test, en este caso, los archivos actuales son los siguientes:
 - [equipo-jugador.test.js](test/equipo-jugador.test.js)

@@ -56,3 +56,8 @@ En este documento se muestran los pasos seguidos en el desarrollo de este proyec
 - Se añaden dos archivos con datos de ejemplo de jugadores de dos equipos para tests, [barcelona.json](../test/barcelona.json) y [real_madrid.json](../test/real_madrid.json).
 - Se crea e implementa el constructor de la clase [Partido](../src/partido.js), y se crean los [tests](../test/equipo-jugador.test.js) para éste, con resultado satisfactorio :heavy_check_mark:
 - Se trabaja en la [(HU03)](https://github.com/juancpineda97/LaLigaStats/issues/40) creando el método [verPartido(...)](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/descripcion_clases.md#m%C3%A9todos-2) para ver los datos de un partido, y se crean sus correspondientes test con resultado satisfactorio :heavy_check_mark:
+- Se crean diferentes versiones de Dockerfile con diferentes imágenes base, se documenta [aquí](documentacion_docker.md).
+- Se elige la imagen base, `node-slim` óptima y se crea el correspondiente [Dockerfile](../Dockerfile).
+- Además de crear los diferentes tags con las diferentes versiones del Dockerfile, se crean las correspondientes reglas en Dockerhub para la automatización de la creación de la imagen con sus diferentes tags automáticamente.
+- Se añade la imagen a Github Container Registry y se [documenta](documentacion_github_container.md) el proceso.
+- Se completa el archivo [README](../README.md) con las categorías Docker y Github Container Registry.

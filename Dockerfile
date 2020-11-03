@@ -15,8 +15,8 @@ WORKDIR /home/node
 RUN npm install && \
 	rm package*.json
 
-#Uso una variable de entorno para node_modules
-ENV PATH=/node_modules/.bin:$PATH
+#Uso una variable de entorno para indicar donde se ubica node_modules
+ENV PATH=/home/node/node_modules/.bin:$PATH
 
 #Creo y cambio el directorio de trabajo a /test
 WORKDIR /test

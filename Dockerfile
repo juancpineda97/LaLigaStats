@@ -11,8 +11,9 @@ COPY --chown=node:node package.json /home/node
 #Cambio de directorio de trabajo a donde tengo ubicado el archivo de dependencias
 WORKDIR /home/node
 
-#Instalo las dependencias con npm
-RUN npm install
+#Instalo las dependencias con npm y luego borro los archivos package copiados y generados
+RUN npm install && \
+	rm package*.json
 
 #Uso una variable de entorno para node_modules
 ENV PATH=/node_modules/.bin:$PATH

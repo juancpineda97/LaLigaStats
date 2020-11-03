@@ -43,6 +43,9 @@ Y se ejecutarán automáticamente los tests del repositorio en el contenedor con
 
 **IMPORTANTE:** Por defecto, al descargar el repositorio de Github, se descarga un zip que contiene dentro una carpeta con los archivos del repositorio, la cuál tiene el nombre con mayúsculas (LaLigaStats). Para montarla al ejecutar el contenedor, docker no admite rutas de archivos con alguna mayúscula, por lo que antes de ejecutar el comando anterior, habría que cambiar el nombre de esta carpeta a, por ejemplo, *laligastats*.
 
+### Dockerhub
+La imagen de docker junto con otras versiones de la imagen se han subido a Dockerhub, en esta sección se explica como se ha realizado.
+
 ### Tags disponibles:
 - [`latest`](https://hub.docker.com/layers/juancpineda97/laligastats/latest/images/sha256-74e37d84e4ea78b02c6c53dacccc7012ad84c31c86382fc1f94cadd7f49fcfc1?context=explore)
 - [`alpine`](https://hub.docker.com/layers/juancpineda97/laligastats/alpine/images/sha256-b047f51521e37c24d686040428eace080cd2cbb2540be299382a15665dbc4c2c?context=repo)

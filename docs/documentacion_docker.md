@@ -23,8 +23,16 @@ Para la elaboración del [Dockerfile](../Dockerfile) se ha intentado seguir unas
 - Se usa desde un principio el usuario node para realizar la instalación sin usar el usuario root. [(commit)](https://github.com/juancpineda97/LaLigaStats/commit/b0c118f4d2f603d0d0cd17f52462e179c2c61f50)
 - Copio el archivo de dependencias [package.json](../package.json) en el home del usuario de node y no en la raíz del sistema, ya que esta sería una mala práctica. Además, lo copio con propietario y grupo: node para luego poder eliminarlo sin tener que ser superusuario. [(commit)](https://github.com/juancpineda97/LaLigaStats/commit/1fa471ebb3b21d61534493fd25dff11bc01996a8)
 - Se cambia de directorio de trabajo a /home/node, ya que ahí se hará la instalación de las dependencias (aquí se ubicará la carpeta node_modules). [(commit)](https://github.com/juancpineda97/LaLigaStats/commit/611a1694d3de190cac6c1cbc778cf3db814e570b)
-- Se instalan las dependencias dentro de /home/node, y luego se borrar los ficheros package*.json para liberar espacio. Además, estas dos instrucciones se ejecutan en la misma capa para ahorrar espacio. [(commit)](https://github.com/juancpineda97/LaLigaStats/commit/a05f085a3baa79fb4df4bcef1eb68a3db8eac665)
+- Se instalan las dependencias dentro de /home/node, y luego se borran los ficheros package*.json para liberar espacio. Además, estas dos instrucciones se ejecutan en la misma capa para ahorrar espacio. [(commit)](https://github.com/juancpineda97/LaLigaStats/commit/a05f085a3baa79fb4df4bcef1eb68a3db8eac665)
 - Se indica la ubicación de node_modules dentro de /home/node. [(commit)](https://github.com/juancpineda97/LaLigaStats/commit/5f07a229815faae8b6de5e0a50f9e13faafaa909)
+
+Tras la inclusión de grunt en el proyecto, se ha tenido que modificar el [Dockerfile](../Dockerfile) ya que la instalación de grunt es global, y ahora sigue los siguientes pasos:
+- Se copia el archivo de dependencias [package.json](../package.json).
+- Aprovechando que estoy con el usuario root, instalaré grunt de forma global, luego crearé la carpeta *node_modules* en la raíz y le cambiaré el propietario al usuario node, para así poder instalar las dependencias en esta carpeta sin privilegios de usuario.
+- Se cambia al usuario node para instalar las dependencias
+- Se cambia al usuario root para borrar package.json y luego se vuelve al usuario node para ejecutar los tests
+- Se indica la ubicación de node_modules dentro de /home/node.
+- Se indica que los tests se ejecutará usando la orden de grunt creada.
 
 ## Dockerhub
 Todas estas imágenes se han subido a Dockerhub, para ello, primero hay que crearse una cuenta en este sitio web, y luego, se creará un nuevo [repositorio](https://hub.docker.com/repository/docker/juancpineda97/laligastats), el cuál tendrá el mismo nombre que el repositorio en GitHub (pero con el nombre en minúsculas). Luego, se configurará la visibilidad de éste a pública, y se enlazará, conectando con nuestra cuenta de GitHub, a nuestro repositorio. Lo interesante de esta herramienta, además de que nuestras imágenes estén disponibles para su uso por cualquiera, es automatizar el proceso de creación de estas imágenes cuando hacemos push a nuestro repositorio en GitHub. Esta acción se ha configurado de la siguiente forma:

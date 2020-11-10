@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "jest"
+    "test": "gulp test"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/juancpineda97/LaLigaStats#readme",
   "devDependencies": {
-    "jest": "^26.5.3"
+    "gulp": "^4.0.2",
+    "jest-cli": "^26.6.3"
   }
 }

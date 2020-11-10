@@ -22,4 +22,4 @@ ENV PATH=/home/node/node_modules/.bin:$PATH
 WORKDIR /test
 
 #Establezco que por defecto se ejecuten los test al iniciar el contenedor
-CMD ["npm","test"]
+CMD ["gulp","test"]

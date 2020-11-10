@@ -1,25 +1,34 @@
 #Usaré como base la versión 14.14.0 slim de node
 FROM node:14.14.0-slim
 
-#Cambio al usuario node para realizar la instalacion sin el user root
+#Copio el archivo de dependencias
+COPY package.json ./
+
+#Primero, aprovechando que estoy con usuario root, 
+#voy a instalar grunt de forma global, crear una carpeta para
+#los modulos de node en la raiz y cambiarle los permisos al usuario node
+#para así poder instalar sin modo superusuario
+RUN npm install -g grunt-cli && \
+	mkdir node_modules && \
+    chown -R node node_modules
+
+#Cambio al usuario node para instalar las dependencias
 USER node
 
-#Copio el archivo de dependencias de node en el home del user node,
-#con usuario y grupo: node
-COPY --chown=node:node package.json /home/node
+#Instalo las dependencias con npm
+RUN npm install
 
-#Cambio de directorio de trabajo a donde tengo ubicado el archivo de dependencias
-WORKDIR /home/node
-
-#Instalo las dependencias con npm y luego borro los archivos package copiados y generados
-RUN npm install && \
-	rm package*.json
+#Cambio al usuario root para borrar package.json, y vuelvo a cambiar
+#al usuario node para ejecutar los tests
+USER root
+RUN rm package*.json
+USER node
 
 #Uso una variable de entorno para indicar donde se ubica node_modules
-ENV PATH=/home/node/node_modules/.bin:$PATH
+ENV PATH=/node_modules/.bin:$PATH
 
 #Creo y cambio el directorio de trabajo a /test
 WORKDIR /test
 
 #Establezco que por defecto se ejecuten los test al iniciar el contenedor
-CMD ["npm","test"]
+CMD ["grunt","test"]

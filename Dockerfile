@@ -6,7 +6,7 @@ COPY package.json ./
 
 #Primero, aprovechando que estoy con usuario root, 
 #voy a instalar grunt de forma global, crear una carpeta para
-#los modulos de node en la raiz y cambiarle los permisos al usuario node
+#los modulos de node en la raiz y cambiarle el owner al usuario node
 #para así poder instalar sin modo superusuario
 RUN npm install -g grunt-cli && \
 	mkdir node_modules && \

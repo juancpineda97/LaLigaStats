@@ -17,8 +17,9 @@ En el siguiente [documento](./docs/motivacion_herramientas.md) se describen las 
 - [Javascript](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/motivacion_herramientas.md#lenguaje-de-programaci%C3%B3n-javascript): Lenguaje de programación.
 - [Node.js](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/motivacion_herramientas.md#entorno-de-ejecuci%C3%B3n-nodejs): Entorno de ejecución del lenguaje.
 - [Jest](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/motivacion_herramientas.md#framework-test-jest): Framework para ejecutar tests.
-- [npm](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/motivacion_herramientas.md#gestor-de-tareas--dependencias-npm): Gestor de tareas / dependencias.
+- [npm](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/motivacion_herramientas.md#gestor-de-tareas--dependencias-npm): Gestor de dependencias.
   - Taskfile: [package.json](https://github.com/juancpineda97/LaLigaStats/blob/main/package.json)
+- [grunt](https://gruntjs.com/): Gestor de tareas.
 
 ## Instalación
 Para la instalación de la aplicación se necesita tener instalado **Node.js** y su gestor de módulos, **npm**. Una vez se disponga de este software instalado, para instalar las dependencias de otros módulos de la aplicación basta con ejecutar el siguiente comando situado en la raíz del proyecto:
@@ -27,7 +28,7 @@ npm install
 ~~~
 Esto instalará automáticamente los módulos de los que dependa la aplicación. Además, si se quieren ejecutar los tests del código de la aplicación, basta con ejecutar el comando:
 ~~~
-npm test
+grunt test
 ~~~
 
 ## Docker
@@ -79,7 +80,7 @@ En esta fase del proyecto, se han creado tests para determinar si las siguientes
 
 Para ejecutar los tests, basta con haber seguido los pasos para la instalación del proyecto y ejecutar el siguiente comando estando ubicado en el proyecto:
 ~~~
-npm test
+grunt test
 ~~~
 
 

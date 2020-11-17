@@ -61,3 +61,6 @@ En este documento se muestran los pasos seguidos en el desarrollo de este proyec
 - Además de crear los diferentes tags con las diferentes versiones del Dockerfile, se crean las correspondientes reglas en Dockerhub para la automatización de la creación de la imagen con sus diferentes tags automáticamente.
 - Se añade la imagen a Github Container Registry y se [documenta](documentacion_github_container.md) el proceso.
 - Se completa el archivo [README](../README.md) con las categorías Docker y Github Container Registry.
+
+## Hito 4
+- Se añade test de ortografía del README.md

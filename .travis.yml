@@ -1,0 +1,15 @@
+#Especifico en qué lenguaje estoy trabajando
+language: node_js
+
+#Especifico en qué versiones de ese lenguaje quiero testear:
+node_js:
+  - 14
+  - node
+
+#Antes de instalar las dependencias, necesito tener instalado grunt:
+before_install:
+  - npm install -g grunt
+
+#Especifico el comando a ejecutar, en este caso el de ejecutar los tests:
+script:
+  - grunt test

@@ -8,7 +8,7 @@ node_js:
 
 #Antes de instalar las dependencias, necesito tener instalado grunt:
 before_install:
-  - npm install -g grunt
+  - npm install -g grunt-cli
 
 #Especifico el comando a ejecutar, en este caso el de ejecutar los tests:
 script:

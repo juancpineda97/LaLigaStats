@@ -25,7 +25,7 @@ En el siguiente [documento](./docs/motivacion_herramientas.md) se describen las 
 - [grunt](https://gruntjs.com/): Gestor de tareas.
 
 ## Instalación
-Para la instalación de la aplicación se necesita tener instalado **Node.js** y su gestor de módulos, **npm**. Una vez se disponga de este software instalado, para instalar las dependencias de otros módulos de la aplicación basta con ejecutar el siguiente comando situado en la raíz del proyecto:
+Para la instalación de la aplicación se necesita tener instalado **Node.js** y su gestor de módulos, **npm**, además del módulo **grunt-cli**. Una vez se disponga de este software instalado, para instalar las dependencias de otros módulos de la aplicación basta con ejecutar el siguiente comando situado en la raíz del proyecto:
 ~~~
 npm install
 ~~~

@@ -30,6 +30,14 @@ Esto instalará automáticamente los módulos de los que dependa la aplicación.
 ~~~
 grunt test
 ~~~
+Para generar la documentación en formato del código en formato `HMTL` se ejecuta el siguiente comando:
+~~~
+grunt documentacion
+~~~
+Esta documentación se guardará en la carpeta `docs/docco` . Para eliminarla, basta con ejecutar el siguiente comando:
+~~~
+grunt borrar_doc
+~~~ 
 
 ## Docker
 Para este repositorio también existe una imagen de Docker, la cuál está disponible para descargar, ejecutar en un contenedor y probar en ella las funcionalidades de la aplicación. En el siguiente [documento](docs/documentacion_docker.md) se explican todos los detalles de que imagen de base se ha usado, el por qué y las diferentes versiones disponibles, además de las buenas prácticas que se han seguido en la construcción del archivo [Dockerfile](Dockerfile) y el uso de Dockerhub. Para descargar la imagen hace falta tener instalado `docker` en el sistema, y se podrá descargar con el siguiente comando, que descargará la versión más actualizada (latest):

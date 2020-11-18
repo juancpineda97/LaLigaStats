@@ -158,7 +158,7 @@ describe("Test de la clase Jugador", () =>{
         aserciones.expect(player1.getPosicion()).toEqual("DL");
     });
 
-    test("Comprobación del funcionamiento de los atributos privados", () => {
+    test("Comprobación de la visibilidad de los atributos privados", () => {
         aserciones.expect(player1.nombre).toBeType("undefined");
         aserciones.expect(player1.equipo).toBeType("undefined");
         aserciones.expect(player1.nacionalidad).toBeType("undefined");
@@ -199,7 +199,7 @@ describe("Test de la clase Equipo", () =>{
         expect(thrown_error).toThrow(expectedError);
     });
 
-    test("Comprobación del funcionamiento de los atributos privados", () => {
+    test("Comprobación de la visibilidad de los atributos privados", () => {
         aserciones.expect(team.nombre).toBeType("undefined");
         aserciones.expect(team.listaJugadores).toBeType("undefined");
     });
@@ -237,7 +237,7 @@ describe("Test de la clase Partido", () =>{
         expect(thrown_error).toThrow(expectedError);
     });
 
-    test("Comprobación del funcionamiento de los atributos privados", () => {
+    test("Comprobación de la visibilidad de los atributos privados", () => {
         aserciones.expect(partido_prueba.equipoLocal).toBeType("undefined");
         aserciones.expect(partido_prueba.equipoVisitante).toBeType("undefined");
         aserciones.expect(partido_prueba.fecha).toBeType("undefined");

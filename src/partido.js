@@ -95,8 +95,8 @@ class Partido {
         var listaOnceLocal = "";
         this.onceInicialLocal.forEach(dorsal_tmp => {
             this.equipoLocal.listaJugadores.forEach(jugador_tmp => {
-                if(jugador_tmp.dorsal == dorsal_tmp){
-                    listaOnceLocal += dorsal_tmp + " - " + jugador_tmp.nombre + "\n";
+                if(jugador_tmp.getDorsal() == dorsal_tmp){
+                    listaOnceLocal += dorsal_tmp + " - " + jugador_tmp.getNombre() + "\n";
                 }
             });
         });
@@ -104,8 +104,8 @@ class Partido {
         var listaOnceVisitante = "";
         this.onceInicialVisitante.forEach(dorsal_tmp => {
             this.equipoVisitante.listaJugadores.forEach(jugador_tmp => {
-                if(jugador_tmp.dorsal == dorsal_tmp){
-                    listaOnceVisitante += dorsal_tmp + " - " + jugador_tmp.nombre + "\n";
+                if(jugador_tmp.getDorsal() == dorsal_tmp){
+                    listaOnceVisitante += dorsal_tmp + " - " + jugador_tmp.getNombre() + "\n";
                 }
             });
         });
@@ -113,8 +113,8 @@ class Partido {
         var listaSuplentesLocal = "";
         this.suplentesLocal.forEach(dorsal_tmp => {
             this.equipoLocal.listaJugadores.forEach(jugador_tmp => {
-                if(jugador_tmp.dorsal == dorsal_tmp){
-                    listaSuplentesLocal += dorsal_tmp + " - " + jugador_tmp.nombre + "\n";
+                if(jugador_tmp.getDorsal() == dorsal_tmp){
+                    listaSuplentesLocal += dorsal_tmp + " - " + jugador_tmp.getNombre() + "\n";
                 }
             });
         });
@@ -122,8 +122,8 @@ class Partido {
         var listaSuplentesVisitante = "";
         this.suplentesVisitante.forEach(dorsal_tmp => {
             this.equipoVisitante.listaJugadores.forEach(jugador_tmp => {
-                if(jugador_tmp.dorsal == dorsal_tmp){
-                    listaSuplentesVisitante += dorsal_tmp + " - " + jugador_tmp.nombre + "\n";
+                if(jugador_tmp.getDorsal() == dorsal_tmp){
+                    listaSuplentesVisitante += dorsal_tmp + " - " + jugador_tmp.getNombre() + "\n";
                 }
             });
         });

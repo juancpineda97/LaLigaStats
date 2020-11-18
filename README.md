@@ -25,6 +25,13 @@ En el siguiente [documento](./docs/motivacion_herramientas.md) se describen las 
   - Taskfile: [package.json](https://github.com/juancpineda97/LaLigaStats/blob/main/package.json)
 - [grunt](https://gruntjs.com/): Gestor de tareas.
 
+## Integración Continua
+Para añadir Integración Continua a este proyecto, se han usado las siguientes herramientas documentadas en el siguiente [documento](docs/integracion_continua.md):
+
+- [Travis CI](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/integracion_continua.md#travis-ci)
+- [Circle CI](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/integracion_continua.md#circle-ci)
+- [GitHub Actions](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/integracion_continua.md#github-actions)
+
 ## Instalación
 Para la instalación de la aplicación se necesita tener instalado **Node.js** y su gestor de módulos, **npm**, además del módulo **grunt-cli**. Una vez se disponga de este software instalado, para instalar las dependencias de otros módulos de la aplicación basta con ejecutar el siguiente comando situado en la raíz del proyecto:
 ~~~

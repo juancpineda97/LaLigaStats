@@ -158,6 +158,16 @@ describe("Test de la clase Jugador", () =>{
         aserciones.expect(player1.getPosicion()).toEqual("DL");
     });
 
+    test("Comprobación del funcionamiento de los atributos privados", () => {
+        aserciones.expect(player1.nombre).toBeType("undefined");
+        aserciones.expect(player1.equipo).toBeType("undefined");
+        aserciones.expect(player1.nacionalidad).toBeType("undefined");
+        aserciones.expect(player1.fechaNacimiento).toBeType("undefined");
+        aserciones.expect(player1.valor).toBeType("undefined");
+        aserciones.expect(player1.dorsal).toBeType("undefined");
+        aserciones.expect(player1.posicion).toBeType("undefined");
+    });
+
     test("Comprobación del funcionamiento del constructor con tipos de dato no válidos", () => {
         thrown_error = () => new Jugador(404, "Barcelona", "Brasil", "12/06/1992", 60, 14, "DL");
         expectedError = new Error('Tipos de dato no validos');

@@ -13,10 +13,20 @@ class Equipo{
             throw new Error('Tipos de dato no validos');
         }
         else{
-            this.nombre = nombre_p;
-            this.listaJugadores = new Array();
-            this.listaJugadores = listaJugadores_p;
-        }    
+            var nombre = nombre_p;
+            var listaJugadores = new Array();
+            listaJugadores = listaJugadores_p;
+        }
+
+        //Get de atributos privados
+
+        this.getNombre = function(){
+            return nombre;
+        }
+
+        this.getListaJugadores = function(){
+            return listaJugadores;
+        }
     }
     
     /**
@@ -27,13 +37,13 @@ class Equipo{
 
         var jugadores;
 
-        if(Object.keys(this.listaJugadores).length === 0){
+        if(Object.keys(this.getListaJugadores()).length === 0){
             jugadores = "Equipo sin jugadores actualmente.";
         }
         else{
-            jugadores = "Lista de jugadores del " + this.nombre + ":";
+            jugadores = "Lista de jugadores del " + this.getNombre() + ":";
         
-            this.listaJugadores.forEach(function(elemento) {
+            this.getListaJugadores().forEach(function(elemento) {
                 jugadores += "\n\n" + elemento.verJugador();
             })
         }

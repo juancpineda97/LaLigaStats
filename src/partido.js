@@ -21,21 +21,67 @@ class Partido {
             throw new Error('Tipos de dato no validos');
         }
         else{
-            this.equipoLocal = equipoLocal_p;
-            this.equipoVisitante = equipoVisitante_p;
-            this.fecha = fecha_p;
-            this.onceInicialLocal = new Array();
-            this.onceInicialLocal = onceInicialLocal_p;
-            this.onceInicialVisitante = new Array();
-            this.onceInicialVisitante = onceInicialVisitante_p;
-            this.suplentesLocal = new Array();
-            this.suplentesLocal = suplentesLocal_p;
-            this.suplentesVisitante = new Array();
-            this.suplentesVisitante = suplentesVisitante_p;
-            this.estadio = estadio_p;
-            this.arbitro = arbitro_p;
-            this.golesLocal = 0;
-            this.golesVisitante = 0;
+            var equipoLocal = equipoLocal_p;
+            var equipoVisitante = equipoVisitante_p;
+            var fecha = fecha_p;
+            var onceInicialLocal = new Array();
+            onceInicialLocal = onceInicialLocal_p;
+            var onceInicialVisitante = new Array();
+            onceInicialVisitante = onceInicialVisitante_p;
+            var suplentesLocal = new Array();
+            suplentesLocal = suplentesLocal_p;
+            var suplentesVisitante = new Array();
+            suplentesVisitante = suplentesVisitante_p;
+            var estadio = estadio_p;
+            var arbitro = arbitro_p;
+            var golesLocal = 0;
+            var golesVisitante = 0;
+
+            //Get de atributos privados
+
+            this.getEquipoLocal = function(){
+                return equipoLocal;
+            }
+
+            this.getEquipoVisitante = function(){
+                return equipoVisitante;
+            }
+
+            this.getFecha = function(){
+                return fecha;
+            }
+
+            this.getOnceInicialLocal = function(){
+                return onceInicialLocal;
+            }
+
+            this.getOnceInicialVisitante = function(){
+                return onceInicialVisitante;
+            }
+
+            this.getSuplentesLocal = function(){
+                return suplentesLocal;
+            }
+
+            this.getSuplentesVisitante = function(){
+                return suplentesVisitante;
+            }
+
+            this.getEstadio = function(){
+                return estadio;
+            }
+
+            this.getArbitro = function(){
+                return arbitro;
+            }
+
+            this.getGolesLocal = function(){
+                return golesLocal;
+            }
+
+            this.getGolesVisitante = function(){
+                return golesVisitante;
+            }
         }
     }
 
@@ -86,15 +132,15 @@ class Partido {
      */
     verPartido(){
         var resultado = "";
-        resultado += "Partido jugado el " + this.fecha.getDate() + "/" + this.fecha.getMonth() + "/" + this.fecha.getFullYear() + 
-        " a las " + this.fecha.getHours() + ":" + this.fecha.getMinutes() + ":" + this.fecha.getSeconds() + "\n";
-        resultado += "Equipo Local: " + this.equipoLocal.nombre + "\n" + "Equipo Visitante: " + this.equipoVisitante.nombre + "\n";
-        resultado += "Resultado: " + this.golesLocal + "-" + this.golesVisitante + "\n";
-        resultado += "Estadio: " + this.estadio + " Árbitro: " + this.arbitro + "\n";
+        resultado += "Partido jugado el " + this.getFecha().getDate() + "/" + this.getFecha().getMonth() + "/" + this.getFecha().getFullYear() + 
+        " a las " + this.getFecha().getHours() + ":" + this.getFecha().getMinutes() + ":" + this.getFecha().getSeconds() + "\n";
+        resultado += "Equipo Local: " + this.getEquipoLocal().nombre + "\n" + "Equipo Visitante: " + this.getEquipoVisitante().nombre + "\n";
+        resultado += "Resultado: " + this.getGolesLocal() + "-" + this.getGolesVisitante() + "\n";
+        resultado += "Estadio: " + this.getEstadio() + " Árbitro: " + this.getArbitro() + "\n";
 
         var listaOnceLocal = "";
-        this.onceInicialLocal.forEach(dorsal_tmp => {
-            this.equipoLocal.getListaJugadores().forEach(jugador_tmp => {
+        this.getOnceInicialLocal().forEach(dorsal_tmp => {
+            this.getEquipoLocal().getListaJugadores().forEach(jugador_tmp => {
                 if(jugador_tmp.getDorsal() == dorsal_tmp){
                     listaOnceLocal += dorsal_tmp + " - " + jugador_tmp.getNombre() + "\n";
                 }
@@ -102,8 +148,8 @@ class Partido {
         });
 
         var listaOnceVisitante = "";
-        this.onceInicialVisitante.forEach(dorsal_tmp => {
-            this.equipoVisitante.getListaJugadores().forEach(jugador_tmp => {
+        this.getOnceInicialVisitante().forEach(dorsal_tmp => {
+            this.getEquipoVisitante().getListaJugadores().forEach(jugador_tmp => {
                 if(jugador_tmp.getDorsal() == dorsal_tmp){
                     listaOnceVisitante += dorsal_tmp + " - " + jugador_tmp.getNombre() + "\n";
                 }
@@ -111,8 +157,8 @@ class Partido {
         });
 
         var listaSuplentesLocal = "";
-        this.suplentesLocal.forEach(dorsal_tmp => {
-            this.equipoLocal.getListaJugadores().forEach(jugador_tmp => {
+        this.getSuplentesLocal().forEach(dorsal_tmp => {
+            this.getEquipoLocal().getListaJugadores().forEach(jugador_tmp => {
                 if(jugador_tmp.getDorsal() == dorsal_tmp){
                     listaSuplentesLocal += dorsal_tmp + " - " + jugador_tmp.getNombre() + "\n";
                 }
@@ -120,17 +166,17 @@ class Partido {
         });
 
         var listaSuplentesVisitante = "";
-        this.suplentesVisitante.forEach(dorsal_tmp => {
-            this.equipoVisitante.getListaJugadores().forEach(jugador_tmp => {
+        this.getSuplentesVisitante().forEach(dorsal_tmp => {
+            this.getEquipoVisitante().getListaJugadores().forEach(jugador_tmp => {
                 if(jugador_tmp.getDorsal() == dorsal_tmp){
                     listaSuplentesVisitante += dorsal_tmp + " - " + jugador_tmp.getNombre() + "\n";
                 }
             });
         });
 
-        resultado += "\nOnce inicial del " + this.equipoLocal.getNombre() + ":\n" + listaOnceLocal + "\n";
+        resultado += "\nOnce inicial del " + this.getEquipoLocal().getNombre() + ":\n" + listaOnceLocal + "\n";
         resultado += "Suplentes:\n" + listaSuplentesLocal;
-        resultado += "\nOnce inicial del " + this.equipoVisitante.getNombre() + ":\n" + listaOnceVisitante + "\n";
+        resultado += "\nOnce inicial del " + this.getEquipoVisitante().getNombre() + ":\n" + listaOnceVisitante + "\n";
         resultado += "Suplentes:\n" + listaSuplentesVisitante;
 
         return resultado;

@@ -119,13 +119,13 @@ describe("Tests relacionados con la funcionalidad de mostrar al usuario los dato
         var lista_suplentes_realmadrid = ["13 - Lunin" , "12 - Marcelo" , "10 - Modric" , "22 - Isco" , "18 - Jovic"];
         
         aserciones.expect(salidametodo).toInclude(barcelona.getNombre());
-        aserciones.expect(salidametodo).toInclude(partido_prueba.arbitro);
-        aserciones.expect(salidametodo).toInclude(partido_prueba.fecha.getDate());
-        aserciones.expect(salidametodo).toInclude(partido_prueba.fecha.getMonth());
-        aserciones.expect(salidametodo).toInclude(partido_prueba.fecha.getFullYear());
-        aserciones.expect(salidametodo).toInclude(partido_prueba.fecha.getHours());
-        aserciones.expect(salidametodo).toInclude(partido_prueba.fecha.getSeconds());
-        aserciones.expect(salidametodo).toInclude(partido_prueba.fecha.getMinutes());
+        aserciones.expect(salidametodo).toInclude(partido_prueba.getArbitro());
+        aserciones.expect(salidametodo).toInclude(partido_prueba.getFecha().getDate());
+        aserciones.expect(salidametodo).toInclude(partido_prueba.getFecha().getMonth());
+        aserciones.expect(salidametodo).toInclude(partido_prueba.getFecha().getFullYear());
+        aserciones.expect(salidametodo).toInclude(partido_prueba.getFecha().getHours());
+        aserciones.expect(salidametodo).toInclude(partido_prueba.getFecha().getSeconds());
+        aserciones.expect(salidametodo).toInclude(partido_prueba.getFecha().getMinutes());
 
         lista_11inicial_barcelona.forEach(element => {
             aserciones.expect(salidametodo).toInclude(element);
@@ -209,25 +209,25 @@ describe("Test de la clase Equipo", () =>{
 describe("Test de la clase Partido", () =>{
 
     test("Comprobación del funcionamiento del constructor", () => {
-        aserciones.expect(partido_prueba.equipoLocal.getNombre()).toEqual("Barcelona");
-        aserciones.expect(partido_prueba.equipoVisitante.getNombre()).toEqual("Real Madrid");
-        aserciones.expect(partido_prueba.onceInicialLocal.length).toEqual(11);
-        aserciones.expect(partido_prueba.onceInicialVisitante.length).toEqual(11);
+        aserciones.expect(partido_prueba.getEquipoLocal().getNombre()).toEqual("Barcelona");
+        aserciones.expect(partido_prueba.getEquipoVisitante().getNombre()).toEqual("Real Madrid");
+        aserciones.expect(partido_prueba.getOnceInicialLocal().length).toEqual(11);
+        aserciones.expect(partido_prueba.getOnceInicialVisitante().length).toEqual(11);
         for (let i = 0; i < 11; i++) {
-            expect(partido_prueba.onceInicialLocal[i]).toEqual(oncebarcelona[i]);
-            expect(partido_prueba.onceInicialVisitante[i]).toEqual(oncerealmadrid[i]);
+            expect(partido_prueba.getOnceInicialLocal()[i]).toEqual(oncebarcelona[i]);
+            expect(partido_prueba.getOnceInicialVisitante()[i]).toEqual(oncerealmadrid[i]);
         }
         for (let i = 0; i < suplentesbarcelona; i++) {
-            expect(partido_prueba.suplentesLocal[i]).toEqual(suplentesbarcelona[i]);
+            expect(partido_prueba.getSuplentesLocal()[i]).toEqual(suplentesbarcelona[i]);
         }
         for (let i = 0; i < suplentesrealmadrid; i++) {
-            expect(partido_prueba.suplentesVisitante[i]).toEqual(suplentesrealmadrid[i]);
+            expect(partido_prueba.getSuplentesVisitante()[i]).toEqual(suplentesrealmadrid[i]);
         }
-        aserciones.expect(partido_prueba.fecha.toString()).toInclude("Nov 24 2020 16:00:00");
-        aserciones.expect(partido_prueba.estadio).toEqual("Camp Nou");
-        aserciones.expect(partido_prueba.arbitro).toEqual("Martinez Munuera");
-        aserciones.expect(partido_prueba.golesLocal).toEqual(0);
-        aserciones.expect(partido_prueba.golesVisitante).toEqual(0);
+        aserciones.expect(partido_prueba.getFecha().toString()).toInclude("Nov 24 2020 16:00:00");
+        aserciones.expect(partido_prueba.getEstadio()).toEqual("Camp Nou");
+        aserciones.expect(partido_prueba.getArbitro()).toEqual("Martinez Munuera");
+        aserciones.expect(partido_prueba.getGolesLocal()).toEqual(0);
+        aserciones.expect(partido_prueba.getGolesVisitante()).toEqual(0);
     });
 
     test("Comprobación del funcionamiento del constructor con tipos de datos no válidos", () => {
@@ -235,6 +235,20 @@ describe("Test de la clase Partido", () =>{
         oncerealmadrid, suplentesbarcelona, suplentesrealmadrid, "Camp Nou", "Martinez Munuera");
         expectedError = new Error('Tipos de dato no validos');
         expect(thrown_error).toThrow(expectedError);
+    });
+
+    test("Comprobación del funcionamiento de los atributos privados", () => {
+        aserciones.expect(partido_prueba.equipoLocal).toBeType("undefined");
+        aserciones.expect(partido_prueba.equipoVisitante).toBeType("undefined");
+        aserciones.expect(partido_prueba.fecha).toBeType("undefined");
+        aserciones.expect(partido_prueba.onceInicialLocal).toBeType("undefined");
+        aserciones.expect(partido_prueba.onceInicialVisitante).toBeType("undefined");
+        aserciones.expect(partido_prueba.suplentesLocal).toBeType("undefined");
+        aserciones.expect(partido_prueba.suplentesVisitante).toBeType("undefined");
+        aserciones.expect(partido_prueba.estadio).toBeType("undefined");
+        aserciones.expect(partido_prueba.arbitro).toBeType("undefined");
+        aserciones.expect(partido_prueba.golesLocal).toBeType("undefined");
+        aserciones.expect(partido_prueba.golesVisitante).toBeType("undefined");
     });
 
     test("Comprobación del método comprobarDatosPartido(...)", () => {

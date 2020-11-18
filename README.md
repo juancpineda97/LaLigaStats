@@ -1,6 +1,7 @@
 # LaLigaStats
 
 ![travis_pass](https://travis-ci.com/juancpineda97/LaLigaStats.svg?branch=main)
+![circle_ci_pass](https://circleci.com/gh/juancpineda97/LaLigaStats.svg?style=shield)
 
 Proyecto de la asignatura Infraestructura Virtual del grado de Ingeniería Informática de la UGR.
 ![Logo LaLiga](./docs/img/logo_readme.png)

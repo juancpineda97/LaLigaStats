@@ -5,7 +5,4 @@ jobs:
       - image: juancpineda97/laligastats
     steps:
       - checkout
-      - run:
-          name: Ejecutar tests en la imagen de docker
-          command: docker run -t -v `pwd`:/test juancpineda97/laligastats
-
+      - run: grunt test

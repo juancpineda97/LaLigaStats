@@ -237,6 +237,20 @@ describe("Test de la clase Partido", () =>{
         expect(thrown_error).toThrow(expectedError);
     });
 
+    test("Comprobación del funcionamiento de los atributos privados", () => {
+        aserciones.expect(partido_prueba.equipoLocal).toBeType("undefined");
+        aserciones.expect(partido_prueba.equipoVisitante).toBeType("undefined");
+        aserciones.expect(partido_prueba.fecha).toBeType("undefined");
+        aserciones.expect(partido_prueba.onceInicialLocal).toBeType("undefined");
+        aserciones.expect(partido_prueba.onceInicialVisitante).toBeType("undefined");
+        aserciones.expect(partido_prueba.suplentesLocal).toBeType("undefined");
+        aserciones.expect(partido_prueba.suplentesVisitante).toBeType("undefined");
+        aserciones.expect(partido_prueba.estadio).toBeType("undefined");
+        aserciones.expect(partido_prueba.arbitro).toBeType("undefined");
+        aserciones.expect(partido_prueba.golesLocal).toBeType("undefined");
+        aserciones.expect(partido_prueba.golesVisitante).toBeType("undefined");
+    });
+
     test("Comprobación del método comprobarDatosPartido(...)", () => {
         var salidaMetodo = partido_prueba.comprobarDatosPartido(barcelona, realmadrid, new Date(2020, 10, 24, 16, 0, 0), oncebarcelona,
         oncerealmadrid, suplentesbarcelona, suplentesrealmadrid, "Camp Nou", "Martinez Munuera");

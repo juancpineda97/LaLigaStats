@@ -19,15 +19,45 @@ class Jugador{
             throw new Error('Tipos de dato no validos');
         }
         else{
-            this.nombre = nombre_p;
-            this.equipo = equipo_p;
-            this.nacionalidad = nacionalidad_p;
-            this.fechaNacimiento = fechaNacimiento_p;
-            this.valor = valor_p;
-            this.dorsal = dorsal_p;
-            this.posicion = posicion_p;
+            //Atributos Privados
+            var nombre = nombre_p;
+            var equipo = equipo_p;
+            var nacionalidad = nacionalidad_p;
+            var fechaNacimiento = fechaNacimiento_p;
+            var valor = valor_p;
+            var dorsal = dorsal_p;
+            var posicion = posicion_p;
         }
-        
+
+        //Get de atributos privados
+
+        this.getNombre = function(){
+  	        return nombre;
+        }
+
+        this.getEquipo = function(){
+  	        return equipo;
+        }
+
+        this.getNacionalidad = function(){
+  	        return nacionalidad;
+        }
+
+        this.getFechaNacimiento = function(){
+  	        return fechaNacimiento;
+        }
+
+        this.getValor = function(){
+  	        return valor;
+        }
+
+        this.getDorsal = function(){
+  	        return dorsal;
+        }
+
+        this.getPosicion = function(){
+  	        return posicion;
+        }    
     }
 
     /**
@@ -35,13 +65,13 @@ class Jugador{
      * @returns {String} Datos del jugador. 
      */
     verJugador(){
-        var datosJugador = "Nombre: " + this.nombre + "\n" +
-        "Equipo: " + this.equipo + "\n" +
-        "Nacionalidad: " + this.nacionalidad + "\n" +
-        "Fecha de nacimiento: " + this.fechaNacimiento + "\n" +
-        "Valor(M): " + this.valor + "\n" +
-        "Dorsal: " + this.dorsal + "\n" +
-        "Posición: " + this.posicion;
+        var datosJugador = "Nombre: " + this.getNombre() + "\n" +
+        "Equipo: " + this.getEquipo() + "\n" +
+        "Nacionalidad: " + this.getNacionalidad() + "\n" +
+        "Fecha de nacimiento: " + this.getFechaNacimiento() + "\n" +
+        "Valor(M): " + this.getValor() + "\n" +
+        "Dorsal: " + this.getDorsal() + "\n" +
+        "Posición: " + this.getPosicion();
         return datosJugador;
     }
 

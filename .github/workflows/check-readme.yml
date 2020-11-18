@@ -3,12 +3,12 @@ name: "Comprueba README"
 on:
   push:
     paths:
-      - '*.md'
+      - '**/*.md'
       - 'words.dic'
 
   pull_request:
     paths:
-      - '*.md'
+      - '**/*.md'
       - 'words.dic'
 
 jobs:

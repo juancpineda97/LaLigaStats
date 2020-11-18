@@ -199,6 +199,11 @@ describe("Test de la clase Equipo", () =>{
         expect(thrown_error).toThrow(expectedError);
     });
 
+    test("Comprobación del funcionamiento de los atributos privados", () => {
+        aserciones.expect(team.nombre).toBeType("undefined");
+        aserciones.expect(team.listaJugadores).toBeType("undefined");
+    });
+
 });
 
 describe("Test de la clase Partido", () =>{

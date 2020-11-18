@@ -73,13 +73,13 @@ describe("Tests relacionados con la funcionalidad de mostrar al usuario los dato
     test("Comprobación del funcionamiento del método verJugador()", () => {
         var salidametodo = player1.verJugador();
 
-        aserciones.expect(salidametodo).toInclude(player1.nombre);
-        aserciones.expect(salidametodo).toInclude(player1.equipo);
-        aserciones.expect(salidametodo).toInclude(player1.nacionalidad);
-        aserciones.expect(salidametodo).toInclude(player1.fechaNacimiento);
-        aserciones.expect(salidametodo).toInclude(player1.valor);
-        aserciones.expect(salidametodo).toInclude(player1.dorsal);
-        aserciones.expect(salidametodo).toInclude(player1.posicion);
+        aserciones.expect(salidametodo).toInclude(player1.getNombre());
+        aserciones.expect(salidametodo).toInclude(player1.getEquipo());
+        aserciones.expect(salidametodo).toInclude(player1.getNacionalidad());
+        aserciones.expect(salidametodo).toInclude(player1.getFechaNacimiento());
+        aserciones.expect(salidametodo).toInclude(player1.getValor());
+        aserciones.expect(salidametodo).toInclude(player1.getDorsal());
+        aserciones.expect(salidametodo).toInclude(player1.getPosicion());
     });
 
     test("Comprobando que se muestran los datos de varios jugadores correctamente", () => {
@@ -91,11 +91,11 @@ describe("Tests relacionados con la funcionalidad de mostrar al usuario los dato
         aserciones.expect(salidametodo4).toBeType("string");
         aserciones.expect(salidametodo5).toBeType("string");
         
-        var valor_player3 = player3.valor;
-        var equipo_player4 = player4.equipo;
-        var fecha_n_player5 = player5.fechaNacimiento;
-        var dorsal_player4 = player4.dorsal;
-        var posicion_player5 = player5.posicion;
+        var valor_player3 = player3.getValor();
+        var equipo_player4 = player4.getEquipo();
+        var fecha_n_player5 = player5.getFechaNacimiento();
+        var dorsal_player4 = player4.getDorsal();
+        var posicion_player5 = player5.getPosicion();
 
         aserciones.expect(salidametodo3).toInclude(valor_player3);
         aserciones.expect(salidametodo4).toInclude(equipo_player4);
@@ -149,13 +149,13 @@ describe("Tests relacionados con la funcionalidad de mostrar al usuario los dato
 describe("Test de la clase Jugador", () =>{
 
     test("Comprobación del funcionamiento del constructor", () => {
-        aserciones.expect(player1.nombre).toEqual("Griezmann");
-        aserciones.expect(player1.equipo).toEqual("Barcelona");
-        aserciones.expect(player1.nacionalidad).toEqual("Francia");
-        aserciones.expect(player1.fechaNacimiento).toEqual("21/03/1991");
-        aserciones.expect(player1.valor).toEqual(80);
-        aserciones.expect(player1.dorsal).toEqual(7);
-        aserciones.expect(player1.posicion).toEqual("DL");
+        aserciones.expect(player1.getNombre()).toEqual("Griezmann");
+        aserciones.expect(player1.getEquipo()).toEqual("Barcelona");
+        aserciones.expect(player1.getNacionalidad()).toEqual("Francia");
+        aserciones.expect(player1.getFechaNacimiento()).toEqual("21/03/1991");
+        aserciones.expect(player1.getValor()).toEqual(80);
+        aserciones.expect(player1.getDorsal()).toEqual(7);
+        aserciones.expect(player1.getPosicion()).toEqual("DL");
     });
 
     test("Comprobación del funcionamiento del constructor con tipos de dato no válidos", () => {

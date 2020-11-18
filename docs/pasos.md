@@ -63,4 +63,12 @@ En este documento se muestran los pasos seguidos en el desarrollo de este proyec
 - Se completa el archivo [README](../README.md) con las categorías Docker y Github Container Registry.
 
 ## Hito 4
-- Se añade test de ortografía del README.md
+- Se añade el uso de Grunt como gestor de tareas.
+- Se añade test de ortografía del README.md.
+- Se configura [Travis CI](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/integracion_continua.md#travis-ci) para realizar pruebas.
+- Se configura [Circle CI](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/integracion_continua.md#circle-ci) para realizar pruebas usando la imagen docker de la aplicación en Dockerhub.
+- Se configura [Test](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/integracion_continua.md#github-actions) de ortografía para revisar todos los archivos .md.
+- Se añade [Git Hook](https://github.com/juancpineda97/LaLigaStats/blob/main/docs/integracion_continua.md#control-de-tests) para realizar las pruebas solo con cambios en el código.
+- Se cambian los [atributos](https://github.com/juancpineda97/LaLigaStats/blob/05bbe34660d92bfdeca2dfb457a6e6730b5e92bd/src/jugador.js#L22) de la clase Jugador a privados y se crea [test](https://github.com/juancpineda97/LaLigaStats/blob/05bbe34660d92bfdeca2dfb457a6e6730b5e92bd/test/equipo-jugador.test.js#L161) para comprobar su visibilidad.
+- Se cambian los [atributos](https://github.com/juancpineda97/LaLigaStats/blob/05bbe34660d92bfdeca2dfb457a6e6730b5e92bd/src/equipo.js#L16) de la clase Equipo a privados y se crea [test](https://github.com/juancpineda97/LaLigaStats/blob/05bbe34660d92bfdeca2dfb457a6e6730b5e92bd/test/equipo-jugador.test.js#L202) para comprobar su visibilidad.
+- Se cambian los [atributos](https://github.com/juancpineda97/LaLigaStats/blob/05bbe34660d92bfdeca2dfb457a6e6730b5e92bd/src/partido.js#L24) de la clase Partido a privados y se crea [test](https://github.com/juancpineda97/LaLigaStats/blob/05bbe34660d92bfdeca2dfb457a6e6730b5e92bd/test/equipo-jugador.test.js#L240) para comprobar su visibilidad.

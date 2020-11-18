@@ -47,7 +47,7 @@ describe("Tests relacionados con la funcionalidad de mostrar al usuario los juga
 
     test("Comprobación del funcionamiento del método verEquipo()", () => {
         var salidametodo = team.verEquipo();
-        team.listaJugadores.forEach(function(elemento) {
+        team.getListaJugadores().forEach(function(elemento) {
             aserciones.expect(salidametodo).toInclude(elemento.verJugador());
         })
     });
@@ -118,7 +118,7 @@ describe("Tests relacionados con la funcionalidad de mostrar al usuario los dato
         var lista_suplentes_barcelona = ["13 - Neto" , "2 - Dest" , "8 - Pjanic" , "22 - Ansu Fati" , "17 - Trincão"];
         var lista_suplentes_realmadrid = ["13 - Lunin" , "12 - Marcelo" , "10 - Modric" , "22 - Isco" , "18 - Jovic"];
         
-        aserciones.expect(salidametodo).toInclude(barcelona.nombre);
+        aserciones.expect(salidametodo).toInclude(barcelona.getNombre());
         aserciones.expect(salidametodo).toInclude(partido_prueba.arbitro);
         aserciones.expect(salidametodo).toInclude(partido_prueba.fecha.getDate());
         aserciones.expect(salidametodo).toInclude(partido_prueba.fecha.getMonth());
@@ -189,8 +189,8 @@ describe("Test de la clase Jugador", () =>{
 describe("Test de la clase Equipo", () =>{
 
     test("Comprobación del funcionamiento del constructor", () => {
-        aserciones.expect(team.nombre).toEqual("Barcelona");
-        aserciones.expect(team.listaJugadores.length).toEqual(3);
+        aserciones.expect(team.getNombre()).toEqual("Barcelona");
+        aserciones.expect(team.getListaJugadores().length).toEqual(3);
     });
 
     test("Comprobación del funcionamiento del constructor con tipos de dato no válidos", () => {
@@ -204,8 +204,8 @@ describe("Test de la clase Equipo", () =>{
 describe("Test de la clase Partido", () =>{
 
     test("Comprobación del funcionamiento del constructor", () => {
-        aserciones.expect(partido_prueba.equipoLocal.nombre).toEqual("Barcelona");
-        aserciones.expect(partido_prueba.equipoVisitante.nombre).toEqual("Real Madrid");
+        aserciones.expect(partido_prueba.equipoLocal.getNombre()).toEqual("Barcelona");
+        aserciones.expect(partido_prueba.equipoVisitante.getNombre()).toEqual("Real Madrid");
         aserciones.expect(partido_prueba.onceInicialLocal.length).toEqual(11);
         aserciones.expect(partido_prueba.onceInicialVisitante.length).toEqual(11);
         for (let i = 0; i < 11; i++) {

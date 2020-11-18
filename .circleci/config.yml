@@ -1,8 +1,12 @@
+#Elijo la versión a usar de CircleCI
 version: 2.0
 jobs:
   build:
     docker:
+        #Indico que quiero usar la imagen de mi proyecto en dockerhub
       - image: juancpineda97/laligastats
     steps:
+        #Realiza comprobaciones del estado de los archivos, etc...
       - checkout
+        #Ejecuta los tests
       - run: grunt test

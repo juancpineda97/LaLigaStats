@@ -4,9 +4,7 @@ language: node_js
 #Especifico en qué versiones de ese lenguaje quiero testear:
 node_js:
   - 10
-  - 11
   - 12
-  - 13
   - 14
   - node
 

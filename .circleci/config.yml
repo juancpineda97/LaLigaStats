@@ -3,8 +3,8 @@ version: 2.0
 jobs:
   build:
     machine:
-        #Indico que quiero usar la imagen de ubuntu, que viene con Docker instalado
-      - image: ubuntu-2004:202010-01
+      #Indico que quiero usar la imagen de ubuntu, que viene con Docker instalado
+      image: ubuntu-2004:202010-01
     steps:
         #Realiza comprobaciones del estado de los archivos, etc...
       - checkout

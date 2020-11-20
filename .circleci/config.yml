@@ -2,11 +2,11 @@
 version: 2.0
 jobs:
   build:
-    docker:
-        #Indico que quiero usar la imagen de mi proyecto en dockerhub
-      - image: juancpineda97/laligastats
+    machine:
+      #Indico que quiero usar la imagen de ubuntu, que viene con Docker instalado
+      image: ubuntu-2004:202010-01
     steps:
         #Realiza comprobaciones del estado de los archivos, etc...
       - checkout
         #Ejecuta los tests
-      - run: grunt test
+      - run: docker run -t -v `pwd`:/test juancpineda97/laligastats

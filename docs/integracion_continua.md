@@ -9,7 +9,7 @@ En primer lugar, he usado el sistema de integración continua Travis CI, ya que 
 
 En el cuál, se indica a travis que realice los siguientes pasos:
 - Primero, se indica que lenguaje voy usar, en este caso, node.js.
-- Luego, indico en qué versiones de este lenguaje quiero probar mi aplicación (se realizará una prueba diferente en travis por cada lenguaje), añado la versión más reciente con `node` y luego añado las versiones de la `14` a la `10`, en las cuáles sé que mi aplicación funciona correctamente en el estado actual.
+- Luego, indico en qué versiones de este lenguaje quiero probar mi aplicación (se realizará una prueba diferente en travis por cada lenguaje), añado la versión más reciente con `node` y luego añado las versiones `14`, `12` y `10`, las cuáles son las que están en estado *Active LTS* o *Maintenance LTS*.
 - Después, debo indicar que antes de que se ejecute la orden para instalar las dependencias, se debe instalar globalmente grunt-cli, ya que es necesario para ejecutar el administrador de tareas. En la versión anterior del proyecto había que instalar también globalmente jest para poder realizar los tests, sin embargo, se ha [cambiado](https://github.com/juancpineda97/LaLigaStats/issues/55) para evitar tenerlo que instalar globalmente.
 - Por último, se indica la orden para ejecutar los tests del proyecto, si se ejecutan los tests satisfactoriamente y con resultado positivo, se pasará la prueba de travis, en otro caso, dará fallo en la prueba e indicará qué es lo que ha fallado.
 

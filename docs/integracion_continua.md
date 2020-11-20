@@ -20,8 +20,8 @@ Voy a usar como segundo sistema de integración continua Circle CI, ya que éste
 ![conf_circle](img/conf_circle.png)
 
 - Primero, se elige la versión de Circle Ci que quiero usar.
-- Luego, se indica una nueva tarea, build, en la que se indica primero que usaré la imagen de mi proyecto como entorno de ejecución.
-- Por último, se indican los pasos de esta, los cuáles son realizar checkout de los archivos, etc... y luego ejecutar la orden `grunt test` para ejecutar los tests. Al igual que en Travis, si se ejecutan los tests satisfactoriamente y con resultado positivo, se pasará la prueba, en otro caso, dará fallo en la prueba e indicará qué es lo que ha fallado.
+- Luego, se indica una nueva tarea, build, en la que se indica primero que usaré la imagen de ubuntu.
+- Por último, se indican los pasos a seguir, los cuáles son realizar checkout de los archivos, etc... y luego ejecutar la orden `docker run -t -v 'pwd':/test juancpineda97/laligastats` para ejecutar los tests usando la imagen de mi proyecto en DockerHub. Al igual que en Travis, si se ejecutan los tests satisfactoriamente y con resultado positivo, se pasará la prueba, en otro caso, dará fallo en la prueba e indicará qué es lo que ha fallado.
 
 
 ## GitHub Actions

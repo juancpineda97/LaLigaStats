@@ -9,4 +9,4 @@ jobs:
         #Realiza comprobaciones del estado de los archivos, etc...
       - checkout
         #Ejecuta los tests
-      - run: grunt test
+      - run: docker run -t -v `pwd`:/test juancpineda97/laligastats

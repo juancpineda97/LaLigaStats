@@ -27,7 +27,7 @@ jobs:
     - name: Genera Datos
       env:
         TRANSFERMARKT_KEY: ${{ secrets.TRANSFERMARKT_KEY }}
-      run: grunt data
+      run: node ./src/getData.js github
     
     - name: Configura Email Git
       run: git config --local user.email "juancpineda2@gmail.com"

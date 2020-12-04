@@ -7,6 +7,13 @@ module.exports = function (grunt){
                 args: [
                     'test'
                 ]
+            },
+            datos:{
+                cmd: 'node',
+                args: [
+                    './src/getData.js',
+                    'github'
+                ]
             }
         },
 
@@ -28,6 +35,7 @@ module.exports = function (grunt){
     grunt.loadNpmTasks('grunt-docco');
     grunt.loadNpmTasks('grunt-contrib-clean');  
     grunt.registerTask('test', ['run:tests']);
+    grunt.registerTask('data', ['run:datos']);
     grunt.registerTask('documentacion', ['docco']);
     grunt.registerTask('borrar_doc', ['clean']);
 };

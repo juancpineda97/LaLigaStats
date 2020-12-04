@@ -1,0 +1,47 @@
+# This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+
+name: Actualización de datos
+
+on:
+  push:
+    branches: [ main ]
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [14.x]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - name: Instala Dependencias
+      run: npm install
+    
+    - name: Genera Datos
+      env:
+        TRANSFERMARKT_KEY: ${{ secrets.TRANSFERMARKT_KEY }}
+      run: npm data
+    
+    - name: Configura Email Git
+      run: git config --local user.email "juancpineda2@gmail.com"
+    
+    - name: Configura User Git
+      run: git config --local user.name "juancpineda97"   
+    
+    - name: Git Add
+      run: git add data/equipos.json
+    
+    - name: Git Commit
+      run: git commit -m "Genera datos de jugadores actualizados"
+      
+    - name: Git Push
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.DATA_TOKEN }}

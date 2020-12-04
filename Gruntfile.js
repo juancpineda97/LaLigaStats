@@ -11,8 +11,7 @@ module.exports = function (grunt){
             datos:{
                 cmd: 'node',
                 args: [
-                    './src/getData.js',
-                    'github'
+                    './src/getData.js'
                 ]
             }
         },

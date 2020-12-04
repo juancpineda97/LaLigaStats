@@ -10,7 +10,7 @@ if (process.argv[2] != "github"){
     env('./.env.dist');
 }
 
-var key = process.env.FOOTBALL_DATA_KEY;
+var key = process.env.TRANSFERMARKT_KEY;
 
 var id_equipos = [];
 var equipos = {};
@@ -18,12 +18,14 @@ var equipos = {};
 const options = {
     method: "GET",
     headers: {
-        "X-Auth-Token":key
+        "x-rapidapi-key": key,
+	    "x-rapidapi-host": "transfermarket.p.rapidapi.com",
+	    "useQueryString": true
     }
 };
 
 async function fetchPrincipal(){
-    const response = await fetch("http://api.football-data.org/v2/competitions/2014/teams", options)
+    const response = await fetch("https://transfermarket.p.rapidapi.com/clubs/list-by-competition?id=ES1", options)
     .catch(err => {
         console.error("ERROR: ", err.message)
     })
@@ -32,11 +34,11 @@ async function fetchPrincipal(){
 
     var nombre = "";
     var id = 0;
-    var count = data['count'];
+    var count = data['clubs'].length;
     for (let i = 0; i < count; i++) {
         var equipo = [];
-        nombre = data['teams'][i]['name'];
-        id = data['teams'][i]['id'];
+        nombre = data['clubs'][i]['name'];
+        id = data['clubs'][i]['id'];
         equipo.push(nombre);
         equipo.push(id);
         id_equipos.push(equipo);
@@ -47,11 +49,10 @@ async function fetchPrincipal(){
     }
 
     localStorage.setItem('equipos.json', JSON.stringify(equipos, null, '\t'));
-
 }
 
 async function obtenerDatosEquipo(nombre,id){
-    let url = "http://api.football-data.org/v2/teams/" + id;
+    let url = "https://transfermarket.p.rapidapi.com/clubs/get-squad?id=" + id;
     const response = await fetch(url, options)
     .catch(err => {
         console.error("ERROR: ", err.message)
@@ -66,30 +67,65 @@ async function obtenerDatosEquipo(nombre,id){
         let nombre_jugador = jugadores_full[i]['name'];
         
         //Nacionalidad
-        let nacionalidad = jugadores_full[i]['nationality'];
+        let nacionalidad = jugadores_full[i]['nationalities'][0]['name'];
 
         //fechaNacimiento
-        let fecha_n = jugadores_full[i]['dateOfBirth'];
-        let fechaNacimiento = fecha_n.substr(0,10);
+        let fecha_init = jugadores_full[i]['dateOfBirth'];
+        fecha_init  = parseInt(fecha_init);
+        fecha_init = fecha_init*1000;
+        let fecha = new Date(parseInt(fecha_init));
+        let fechaNacimiento = "";
+        let mes_nac = fecha.getMonth()+1;
+        fechaNacimiento = fecha.getDate() + "-" + mes_nac + "-" + fecha.getFullYear();
+
+        //valor
+        let valor_temp = parseFloat(jugadores_full[i]['marketValue']['value']);
+        let valor = valor_temp/1000000;
+
+        //dorsal
+        let dorsal = jugadores_full[i]['shirtNumber'];
 
         //posicion
-        let pos = jugadores_full[i]['position'];
+        let pos = jugadores_full[i]['positions']['first']['group'];
         let posicion = "";
-        if (pos == "Defender"){
+        if (pos == "Abwehr"){
             posicion = "DF";
         }
-        else if (pos == "Midfielder"){
+        else if (pos == "Mittelfeld"){
             posicion = "MC";
         }
-        else if (pos == "Attacker"){
+        else if (pos == "Sturm"){
             posicion = "DL";
         }
-        else {
+        else if (pos == "Torwart"){
             posicion = "PT";
         }
+        else {
+            posicion = "NULL";
+        }
+
+        //pieHabil
+        let pie = jugadores_full[i]['foot'];
+        let pieHabil = "";
+        if (pie == "links"){
+            pieHabil = "I";
+        }
+        else if (pie == "rechts"){
+            pieHabil = "D";
+        }
+        else {
+            pieHabil = "A";
+        }
+
+        //altura
+        let altura = jugadores_full[i]['height'];
+
+        //capitan
+        let capitan = jugadores_full[i]['captain'];
         
         let jugador = {"nombre":nombre_jugador, "nacionalidad":nacionalidad,
-            "fechaNacimiento":fechaNacimiento, "posicion":posicion};
+            "fechaNacimiento":fechaNacimiento, "valor":valor, "dorsal":dorsal, "posicion":posicion,
+            "pieHabil":pieHabil, "altura":altura, "capitan":capitan};
         
         jugadores.push(jugador);
     }
@@ -106,8 +142,8 @@ function sleep(ms) {
 }
   
 async function demo() {
-    console.log('Espera de 8 segundos...');
-    await sleep(8000);
+    console.log('Espera de 1 segundo...');
+    await sleep(1000);
     console.log('Prosigue la ejecucion');
 }
   

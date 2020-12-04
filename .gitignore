@@ -8,3 +8,6 @@ Thumbs.db
 
 # Archivos de node.js
 node_modules
+
+#Archivo de variables de entorno
+.env.dist

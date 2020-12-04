@@ -46,7 +46,7 @@ async function fetchPrincipal(){
         await obtenerDatosEquipo(id_equipos[i][0],id_equipos[i][1]);
     }
 
-    localStorage.setItem('equipos.json', JSON.stringify(equipos));
+    localStorage.setItem('equipos.json', JSON.stringify(equipos, null, '\t'));
 
 }
 

@@ -1,3822 +1,5718 @@
 {
-	"Athletic Club": [
-		{
-			"nombre": "Ibai",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-11-11",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Álex Berenguer",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-07-04",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Yuri Berchiche",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1990-02-10",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Unai López",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-10-30",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Jokin Ezkieta",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-08-17",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Unai Simón",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-06-11",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Iago Herrerín",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1988-01-25",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Balenziaga",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1988-02-29",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Yeray Álvarez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-01-24",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Iñigo Lekue",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-05-04",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Unai Núñez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-01-30",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Íñigo Martínez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1991-05-17",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "De Marcos",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-04-10",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Raúl García",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1986-07-11",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Iñigo Córdoba",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-03-13",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Peru Nolaskoain",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-10-25",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Muniain",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-12-19",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Iñaki Williams",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1994-06-15",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Ander Capa",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-02-08",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Dani García",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1990-05-24",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Asier Villalibre",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-09-30",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Kenan Kodro",
-			"nacionalidad": "Bosnia and Herzegovina",
-			"fechaNacimiento": "1993-08-19",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Mikel Vesga",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-05-21",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Gaizka Garitano",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1975-07-09",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Iñigo Vicente",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-01-06",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Oihan Sancet",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-04-25",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Jon Morcillo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-09-15",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Unai Vencedor Paris",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-11-15",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Oier Zarraga",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1999-01-04",
-			"posicion": "MC"
-		}
-	],
-	"Club Atlético de Madrid": [
-		{
-			"nombre": "Adán",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1987-05-13",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Marcos Llorente",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-01-30",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Koke",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-01-08",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Diego Costa",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1988-10-07",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "José Maria Giménez",
-			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "1995-01-20",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Šime Vrsaljko",
-			"nacionalidad": "Croatia",
-			"fechaNacimiento": "1992-01-10",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Saúl",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1994-11-21",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Jan Oblak",
-			"nacionalidad": "Slovenia",
-			"fechaNacimiento": "1993-01-07",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Ángel Correa",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1995-03-09",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Vitolo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-11-02",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Diego Simeone",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1970-04-28",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Caio Henrique",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "1997-07-31",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Renan Lodi",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "1998-04-08",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Lucas Torreira",
-			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "1996-02-11",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Luis Suárez",
-			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "1987-01-24",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Héctor Herrera",
-			"nacionalidad": "Mexico",
-			"fechaNacimiento": "1990-04-19",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Kieran Trippier",
-			"nacionalidad": "England",
-			"fechaNacimiento": "1990-09-19",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Thomas Lemar",
-			"nacionalidad": "France",
-			"fechaNacimiento": "1995-11-12",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Yannick Carrasco",
-			"nacionalidad": "Belgium",
-			"fechaNacimiento": "1993-09-04",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Ivan Šaponjić",
-			"nacionalidad": "Serbia",
-			"fechaNacimiento": "1997-08-02",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Alex dos Santos",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1999-01-15",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Miguel San Román",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-07-14",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Stefan Savić",
-			"nacionalidad": "Montenegro",
-			"fechaNacimiento": "1991-01-08",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Toni Moya",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-03-20",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Felipe",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "1989-05-16",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Ivo Grbić",
-			"nacionalidad": "Croatia",
-			"fechaNacimiento": "1996-01-18",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Álvaro García",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-06-01",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Mario Hermoso",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-06-18",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Geoffrey Kondogbia",
-			"nacionalidad": "Central African Republic",
-			"fechaNacimiento": "1993-02-15",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "João Félix",
-			"nacionalidad": "Portugal",
-			"fechaNacimiento": "1999-11-10",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Francisco Montero",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1999-01-14",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Diego Conde",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-10-20",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Sergio Camello",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2001-02-10",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Manuel Sánchez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-08-24",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Germán Valera",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2002-03-16",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Ricard Sánchez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-02-22",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Juan Sanabria",
-			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "2000-03-29",
-			"posicion": "MC"
-		}
-	],
-	"CA Osasuna": [
-		{
-			"nombre": "Raúl Navas",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1988-05-11",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Rubén",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1984-06-22",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Adrián",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1988-01-08",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Ante Budimir",
-			"nacionalidad": "Croatia",
-			"fechaNacimiento": "1991-07-22",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Jonathan Calleri",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1993-09-23",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Brandon",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-02-04",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Juan Pérez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-07-15",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Sergio Herrera",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-06-05",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Oier",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1986-05-25",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Unai García",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-09-30",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Aridane Hernández",
-			"nacionalidad": "Equatorial Guinea",
-			"fechaNacimiento": "1989-03-23",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Roberto Torres",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-03-07",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Lucas Torró",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1994-07-19",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Kike Barja",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-04-04",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "David García",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1994-02-14",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Rubén García",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-07-14",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Jony",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1991-07-09",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Iñigo Pérez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1988-01-18",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Chimy Ávila",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1994-02-06",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Jagoba Arrasate",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1978-04-22",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Nacho Vidal",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-01-24",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Facundo Roncaglia",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1987-02-10",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Darko Brašanac",
-			"nacionalidad": "Serbia",
-			"fechaNacimiento": "1992-02-12",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Enric Gallego",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1986-09-12",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Juan Cruz",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-07-28",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Javi Martínez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1999-12-22",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Iván Martínez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2002-02-19",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Jon Moncayola",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-05-13",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Aimar Oroz",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2001-11-27",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Gorka Zabarte",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1999-01-09",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Javier Delgado",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1999-06-19",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Asier Córdoba",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-03-31",
-			"posicion": "DL"
-		}
-	],
-	"FC Barcelona": [
-		{
-			"nombre": "Quique Setién",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1958-09-27",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Clément Lenglet",
-			"nacionalidad": "France",
-			"fechaNacimiento": "1995-06-17",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Antoine Griezmann",
-			"nacionalidad": "France",
-			"fechaNacimiento": "1991-03-21",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Arthur",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "1996-08-12",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Matheus Fernandes",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "1998-06-30",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Miralem Pjanić",
-			"nacionalidad": "Bosnia and Herzegovina",
-			"fechaNacimiento": "1990-04-02",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Marc-André ter Stegen",
-			"nacionalidad": "Germany",
-			"fechaNacimiento": "1992-04-30",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Piqué",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1987-02-02",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Jordi Alba",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-03-21",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Lionel Messi",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1987-06-24",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Neto",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "1989-07-19",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Philippe Coutinho",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "1992-06-12",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Samuel Umtiti",
-			"nacionalidad": "France",
-			"fechaNacimiento": "1993-11-14",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Ousmane Dembélé",
-			"nacionalidad": "France",
-			"fechaNacimiento": "1997-05-15",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Martin Braithwaite",
-			"nacionalidad": "Denmark",
-			"fechaNacimiento": "1991-06-05",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Ivan Rakitić",
-			"nacionalidad": "Croatia",
-			"fechaNacimiento": "1988-03-10",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Frenkie de Jong",
-			"nacionalidad": "Netherlands",
-			"fechaNacimiento": "1997-05-12",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Busquets",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1988-07-16",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Ronald Koeman",
-			"nacionalidad": "Netherlands",
-			"fechaNacimiento": "1963-03-21",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Sergi Roberto",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-02-07",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Aleñà",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-01-05",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Oriol Busquets",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1999-01-20",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Ronald Araújo",
-			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "1999-03-07",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Riqui Puig",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1999-08-13",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Júnior Firpo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-05-10",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Trincão",
-			"nacionalidad": "Portugal",
-			"fechaNacimiento": "1999-12-29",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Sergiño Dest",
-			"nacionalidad": "United States",
-			"fechaNacimiento": "2000-11-03",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Iñaki",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1999-03-02",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Henrik Larsson",
-			"nacionalidad": "Sweden",
-			"fechaNacimiento": "1971-09-20",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Alfred Schreuder",
-			"nacionalidad": "Netherlands",
-			"fechaNacimiento": "1972-11-02",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Ansu Fati",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2002-10-31",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Pedri",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2002-11-25",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Arnau Tenas",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2001-05-30",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Konrad de la Fuente",
-			"nacionalidad": "United States",
-			"fechaNacimiento": "2001-07-16",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Óscar Mingueza",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1999-05-13",
-			"posicion": "DF"
-		}
-	],
-	"Getafe CF": [
-		{
-			"nombre": "David Soria",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-04-04",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Ángel",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1987-04-26",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Portillo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1990-06-13",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Dakonam Djené",
-			"nacionalidad": "Togo",
-			"fechaNacimiento": "1991-12-31",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "David Alba",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1999-05-05",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Leandro Chichizola",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1990-03-27",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Pepe Bordalás",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1964-03-05",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Nemanja Maksimović",
-			"nacionalidad": "Serbia",
-			"fechaNacimiento": "1995-01-26",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Allan Nyom",
-			"nacionalidad": "Cameroon",
-			"fechaNacimiento": "1988-05-10",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Abdoulay Diaby",
-			"nacionalidad": "Mali",
-			"fechaNacimiento": "1991-05-21",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Cucurella",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-07-22",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Mata",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1988-10-24",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Cucho Hernández",
-			"nacionalidad": "Colombia",
-			"fechaNacimiento": "1999-04-20",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Rubén Yáñez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-10-12",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Xabi Etxeita",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1987-10-31",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Damián Suárez",
-			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "1988-04-27",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Mathías Olivera",
-			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "1997-10-31",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Mauro Arambarri",
-			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "1995-09-30",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "José Vegar",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1975-02-22",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Chema",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-03-03",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Erick Cabaco",
-			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "1995-04-19",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Darío Poveda",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-03-13",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Enes Ünal",
-			"nacionalidad": "Turkey",
-			"fechaNacimiento": "1997-05-10",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Timor",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-01-17",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Ante Palaversa",
-			"nacionalidad": "Croatia",
-			"fechaNacimiento": "2000-04-06",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Victor Mollejo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2001-01-21",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Ryan Nolan",
-			"nacionalidad": "Republic of Ireland",
-			"fechaNacimiento": "1999-02-17",
-			"posicion": "DF"
-		}
-	],
-	"Granada CF": [
-		{
-			"nombre": "Jesús Vallejo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-01-05",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Maxime Gonalons",
-			"nacionalidad": "France",
-			"fechaNacimiento": "1989-03-10",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Molina",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1982-04-22",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Kenedy",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "1996-02-08",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Dimitri Foulquier",
-			"nacionalidad": "Guadeloupe",
-			"fechaNacimiento": "1993-03-23",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Soldado",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1985-05-27",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Diego Martínez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1980-12-16",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Rui Silva",
-			"nacionalidad": "Portugal",
-			"fechaNacimiento": "1994-02-07",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Aarón",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-09-27",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Germán",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1986-10-31",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Quini",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-09-24",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Víctor Díaz",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1988-06-12",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Montoro",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1988-06-25",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Antonio Puertas",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-02-21",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Darwin Machís",
-			"nacionalidad": "Venezuela",
-			"fechaNacimiento": "1993-02-07",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Yan Eteki",
-			"nacionalidad": "Cameroon",
-			"fechaNacimiento": "1997-08-26",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Luis Suárez",
-			"nacionalidad": "Colombia",
-			"fechaNacimiento": "1997-12-02",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Luis Milla",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1994-10-07",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Bernardo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-07-17",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Fede Vico",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1994-07-04",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Ramon Azeez",
-			"nacionalidad": "Nigeria",
-			"fechaNacimiento": "1992-12-12",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Andorinha",
-			"nacionalidad": "Portugal",
-			"fechaNacimiento": "1996-02-02",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Domingos Duarte",
-			"nacionalidad": "Portugal",
-			"fechaNacimiento": "1995-03-10",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Nehuén Pérez",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "2000-06-24",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Eris Abedini",
-			"nacionalidad": "Kosovo",
-			"fechaNacimiento": "1998-08-29",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Alvaro Bravo Jiménez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-02-04",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Fobi Kingsley",
-			"nacionalidad": "Ghana",
-			"fechaNacimiento": "1998-09-20",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Yangel Herrera",
-			"nacionalidad": "Venezuela",
-			"fechaNacimiento": "1998-01-07",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Neyder Lozano",
-			"nacionalidad": "Colombia",
-			"fechaNacimiento": "1994-03-04",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Alberto Soro",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1999-03-09",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Jesús Rodríguez Ortuño",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-02-11",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Dani Plomer",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-11-30",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Carlos Neva",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-06-12",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Juan",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1998-01-24",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "José Sánchez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-03-02",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Arnau Fàbrega Mañas",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-06-28",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Raúl Torrente",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2001-03-01",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Ángel Jiménez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2002-06-22",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Ismael Ruiz",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2001-02-14",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Carlos León",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2002-12-05",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Rafael Romero",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2003-08-07",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Sergio Barcia",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-12-31",
-			"posicion": "DF"
-		}
-	],
-	"Real Madrid CF": [
-		{
-			"nombre": "Álvaro Odriozola",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-12-14",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Luka Modrić",
-			"nacionalidad": "Croatia",
-			"fechaNacimiento": "1985-09-09",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Lucas Vázquez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1991-07-01",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Jesús Vallejo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-01-05",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Toni Kroos",
-			"nacionalidad": "Germany",
-			"fechaNacimiento": "1990-01-04",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Marcelo",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "1988-05-12",
-			"posicion": "DF"
+	"Real Madrid": [
+		{
+			"nombre": "Casemiro",
+			"nacionalidad": "Brasilien",
+			"fechaNacimiento": "23-2-1992",
+			"valor": 65,
+			"dorsal": "14",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
 		},
 		{
 			"nombre": "Karim Benzema",
-			"nacionalidad": "France",
-			"fechaNacimiento": "1987-12-19",
-			"posicion": "DL"
+			"nacionalidad": "Frankreich",
+			"fechaNacimiento": "19-12-1987",
+			"valor": 25,
+			"dorsal": "9",
+			"posicion": "DL",
+			"pieHabil": "A",
+			"altura": "1,84",
+			"capitan": false
 		},
 		{
-			"nombre": "Nacho",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1990-01-18",
-			"posicion": "DF"
+			"nombre": "Sergio Ramos",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "30-3-1986",
+			"valor": 14,
+			"dorsal": "4",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": true
 		},
 		{
-			"nombre": "Marco Asensio",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-01-21",
-			"posicion": "MC"
+			"nombre": "Luka Modric",
+			"nacionalidad": "Kroatien",
+			"fechaNacimiento": "9-9-1985",
+			"valor": 10,
+			"dorsal": "10",
+			"posicion": "MC",
+			"pieHabil": "A",
+			"altura": "1,72",
+			"capitan": false
 		},
 		{
-			"nombre": "Achraf Hakimi",
-			"nacionalidad": "Morocco",
-			"fechaNacimiento": "1998-11-04",
-			"posicion": "DF"
+			"nombre": "Toni Kroos",
+			"nacionalidad": "Deutschland",
+			"fechaNacimiento": "4-1-1990",
+			"valor": 50,
+			"dorsal": "8",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,83",
+			"capitan": false
+		},
+		{
+			"nombre": "Marcelo",
+			"nacionalidad": "Brasilien",
+			"fechaNacimiento": "12-5-1988",
+			"valor": 12,
+			"dorsal": "12",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,74",
+			"capitan": false
+		},
+		{
+			"nombre": "Eden Hazard",
+			"nacionalidad": "Belgien",
+			"fechaNacimiento": "7-1-1991",
+			"valor": 60,
+			"dorsal": "7",
+			"posicion": "DL",
+			"pieHabil": "A",
+			"altura": "1,75",
+			"capitan": false
+		},
+		{
+			"nombre": "Nacho Fernández",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "18-1-1990",
+			"valor": 10,
+			"dorsal": "6",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,80",
+			"capitan": false
 		},
 		{
 			"nombre": "Isco",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-04-21",
-			"posicion": "MC"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "21-4-1992",
+			"valor": 20,
+			"dorsal": "22",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,76",
+			"capitan": false
 		},
 		{
-			"nombre": "Dani Ceballos",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-08-07",
-			"posicion": "MC"
+			"nombre": "Thibaut Courtois",
+			"nacionalidad": "Belgien",
+			"fechaNacimiento": "11-5-1992",
+			"valor": 75,
+			"dorsal": "1",
+			"posicion": "PT",
+			"pieHabil": "I",
+			"altura": "1,99",
+			"capitan": false
 		},
 		{
-			"nombre": "Zinedine Zidane",
-			"nacionalidad": "France",
-			"fechaNacimiento": "1972-06-23",
-			"posicion": "PT"
+			"nombre": "Daniel Carvajal",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "11-1-1992",
+			"valor": 40,
+			"dorsal": "2",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,73",
+			"capitan": false
+		},
+		{
+			"nombre": "Raphaël Varane",
+			"nacionalidad": "Frankreich",
+			"fechaNacimiento": "25-4-1993",
+			"valor": 70,
+			"dorsal": "5",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,91",
+			"capitan": false
+		},
+		{
+			"nombre": "Lucas Vázquez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "1-7-1991",
+			"valor": 10,
+			"dorsal": "17",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,73",
+			"capitan": false
+		},
+		{
+			"nombre": "Mariano Díaz",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "1-8-1993",
+			"valor": 12,
+			"dorsal": "24",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,80",
+			"capitan": false
+		},
+		{
+			"nombre": "Luka Jovic",
+			"nacionalidad": "Serbien",
+			"fechaNacimiento": "23-12-1997",
+			"valor": 22,
+			"dorsal": "18",
+			"posicion": "DL",
+			"pieHabil": "A",
+			"altura": "1,82",
+			"capitan": false
+		},
+		{
+			"nombre": "Álvaro Odriozola",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "14-12-1995",
+			"valor": 14,
+			"dorsal": "19",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,76",
+			"capitan": false
+		},
+		{
+			"nombre": "Ferland Mendy",
+			"nacionalidad": "Frankreich",
+			"fechaNacimiento": "8-6-1995",
+			"valor": 40,
+			"dorsal": "23",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,80",
+			"capitan": false
+		},
+		{
+			"nombre": "Marco Asensio",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "21-1-1996",
+			"valor": 40,
+			"dorsal": "11",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,82",
+			"capitan": false
+		},
+		{
+			"nombre": "Martin Ødegaard",
+			"nacionalidad": "Norwegen",
+			"fechaNacimiento": "17-12-1998",
+			"valor": 45,
+			"dorsal": "21",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,78",
+			"capitan": false
 		},
 		{
 			"nombre": "Federico Valverde",
 			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "1998-07-22",
-			"posicion": "MC"
+			"fechaNacimiento": "22-7-1998",
+			"valor": 70,
+			"dorsal": "15",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,82",
+			"capitan": false
 		},
 		{
-			"nombre": "Rodrygo",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "2001-01-09",
-			"posicion": "DL"
+			"nombre": "Vinícius Júnior",
+			"nacionalidad": "Brasilien",
+			"fechaNacimiento": "12-7-2000",
+			"valor": 50,
+			"dorsal": "20",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,76",
+			"capitan": false
 		},
 		{
 			"nombre": "Éder Militão",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "1998-01-18",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Vinicius Junior",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "2000-07-12",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Sergio Ramos",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1986-03-30",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Dani Carvajal",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-01-11",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Casemiro",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "1992-02-23",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Alphonse Aréola",
-			"nacionalidad": "France",
-			"fechaNacimiento": "1993-02-27",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Raphaël Varane",
-			"nacionalidad": "France",
-			"fechaNacimiento": "1993-04-25",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Thibaut Courtois",
-			"nacionalidad": "Belgium",
-			"fechaNacimiento": "1992-05-11",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Eden Hazard",
-			"nacionalidad": "Belgium",
-			"fechaNacimiento": "1991-01-07",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Óscar",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-06-28",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Luka Jović",
-			"nacionalidad": "Serbia",
-			"fechaNacimiento": "1997-12-23",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Martin Ødegaard",
-			"nacionalidad": "Norway",
-			"fechaNacimiento": "1998-12-17",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Brahim Diaz",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1999-08-03",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Ferland Mendy",
-			"nacionalidad": "France",
-			"fechaNacimiento": "1995-06-08",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Mariano Díaz",
-			"nacionalidad": "Dominican Republic",
-			"fechaNacimiento": "1993-08-01",
-			"posicion": "DL"
+			"nacionalidad": "Brasilien",
+			"fechaNacimiento": "18-1-1998",
+			"valor": 40,
+			"dorsal": "3",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,86",
+			"capitan": false
 		},
 		{
 			"nombre": "Andriy Lunin",
 			"nacionalidad": "Ukraine",
-			"fechaNacimiento": "1999-02-11",
-			"posicion": "PT"
+			"fechaNacimiento": "11-2-1999",
+			"valor": 3,
+			"dorsal": "13",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,91",
+			"capitan": false
 		},
 		{
-			"nombre": "Hugo Duro",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1999-11-10",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Takefusa Kubo",
-			"nacionalidad": "Japan",
-			"fechaNacimiento": "2001-06-04",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Reinier",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "2002-01-19",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Diego Altube",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-02-22",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Víctor Chust",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-03-05",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Sergio Santos",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2001-01-03",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Óscar Aranda",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2002-04-29",
-			"posicion": "DL"
+			"nombre": "Rodrygo",
+			"nacionalidad": "Brasilien",
+			"fechaNacimiento": "9-1-2001",
+			"valor": 45,
+			"dorsal": "25",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,74",
+			"capitan": false
 		}
 	],
-	"Levante UD": [
+	"FC Barcelona": [
 		{
-			"nombre": "Sergio León",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-01-06",
-			"posicion": "DL"
+			"nombre": "Gerard Piqué",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "2-2-1987",
+			"valor": 15,
+			"dorsal": "3",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,94",
+			"capitan": false
 		},
 		{
-			"nombre": "Óscar Duarte",
-			"nacionalidad": "Costa Rica",
-			"fechaNacimiento": "1989-06-03",
-			"posicion": "DF"
+			"nombre": "Lionel Messi",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "24-6-1987",
+			"valor": 100,
+			"dorsal": "10",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,70",
+			"capitan": true
 		},
 		{
-			"nombre": "Carlos Clerc",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-02-21",
-			"posicion": "DF"
+			"nombre": "Miralem Pjanic",
+			"nacionalidad": "Bosnien-Herzegowina",
+			"fechaNacimiento": "2-4-1990",
+			"valor": 50,
+			"dorsal": "8",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,80",
+			"capitan": false
 		},
 		{
-			"nombre": "Aitor Fernández",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1991-05-03",
-			"posicion": "PT"
+			"nombre": "Sergio Busquets",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "16-7-1988",
+			"valor": 15,
+			"dorsal": "5",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,89",
+			"capitan": false
 		},
 		{
-			"nombre": "Melero",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1994-01-02",
-			"posicion": "MC"
+			"nombre": "Jordi Alba",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "21-3-1989",
+			"valor": 30,
+			"dorsal": "18",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,70",
+			"capitan": false
+		},
+		{
+			"nombre": "Marc-André ter Stegen",
+			"nacionalidad": "Deutschland",
+			"fechaNacimiento": "30-4-1992",
+			"valor": 75,
+			"dorsal": "1",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
+		},
+		{
+			"nombre": "Philippe Coutinho",
+			"nacionalidad": "Brasilien",
+			"fechaNacimiento": "12-6-1992",
+			"valor": 60,
+			"dorsal": "14",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,72",
+			"capitan": false
+		},
+		{
+			"nombre": "Sergi Roberto",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "7-2-1992",
+			"valor": 25,
+			"dorsal": "20",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
+		},
+		{
+			"nombre": "Martin Braithwaite",
+			"nacionalidad": "Dänemark",
+			"fechaNacimiento": "5-6-1991",
+			"valor": 7.5,
+			"dorsal": "9",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,77",
+			"capitan": false
+		},
+		{
+			"nombre": "Neto",
+			"nacionalidad": "Brasilien",
+			"fechaNacimiento": "19-7-1989",
+			"valor": 10,
+			"dorsal": "13",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,90",
+			"capitan": false
+		},
+		{
+			"nombre": "Antoine Griezmann",
+			"nacionalidad": "Frankreich",
+			"fechaNacimiento": "21-3-1991",
+			"valor": 80,
+			"dorsal": "7",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,76",
+			"capitan": false
+		},
+		{
+			"nombre": "Samuel Umtiti",
+			"nacionalidad": "Frankreich",
+			"fechaNacimiento": "14-11-1993",
+			"valor": 12,
+			"dorsal": "23",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,82",
+			"capitan": false
+		},
+		{
+			"nombre": "Clément Lenglet",
+			"nacionalidad": "Frankreich",
+			"fechaNacimiento": "17-6-1995",
+			"valor": 50,
+			"dorsal": "15",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,86",
+			"capitan": false
+		},
+		{
+			"nombre": "Iñaki Peña",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "2-3-1999",
+			"valor": 2.5,
+			"dorsal": "26",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
+		},
+		{
+			"nombre": "Carles Aleñá",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "5-1-1998",
+			"valor": 18,
+			"dorsal": "6",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,80",
+			"capitan": false
+		},
+		{
+			"nombre": "Ousmane Dembélé",
+			"nacionalidad": "Frankreich",
+			"fechaNacimiento": "15-5-1997",
+			"valor": 50,
+			"dorsal": "11",
+			"posicion": "DL",
+			"pieHabil": "A",
+			"altura": "1,78",
+			"capitan": false
+		},
+		{
+			"nombre": "Frenkie de Jong",
+			"nacionalidad": "Niederlande",
+			"fechaNacimiento": "12-5-1997",
+			"valor": 70,
+			"dorsal": "21",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,81",
+			"capitan": false
+		},
+		{
+			"nombre": "Óscar Mingueza",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "13-5-1999",
+			"valor": 0.2,
+			"dorsal": "28",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
+		},
+		{
+			"nombre": "Riqui Puig",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "13-8-1999",
+			"valor": 20,
+			"dorsal": "12",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,69",
+			"capitan": false
+		},
+		{
+			"nombre": "Matheus Fernandes",
+			"nacionalidad": "Brasilien",
+			"fechaNacimiento": "30-6-1998",
+			"valor": 3,
+			"dorsal": "19",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,83",
+			"capitan": false
+		},
+		{
+			"nombre": "Sergiño Dest",
+			"nacionalidad": "Vereinigte Staaten",
+			"fechaNacimiento": "3-11-2000",
+			"valor": 20,
+			"dorsal": "2",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,75",
+			"capitan": false
+		},
+		{
+			"nombre": "Júnior Firpo",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "22-8-1996",
+			"valor": 14,
+			"dorsal": "24",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,84",
+			"capitan": false
+		},
+		{
+			"nombre": "Trincão",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "29-12-1999",
+			"valor": 30,
+			"dorsal": "17",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,84",
+			"capitan": false
+		},
+		{
+			"nombre": "Arnau Tenas",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "30-5-2001",
+			"valor": 0.5,
+			"dorsal": "36",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
+		},
+		{
+			"nombre": "Konrad de la Fuente",
+			"nacionalidad": "Vereinigte Staaten",
+			"fechaNacimiento": "16-7-2001",
+			"valor": 2.5,
+			"dorsal": "29",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,76",
+			"capitan": false
+		},
+		{
+			"nombre": "Ansu Fati",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "31-10-2002",
+			"valor": 80,
+			"dorsal": "22",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
+		},
+		{
+			"nombre": "Ronald Araújo",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "7-3-1999",
+			"valor": 15,
+			"dorsal": "4",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,88",
+			"capitan": false
+		},
+		{
+			"nombre": "Pedri",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "25-11-2002",
+			"valor": 30,
+			"dorsal": "16",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,74",
+			"capitan": false
+		}
+	],
+	"Atlético Madrid": [
+		{
+			"nombre": "Luis Suárez",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "24-1-1987",
+			"valor": 18,
+			"dorsal": "9",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,82",
+			"capitan": false
+		},
+		{
+			"nombre": "Diego Costa",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "7-10-1988",
+			"valor": 10,
+			"dorsal": "19",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,86",
+			"capitan": false
+		},
+		{
+			"nombre": "Vitolo",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "2-11-1989",
+			"valor": 10,
+			"dorsal": "20",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
 		},
 		{
 			"nombre": "Koke",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-09-27",
-			"posicion": "PT"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "8-1-1992",
+			"valor": 60,
+			"dorsal": "6",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,76",
+			"capitan": true
 		},
 		{
-			"nombre": "Toño García",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-11-07",
-			"posicion": "DF"
+			"nombre": "Sime Vrsaljko",
+			"nacionalidad": "Kroatien",
+			"fechaNacimiento": "10-1-1992",
+			"valor": 10,
+			"dorsal": "24",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,81",
+			"capitan": false
 		},
 		{
-			"nombre": "Postigo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1988-11-04",
-			"posicion": "DF"
+			"nombre": "Kieran Trippier",
+			"nacionalidad": "England",
+			"fechaNacimiento": "19-9-1990",
+			"valor": 20,
+			"dorsal": "23",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,73",
+			"capitan": false
 		},
 		{
-			"nombre": "Campaña",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-05-31",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Rober Pier",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-02-16",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Coke",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1987-04-26",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Enis Bardhi",
-			"nacionalidad": "North Macedonia",
-			"fechaNacimiento": "1995-07-02",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Cheick Doukouré",
-			"nacionalidad": "Côte d’Ivoire",
-			"fechaNacimiento": "1992-09-11",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "José Luis Morales",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1987-07-23",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Roger Martí",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1991-01-03",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Rochina",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1991-03-23",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Paco López",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1967-09-19",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Jorge Miramón",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-06-02",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Rúben Vezo",
-			"nacionalidad": "Portugal",
-			"fechaNacimiento": "1994-04-25",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Nemanja Radoja",
-			"nacionalidad": "Serbia",
-			"fechaNacimiento": "1993-02-06",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Mickaël Malsa",
-			"nacionalidad": "Martinique",
-			"fechaNacimiento": "1995-10-12",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Nikola Vukčević",
+			"nombre": "Stefan Savic",
 			"nacionalidad": "Montenegro",
-			"fechaNacimiento": "1991-12-13",
-			"posicion": "MC"
+			"fechaNacimiento": "8-1-1991",
+			"valor": 20,
+			"dorsal": "15",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
 		},
 		{
-			"nombre": "Son",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1994-03-30",
-			"posicion": "DF"
+			"nombre": "Jan Oblak",
+			"nacionalidad": "Slowenien",
+			"fechaNacimiento": "7-1-1993",
+			"valor": 90,
+			"dorsal": "13",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,88",
+			"capitan": false
 		},
 		{
-			"nombre": "Dani Gómez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-07-30",
-			"posicion": "DL"
+			"nombre": "Héctor Herrera",
+			"nacionalidad": "Mexiko",
+			"fechaNacimiento": "19-4-1990",
+			"valor": 10,
+			"dorsal": "16",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,80",
+			"capitan": false
 		},
 		{
-			"nombre": "Jorge de Frutos",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-02-20",
-			"posicion": "DL"
+			"nombre": "Geoffrey Kondogbia",
+			"nacionalidad": "Zentralafrikanische Republik",
+			"fechaNacimiento": "15-2-1993",
+			"valor": 17.5,
+			"dorsal": "4",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,88",
+			"capitan": false
 		},
 		{
-			"nombre": "Dani Cárdenas",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-03-28",
-			"posicion": "PT"
+			"nombre": "Yannick Carrasco",
+			"nacionalidad": "Belgien",
+			"fechaNacimiento": "4-9-1993",
+			"valor": 25,
+			"dorsal": "21",
+			"posicion": "DL",
+			"pieHabil": "A",
+			"altura": "1,81",
+			"capitan": false
 		},
 		{
-			"nombre": "Eusebio Monzó",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-12-04",
-			"posicion": "DF"
-		}
-	],
-	"Real Betis Balompié": [
-		{
-			"nombre": "Juanmi",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-05-20",
-			"posicion": "DL"
+			"nombre": "Saúl Ñíguez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "21-11-1994",
+			"valor": 70,
+			"dorsal": "8",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,84",
+			"capitan": false
 		},
 		{
-			"nombre": "Antonio Sanabria",
-			"nacionalidad": "Paraguay",
-			"fechaNacimiento": "1996-03-04",
-			"posicion": "DL"
+			"nombre": "Felipe",
+			"nacionalidad": "Brasilien",
+			"fechaNacimiento": "16-5-1989",
+			"valor": 25,
+			"dorsal": "18",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,90",
+			"capitan": false
 		},
 		{
-			"nombre": "Andrés Guardado",
-			"nacionalidad": "Mexico",
-			"fechaNacimiento": "1986-09-28",
-			"posicion": "DF"
+			"nombre": "Thomas Lemar",
+			"nacionalidad": "Frankreich",
+			"fechaNacimiento": "12-11-1995",
+			"valor": 15,
+			"dorsal": "11",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,71",
+			"capitan": false
 		},
 		{
-			"nombre": "Tello",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1991-08-11",
-			"posicion": "DL"
+			"nombre": "Ivo Grbic",
+			"nacionalidad": "Kroatien",
+			"fechaNacimiento": "18-1-1996",
+			"valor": 7,
+			"dorsal": "1",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,95",
+			"capitan": false
 		},
 		{
-			"nombre": "Joaquín",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1981-07-21",
-			"posicion": "MC"
+			"nombre": "José Giménez",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "20-1-1995",
+			"valor": 70,
+			"dorsal": "2",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
 		},
 		{
-			"nombre": "Aïssa Mandi",
-			"nacionalidad": "Algeria",
-			"fechaNacimiento": "1991-10-22",
-			"posicion": "DF"
+			"nombre": "Ángel Correa",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "9-3-1995",
+			"valor": 40,
+			"dorsal": "10",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,71",
+			"capitan": false
 		},
 		{
-			"nombre": "Canales",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1991-02-16",
-			"posicion": "MC"
+			"nombre": "Ivan Saponjic",
+			"nacionalidad": "Serbien",
+			"fechaNacimiento": "2-8-1997",
+			"valor": 1.2,
+			"dorsal": "17",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,90",
+			"capitan": false
 		},
 		{
-			"nombre": "Sidnei",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "1989-08-23",
-			"posicion": "DF"
+			"nombre": "Mario Hermoso",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "18-6-1995",
+			"valor": 25,
+			"dorsal": "22",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,84",
+			"capitan": false
 		},
 		{
-			"nombre": "Emerson Royal",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "1999-01-14",
-			"posicion": "DF"
+			"nombre": "Marcos Llorente",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "30-1-1995",
+			"valor": 45,
+			"dorsal": "14",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
 		},
 		{
-			"nombre": "William Carvalho",
+			"nombre": "Lucas Torreira",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "11-2-1996",
+			"valor": 30,
+			"dorsal": "5",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,66",
+			"capitan": false
+		},
+		{
+			"nombre": "Ricard Sánchez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "22-2-2000",
+			"valor": 0.25,
+			"dorsal": "29",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,75",
+			"capitan": false
+		},
+		{
+			"nombre": "Miguel San Román",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "14-7-1997",
+			"valor": 0.3,
+			"dorsal": "31",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,89",
+			"capitan": false
+		},
+		{
+			"nombre": "João Félix",
 			"nacionalidad": "Portugal",
-			"fechaNacimiento": "1992-04-07",
-			"posicion": "MC"
+			"fechaNacimiento": "10-11-1999",
+			"valor": 100,
+			"dorsal": "7",
+			"posicion": "DL",
+			"pieHabil": "A",
+			"altura": "1,80",
+			"capitan": false
 		},
 		{
-			"nombre": "Joel Robles",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1990-06-17",
-			"posicion": "PT"
+			"nombre": "Renan Lodi",
+			"nacionalidad": "Brasilien",
+			"fechaNacimiento": "8-4-1998",
+			"valor": 50,
+			"dorsal": "12",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,78",
+			"capitan": false
 		},
 		{
-			"nombre": "Claudio Bravo",
-			"nacionalidad": "Chile",
-			"fechaNacimiento": "1983-04-13",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Nabil Fekir",
-			"nacionalidad": "France",
-			"fechaNacimiento": "1993-07-18",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Manuel Pellegrini",
-			"nacionalidad": "Chile",
-			"fechaNacimiento": "1953-09-16",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Borja Iglesias",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-01-17",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Alex Moreno",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-06-08",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Daniel Martín",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-07-08",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Juan Miranda",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-01-19",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Dani Rebollo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1999-12-10",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Bartra",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1991-01-15",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Víctor Camarasa",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1994-05-28",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Aitor Ruibal",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-03-22",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Loren",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-12-30",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Víctor Ruíz",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-01-25",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Martín Montoya",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1991-04-14",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Guido Rodríguez",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1994-04-12",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Diego Lainez",
-			"nacionalidad": "Mexico",
-			"fechaNacimiento": "2000-06-09",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Paul Akouokou",
-			"nacionalidad": "Côte d’Ivoire",
-			"fechaNacimiento": "1997-12-20",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Carlos Marín",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-02-20",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Rodrigo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-05-16",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Fran Delgado",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2001-07-11",
-			"posicion": "DF"
+			"nombre": "Manu Sánchez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "24-8-2000",
+			"valor": 8,
+			"dorsal": "3",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,79",
+			"capitan": false
 		}
 	],
-	"Real Sociedad de Fútbol": [
+	"FC Sevilla": [
 		{
-			"nombre": "Illarramendi",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1990-03-08",
-			"posicion": "MC"
+			"nombre": "Jesús Navas",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "21-11-1985",
+			"valor": 3,
+			"dorsal": "16",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,72",
+			"capitan": true
 		},
 		{
-			"nombre": "Géronimo Rulli",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1992-05-20",
-			"posicion": "PT"
+			"nombre": "Ivan Rakitic",
+			"nacionalidad": "Kroatien",
+			"fechaNacimiento": "10-3-1988",
+			"valor": 10,
+			"dorsal": "10",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
 		},
 		{
-			"nombre": "Willian José",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "1991-11-23",
-			"posicion": "DL"
+			"nombre": "Fernando Reges",
+			"nacionalidad": "Brasilien",
+			"fechaNacimiento": "25-7-1987",
+			"valor": 4,
+			"dorsal": "25",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,83",
+			"capitan": false
 		},
 		{
-			"nombre": "Mikel Oiarzabal",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-04-21",
-			"posicion": "MC"
+			"nombre": "Marcos Acuña",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "28-10-1991",
+			"valor": 12,
+			"dorsal": "19",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,72",
+			"capitan": false
 		},
 		{
-			"nombre": "Aritz Elustondo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1994-03-28",
-			"posicion": "DF"
+			"nombre": "Tomas Vaclík",
+			"nacionalidad": "Tschechien",
+			"fechaNacimiento": "29-3-1989",
+			"valor": 10,
+			"dorsal": "1",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,88",
+			"capitan": false
 		},
 		{
-			"nombre": "Jon Bautista",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-07-03",
-			"posicion": "DL"
+			"nombre": "Luuk de Jong",
+			"nacionalidad": "Niederlande",
+			"fechaNacimiento": "27-8-1990",
+			"valor": 12,
+			"dorsal": "9",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,88",
+			"capitan": false
 		},
 		{
-			"nombre": "Igor Zubeldía",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-03-30",
-			"posicion": "MC"
+			"nombre": "Nemanja Gudelj",
+			"nacionalidad": "Serbien",
+			"fechaNacimiento": "16-11-1991",
+			"valor": 6,
+			"dorsal": "6",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
 		},
 		{
-			"nombre": "Moyà",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1984-04-02",
-			"posicion": "PT"
+			"nombre": "Franco Vázquez",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "22-2-1989",
+			"valor": 6,
+			"dorsal": "22",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,87",
+			"capitan": false
 		},
 		{
-			"nombre": "Joseba Zaldúa",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-06-24",
-			"posicion": "DF"
+			"nombre": "Aleix Vidal",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "21-8-1989",
+			"valor": 3,
+			"dorsal": "17",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,77",
+			"capitan": false
 		},
 		{
-			"nombre": "Modibo Sagnan",
-			"nacionalidad": "Mali",
-			"fechaNacimiento": "1999-04-14",
-			"posicion": "DF"
+			"nombre": "Sergi Gómez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "28-3-1992",
+			"valor": 4,
+			"dorsal": "3",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
 		},
 		{
-			"nombre": "David Silva",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1986-01-08",
-			"posicion": "MC"
+			"nombre": "Sergio Escudero",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "2-9-1989",
+			"valor": 4,
+			"dorsal": "18",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,76",
+			"capitan": false
 		},
 		{
-			"nombre": "Alexander Isak",
-			"nacionalidad": "Sweden",
-			"fechaNacimiento": "1999-09-21",
-			"posicion": "MC"
+			"nombre": "Suso",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "19-11-1993",
+			"valor": 20,
+			"dorsal": "7",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,77",
+			"capitan": false
 		},
 		{
-			"nombre": "Nacho Monreal",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1986-02-26",
-			"posicion": "DF"
+			"nombre": "Karim Rekik",
+			"nacionalidad": "Niederlande",
+			"fechaNacimiento": "2-12-1994",
+			"valor": 4,
+			"dorsal": "4",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,86",
+			"capitan": false
 		},
 		{
-			"nombre": "Mikel Merino",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-06-22",
-			"posicion": "MC"
+			"nombre": "Lucas Ocampos",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "11-7-1994",
+			"valor": 50,
+			"dorsal": "5",
+			"posicion": "DL",
+			"pieHabil": "A",
+			"altura": "1,87",
+			"capitan": false
 		},
 		{
-			"nombre": "Adnan Januzaj",
-			"nacionalidad": "Belgium",
-			"fechaNacimiento": "1995-02-05",
-			"posicion": "MC"
+			"nombre": "Bono",
+			"nacionalidad": "Marokko",
+			"fechaNacimiento": "5-4-1991",
+			"valor": 15,
+			"dorsal": "13",
+			"posicion": "PT",
+			"pieHabil": "I",
+			"altura": "1,92",
+			"capitan": false
 		},
 		{
-			"nombre": "Álex Remiro",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-03-24",
-			"posicion": "PT"
+			"nombre": "Óliver Torres",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "10-11-1994",
+			"valor": 14,
+			"dorsal": "21",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,75",
+			"capitan": false
 		},
 		{
-			"nombre": "Andoni Gorosabel",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-08-04",
-			"posicion": "DF"
+			"nombre": "Carlos Fernández",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "22-5-1996",
+			"valor": 10,
+			"dorsal": "24",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,85",
+			"capitan": false
 		},
 		{
-			"nombre": "Jon Guridi",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-02-28",
-			"posicion": "MC"
+			"nombre": "Munir El Haddadi",
+			"nacionalidad": "Marokko",
+			"fechaNacimiento": "1-9-1995",
+			"valor": 10,
+			"dorsal": "11",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,75",
+			"capitan": false
 		},
 		{
-			"nombre": "Ander Guevara",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-07-07",
-			"posicion": "MC"
+			"nombre": "Oussama Idrissi",
+			"nacionalidad": "Marokko",
+			"fechaNacimiento": "26-2-1996",
+			"valor": 12,
+			"dorsal": "23",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,75",
+			"capitan": false
 		},
 		{
-			"nombre": "Imanol Alguacil",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1971-07-04",
-			"posicion": "PT"
+			"nombre": "Joan Jordán",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "6-7-1994",
+			"valor": 20,
+			"dorsal": "8",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
 		},
 		{
-			"nombre": "Portu",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-05-21",
-			"posicion": "DL"
+			"nombre": "Óscar Rodríguez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "28-6-1998",
+			"valor": 15,
+			"dorsal": "14",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,74",
+			"capitan": false
 		},
 		{
-			"nombre": "Luca Sangalli",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-02-10",
-			"posicion": "MC"
+			"nombre": "Diego Carlos",
+			"nacionalidad": "Brasilien",
+			"fechaNacimiento": "15-3-1993",
+			"valor": 50,
+			"dorsal": "20",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,86",
+			"capitan": false
 		},
 		{
-			"nombre": "Martín Merquelanz",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-06-12",
-			"posicion": "DL"
+			"nombre": "Joris Gnagnon",
+			"nacionalidad": "Frankreich",
+			"fechaNacimiento": "13-1-1997",
+			"valor": 4,
+			"dorsal": "2",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,82",
+			"capitan": false
 		},
 		{
-			"nombre": "Roberto López",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-04-24",
-			"posicion": "MC"
+			"nombre": "Javi Díaz",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "15-5-1997",
+			"valor": 0.4,
+			"dorsal": "31",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
 		},
 		{
-			"nombre": "Robin Le Normand",
-			"nacionalidad": "France",
-			"fechaNacimiento": "1996-11-11",
-			"posicion": "DF"
+			"nombre": "Jules Koundé",
+			"nacionalidad": "Frankreich",
+			"fechaNacimiento": "12-11-1998",
+			"valor": 40,
+			"dorsal": "12",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
 		},
 		{
-			"nombre": "Aihen Muñoz",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-08-16",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Ander Barrenetxea",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2001-12-27",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Roberto Navarro",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2002-04-12",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Martín Zubimendi",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1999-02-02",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Aritz Arambarri",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-01-31",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Jon Pacheco",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2001-01-08",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Urko González",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2001-03-20",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Gaizka Ayesa",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2001-04-02",
-			"posicion": "PT"
+			"nombre": "Youssef En-Nesyri",
+			"nacionalidad": "Marokko",
+			"fechaNacimiento": "1-6-1997",
+			"valor": 12,
+			"dorsal": "15",
+			"posicion": "DL",
+			"pieHabil": "A",
+			"altura": "1,89",
+			"capitan": false
 		}
 	],
-	"Villarreal CF": [
+	"FC Villarreal": [
 		{
-			"nombre": "Géronimo Rulli",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1992-05-20",
-			"posicion": "PT"
+			"nombre": "Ramiro Funes Mori",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "5-3-1991",
+			"valor": 4,
+			"dorsal": "6",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,86",
+			"capitan": false
 		},
 		{
-			"nombre": "Alfonso Pedraza",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-04-09",
-			"posicion": "MC"
+			"nombre": "Raúl Albiol",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "4-9-1985",
+			"valor": 2.5,
+			"dorsal": "3",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,90",
+			"capitan": false
 		},
 		{
-			"nombre": "Albiol",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1985-09-04",
-			"posicion": "DF"
+			"nombre": "Sergio Asenjo",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "28-6-1989",
+			"valor": 9,
+			"dorsal": "1",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,89",
+			"capitan": false
 		},
 		{
 			"nombre": "Dani Parejo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-04-16",
-			"posicion": "MC"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "16-4-1989",
+			"valor": 10,
+			"dorsal": "5",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,82",
+			"capitan": false
 		},
 		{
-			"nombre": "Ramiro Funes Mori",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1991-03-05",
-			"posicion": "DF"
+			"nombre": "Jaume Costa",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "18-3-1988",
+			"valor": 2.5,
+			"dorsal": "21",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,71",
+			"capitan": false
 		},
 		{
-			"nombre": "Carlos Bacca",
-			"nacionalidad": "Colombia",
-			"fechaNacimiento": "1986-09-08",
-			"posicion": "DL"
+			"nombre": "Vicente Iborra",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "16-1-1988",
+			"valor": 4,
+			"dorsal": "10",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,90",
+			"capitan": false
 		},
 		{
-			"nombre": "Alberto Moreno",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-07-05",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Juan Foyth",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1998-01-12",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Iborra",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1988-01-16",
-			"posicion": "MC"
+			"nombre": "Mario Gaspar",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "24-11-1990",
+			"valor": 6,
+			"dorsal": "2",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,80",
+			"capitan": false
 		},
 		{
 			"nombre": "Francis Coquelin",
-			"nacionalidad": "France",
-			"fechaNacimiento": "1991-05-13",
-			"posicion": "MC"
+			"nacionalidad": "Frankreich",
+			"fechaNacimiento": "13-5-1991",
+			"valor": 8,
+			"dorsal": "19",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,77",
+			"capitan": false
 		},
 		{
-			"nombre": "Unai Emery",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1971-11-03",
-			"posicion": "PT"
+			"nombre": "Carlos Bacca",
+			"nacionalidad": "Kolumbien",
+			"fechaNacimiento": "8-9-1986",
+			"valor": 2,
+			"dorsal": "9",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,81",
+			"capitan": false
 		},
 		{
 			"nombre": "Paco Alcácer",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-08-30",
-			"posicion": "DL"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "30-8-1993",
+			"valor": 25,
+			"dorsal": "17",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,75",
+			"capitan": false
 		},
 		{
 			"nombre": "Moi Gómez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1994-10-20",
-			"posicion": "MC"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "23-6-1994",
+			"valor": 9,
+			"dorsal": "23",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,76",
+			"capitan": false
+		},
+		{
+			"nombre": "Gerard Moreno",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "7-4-1992",
+			"valor": 30,
+			"dorsal": "7",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,80",
+			"capitan": false
+		},
+		{
+			"nombre": "Manu Trigueros",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "17-10-1991",
+			"valor": 11,
+			"dorsal": "14",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
+		},
+		{
+			"nombre": "Alberto Moreno",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "5-7-1992",
+			"valor": 5,
+			"dorsal": "18",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,71",
+			"capitan": false
+		},
+		{
+			"nombre": "Gero Rulli",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "20-5-1992",
+			"valor": 5,
+			"dorsal": "13",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,89",
+			"capitan": false
+		},
+		{
+			"nombre": "Soufiane Chakla",
+			"nacionalidad": "Marokko",
+			"fechaNacimiento": "2-9-1993",
+			"valor": 0.8,
+			"dorsal": "22",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,88",
+			"capitan": false
+		},
+		{
+			"nombre": "Rubén Peña",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "18-7-1991",
+			"valor": 6,
+			"dorsal": "20",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,70",
+			"capitan": false
 		},
 		{
 			"nombre": "Pervis Estupiñán",
 			"nacionalidad": "Ecuador",
-			"fechaNacimiento": "1998-01-21",
-			"posicion": "DF"
+			"fechaNacimiento": "21-1-1998",
+			"valor": 15,
+			"dorsal": "15",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,75",
+			"capitan": false
 		},
 		{
-			"nombre": "Gerard Moreno",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-04-07",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Sergio Asenjo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-06-28",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Andrés Fernández",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1986-12-17",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Jaume Costa",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1988-03-18",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Mario Gaspar",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1990-11-24",
-			"posicion": "DF"
+			"nombre": "Alfonso Pedraza",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "9-4-1996",
+			"valor": 10,
+			"dorsal": "24",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,84",
+			"capitan": false
 		},
 		{
 			"nombre": "Pau Torres",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-01-16",
-			"posicion": "DF"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "16-1-1997",
+			"valor": 40,
+			"dorsal": "4",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,91",
+			"capitan": false
 		},
 		{
-			"nombre": "Trigueros",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1991-10-17",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Samuel Chukwueze",
+			"nombre": "Samu Chukwueze",
 			"nacionalidad": "Nigeria",
-			"fechaNacimiento": "1999-05-22",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Dani Raba",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-10-29",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Rubén Peña",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1991-07-18",
-			"posicion": "MC"
+			"fechaNacimiento": "22-5-1999",
+			"valor": 25,
+			"dorsal": "11",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,72",
+			"capitan": false
 		},
 		{
 			"nombre": "Takefusa Kubo",
 			"nacionalidad": "Japan",
-			"fechaNacimiento": "2001-06-04",
-			"posicion": "DL"
+			"fechaNacimiento": "4-6-2001",
+			"valor": 30,
+			"dorsal": "16",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,73",
+			"capitan": false
 		},
 		{
-			"nombre": "Miguelón",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-01-18",
-			"posicion": "DF"
+			"nombre": "Dani Raba",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "29-10-1995",
+			"valor": 1,
+			"dorsal": "12",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,84",
+			"capitan": false
 		},
 		{
-			"nombre": "Sofian Chakla",
-			"nacionalidad": "Morocco",
-			"fechaNacimiento": "1993-09-02",
-			"posicion": "DF"
+			"nombre": "Juan Foyth",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "12-1-1998",
+			"valor": 13,
+			"dorsal": "8",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
 		},
 		{
-			"nombre": "Enric Franquesa",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-02-26",
-			"posicion": "DL"
+			"nombre": "Álex Baena",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "20-7-2001",
+			"valor": 0.2,
+			"dorsal": "32",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,74",
+			"capitan": false
 		},
 		{
-			"nombre": "Fernando Niño",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-10-24",
-			"posicion": "DL"
+			"nombre": "Yéremi Pino",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "20-10-2002",
+			"valor": 2.5,
+			"dorsal": "30",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,72",
+			"capitan": false
 		},
 		{
-			"nombre": "Alejandro Baena",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2001-07-20",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Yeremi Pino",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2002-10-20",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Filip Jörgensen",
-			"nacionalidad": "Sweden",
-			"fechaNacimiento": "2002-04-16",
-			"posicion": "PT"
+			"nombre": "Fer Niño",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "24-10-2000",
+			"valor": 1,
+			"dorsal": "34",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,90",
+			"capitan": false
 		}
 	],
-	"Valencia CF": [
+	"FC Getafe": [
 		{
-			"nombre": "Kevin Gameiro",
-			"nacionalidad": "France",
-			"fechaNacimiento": "1987-05-09",
-			"posicion": "DL"
+			"nombre": "Ángel Rodríguez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "26-4-1987",
+			"valor": 4,
+			"dorsal": "9",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,71",
+			"capitan": false
+		},
+		{
+			"nombre": "Xabi Etxeita",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "31-10-1987",
+			"valor": 1,
+			"dorsal": "4",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,86",
+			"capitan": false
+		},
+		{
+			"nombre": "Damián Suárez",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "27-4-1988",
+			"valor": 2.5,
+			"dorsal": "22",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,73",
+			"capitan": false
+		},
+		{
+			"nombre": "Leandro Chichizola",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "27-3-1990",
+			"valor": 1,
+			"dorsal": "25",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,82",
+			"capitan": false
+		},
+		{
+			"nombre": "Allan Nyom",
+			"nacionalidad": "Kamerun",
+			"fechaNacimiento": "10-5-1988",
+			"valor": 2.5,
+			"dorsal": "12",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,89",
+			"capitan": false
+		},
+		{
+			"nombre": "Francisco Portillo",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "13-6-1990",
+			"valor": 2,
+			"dorsal": "8",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,69",
+			"capitan": false
+		},
+		{
+			"nombre": "Abdoulay Diaby",
+			"nacionalidad": "Mali",
+			"fechaNacimiento": "21-5-1991",
+			"valor": 4,
+			"dorsal": "21",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,73",
+			"capitan": false
+		},
+		{
+			"nombre": "David Timor",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "17-10-1989",
+			"valor": 1.5,
+			"dorsal": "24",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,85",
+			"capitan": false
+		},
+		{
+			"nombre": "Djené",
+			"nacionalidad": "Togo",
+			"fechaNacimiento": "31-12-1991",
+			"valor": 25,
+			"dorsal": "2",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
+		},
+		{
+			"nombre": "David Soria",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "4-4-1993",
+			"valor": 15,
+			"dorsal": "13",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,92",
+			"capitan": false
+		},
+		{
+			"nombre": "Jaime Mata",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "24-10-1988",
+			"valor": 6,
+			"dorsal": "7",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,86",
+			"capitan": false
+		},
+		{
+			"nombre": "Rubén Yáñez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "12-10-1993",
+			"valor": 0.3,
+			"dorsal": "1",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,88",
+			"capitan": false
+		},
+		{
+			"nombre": "Chema",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "3-3-1992",
+			"valor": 1,
+			"dorsal": "6",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,89",
+			"capitan": false
+		},
+		{
+			"nombre": "Enes Ünal",
+			"nacionalidad": "Türkei",
+			"fechaNacimiento": "10-5-1997",
+			"valor": 9,
+			"dorsal": "10",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
+		},
+		{
+			"nombre": "Nemanja Maksimovic",
+			"nacionalidad": "Serbien",
+			"fechaNacimiento": "26-1-1995",
+			"valor": 20,
+			"dorsal": "20",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,89",
+			"capitan": false
+		},
+		{
+			"nombre": "Marc Cucurella",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "22-7-1998",
+			"valor": 20,
+			"dorsal": "15",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,75",
+			"capitan": false
+		},
+		{
+			"nombre": "Mauro Arambarri",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "30-9-1995",
+			"valor": 20,
+			"dorsal": "18",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,75",
+			"capitan": false
+		},
+		{
+			"nombre": "Erick Cabaco",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "19-4-1995",
+			"valor": 3,
+			"dorsal": "3",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
+		},
+		{
+			"nombre": "Ante Palaversa",
+			"nacionalidad": "Kroatien",
+			"fechaNacimiento": "6-4-2000",
+			"valor": 3.5,
+			"dorsal": "14",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
+		},
+		{
+			"nombre": "Mathí­as Olivera",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "31-10-1997",
+			"valor": 8,
+			"dorsal": "17",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,85",
+			"capitan": false
+		},
+		{
+			"nombre": "Darío Poveda",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "13-3-1997",
+			"valor": 0.4,
+			"dorsal": "19",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
+		},
+		{
+			"nombre": "Cucho Hernández",
+			"nacionalidad": "Kolumbien",
+			"fechaNacimiento": "22-4-1999",
+			"valor": 8,
+			"dorsal": "23",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,76",
+			"capitan": false
+		},
+		{
+			"nombre": "Víctor Mollejo",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "21-1-2001",
+			"valor": 4,
+			"dorsal": "26",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,76",
+			"capitan": false
+		}
+	],
+	"Real Sociedad": [
+		{
+			"nombre": "Miguel Ángel Moyá",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "2-4-1984",
+			"valor": 1,
+			"dorsal": "13",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,89",
+			"capitan": false
+		},
+		{
+			"nombre": "David Silva",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "8-1-1986",
+			"valor": 5,
+			"dorsal": "21",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,70",
+			"capitan": false
+		},
+		{
+			"nombre": "Nacho Monreal",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "26-2-1986",
+			"valor": 2,
+			"dorsal": "20",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,80",
+			"capitan": false
+		},
+		{
+			"nombre": "Asier Illarramendi",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "8-3-1990",
+			"valor": 10,
+			"dorsal": "4",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,79",
+			"capitan": true
+		},
+		{
+			"nombre": "Portu",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "21-5-1992",
+			"valor": 16,
+			"dorsal": "7",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,68",
+			"capitan": false
+		},
+		{
+			"nombre": "Willian José",
+			"nacionalidad": "Brasilien",
+			"fechaNacimiento": "23-11-1991",
+			"valor": 24,
+			"dorsal": "9",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,89",
+			"capitan": false
+		},
+		{
+			"nombre": "Adnan Januzaj",
+			"nacionalidad": "Belgien",
+			"fechaNacimiento": "5-2-1995",
+			"valor": 10,
+			"dorsal": "11",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,86",
+			"capitan": false
+		},
+		{
+			"nombre": "Joseba Zaldua",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "24-6-1992",
+			"valor": 10,
+			"dorsal": "2",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,76",
+			"capitan": false
+		},
+		{
+			"nombre": "Álex Remiro",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "24-3-1995",
+			"valor": 20,
+			"dorsal": "1",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,91",
+			"capitan": false
+		},
+		{
+			"nombre": "Aritz Elustondo",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "28-3-1994",
+			"valor": 15,
+			"dorsal": "6",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,82",
+			"capitan": false
+		},
+		{
+			"nombre": "Jon Bautista",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "3-7-1995",
+			"valor": 1.2,
+			"dorsal": "25",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,80",
+			"capitan": false
+		},
+		{
+			"nombre": "Andoni Gorosabel",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "4-8-1996",
+			"valor": 5,
+			"dorsal": "18",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,74",
+			"capitan": false
+		},
+		{
+			"nombre": "Jon Guridi",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "28-2-1995",
+			"valor": 1,
+			"dorsal": "14",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,79",
+			"capitan": false
+		},
+		{
+			"nombre": "Martín Merquelanz",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "12-6-1995",
+			"valor": 2,
+			"dorsal": "17",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,76",
+			"capitan": false
+		},
+		{
+			"nombre": "Luca Sangalli",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "10-2-1995",
+			"valor": 2,
+			"dorsal": "23",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,67",
+			"capitan": false
+		},
+		{
+			"nombre": "Mikel Merino",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "22-6-1996",
+			"valor": 35,
+			"dorsal": "8",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,89",
+			"capitan": false
+		},
+		{
+			"nombre": "Alexander Isak",
+			"nacionalidad": "Schweden",
+			"fechaNacimiento": "21-9-1999",
+			"valor": 22,
+			"dorsal": "19",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,90",
+			"capitan": false
+		},
+		{
+			"nombre": "Mikel Oyarzabal",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "21-4-1997",
+			"valor": 60,
+			"dorsal": "10",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,81",
+			"capitan": false
+		},
+		{
+			"nombre": "Robin Le Normand",
+			"nacionalidad": "Frankreich",
+			"fechaNacimiento": "11-11-1996",
+			"valor": 15,
+			"dorsal": "24",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
+		},
+		{
+			"nombre": "Igor Zubeldia",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "30-3-1997",
+			"valor": 24,
+			"dorsal": "5",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,80",
+			"capitan": false
+		},
+		{
+			"nombre": "Martín Zubimendi",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "2-2-1999",
+			"valor": 8,
+			"dorsal": "36",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,80",
+			"capitan": false
+		},
+		{
+			"nombre": "Alex Sola",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "9-6-1999",
+			"valor": 0.4,
+			"dorsal": null,
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
+		},
+		{
+			"nombre": "Ander Guevara",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "7-7-1997",
+			"valor": 6,
+			"dorsal": "16",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,80",
+			"capitan": false
+		},
+		{
+			"nombre": "Aihen Muñoz",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "16-8-1997",
+			"valor": 4,
+			"dorsal": "12",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,75",
+			"capitan": false
+		},
+		{
+			"nombre": "Modibo Sagnan",
+			"nacionalidad": "Frankreich",
+			"fechaNacimiento": "14-4-1999",
+			"valor": 2.5,
+			"dorsal": "15",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,87",
+			"capitan": false
+		},
+		{
+			"nombre": "Roberto López",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "24-4-2000",
+			"valor": 7.5,
+			"dorsal": "28",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,78",
+			"capitan": false
+		},
+		{
+			"nombre": "Ander Barrenetxea",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "27-12-2001",
+			"valor": 11,
+			"dorsal": "22",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
+		}
+	],
+	"FC Valencia": [
+		{
+			"nombre": "Kévin Gameiro",
+			"nacionalidad": "Frankreich",
+			"fechaNacimiento": "9-5-1987",
+			"valor": 4,
+			"dorsal": "9",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,72",
+			"capitan": false
+		},
+		{
+			"nombre": "Daniel Wass",
+			"nacionalidad": "Dänemark",
+			"fechaNacimiento": "31-5-1989",
+			"valor": 7.5,
+			"dorsal": "18",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
 		},
 		{
 			"nombre": "Rubén Sobrino",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-06-01",
-			"posicion": "DL"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "1-6-1992",
+			"valor": 1.5,
+			"dorsal": "11",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
 		},
 		{
-			"nombre": "Maxi Gómez",
-			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "1996-08-14",
-			"posicion": "DL"
+			"nombre": "Eliaquim Mangala",
+			"nacionalidad": "Frankreich",
+			"fechaNacimiento": "13-2-1991",
+			"valor": 4,
+			"dorsal": "4",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,87",
+			"capitan": false
+		},
+		{
+			"nombre": "Denis Cheryshev",
+			"nacionalidad": "Russland",
+			"fechaNacimiento": "26-12-1990",
+			"valor": 4,
+			"dorsal": "17",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,79",
+			"capitan": false
+		},
+		{
+			"nombre": "Jasper Cillessen",
+			"nacionalidad": "Niederlande",
+			"fechaNacimiento": "22-4-1989",
+			"valor": 10,
+			"dorsal": "13",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
+		},
+		{
+			"nombre": "Gabriel Paulista",
+			"nacionalidad": "Brasilien",
+			"fechaNacimiento": "26-11-1990",
+			"valor": 15,
+			"dorsal": "5",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
+		},
+		{
+			"nombre": "José Gayà",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "25-5-1995",
+			"valor": 30,
+			"dorsal": "14",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,72",
+			"capitan": true
 		},
 		{
 			"nombre": "Gonçalo Guedes",
 			"nacionalidad": "Portugal",
-			"fechaNacimiento": "1996-11-29",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Denis Cheryshev",
-			"nacionalidad": "Russia",
-			"fechaNacimiento": "1990-12-26",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Eliaquim Mangala",
-			"nacionalidad": "France",
-			"fechaNacimiento": "1991-02-13",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Mouctar Diakhaby",
-			"nacionalidad": "France",
-			"fechaNacimiento": "1996-12-19",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Daniel Wass",
-			"nacionalidad": "Denmark",
-			"fechaNacimiento": "1989-05-31",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Javi Gracia",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1970-05-01",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Jasper Cillessen",
-			"nacionalidad": "Netherlands",
-			"fechaNacimiento": "1989-04-22",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Manu Vallejo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-02-14",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Jason",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1994-07-06",
-			"posicion": "DL"
+			"fechaNacimiento": "29-11-1996",
+			"valor": 17.5,
+			"dorsal": "7",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,79",
+			"capitan": false
 		},
 		{
 			"nombre": "Jaume Doménech",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1990-11-05",
-			"posicion": "PT"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "5-11-1990",
+			"valor": 6,
+			"dorsal": "1",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
 		},
 		{
-			"nombre": "Cristian",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-03-21",
-			"posicion": "PT"
+			"nombre": "Jason",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "6-7-1994",
+			"valor": 3,
+			"dorsal": "23",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
 		},
 		{
 			"nombre": "Toni Lato",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-11-21",
-			"posicion": "DF"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "21-11-1997",
+			"valor": 1.5,
+			"dorsal": "3",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,71",
+			"capitan": false
 		},
 		{
-			"nombre": "Gabriel Paulista",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "1990-11-26",
-			"posicion": "DF"
+			"nombre": "Álex Blanco",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "16-12-1998",
+			"valor": 1,
+			"dorsal": "37",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,75",
+			"capitan": false
 		},
 		{
-			"nombre": "Gaya",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-05-25",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Carlos Soler",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-01-02",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Uroš Račić",
-			"nacionalidad": "Serbia",
-			"fechaNacimiento": "1998-03-17",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Alejandro Blanco",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-12-16",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Lee Kangin",
-			"nacionalidad": "Korea Republic",
-			"fechaNacimiento": "2001-02-19",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Hugo Guillamón",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-01-31",
-			"posicion": "DF"
+			"nombre": "Mouctar Diakhaby",
+			"nacionalidad": "Frankreich",
+			"fechaNacimiento": "19-12-1996",
+			"valor": 10,
+			"dorsal": "12",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,92",
+			"capitan": false
 		},
 		{
 			"nombre": "Thierry Correia",
 			"nacionalidad": "Portugal",
-			"fechaNacimiento": "1999-03-09",
-			"posicion": "DF"
+			"fechaNacimiento": "9-3-1999",
+			"valor": 2.5,
+			"dorsal": "2",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,79",
+			"capitan": false
 		},
 		{
-			"nombre": "Esquerdo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1999-01-02",
-			"posicion": "MC"
+			"nombre": "Carlos Soler",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "2-1-1997",
+			"valor": 30,
+			"dorsal": "8",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,80",
+			"capitan": false
 		},
 		{
-			"nombre": "Guillem Molina Gutiérrez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-05-03",
-			"posicion": "DF"
+			"nombre": "Maxi Gómez",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "14-8-1996",
+			"valor": 35,
+			"dorsal": "22",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,86",
+			"capitan": false
 		},
 		{
-			"nombre": "Koba Koindredi",
-			"nacionalidad": "France",
-			"fechaNacimiento": "2001-10-27",
-			"posicion": "MC"
+			"nombre": "Cristian Rivero",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "21-3-1998",
+			"valor": 0.2,
+			"dorsal": "25",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,88",
+			"capitan": false
+		},
+		{
+			"nombre": "Uros Racic",
+			"nacionalidad": "Serbien",
+			"fechaNacimiento": "17-3-1998",
+			"valor": 7.5,
+			"dorsal": "19",
+			"posicion": "MC",
+			"pieHabil": "A",
+			"altura": "1,93",
+			"capitan": false
+		},
+		{
+			"nombre": "Hugo Guillamón",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "31-1-2000",
+			"valor": 5,
+			"dorsal": "15",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,82",
+			"capitan": false
 		},
 		{
 			"nombre": "Yunus Musah",
-			"nacionalidad": "United States",
-			"fechaNacimiento": "2002-11-29",
-			"posicion": "MC"
+			"nacionalidad": "Vereinigte Staaten",
+			"fechaNacimiento": "29-11-2002",
+			"valor": 5,
+			"dorsal": "30",
+			"posicion": "DL",
+			"pieHabil": "A",
+			"altura": "1,78",
+			"capitan": false
+		},
+		{
+			"nombre": "Manu Vallejo",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "14-2-1997",
+			"valor": 6,
+			"dorsal": "21",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,67",
+			"capitan": false
+		},
+		{
+			"nombre": "Kang-in Lee",
+			"nacionalidad": "Südkorea",
+			"fechaNacimiento": "19-2-2001",
+			"valor": 20,
+			"dorsal": "20",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,73",
+			"capitan": false
+		},
+		{
+			"nombre": "Koba Koindredi",
+			"nacionalidad": "Frankreich",
+			"fechaNacimiento": "27-10-2001",
+			"valor": 0.2,
+			"dorsal": "27",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
+		},
+		{
+			"nombre": "Vicente Esquerdo",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "2-1-1999",
+			"valor": 0.3,
+			"dorsal": "26",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,80",
+			"capitan": false
+		},
+		{
+			"nombre": "Guillem Molina",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "3-5-2000",
+			"valor": 0.15,
+			"dorsal": "31",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,83",
+			"capitan": false
 		}
 	],
-	"Real Valladolid CF": [
+	"Athletic Bilbao": [
 		{
-			"nombre": "Roque Mesa",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-06-07",
-			"posicion": "MC"
+			"nombre": "Raúl García",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "11-7-1986",
+			"valor": 5,
+			"dorsal": "22",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
 		},
 		{
-			"nombre": "Raúl Carnero",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-04-30",
-			"posicion": "DF"
+			"nombre": "Iker Muniain",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "19-12-1992",
+			"valor": 14,
+			"dorsal": "10",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,69",
+			"capitan": true
 		},
 		{
-			"nombre": "Jawad El Yamiq",
-			"nacionalidad": "Morocco",
-			"fechaNacimiento": "1992-02-29",
-			"posicion": "DF"
+			"nombre": "Yuri Berchiche",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "10-2-1990",
+			"valor": 16,
+			"dorsal": "17",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,81",
+			"capitan": false
 		},
 		{
-			"nombre": "Miguel Ángel Rubio",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-03-11",
-			"posicion": "DF"
+			"nombre": "Iago Herrerín",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "25-1-1988",
+			"valor": 2,
+			"dorsal": "25",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
 		},
 		{
-			"nombre": "Saidy Janko",
-			"nacionalidad": "Switzerland",
-			"fechaNacimiento": "1995-10-22",
-			"posicion": "DF"
+			"nombre": "Mikel Balenziaga",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "29-2-1988",
+			"valor": 1.5,
+			"dorsal": "24",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,77",
+			"capitan": false
 		},
 		{
-			"nombre": "Luis Pérez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-02-04",
-			"posicion": "DF"
+			"nombre": "Óscar de Marcos",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "14-4-1989",
+			"valor": 2.5,
+			"dorsal": "18",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,82",
+			"capitan": false
 		},
 		{
-			"nombre": "Kike Pérez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-02-14",
-			"posicion": "MC"
+			"nombre": "Ibai Gómez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "11-11-1989",
+			"valor": 2.5,
+			"dorsal": "7",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
 		},
 		{
-			"nombre": "Fede San Emeterio",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-03-16",
-			"posicion": "MC"
+			"nombre": "Iñigo Martínez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "17-5-1991",
+			"valor": 25,
+			"dorsal": "4",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,82",
+			"capitan": false
 		},
 		{
-			"nombre": "Sergi Guardiola",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1991-05-29",
-			"posicion": "DL"
+			"nombre": "Dani García",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "24-5-1990",
+			"valor": 4,
+			"dorsal": "14",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,79",
+			"capitan": false
 		},
 		{
-			"nombre": "Masip",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-01-03",
-			"posicion": "PT"
+			"nombre": "Unai López",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "30-10-1995",
+			"valor": 10,
+			"dorsal": "8",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,70",
+			"capitan": false
 		},
 		{
-			"nombre": "Nacho Martínez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-03-07",
-			"posicion": "DF"
+			"nombre": "Kenan Kodro",
+			"nacionalidad": "Bosnien-Herzegowina",
+			"fechaNacimiento": "19-8-1993",
+			"valor": 0.8,
+			"dorsal": "19",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,88",
+			"capitan": false
+		},
+		{
+			"nombre": "Ander Capa",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "8-2-1992",
+			"valor": 5,
+			"dorsal": "21",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,75",
+			"capitan": false
+		},
+		{
+			"nombre": "Iñigo Córdoba",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "13-3-1997",
+			"valor": 3,
+			"dorsal": "11",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,80",
+			"capitan": false
+		},
+		{
+			"nombre": "Asier Villalibre",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "30-9-1997",
+			"valor": 3.5,
+			"dorsal": "20",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,84",
+			"capitan": false
+		},
+		{
+			"nombre": "Yeray Álvarez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "24-1-1995",
+			"valor": 24,
+			"dorsal": "5",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,82",
+			"capitan": false
+		},
+		{
+			"nombre": "Iñigo Lekue",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "4-5-1993",
+			"valor": 1.5,
+			"dorsal": "15",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,80",
+			"capitan": false
+		},
+		{
+			"nombre": "Iñaki Williams",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "15-6-1994",
+			"valor": 30,
+			"dorsal": "9",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,86",
+			"capitan": false
+		},
+		{
+			"nombre": "Unai Simón",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "11-6-1997",
+			"valor": 30,
+			"dorsal": "1",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,90",
+			"capitan": false
+		},
+		{
+			"nombre": "Mikel Vesga",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "8-4-1993",
+			"valor": 2,
+			"dorsal": "6",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,91",
+			"capitan": false
+		},
+		{
+			"nombre": "Iñigo Vicente",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "6-1-1998",
+			"valor": 1,
+			"dorsal": "26",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
+		},
+		{
+			"nombre": "Unai Núñez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "30-1-1997",
+			"valor": 20,
+			"dorsal": "3",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,86",
+			"capitan": false
+		},
+		{
+			"nombre": "Álex Berenguer",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "4-7-1995",
+			"valor": 10,
+			"dorsal": "12",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,75",
+			"capitan": false
+		},
+		{
+			"nombre": "Jokin Ezkieta",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "17-8-1996",
+			"valor": 0.3,
+			"dorsal": "13",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,93",
+			"capitan": false
+		},
+		{
+			"nombre": "Peru Nolaskoain",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "25-10-1998",
+			"valor": 3.5,
+			"dorsal": "23",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,86",
+			"capitan": false
+		},
+		{
+			"nombre": "Jon Morcillo",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "15-9-1998",
+			"valor": 2.5,
+			"dorsal": "2",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,83",
+			"capitan": false
+		},
+		{
+			"nombre": "Oier Zarraga",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "4-1-1999",
+			"valor": 0.3,
+			"dorsal": "28",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,75",
+			"capitan": false
+		},
+		{
+			"nombre": "Oihan Sancet",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "25-4-2000",
+			"valor": 4,
+			"dorsal": "16",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,88",
+			"capitan": false
+		},
+		{
+			"nombre": "Unai Vencedor",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "15-11-2000",
+			"valor": 1.8,
+			"dorsal": "27",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,76",
+			"capitan": false
+		}
+	],
+	"FC Granada": [
+		{
+			"nombre": "Roberto Soldado",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "27-5-1985",
+			"valor": 1,
+			"dorsal": "9",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,80",
+			"capitan": false
+		},
+		{
+			"nombre": "Jorge Molina",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "22-4-1982",
+			"valor": 1.5,
+			"dorsal": "23",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,88",
+			"capitan": false
+		},
+		{
+			"nombre": "Víctor Díaz",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "12-6-1988",
+			"valor": 1.5,
+			"dorsal": "16",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,83",
+			"capitan": true
+		},
+		{
+			"nombre": "Ángel Montoro",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "25-6-1988",
+			"valor": 1.2,
+			"dorsal": "19",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,80",
+			"capitan": false
+		},
+		{
+			"nombre": "Maxime Gonalons",
+			"nacionalidad": "Frankreich",
+			"fechaNacimiento": "10-3-1989",
+			"valor": 3,
+			"dorsal": "4",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
+		},
+		{
+			"nombre": "Germán Sánchez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "12-12-1986",
+			"valor": 0.8,
+			"dorsal": "6",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
+		},
+		{
+			"nombre": "Ramon Azeez",
+			"nacionalidad": "Nigeria",
+			"fechaNacimiento": "12-12-1992",
+			"valor": 2.5,
+			"dorsal": "12",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,70",
+			"capitan": false
+		},
+		{
+			"nombre": "Fede Vico",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "4-7-1994",
+			"valor": 1,
+			"dorsal": "14",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,77",
+			"capitan": false
+		},
+		{
+			"nombre": "Dimitri Foulquier",
+			"nacionalidad": "Guadeloupe",
+			"fechaNacimiento": "23-3-1993",
+			"valor": 3,
+			"dorsal": "2",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,83",
+			"capitan": false
+		},
+		{
+			"nombre": "Darwin Machís",
+			"nacionalidad": "Venezuela",
+			"fechaNacimiento": "7-2-1993",
+			"valor": 10,
+			"dorsal": "11",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,71",
+			"capitan": false
+		},
+		{
+			"nombre": "Quini",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "24-9-1989",
+			"valor": 0.4,
+			"dorsal": "17",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
+		},
+		{
+			"nombre": "Rui Silva",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "7-2-1994",
+			"valor": 10,
+			"dorsal": "1",
+			"posicion": "PT",
+			"pieHabil": "I",
+			"altura": "1,91",
+			"capitan": false
+		},
+		{
+			"nombre": "Jesús Vallejo",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "5-1-1997",
+			"valor": 6,
+			"dorsal": "20",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
+		},
+		{
+			"nombre": "Domingos Duarte",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "10-3-1995",
+			"valor": 10,
+			"dorsal": "22",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,92",
+			"capitan": false
+		},
+		{
+			"nombre": "Antonio Puertas",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "21-2-1992",
+			"valor": 7.5,
+			"dorsal": "10",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,83",
+			"capitan": false
+		},
+		{
+			"nombre": "Kenedy",
+			"nacionalidad": "Brasilien",
+			"fechaNacimiento": "8-2-1996",
+			"valor": 10,
+			"dorsal": "24",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,82",
+			"capitan": false
+		},
+		{
+			"nombre": "Luis Milla",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "7-10-1994",
+			"valor": 5,
+			"dorsal": "5",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,75",
+			"capitan": false
+		},
+		{
+			"nombre": "Aarón Escandell",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "27-9-1995",
+			"valor": 1,
+			"dorsal": "13",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
+		},
+		{
+			"nombre": "Yan Eteki",
+			"nacionalidad": "Kamerun",
+			"fechaNacimiento": "26-8-1997",
+			"valor": 1.5,
+			"dorsal": "8",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,82",
+			"capitan": false
+		},
+		{
+			"nombre": "Yangel Herrera",
+			"nacionalidad": "Venezuela",
+			"fechaNacimiento": "7-1-1998",
+			"valor": 15,
+			"dorsal": "21",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
+		},
+		{
+			"nombre": "Luis Suárez",
+			"nacionalidad": "Kolumbien",
+			"fechaNacimiento": "2-12-1997",
+			"valor": 10,
+			"dorsal": "7",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
+		},
+		{
+			"nombre": "Carlos Neva",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "12-6-1996",
+			"valor": 5,
+			"dorsal": "15",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,74",
+			"capitan": false
+		},
+		{
+			"nombre": "Neyder Lozano",
+			"nacionalidad": "Kolumbien",
+			"fechaNacimiento": "4-3-1994",
+			"valor": 0.4,
+			"dorsal": "18",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,85",
+			"capitan": false
+		},
+		{
+			"nombre": "Alberto Soro",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "9-3-1999",
+			"valor": 2.5,
+			"dorsal": "26",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,73",
+			"capitan": false
+		},
+		{
+			"nombre": "Nehuén Pérez",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "24-6-2000",
+			"valor": 7.5,
+			"dorsal": "3",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
+		}
+	],
+	"CA Osasuna": [
+		{
+			"nombre": "Rubén Martínez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "22-6-1984",
+			"valor": 0.5,
+			"dorsal": "13",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
+		},
+		{
+			"nombre": "Adrián López",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "8-1-1988",
+			"valor": 1.2,
+			"dorsal": "20",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,83",
+			"capitan": false
+		},
+		{
+			"nombre": "Ante Budimir",
+			"nacionalidad": "Kroatien",
+			"fechaNacimiento": "22-7-1991",
+			"valor": 8,
+			"dorsal": "17",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,90",
+			"capitan": false
+		},
+		{
+			"nombre": "Facundo Roncaglia",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "10-2-1987",
+			"valor": 1,
+			"dorsal": "12",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,79",
+			"capitan": false
+		},
+		{
+			"nombre": "Oier",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "25-5-1986",
+			"valor": 0.8,
+			"dorsal": "6",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": true
+		},
+		{
+			"nombre": "Roberto Torres",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "7-3-1989",
+			"valor": 6,
+			"dorsal": "10",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
+		},
+		{
+			"nombre": "Iñigo Pérez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "18-1-1988",
+			"valor": 0.6,
+			"dorsal": "21",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,78",
+			"capitan": false
+		},
+		{
+			"nombre": "Aridane Hernández",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "23-3-1989",
+			"valor": 3.5,
+			"dorsal": "23",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,88",
+			"capitan": false
+		},
+		{
+			"nombre": "Darko Brasanac",
+			"nacionalidad": "Serbien",
+			"fechaNacimiento": "12-2-1992",
+			"valor": 2,
+			"dorsal": "8",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
+		},
+		{
+			"nombre": "Enric Gallego",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "12-9-1986",
+			"valor": 2,
+			"dorsal": "19",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,90",
+			"capitan": false
+		},
+		{
+			"nombre": "Raúl Navas",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "11-5-1988",
+			"valor": 0.7,
+			"dorsal": "22",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
+		},
+		{
+			"nombre": "Chimy Ávila",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "6-2-1994",
+			"valor": 10,
+			"dorsal": "9",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,72",
+			"capitan": false
+		},
+		{
+			"nombre": "Juan Cruz",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "28-7-1992",
+			"valor": 2.5,
+			"dorsal": "3",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,82",
+			"capitan": false
+		},
+		{
+			"nombre": "Unai García",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "3-9-1992",
+			"valor": 0.8,
+			"dorsal": "4",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,86",
+			"capitan": false
+		},
+		{
+			"nombre": "Rubén García",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "14-7-1993",
+			"valor": 10,
+			"dorsal": "14",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,71",
+			"capitan": false
+		},
+		{
+			"nombre": "Lucas Torró",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "19-7-1994",
+			"valor": 2,
+			"dorsal": "24",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,90",
+			"capitan": false
+		},
+		{
+			"nombre": "Nacho Vidal",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "24-1-1995",
+			"valor": 2.5,
+			"dorsal": "2",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,80",
+			"capitan": false
+		},
+		{
+			"nombre": "Jony",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "9-7-1991",
+			"valor": 5,
+			"dorsal": "7",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,79",
+			"capitan": false
+		},
+		{
+			"nombre": "Sergio Herrera",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "5-6-1993",
+			"valor": 1.5,
+			"dorsal": "1",
+			"posicion": "PT",
+			"pieHabil": "A",
+			"altura": "1,92",
+			"capitan": false
+		},
+		{
+			"nombre": "Brandon",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "4-2-1995",
+			"valor": 1.2,
+			"dorsal": "18",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,73",
+			"capitan": false
+		},
+		{
+			"nombre": "Jonathan Calleri",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "23-9-1993",
+			"valor": 5,
+			"dorsal": "16",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,81",
+			"capitan": false
+		},
+		{
+			"nombre": "Kike Barja",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "4-4-1997",
+			"valor": 0.8,
+			"dorsal": "11",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,79",
+			"capitan": false
+		},
+		{
+			"nombre": "David García",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "14-2-1994",
+			"valor": 5,
+			"dorsal": "5",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
+		},
+		{
+			"nombre": "Juan Pérez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "15-7-1996",
+			"valor": 0.4,
+			"dorsal": "25",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,91",
+			"capitan": false
+		},
+		{
+			"nombre": "Jon Moncayola",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "13-5-1998",
+			"valor": 3,
+			"dorsal": "27",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,82",
+			"capitan": false
+		}
+	],
+	"UD Levante": [
+		{
+			"nombre": "Rubén Rochina",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "23-3-1991",
+			"valor": 3.5,
+			"dorsal": "16",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,82",
+			"capitan": false
+		},
+		{
+			"nombre": "Coke",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "26-4-1987",
+			"valor": 1,
+			"dorsal": "23",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,76",
+			"capitan": false
+		},
+		{
+			"nombre": "Aitor Fernández",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "3-5-1991",
+			"valor": 10,
+			"dorsal": "13",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,82",
+			"capitan": false
+		},
+		{
+			"nombre": "José Campaña",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "31-5-1993",
+			"valor": 25,
+			"dorsal": "24",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,79",
+			"capitan": false
+		},
+		{
+			"nombre": "Toño",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "7-11-1989",
+			"valor": 0.8,
+			"dorsal": "3",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,80",
+			"capitan": false
+		},
+		{
+			"nombre": "Cheick Doukouré",
+			"nacionalidad": "Elfenbeinküste",
+			"fechaNacimiento": "11-9-1992",
+			"valor": 0.5,
+			"dorsal": "25",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,80",
+			"capitan": false
+		},
+		{
+			"nombre": "Sergio León",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "6-1-1989",
+			"valor": 2,
+			"dorsal": "7",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,76",
+			"capitan": false
+		},
+		{
+			"nombre": "Nikola Vukcevic",
+			"nacionalidad": "Montenegro",
+			"fechaNacimiento": "13-12-1991",
+			"valor": 3,
+			"dorsal": "17",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,87",
+			"capitan": false
+		},
+		{
+			"nombre": "Sergio Postigo",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "4-11-1988",
+			"valor": 1.2,
+			"dorsal": "15",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
+		},
+		{
+			"nombre": "Gonzalo Melero",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "2-1-1994",
+			"valor": 3.5,
+			"dorsal": "22",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,83",
+			"capitan": false
+		},
+		{
+			"nombre": "Nemanja Radoja",
+			"nacionalidad": "Serbien",
+			"fechaNacimiento": "6-2-1993",
+			"valor": 3.5,
+			"dorsal": "5",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,86",
+			"capitan": false
+		},
+		{
+			"nombre": "Óscar Duarte",
+			"nacionalidad": "Costa Rica",
+			"fechaNacimiento": "3-6-1989",
+			"valor": 0.7,
+			"dorsal": "6",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,86",
+			"capitan": false
+		},
+		{
+			"nombre": "Carlos Clerc",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "21-2-1992",
+			"valor": 2.5,
+			"dorsal": "19",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,81",
+			"capitan": false
+		},
+		{
+			"nombre": "Mickaël Malsa",
+			"nacionalidad": "Martinique",
+			"fechaNacimiento": "12-10-1995",
+			"valor": 3,
+			"dorsal": "12",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,79",
+			"capitan": false
+		},
+		{
+			"nombre": "Roger Martí",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "3-1-1991",
+			"valor": 8,
+			"dorsal": "9",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,79",
+			"capitan": false
+		},
+		{
+			"nombre": "Jorge Miramón",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "2-6-1989",
+			"valor": 2.5,
+			"dorsal": "20",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,75",
+			"capitan": false
+		},
+		{
+			"nombre": "Enis Bardhi",
+			"nacionalidad": "Nordmazedonien",
+			"fechaNacimiento": "2-7-1995",
+			"valor": 20,
+			"dorsal": "10",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,72",
+			"capitan": false
+		},
+		{
+			"nombre": "José Luis Morales",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "23-7-1987",
+			"valor": 5,
+			"dorsal": "11",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,80",
+			"capitan": true
+		},
+		{
+			"nombre": "Rúben Vezo",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "25-4-1994",
+			"valor": 8,
+			"dorsal": "14",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,82",
+			"capitan": false
+		},
+		{
+			"nombre": "Koke Vegas",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "27-9-1995",
+			"valor": 0.5,
+			"dorsal": "1",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,88",
+			"capitan": false
+		},
+		{
+			"nombre": "Son",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "30-3-1994",
+			"valor": 0.7,
+			"dorsal": "2",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
+		},
+		{
+			"nombre": "Rober Pier",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "16-2-1995",
+			"valor": 1.2,
+			"dorsal": "4",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,82",
+			"capitan": false
+		},
+		{
+			"nombre": "Dani Cárdenas",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "28-3-1997",
+			"valor": 0.3,
+			"dorsal": "34",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
+		},
+		{
+			"nombre": "Dani Gómez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "30-7-1998",
+			"valor": 1.5,
+			"dorsal": "21",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
+		},
+		{
+			"nombre": "Jorge de Frutos",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "20-2-1997",
+			"valor": 2.5,
+			"dorsal": "18",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,73",
+			"capitan": false
+		}
+	],
+	"Betis Sevilla": [
+		{
+			"nombre": "Joaquín",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "21-7-1981",
+			"valor": 1.5,
+			"dorsal": "17",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,81",
+			"capitan": true
+		},
+		{
+			"nombre": "Andrés Guardado",
+			"nacionalidad": "Mexiko",
+			"fechaNacimiento": "28-9-1986",
+			"valor": 2,
+			"dorsal": "18",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,69",
+			"capitan": false
+		},
+		{
+			"nombre": "Sidnei",
+			"nacionalidad": "Brasilien",
+			"fechaNacimiento": "23-8-1989",
+			"valor": 5,
+			"dorsal": "12",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
+		},
+		{
+			"nombre": "Claudio Bravo",
+			"nacionalidad": "Chile",
+			"fechaNacimiento": "13-4-1983",
+			"valor": 1,
+			"dorsal": "25",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
+		},
+		{
+			"nombre": "Víctor Ruiz",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "25-1-1989",
+			"valor": 2.5,
+			"dorsal": "6",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,84",
+			"capitan": false
+		},
+		{
+			"nombre": "Sergio Canales",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "16-2-1991",
+			"valor": 20,
+			"dorsal": "10",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,80",
+			"capitan": false
+		},
+		{
+			"nombre": "Martín Montoya",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "14-4-1991",
+			"valor": 5,
+			"dorsal": "2",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,75",
+			"capitan": false
+		},
+		{
+			"nombre": "Aïssa Mandi",
+			"nacionalidad": "Algerien",
+			"fechaNacimiento": "22-10-1991",
+			"valor": 8,
+			"dorsal": "23",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
+		},
+		{
+			"nombre": "Marc Bartra",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "15-1-1991",
+			"valor": 10,
+			"dorsal": "5",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
+		},
+		{
+			"nombre": "William Carvalho",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "7-4-1992",
+			"valor": 20,
+			"dorsal": "14",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
+		},
+		{
+			"nombre": "Joel Robles",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "17-6-1990",
+			"valor": 5,
+			"dorsal": "1",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,97",
+			"capitan": false
+		},
+		{
+			"nombre": "Juanmi",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "20-5-1993",
+			"valor": 3,
+			"dorsal": "7",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,72",
+			"capitan": false
+		},
+		{
+			"nombre": "Cristian Tello",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "11-8-1991",
+			"valor": 7.5,
+			"dorsal": "11",
+			"posicion": "DL",
+			"pieHabil": "A",
+			"altura": "1,78",
+			"capitan": false
+		},
+		{
+			"nombre": "Álex Moreno",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "8-6-1993",
+			"valor": 10,
+			"dorsal": "15",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,79",
+			"capitan": false
+		},
+		{
+			"nombre": "Nabil Fekir",
+			"nacionalidad": "Frankreich",
+			"fechaNacimiento": "18-7-1993",
+			"valor": 32,
+			"dorsal": "8",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,73",
+			"capitan": false
+		},
+		{
+			"nombre": "Antonio Sanabria",
+			"nacionalidad": "Paraguay",
+			"fechaNacimiento": "4-3-1996",
+			"valor": 6.5,
+			"dorsal": "19",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,81",
+			"capitan": false
+		},
+		{
+			"nombre": "Víctor Camarasa",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "28-5-1994",
+			"valor": 3,
+			"dorsal": "3",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,83",
+			"capitan": false
+		},
+		{
+			"nombre": "Borja Iglesias",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "17-1-1993",
+			"valor": 8,
+			"dorsal": "9",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
+		},
+		{
+			"nombre": "Dani Martín",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "8-7-1998",
+			"valor": 3.5,
+			"dorsal": "13",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
+		},
+		{
+			"nombre": "Juan Miranda",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "19-1-2000",
+			"valor": 4,
+			"dorsal": "33",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,85",
+			"capitan": false
+		},
+		{
+			"nombre": "Guido Rodríguez",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "12-4-1994",
+			"valor": 12,
+			"dorsal": "21",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
+		},
+		{
+			"nombre": "Loren Morón",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "30-12-1993",
+			"valor": 15,
+			"dorsal": "16",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
+		},
+		{
+			"nombre": "Diego Lainez",
+			"nacionalidad": "Mexiko",
+			"fechaNacimiento": "9-6-2000",
+			"valor": 5,
+			"dorsal": "20",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,67",
+			"capitan": false
+		},
+		{
+			"nombre": "Aitor Ruibal",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "22-3-1996",
+			"valor": 1.5,
+			"dorsal": "24",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,76",
+			"capitan": false
+		},
+		{
+			"nombre": "Paul Akouokou",
+			"nacionalidad": "Elfenbeinküste",
+			"fechaNacimiento": "20-12-1997",
+			"valor": 1,
+			"dorsal": "4",
+			"posicion": "MC",
+			"pieHabil": "A",
+			"altura": "1,90",
+			"capitan": false
+		},
+		{
+			"nombre": "Emerson",
+			"nacionalidad": "Brasilien",
+			"fechaNacimiento": "14-1-1999",
+			"valor": 25,
+			"dorsal": "22",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,83",
+			"capitan": false
+		}
+	],
+	"Real Valladolid": [
+		{
+			"nombre": "Roberto",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "10-2-1986",
+			"valor": 0.8,
+			"dorsal": "13",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,92",
+			"capitan": false
 		},
 		{
 			"nombre": "Kiko Olivas",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1988-08-21",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Míchel",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1988-07-29",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Toni Villa",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-01-07",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Hervías",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-03-08",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Óscar Plano",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1991-02-11",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Sergio",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1976-11-10",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Joaquín Fernández",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-05-31",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Rubén Alcaraz",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1991-05-01",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Waldo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-08-17",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Bruno",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1990-05-24",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Roberto Jiménez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1986-02-10",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Kuki",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-05-05",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Samuel Pérez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-04-26",
-			"posicion": "PT"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "21-8-1988",
+			"valor": 1.5,
+			"dorsal": "4",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
 		},
 		{
 			"nombre": "Fabián Orellana",
 			"nacionalidad": "Chile",
-			"fechaNacimiento": "1986-01-27",
-			"posicion": "DL"
+			"fechaNacimiento": "27-1-1986",
+			"valor": 1.5,
+			"dorsal": "12",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,71",
+			"capitan": false
 		},
 		{
-			"nombre": "Jota",
-			"nacionalidad": "Portugal",
-			"fechaNacimiento": "1999-03-30",
-			"posicion": "DL"
+			"nombre": "Jordi Masip",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "3-1-1989",
+			"valor": 3.5,
+			"dorsal": "1",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,80",
+			"capitan": false
+		},
+		{
+			"nombre": "Míchel Herrero",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "29-7-1988",
+			"valor": 1.5,
+			"dorsal": "21",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,82",
+			"capitan": false
+		},
+		{
+			"nombre": "Nacho Martínez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "7-3-1989",
+			"valor": 2.5,
+			"dorsal": "22",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,74",
+			"capitan": false
+		},
+		{
+			"nombre": "Raúl Carnero",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "30-4-1989",
+			"valor": 0.8,
+			"dorsal": "3",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,79",
+			"capitan": false
+		},
+		{
+			"nombre": "Pablo Hervías",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "8-3-1993",
+			"valor": 0.8,
+			"dorsal": "11",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,74",
+			"capitan": false
+		},
+		{
+			"nombre": "Bruno González",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "24-5-1990",
+			"valor": 0.8,
+			"dorsal": "6",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
+		},
+		{
+			"nombre": "Saidy Janko",
+			"nacionalidad": "Schweiz",
+			"fechaNacimiento": "22-10-1995",
+			"valor": 2,
+			"dorsal": "18",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,81",
+			"capitan": false
+		},
+		{
+			"nombre": "Roque Mesa",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "7-6-1989",
+			"valor": 4,
+			"dorsal": "17",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,72",
+			"capitan": false
+		},
+		{
+			"nombre": "Óscar Plano",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "11-2-1991",
+			"valor": 3,
+			"dorsal": "10",
+			"posicion": "DL",
+			"pieHabil": "A",
+			"altura": "1,79",
+			"capitan": false
+		},
+		{
+			"nombre": "Joaquín Fernández",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "31-5-1996",
+			"valor": 3,
+			"dorsal": "24",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,90",
+			"capitan": false
+		},
+		{
+			"nombre": "Jawad El Yamiq",
+			"nacionalidad": "Marokko",
+			"fechaNacimiento": "29-2-1992",
+			"valor": 1.2,
+			"dorsal": "15",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,90",
+			"capitan": false
+		},
+		{
+			"nombre": "Rubén Alcaraz",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "1-5-1991",
+			"valor": 8,
+			"dorsal": "14",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,83",
+			"capitan": false
 		},
 		{
 			"nombre": "Shon Weissman",
 			"nacionalidad": "Israel",
-			"fechaNacimiento": "1996-02-14",
-			"posicion": "DL"
+			"fechaNacimiento": "14-2-1996",
+			"valor": 6,
+			"dorsal": "9",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,74",
+			"capitan": false
 		},
 		{
-			"nombre": "Maranhão",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "1996-10-20",
-			"posicion": "DL"
+			"nombre": "Sergi Guardiola",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "29-5-1991",
+			"valor": 5,
+			"dorsal": "7",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,85",
+			"capitan": false
+		},
+		{
+			"nombre": "Fede San Emeterio",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "16-3-1997",
+			"valor": 3.5,
+			"dorsal": "20",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,76",
+			"capitan": false
+		},
+		{
+			"nombre": "Jota",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "30-3-1999",
+			"valor": 8,
+			"dorsal": "40",
+			"posicion": "DL",
+			"pieHabil": "A",
+			"altura": "1,75",
+			"capitan": false
+		},
+		{
+			"nombre": "Toni Villa",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "7-1-1995",
+			"valor": 2.5,
+			"dorsal": "19",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,72",
+			"capitan": false
 		},
 		{
 			"nombre": "Javi Sánchez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-03-14",
-			"posicion": "DF"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "14-3-1997",
+			"valor": 3,
+			"dorsal": "5",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,89",
+			"capitan": false
 		},
 		{
-			"nombre": "Ignasi Vilarrasa",
-			"nacionalidad": "Ecuador",
-			"fechaNacimiento": "1997-03-17",
-			"posicion": "DF"
+			"nombre": "Luis Pérez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "4-2-1995",
+			"valor": 0.9,
+			"dorsal": "2",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,73",
+			"capitan": false
+		},
+		{
+			"nombre": "Waldo Rubio",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "17-8-1995",
+			"valor": 1,
+			"dorsal": "23",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,81",
+			"capitan": false
+		},
+		{
+			"nombre": "Marcos André",
+			"nacionalidad": "Brasilien",
+			"fechaNacimiento": "20-10-1996",
+			"valor": 1.5,
+			"dorsal": "16",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
+		},
+		{
+			"nombre": "Kike Pérez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "14-2-1997",
+			"valor": 0.6,
+			"dorsal": "8",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,84",
+			"capitan": false
 		}
 	],
-	"Deportivo Alavés": [
-		{
-			"nombre": "Lucas",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1988-09-10",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Rodrigo Ely",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "1993-11-03",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Manu",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1986-04-26",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Pacheco",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-05-18",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Burgui",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-10-29",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Tomás Pina",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1987-10-14",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Sivera",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-08-11",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Deyverson",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "1991-05-08",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Ximo Navarro",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1990-01-23",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "John Guidetti",
-			"nacionalidad": "Sweden",
-			"fechaNacimiento": "1992-04-15",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Jota Peleteiro",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1991-06-16",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Florian Lejeune",
-			"nacionalidad": "France",
-			"fechaNacimiento": "1991-05-20",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Joselu",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1990-03-27",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Rodrigo Battaglia",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1991-07-12",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Adrián Marín",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-01-09",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Aritz Castro",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-05-20",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Laguardia",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-11-05",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Martín",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-05-10",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Rubén Duarte",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-10-18",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Pere Pons",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-02-20",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Pablo Machín",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1975-04-07",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Edgar Méndez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1990-01-02",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Luis Rioja",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-10-16",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Javi López",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2002-01-01",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Tomás Tavares",
-			"nacionalidad": "Portugal",
-			"fechaNacimiento": "2001-03-07",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Tachi",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-09-10",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Borja Sainz",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2001-02-01",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Abdallahi Mahmoud",
-			"nacionalidad": "Mauritania",
-			"fechaNacimiento": "2000-05-04",
-			"posicion": "MC"
-		}
-	],
-	"Cádiz CF": [
-		{
-			"nombre": "Luis Quezada Sánchez",
-			"nacionalidad": "Dominican Republic",
-			"fechaNacimiento": "1996-02-11",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Yann Bodiger",
-			"nacionalidad": "France",
-			"fechaNacimiento": "1995-02-09",
-			"posicion": "MC"
-		},
+	"FC Cádiz": [
 		{
 			"nombre": "Álvaro Negredo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1985-08-20",
-			"posicion": "DL"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "20-8-1985",
+			"valor": 1,
+			"dorsal": "18",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,86",
+			"capitan": false
 		},
 		{
 			"nombre": "Augusto Fernández",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1986-04-10",
-			"posicion": "MC"
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "10-4-1986",
+			"valor": 0.3,
+			"dorsal": "17",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,77",
+			"capitan": false
+		},
+		{
+			"nombre": "Pedro Alcalá",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "19-3-1989",
+			"valor": 0.6,
+			"dorsal": "19",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,96",
+			"capitan": false
+		},
+		{
+			"nombre": "Álvaro Giménez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "19-5-1991",
+			"valor": 2.5,
+			"dorsal": "21",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,83",
+			"capitan": false
 		},
 		{
 			"nombre": "Juan Cala",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-11-26",
-			"posicion": "DF"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "26-11-1989",
+			"valor": 1.2,
+			"dorsal": "16",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,86",
+			"capitan": false
+		},
+		{
+			"nombre": "Álex Fernández",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "15-10-1992",
+			"valor": 7.5,
+			"dorsal": "8",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,83",
+			"capitan": false
+		},
+		{
+			"nombre": "Alberto Perea",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "19-12-1990",
+			"valor": 1,
+			"dorsal": "10",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,75",
+			"capitan": false
+		},
+		{
+			"nombre": "Choco Lozano",
+			"nacionalidad": "Honduras",
+			"fechaNacimiento": "25-4-1993",
+			"valor": 2.5,
+			"dorsal": "9",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,83",
+			"capitan": false
+		},
+		{
+			"nombre": "Jens Jönsson",
+			"nacionalidad": "Dänemark",
+			"fechaNacimiento": "10-1-1993",
+			"valor": 1.5,
+			"dorsal": "2",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,82",
+			"capitan": false
+		},
+		{
+			"nombre": "Jon Ander Garrido",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "9-10-1989",
+			"valor": 0.6,
+			"dorsal": "5",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
+		},
+		{
+			"nombre": "David Gil",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "11-1-1994",
+			"valor": 0.3,
+			"dorsal": "13",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,86",
+			"capitan": false
+		},
+		{
+			"nombre": "Filip Malbašić",
+			"nacionalidad": "Serbien",
+			"fechaNacimiento": "18-11-1992",
+			"valor": 1,
+			"dorsal": "24",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,82",
+			"capitan": false
+		},
+		{
+			"nombre": "Carlos Akapo",
+			"nacionalidad": "Äquatorialguinea",
+			"fechaNacimiento": "12-3-1993",
+			"valor": 0.6,
+			"dorsal": "15",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,79",
+			"capitan": false
+		},
+		{
+			"nombre": "José Mari",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "6-12-1987",
+			"valor": 0.5,
+			"dorsal": "6",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,82",
+			"capitan": true
+		},
+		{
+			"nombre": "Salvi Sánchez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "30-3-1991",
+			"valor": 2.5,
+			"dorsal": "7",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,70",
+			"capitan": false
+		},
+		{
+			"nombre": "Marcos Mauro",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "9-1-1991",
+			"valor": 1,
+			"dorsal": "4",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,88",
+			"capitan": false
+		},
+		{
+			"nombre": "Fali",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "12-8-1993",
+			"valor": 1.2,
+			"dorsal": "3",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,86",
+			"capitan": false
+		},
+		{
+			"nombre": "Iza Carcelén",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "23-4-1993",
+			"valor": 2,
+			"dorsal": "20",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,70",
+			"capitan": false
+		},
+		{
+			"nombre": "Iván Alejo",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "10-2-1995",
+			"valor": 1.5,
+			"dorsal": "14",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,86",
+			"capitan": false
+		},
+		{
+			"nombre": "Luismi Quezada",
+			"nacionalidad": "Dominikanische Republik",
+			"fechaNacimiento": "11-2-1996",
+			"valor": 0.3,
+			"dorsal": null,
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,71",
+			"capitan": false
+		},
+		{
+			"nombre": "Jeremías Ledesma",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "13-2-1993",
+			"valor": 2,
+			"dorsal": "1",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,86",
+			"capitan": false
+		},
+		{
+			"nombre": "Yann Bodiger",
+			"nacionalidad": "Frankreich",
+			"fechaNacimiento": "9-2-1995",
+			"valor": 1,
+			"dorsal": "12",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,88",
+			"capitan": false
+		},
+		{
+			"nombre": "Nano Mesa",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "5-2-1995",
+			"valor": 0.6,
+			"dorsal": "23",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
 		},
 		{
 			"nombre": "Alfonso Espino",
 			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "1992-01-05",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Jens Jønsson",
-			"nacionalidad": "Denmark",
-			"fechaNacimiento": "1993-01-10",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Isaac Valencia",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-04-23",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Jorge Pombo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1994-08-29",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Álvaro Giménez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1991-05-19",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Nano",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-02-05",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "José Mari",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1987-12-06",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Marcos López",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1991-01-09",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Jon Garrido",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-10-09",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Salva Sánchez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1991-03-30",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Álex",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-10-15",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "David Gil",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1994-01-11",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Álvaro Cervera",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1965-09-20",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Carlos Akapo",
-			"nacionalidad": "Equatorial Guinea",
-			"fechaNacimiento": "1993-03-12",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Filip Malbašić",
-			"nacionalidad": "Serbia",
-			"fechaNacimiento": "1992-11-18",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Jairo Izquierdo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-10-22",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Anthony Lozano",
-			"nacionalidad": "Honduras",
-			"fechaNacimiento": "1993-04-25",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Fali Jiménez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-08-12",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Sergio González",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-05-14",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Alberto Perea",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1990-05-16",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Roberto Perera",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1980-12-15",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Iván Alejo Peralta",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-02-10",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Pedro Alcalá",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-03-19",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Jeremías Ledesma",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1993-02-13",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Saturday Erimuya",
-			"nacionalidad": "Nigeria",
-			"fechaNacimiento": "1998-01-10",
-			"posicion": "DF"
+			"fechaNacimiento": "5-1-1992",
+			"valor": 2,
+			"dorsal": "22",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,72",
+			"capitan": false
 		},
 		{
 			"nombre": "Bobby Adekanye",
-			"nacionalidad": "Netherlands",
-			"fechaNacimiento": "1999-02-14",
-			"posicion": "DL"
+			"nacionalidad": "Niederlande",
+			"fechaNacimiento": "14-2-1999",
+			"valor": 0.8,
+			"dorsal": "32",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,75",
+			"capitan": false
 		},
 		{
-			"nombre": "Manuel Nieto",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-03-29",
-			"posicion": "DL"
+			"nombre": "Jorge Pombo",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "22-2-1994",
+			"valor": 1.2,
+			"dorsal": "11",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,77",
+			"capitan": false
 		},
 		{
-			"nombre": "Marc Baró Ortiz",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1999-08-23",
-			"posicion": "DF"
+			"nombre": "Jairo Izquierdo",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "22-10-1993",
+			"valor": 0.8,
+			"dorsal": "25",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,65",
+			"capitan": false
+		},
+		{
+			"nombre": "Sergio González",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "14-5-1997",
+			"valor": 0.7,
+			"dorsal": null,
+			"posicion": "MC",
+			"pieHabil": "A",
+			"altura": "1,84",
+			"capitan": false
 		}
 	],
 	"SD Eibar": [
 		{
-			"nombre": "Kévin Rodrigues",
-			"nacionalidad": "Portugal",
-			"fechaNacimiento": "1994-03-05",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Marko Dmitrović",
-			"nacionalidad": "Serbia",
-			"fechaNacimiento": "1992-01-24",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Damian Kądzior",
-			"nacionalidad": "Poland",
-			"fechaNacimiento": "1992-06-16",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Yoshinori Mutō",
-			"nacionalidad": "Japan",
-			"fechaNacimiento": "1992-07-15",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Rafa Soares",
-			"nacionalidad": "Portugal",
-			"fechaNacimiento": "1995-05-09",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Roberto Olabe",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-05-05",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Alejandro Pozo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1999-02-22",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Quique",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1990-05-16",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Esteban Burgos",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1992-01-09",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Sergio Álvarez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-01-23",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Rober Correa",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-09-20",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Martínez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-02-12",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Recio",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1991-01-11",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Pedro Bigas",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1990-09-19",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Yoel",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1988-08-28",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Arbilla",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1987-05-15",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Cote",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-09-05",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Paulo Oliveira",
-			"nacionalidad": "Portugal",
-			"fechaNacimiento": "1992-01-08",
-			"posicion": "DF"
+			"nombre": "Pape Diop",
+			"nacionalidad": "Senegal",
+			"fechaNacimiento": "19-3-1986",
+			"valor": 0.8,
+			"dorsal": "8",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,80",
+			"capitan": false
 		},
 		{
 			"nombre": "Pedro León",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1986-11-24",
-			"posicion": "MC"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "24-11-1986",
+			"valor": 1,
+			"dorsal": "21",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,83",
+			"capitan": false
 		},
 		{
-			"nombre": "Pape Kouly Diop",
-			"nacionalidad": "Senegal",
-			"fechaNacimiento": "1986-03-19",
-			"posicion": "MC"
+			"nombre": "Yoel Rodríguez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "28-8-1988",
+			"valor": 0.9,
+			"dorsal": "13",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
+		},
+		{
+			"nombre": "Anaitz Arbilla",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "15-5-1987",
+			"valor": 1.5,
+			"dorsal": "23",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
+		},
+		{
+			"nombre": "Quique González",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "16-5-1990",
+			"valor": 0.8,
+			"dorsal": "7",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,77",
+			"capitan": false
 		},
 		{
 			"nombre": "Sergi Enrich",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1990-02-26",
-			"posicion": "DL"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "26-2-1990",
+			"valor": 2.5,
+			"dorsal": "9",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,81",
+			"capitan": true
+		},
+		{
+			"nombre": "José Ángel",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "5-9-1989",
+			"valor": 3,
+			"dorsal": "15",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,82",
+			"capitan": false
+		},
+		{
+			"nombre": "Kike García",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "25-11-1989",
+			"valor": 2.4,
+			"dorsal": "17",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,86",
+			"capitan": false
+		},
+		{
+			"nombre": "Marko Dmitrovic",
+			"nacionalidad": "Serbien",
+			"fechaNacimiento": "24-1-1992",
+			"valor": 10,
+			"dorsal": "1",
+			"posicion": "PT",
+			"pieHabil": "I",
+			"altura": "1,94",
+			"capitan": false
 		},
 		{
 			"nombre": "Takashi Inui",
 			"nacionalidad": "Japan",
-			"fechaNacimiento": "1988-06-02",
-			"posicion": "DL"
+			"fechaNacimiento": "2-6-1988",
+			"valor": 2.4,
+			"dorsal": "14",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,69",
+			"capitan": false
 		},
 		{
-			"nombre": "Kike García",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-11-25",
-			"posicion": "DL"
+			"nombre": "Sergio Álvarez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "23-1-1992",
+			"valor": 1.6,
+			"dorsal": "6",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,83",
+			"capitan": false
 		},
 		{
-			"nombre": "Mendilibar",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1961-03-14",
-			"posicion": "PT"
+			"nombre": "Paulo Oliveira",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "8-1-1992",
+			"valor": 5,
+			"dorsal": "4",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
 		},
 		{
-			"nombre": "Andoni Azkargorta",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1978-06-02",
-			"posicion": "PT"
+			"nombre": "Recio",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "11-1-1991",
+			"valor": 2,
+			"dorsal": "18",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,83",
+			"capitan": false
+		},
+		{
+			"nombre": "Rafa Soares",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "9-5-1995",
+			"valor": 2.4,
+			"dorsal": "11",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,78",
+			"capitan": false
+		},
+		{
+			"nombre": "Damian Kadzior",
+			"nacionalidad": "Polen",
+			"fechaNacimiento": "16-6-1992",
+			"valor": 2,
+			"dorsal": "19",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,75",
+			"capitan": false
+		},
+		{
+			"nombre": "Pedro Bigas",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "15-5-1990",
+			"valor": 2,
+			"dorsal": "3",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,81",
+			"capitan": false
+		},
+		{
+			"nombre": "Kévin Rodrigues",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "5-3-1994",
+			"valor": 3.5,
+			"dorsal": "24",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,70",
+			"capitan": false
+		},
+		{
+			"nombre": "Roberto Correa",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "20-9-1992",
+			"valor": 0.6,
+			"dorsal": "20",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,80",
+			"capitan": false
+		},
+		{
+			"nombre": "Yoshinori Muto",
+			"nacionalidad": "Japan",
+			"fechaNacimiento": "15-7-1992",
+			"valor": 3,
+			"dorsal": "12",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
+		},
+		{
+			"nombre": "Roberto Olabe",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "5-5-1996",
+			"valor": 0.7,
+			"dorsal": "16",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,75",
+			"capitan": false
+		},
+		{
+			"nombre": "José Antonio Martínez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "12-2-1993",
+			"valor": 1.2,
+			"dorsal": "5",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,91",
+			"capitan": false
+		},
+		{
+			"nombre": "Esteban Burgos",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "9-1-1992",
+			"valor": 1,
+			"dorsal": "2",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,91",
+			"capitan": false
+		},
+		{
+			"nombre": "Alejandro Pozo",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "22-2-1999",
+			"valor": 5,
+			"dorsal": "22",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,74",
+			"capitan": false
 		},
 		{
 			"nombre": "Edu Expósito",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-08-01",
-			"posicion": "MC"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "1-8-1996",
+			"valor": 4,
+			"dorsal": "10",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
 		},
 		{
-			"nombre": "Miguel Atienza",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1999-05-27",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Bryan",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2001-02-11",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Eñaut Mendía",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1999-06-25",
-			"posicion": "DL"
+			"nombre": "Bryan Gil",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "11-2-2001",
+			"valor": 9,
+			"dorsal": "25",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,75",
+			"capitan": false
 		}
 	],
-	"Elche CF": [
+	"Dep. Alavés": [
 		{
-			"nombre": "Antonio Barragán",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1987-06-12",
-			"posicion": "DF"
+			"nombre": "Víctor Laguardia",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "5-11-1989",
+			"valor": 5,
+			"dorsal": "5",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
 		},
 		{
-			"nombre": "Youssouf Koné",
-			"nacionalidad": "Mali",
-			"fechaNacimiento": "1995-07-05",
-			"posicion": "DF"
+			"nombre": "Lucas Pérez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "10-9-1988",
+			"valor": 7.5,
+			"dorsal": "7",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,80",
+			"capitan": false
 		},
 		{
-			"nombre": "Guido Carrillo",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1991-05-25",
-			"posicion": "DL"
+			"nombre": "Manu García",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "26-4-1986",
+			"valor": 0.8,
+			"dorsal": "19",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,83",
+			"capitan": true
 		},
 		{
-			"nombre": "Lucas Boyé",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1996-02-28",
-			"posicion": "DL"
+			"nombre": "Joselu",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "27-3-1990",
+			"valor": 5,
+			"dorsal": "9",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,92",
+			"capitan": false
 		},
 		{
-			"nombre": "Steven Lucumí",
-			"nacionalidad": "Colombia",
-			"fechaNacimiento": "1995-04-08",
-			"posicion": "MC"
+			"nombre": "Rodrigo Battaglia",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "12-7-1991",
+			"valor": 4.5,
+			"dorsal": "6",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
 		},
 		{
-			"nombre": "Jorge Almirón",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1971-06-19",
-			"posicion": "PT"
+			"nombre": "John Guidetti",
+			"nacionalidad": "Schweden",
+			"fechaNacimiento": "15-4-1992",
+			"valor": 1.2,
+			"dorsal": "10",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
 		},
 		{
-			"nombre": "Raúl Guti",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-12-30",
-			"posicion": "MC"
+			"nombre": "Florian Lejeune",
+			"nacionalidad": "Frankreich",
+			"fechaNacimiento": "20-5-1991",
+			"valor": 4.5,
+			"dorsal": "22",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,90",
+			"capitan": false
 		},
 		{
-			"nombre": "Josán Fernández",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-12-03",
-			"posicion": "DL"
+			"nombre": "Edgar Méndez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "2-1-1990",
+			"valor": 1.6,
+			"dorsal": "16",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
 		},
 		{
-			"nombre": "Miguel Ángel",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1990-10-05",
-			"posicion": "DF"
+			"nombre": "Tomás Pina",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "14-10-1987",
+			"valor": 1.5,
+			"dorsal": "8",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
 		},
 		{
-			"nombre": "Josema Sánche",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-06-06",
-			"posicion": "DF"
+			"nombre": "Fernando Pacheco",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "18-5-1992",
+			"valor": 14,
+			"dorsal": "1",
+			"posicion": "PT",
+			"pieHabil": "I",
+			"altura": "1,86",
+			"capitan": false
 		},
 		{
-			"nombre": "Luismi",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-05-05",
-			"posicion": "MC"
+			"nombre": "Rodrigo Ely",
+			"nacionalidad": "Brasilien",
+			"fechaNacimiento": "3-11-1993",
+			"valor": 2.5,
+			"dorsal": "4",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,88",
+			"capitan": false
 		},
 		{
-			"nombre": "Dani Calvo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1994-04-01",
-			"posicion": "DF"
+			"nombre": "Jota Peleteiro",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "16-6-1991",
+			"valor": 2.5,
+			"dorsal": "24",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,80",
+			"capitan": false
 		},
 		{
-			"nombre": "Pere Milla",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-09-23",
-			"posicion": "DL"
+			"nombre": "Rubén Duarte",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "18-10-1995",
+			"valor": 5,
+			"dorsal": "3",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,72",
+			"capitan": false
 		},
 		{
-			"nombre": "Fidel",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-10-27",
-			"posicion": "MC"
+			"nombre": "Ximo Navarro",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "23-1-1990",
+			"valor": 2,
+			"dorsal": "23",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,76",
+			"capitan": false
 		},
 		{
-			"nombre": "Diego González",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-01-28",
-			"posicion": "DF"
+			"nombre": "Pere Pons",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "20-2-1993",
+			"valor": 3.5,
+			"dorsal": "20",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,77",
+			"capitan": false
 		},
 		{
-			"nombre": "Edgar Badía",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-02-12",
-			"posicion": "PT"
+			"nombre": "Deyverson",
+			"nacionalidad": "Brasilien",
+			"fechaNacimiento": "8-5-1991",
+			"valor": 3,
+			"dorsal": "14",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,87",
+			"capitan": false
 		},
 		{
-			"nombre": "Gonzalo Verdú",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1988-10-21",
-			"posicion": "DF"
+			"nombre": "Burgui",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "29-10-1993",
+			"valor": 1,
+			"dorsal": "18",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
 		},
 		{
-			"nombre": "Nino",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1980-06-10",
-			"posicion": "DL"
+			"nombre": "Luis Rioja",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "16-10-1993",
+			"valor": 1.5,
+			"dorsal": "11",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,76",
+			"capitan": false
 		},
 		{
-			"nombre": "Tete Morente",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-12-04",
-			"posicion": "DL"
+			"nombre": "Adrián Marín",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "9-1-1997",
+			"valor": 0.7,
+			"dorsal": "17",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,81",
+			"capitan": false
 		},
 		{
-			"nombre": "Diego Rodríguez",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1989-06-25",
-			"posicion": "PT"
+			"nombre": "Antonio Sivera",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "11-8-1996",
+			"valor": 1.2,
+			"dorsal": "13",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
 		},
 		{
-			"nombre": "Iván Marcone",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1990-06-03",
-			"posicion": "MC"
+			"nombre": "Tachi",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "10-9-1997",
+			"valor": 0.8,
+			"dorsal": "2",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
 		},
 		{
-			"nombre": "Juan Sánchez Miño",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1990-01-01",
-			"posicion": "DF"
+			"nombre": "Martín Aguirregabiria",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "10-5-1996",
+			"valor": 4,
+			"dorsal": "21",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
 		},
 		{
-			"nombre": "Emiliano Rigoni",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1993-02-04",
-			"posicion": "MC"
+			"nombre": "Tomás Tavares",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "7-3-2001",
+			"valor": 7.5,
+			"dorsal": "37",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
 		},
 		{
-			"nombre": "Omenuke Mfulu",
-			"nacionalidad": "Congo DR",
-			"fechaNacimiento": "1994-03-20",
-			"posicion": "DF"
+			"nombre": "Javi López",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "25-3-2002",
+			"valor": 0.6,
+			"dorsal": "26",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,83",
+			"capitan": false
 		},
 		{
-			"nombre": "Víctor Rodríguez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-07-23",
-			"posicion": "DL"
+			"nombre": "Sergi García",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "14-4-1999",
+			"valor": 0.1,
+			"dorsal": "27",
+			"posicion": "MC",
+			"pieHabil": "A",
+			"altura": "1,95",
+			"capitan": false
 		},
 		{
-			"nombre": "Jonatan Carmona Alamo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2001-09-25",
-			"posicion": "MC"
+			"nombre": "Abdallahi Mahmoud",
+			"nacionalidad": "Mauretanien",
+			"fechaNacimiento": "4-5-2000",
+			"valor": 0.1,
+			"dorsal": "30",
+			"posicion": "MC",
+			"pieHabil": "A",
+			"altura": "1,87",
+			"capitan": false
 		},
 		{
-			"nombre": "Diego Bri",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2002-09-12",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Gerard Barri",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2001-01-02",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "José Salinas",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-09-30",
-			"posicion": "DF"
+			"nombre": "Borja Sainz",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "1-2-2001",
+			"valor": 2.5,
+			"dorsal": "29",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,74",
+			"capitan": false
 		}
 	],
 	"SD Huesca": [
 		{
+			"nombre": "Pedro López",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "1-11-1983",
+			"valor": 0.1,
+			"dorsal": "19",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,74",
+			"capitan": false
+		},
+		{
 			"nombre": "Pedro Mosquera",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1988-04-21",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Sergio Gómez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-09-04",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Gastón Silva",
-			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "1994-03-05",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Jaime Seoane",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-01-22",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Rafael Mir",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-06-18",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Pablo Insúa",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-09-08",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Shinji Okazaki",
-			"nacionalidad": "Japan",
-			"fechaNacimiento": "1986-04-16",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Idrissa Doumbia",
-			"nacionalidad": "Côte d’Ivoire",
-			"fechaNacimiento": "1998-04-14",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Kelechi Nwakali",
-			"nacionalidad": "Nigeria",
-			"fechaNacimiento": "1998-06-05",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Sandro",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-07-09",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Eugeni Valderrama",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1994-07-19",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Juan Carlos",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1991-03-15",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Michel",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1975-10-30",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Javier Galán",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1994-11-19",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Javier Ontiveros",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-09-09",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "David Ferreiro",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1988-04-01",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Jorge Pulido",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1991-04-08",
-			"posicion": "DF"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "21-4-1988",
+			"valor": 0.7,
+			"dorsal": "5",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,84",
+			"capitan": false
 		},
 		{
 			"nombre": "Mikel Rico",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1984-11-01",
-			"posicion": "MC"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "4-11-1984",
+			"valor": 0.3,
+			"dorsal": "17",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
 		},
 		{
-			"nombre": "Antonio Valera",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-08-17",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Daniel Escriche Romero",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-03-24",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Pedro López",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1983-11-01",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Andrés Fernández",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1986-12-17",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Pablo Maffeo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-07-12",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Borja García",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1990-11-02",
-			"posicion": "MC"
+			"nombre": "Dimitrios Siovas",
+			"nacionalidad": "Griechenland",
+			"fechaNacimiento": "16-9-1988",
+			"valor": 3,
+			"dorsal": "18",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,91",
+			"capitan": false
 		},
 		{
 			"nombre": "Luisinho",
 			"nacionalidad": "Portugal",
-			"fechaNacimiento": "1985-05-05",
-			"posicion": "DF"
+			"fechaNacimiento": "5-5-1985",
+			"valor": 0.2,
+			"dorsal": "16",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,71",
+			"capitan": false
 		},
 		{
-			"nombre": "Dimitrios Siovas",
-			"nacionalidad": "Greece",
-			"fechaNacimiento": "1988-09-16",
-			"posicion": "DF"
+			"nombre": "Andrés Fernández",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "17-12-1986",
+			"valor": 0.6,
+			"dorsal": "25",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
+		},
+		{
+			"nombre": "Jorge Pulido",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "8-4-1991",
+			"valor": 2.5,
+			"dorsal": "14",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,86",
+			"capitan": true
+		},
+		{
+			"nombre": "Borja García",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "2-11-1990",
+			"valor": 2,
+			"dorsal": "24",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,75",
+			"capitan": false
+		},
+		{
+			"nombre": "David Ferreiro",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "1-4-1988",
+			"valor": 1,
+			"dorsal": "7",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,70",
+			"capitan": false
+		},
+		{
+			"nombre": "Shinji Okazaki",
+			"nacionalidad": "Japan",
+			"fechaNacimiento": "16-4-1986",
+			"valor": 1.5,
+			"dorsal": "12",
+			"posicion": "DL",
+			"pieHabil": "A",
+			"altura": "1,75",
+			"capitan": false
+		},
+		{
+			"nombre": "Pablo Insua",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "9-9-1993",
+			"valor": 0.9,
+			"dorsal": "4",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
+		},
+		{
+			"nombre": "Gastón Silva",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "5-3-1994",
+			"valor": 1.8,
+			"dorsal": "22",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,85",
+			"capitan": false
+		},
+		{
+			"nombre": "Sandro Ramírez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "9-7-1995",
+			"valor": 3,
+			"dorsal": "6",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,75",
+			"capitan": false
+		},
+		{
+			"nombre": "Juan Carlos Real",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "15-3-1991",
+			"valor": 1,
+			"dorsal": "21",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
+		},
+		{
+			"nombre": "Eugeni Valderrama",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "19-7-1994",
+			"valor": 1,
+			"dorsal": "8",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,82",
+			"capitan": false
+		},
+		{
+			"nombre": "Pablo Maffeo",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "12-7-1997",
+			"valor": 3,
+			"dorsal": "3",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,72",
+			"capitan": false
+		},
+		{
+			"nombre": "Antonio Valera",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "17-8-1996",
+			"valor": 0.3,
+			"dorsal": "30",
+			"posicion": "PT",
+			"pieHabil": "A",
+			"altura": "1,91",
+			"capitan": false
+		},
+		{
+			"nombre": "Javi Ontiveros",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "9-9-1997",
+			"valor": 7,
+			"dorsal": "15",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,75",
+			"capitan": false
+		},
+		{
+			"nombre": "Jaime Seoane",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "22-1-1997",
+			"valor": 0.5,
+			"dorsal": "20",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,77",
+			"capitan": false
+		},
+		{
+			"nombre": "Rafa Mir",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "18-6-1997",
+			"valor": 6,
+			"dorsal": "9",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,91",
+			"capitan": false
+		},
+		{
+			"nombre": "Sergio Gómez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "4-9-2000",
+			"valor": 2.5,
+			"dorsal": "10",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,71",
+			"capitan": false
+		},
+		{
+			"nombre": "Kelechi Nwakali",
+			"nacionalidad": "Nigeria",
+			"fechaNacimiento": "5-6-1998",
+			"valor": 0.3,
+			"dorsal": "26",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,80",
+			"capitan": false
+		},
+		{
+			"nombre": "Idrissa Doumbia",
+			"nacionalidad": "Elfenbeinküste",
+			"fechaNacimiento": "14-4-1998",
+			"valor": 4,
+			"dorsal": "2",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,87",
+			"capitan": false
+		},
+		{
+			"nombre": "Javi Galán",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "19-11-1994",
+			"valor": 2.5,
+			"dorsal": "11",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,72",
+			"capitan": false
 		},
 		{
 			"nombre": "Álvaro Fernández",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-04-13",
-			"posicion": "PT"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "13-4-1998",
+			"valor": 3,
+			"dorsal": "1",
+			"posicion": "PT",
+			"pieHabil": "I",
+			"altura": "1,86",
+			"capitan": false
+		},
+		{
+			"nombre": "Dani Escriche",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "24-3-1998",
+			"valor": 0.7,
+			"dorsal": "23",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
 		}
 	],
-	"RC Celta de Vigo": [
+	"Celta Vigo": [
+		{
+			"nombre": "Sergio Álvarez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "3-8-1986",
+			"valor": 0.7,
+			"dorsal": "25",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,79",
+			"capitan": false
+		},
+		{
+			"nombre": "Néstor Araújo",
+			"nacionalidad": "Mexiko",
+			"fechaNacimiento": "29-8-1991",
+			"valor": 7,
+			"dorsal": "4",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,88",
+			"capitan": false
+		},
 		{
 			"nombre": "Nolito",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1986-10-15",
-			"posicion": "MC"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "15-10-1986",
+			"valor": 1.5,
+			"dorsal": "9",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,75",
+			"capitan": false
 		},
 		{
 			"nombre": "Iago Aspas",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1987-08-01",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Néstor Araujo",
-			"nacionalidad": "Mexico",
-			"fechaNacimiento": "1991-08-29",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Renato Tapia",
-			"nacionalidad": "Peru",
-			"fechaNacimiento": "1995-07-28",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Joseph Aidoo",
-			"nacionalidad": "Ghana",
-			"fechaNacimiento": "1995-09-29",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "David Costas",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-03-26",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Denís Suárez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1994-01-06",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Okay Yokuşlu",
-			"nacionalidad": "Turkey",
-			"fechaNacimiento": "1994-03-09",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Jorge Sáenz",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-11-17",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Fran Beltrán",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1999-02-03",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Iván Villar",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-07-09",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Jeison Murillo",
-			"nacionalidad": "Colombia",
-			"fechaNacimiento": "1992-05-27",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Santi Mina",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-12-07",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Juncà",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-11-16",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Sergio Álvarez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1986-08-03",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Rubén Blanco",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-07-25",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Brais Méndez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-01-07",
-			"posicion": "DL"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "1-8-1987",
+			"valor": 10,
+			"dorsal": "10",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,76",
+			"capitan": false
 		},
 		{
 			"nombre": "Hugo Mallo",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1991-06-22",
-			"posicion": "DF"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "22-6-1991",
+			"valor": 5,
+			"dorsal": "2",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,74",
+			"capitan": true
 		},
 		{
-			"nombre": "Emre Mor",
-			"nacionalidad": "Turkey",
-			"fechaNacimiento": "1997-07-24",
-			"posicion": "MC"
+			"nombre": "Jeison Murillo",
+			"nacionalidad": "Kolumbien",
+			"fechaNacimiento": "27-5-1992",
+			"valor": 6,
+			"dorsal": "24",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,82",
+			"capitan": false
+		},
+		{
+			"nombre": "Okay Yokuslu",
+			"nacionalidad": "Türkei",
+			"fechaNacimiento": "9-3-1994",
+			"valor": 6,
+			"dorsal": "5",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,91",
+			"capitan": false
+		},
+		{
+			"nombre": "David Juncà",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "16-11-1993",
+			"valor": 0.9,
+			"dorsal": "17",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,78",
+			"capitan": false
+		},
+		{
+			"nombre": "Denis Suárez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "6-1-1994",
+			"valor": 10,
+			"dorsal": "6",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,76",
+			"capitan": false
+		},
+		{
+			"nombre": "Rubén Blanco",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "25-7-1995",
+			"valor": 7,
+			"dorsal": "13",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,88",
+			"capitan": false
 		},
 		{
 			"nombre": "Lucas Olaza",
 			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "1994-07-21",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Eduardo Coudet",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1974-09-12",
-			"posicion": "PT"
+			"fechaNacimiento": "21-7-1994",
+			"valor": 4,
+			"dorsal": "15",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,76",
+			"capitan": false
 		},
 		{
 			"nombre": "Kevin Vázquez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-03-23",
-			"posicion": "DF"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "23-3-1993",
+			"valor": 0.8,
+			"dorsal": "20",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,75",
+			"capitan": false
 		},
 		{
-			"nombre": "Sergio Carreira",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-10-13",
-			"posicion": "DF"
+			"nombre": "Santi Mina",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "7-12-1995",
+			"valor": 15,
+			"dorsal": "22",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,81",
+			"capitan": false
 		},
 		{
-			"nombre": "José Fontán",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-02-11",
-			"posicion": "DF"
+			"nombre": "David Costas",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "26-3-1995",
+			"valor": 1.6,
+			"dorsal": "3",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
 		},
 		{
-			"nombre": "Iago Domínguez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2001-11-22",
-			"posicion": "PT"
+			"nombre": "Renato Tapia",
+			"nacionalidad": "Peru",
+			"fechaNacimiento": "28-7-1995",
+			"valor": 2.4,
+			"dorsal": "14",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,85",
+			"capitan": false
+		},
+		{
+			"nombre": "Emre Mor",
+			"nacionalidad": "Türkei",
+			"fechaNacimiento": "24-7-1997",
+			"valor": 1,
+			"dorsal": "11",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,69",
+			"capitan": false
+		},
+		{
+			"nombre": "Iván Villar",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "9-7-1997",
+			"valor": 1,
+			"dorsal": "1",
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": "1,89",
+			"capitan": false
+		},
+		{
+			"nombre": "Brais Méndez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "7-1-1997",
+			"valor": 11,
+			"dorsal": "23",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,84",
+			"capitan": false
+		},
+		{
+			"nombre": "Jorge Sáenz",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "17-11-1996",
+			"valor": 1.5,
+			"dorsal": "16",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,90",
+			"capitan": false
+		},
+		{
+			"nombre": "Joseph Aidoo",
+			"nacionalidad": "Ghana",
+			"fechaNacimiento": "29-9-1995",
+			"valor": 7,
+			"dorsal": "18",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
+		},
+		{
+			"nombre": "Fran Beltrán",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "3-2-1999",
+			"valor": 14,
+			"dorsal": "8",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,72",
+			"capitan": false
 		},
 		{
 			"nombre": "Miguel Baeza",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-03-27",
-			"posicion": "MC"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "27-3-2000",
+			"valor": 2.5,
+			"dorsal": "27",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,77",
+			"capitan": false
 		},
 		{
-			"nombre": "Gabriel Veiga",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2002-05-27",
-			"posicion": "MC"
+			"nombre": "Sergio Carreira",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "13-10-2000",
+			"valor": 0.15,
+			"dorsal": "34",
+			"posicion": "DF",
+			"pieHabil": "A",
+			"altura": "1,70",
+			"capitan": false
 		},
 		{
 			"nombre": "Miguel Rodríguez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2003-04-29",
-			"posicion": "DL"
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "29-4-2003",
+			"valor": null,
+			"dorsal": "32",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,79",
+			"capitan": false
 		},
 		{
-			"nombre": "Álvaro Fernández",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-04-10",
-			"posicion": "PT"
+			"nombre": "Gabriel Veiga",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "27-5-2002",
+			"valor": 1,
+			"dorsal": "31",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
 		}
 	],
-	"Sevilla FC": [
+	"FC Elche": [
 		{
-			"nombre": "Jesús Navas",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1985-11-21",
-			"posicion": "MC"
+			"nombre": "Nino",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "10-6-1980",
+			"valor": 0.1,
+			"dorsal": "7",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,69",
+			"capitan": true
 		},
 		{
-			"nombre": "Sergio Rico",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-09-01",
-			"posicion": "PT"
+			"nombre": "Antonio Barragán",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "12-6-1987",
+			"valor": 1,
+			"dorsal": "19",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,86",
+			"capitan": false
 		},
 		{
-			"nombre": "Franco Vázquez",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1989-02-22",
-			"posicion": "MC"
+			"nombre": "Iván Marcone",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "3-6-1990",
+			"valor": 4,
+			"dorsal": "4",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,82",
+			"capitan": false
 		},
 		{
-			"nombre": "Sergio Escudero",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-09-02",
-			"posicion": "DF"
+			"nombre": "Diego Rodríguez",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "25-6-1989",
+			"valor": 0.3,
+			"dorsal": "1",
+			"posicion": "PT",
+			"pieHabil": "I",
+			"altura": "1,84",
+			"capitan": false
 		},
 		{
-			"nombre": "Suso",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1993-11-19",
-			"posicion": "MC"
+			"nombre": "Edgar Badia",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "12-2-1992",
+			"valor": 1.5,
+			"dorsal": "13",
+			"posicion": "PT",
+			"pieHabil": "A",
+			"altura": "1,80",
+			"capitan": false
 		},
 		{
-			"nombre": "Marcos Acuña",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1991-10-28",
-			"posicion": "MC"
+			"nombre": "Víctor Rodríguez",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "23-7-1989",
+			"valor": 0.9,
+			"dorsal": "8",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,67",
+			"capitan": false
 		},
 		{
-			"nombre": "Ivan Rakitić",
-			"nacionalidad": "Croatia",
-			"fechaNacimiento": "1988-03-10",
-			"posicion": "MC"
+			"nombre": "Fidel",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "27-10-1989",
+			"valor": 0.8,
+			"dorsal": "16",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,80",
+			"capitan": false
 		},
 		{
-			"nombre": "Yassine Bounou",
-			"nacionalidad": "Morocco",
-			"fechaNacimiento": "1991-04-05",
-			"posicion": "PT"
+			"nombre": "Juan Sánchez Miño",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "1-1-1990",
+			"valor": 3,
+			"dorsal": "3",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,77",
+			"capitan": false
 		},
 		{
-			"nombre": "Óscar",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1998-06-28",
-			"posicion": "MC"
+			"nombre": "Miguel Cifuentes",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "5-10-1990",
+			"valor": 0.8,
+			"dorsal": "23",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,73",
+			"capitan": false
 		},
 		{
-			"nombre": "Karim Rekik",
-			"nacionalidad": "Netherlands",
-			"fechaNacimiento": "1994-12-02",
-			"posicion": "DF"
+			"nombre": "Guido Carrillo",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "25-5-1991",
+			"valor": 3,
+			"dorsal": "21",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,91",
+			"capitan": false
 		},
 		{
-			"nombre": "Luuk de Jong",
-			"nacionalidad": "Netherlands",
-			"fechaNacimiento": "1990-08-27",
-			"posicion": "DL"
+			"nombre": "Gonzalo Verdú",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "21-10-1988",
+			"valor": 0.4,
+			"dorsal": "5",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,88",
+			"capitan": false
 		},
 		{
-			"nombre": "Oussama Idrissi",
-			"nacionalidad": "Morocco",
-			"fechaNacimiento": "1996-02-26",
-			"posicion": "DL"
+			"nombre": "Omenuke Mfulu",
+			"nacionalidad": "DR Kongo",
+			"fechaNacimiento": "20-3-1994",
+			"valor": 0.5,
+			"dorsal": "6",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,82",
+			"capitan": false
 		},
 		{
-			"nombre": "Lucas Ocampos",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "1994-07-11",
-			"posicion": "DL"
+			"nombre": "Luismi",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "5-5-1992",
+			"valor": 0.5,
+			"dorsal": "15",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,79",
+			"capitan": false
 		},
 		{
-			"nombre": "Jules Koundé",
-			"nacionalidad": "France",
-			"fechaNacimiento": "1998-11-12",
-			"posicion": "DF"
+			"nombre": "Pere Milla",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "23-9-1992",
+			"valor": 0.6,
+			"dorsal": "10",
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": "1,80",
+			"capitan": false
 		},
 		{
-			"nombre": "Diego Carlos",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "1993-03-15",
-			"posicion": "MC"
+			"nombre": "Josema",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "6-6-1996",
+			"valor": 0.3,
+			"dorsal": "24",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,84",
+			"capitan": false
 		},
 		{
-			"nombre": "Joris Gnagnon",
-			"nacionalidad": "Côte d’Ivoire",
-			"fechaNacimiento": "1997-01-13",
-			"posicion": "DF"
+			"nombre": "Youssouf Koné",
+			"nacionalidad": "Mali",
+			"fechaNacimiento": "5-7-1995",
+			"valor": 2,
+			"dorsal": "18",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,74",
+			"capitan": false
 		},
 		{
-			"nombre": "Lopetegui",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1966-08-28",
-			"posicion": "PT"
+			"nombre": "Josan",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "3-12-1989",
+			"valor": 0.5,
+			"dorsal": "17",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,76",
+			"capitan": false
 		},
 		{
-			"nombre": "Aleix Vidal",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1989-08-21",
-			"posicion": "MC"
+			"nombre": "Emiliano Rigoni",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "4-2-1993",
+			"valor": 3.5,
+			"dorsal": "22",
+			"posicion": "DL",
+			"pieHabil": "A",
+			"altura": "1,80",
+			"capitan": false
 		},
 		{
-			"nombre": "Óliver Torres",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1994-11-10",
-			"posicion": "MC"
+			"nombre": "Dani Calvo",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "1-4-1994",
+			"valor": 1,
+			"dorsal": "12",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,93",
+			"capitan": false
 		},
 		{
-			"nombre": "Carlos Fernández",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-05-22",
-			"posicion": "DL"
+			"nombre": "Raúl Guti",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "30-12-1996",
+			"valor": 5,
+			"dorsal": "14",
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": "1,78",
+			"capitan": false
 		},
 		{
-			"nombre": "Tomáš Vaclík",
-			"nacionalidad": "Czech Republic",
-			"fechaNacimiento": "1989-03-29",
-			"posicion": "PT"
+			"nombre": "Lucas Boyé",
+			"nacionalidad": "Argentinien",
+			"fechaNacimiento": "28-2-1996",
+			"valor": 0.9,
+			"dorsal": "9",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,83",
+			"capitan": false
 		},
 		{
-			"nombre": "Nemanja Gudelj",
-			"nacionalidad": "Serbia",
-			"fechaNacimiento": "1991-11-16",
-			"posicion": "MC"
+			"nombre": "Tete Morente",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "4-12-1996",
+			"valor": 1,
+			"dorsal": "11",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,84",
+			"capitan": false
 		},
 		{
-			"nombre": "Fernando",
-			"nacionalidad": "Brazil",
-			"fechaNacimiento": "1987-07-25",
-			"posicion": "MC"
+			"nombre": "Diego González",
+			"nacionalidad": "Spanien",
+			"fechaNacimiento": "28-1-1995",
+			"valor": 0.9,
+			"dorsal": "2",
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": "1,85",
+			"capitan": false
 		},
 		{
-			"nombre": "Marc Gual Huguet",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-03-13",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Youssef En-Nesyri",
-			"nacionalidad": "Morocco",
-			"fechaNacimiento": "1997-06-01",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Javier Díaz",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1997-05-15",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Antonio Zarzana",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2002-03-21",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Munir El Haddadi",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1995-09-01",
-			"posicion": "DL"
-		},
-		{
-			"nombre": "Jordán",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1994-07-06",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Sergi Gómez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1992-03-28",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Reguilón",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "1996-12-16",
-			"posicion": "DF"
-		},
-		{
-			"nombre": "Alfonso Pastor",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-10-04",
-			"posicion": "PT"
-		},
-		{
-			"nombre": "Juan Luis Sánchez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2003-08-15",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Carlos Álvarez",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2003-08-06",
-			"posicion": "MC"
-		},
-		{
-			"nombre": "Adrián González Moyano",
-			"nacionalidad": "Spain",
-			"fechaNacimiento": "2000-03-28",
-			"posicion": "PT"
+			"nombre": "Jeison Lucumí",
+			"nacionalidad": "Kolumbien",
+			"fechaNacimiento": "8-4-1995",
+			"valor": 1.2,
+			"dorsal": "20",
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": "1,77",
+			"capitan": false
 		}
 	]
 }

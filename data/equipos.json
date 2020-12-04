@@ -1,1 +1,3822 @@
-{"Athletic Club":[{"nombre":"Ibai","nacionalidad":"Spain","fechaNacimiento":"1989-11-11","posicion":"MC"},{"nombre":"Álex Berenguer","nacionalidad":"Spain","fechaNacimiento":"1995-07-04","posicion":"MC"},{"nombre":"Yuri Berchiche","nacionalidad":"Spain","fechaNacimiento":"1990-02-10","posicion":"DF"},{"nombre":"Unai López","nacionalidad":"Spain","fechaNacimiento":"1995-10-30","posicion":"DL"},{"nombre":"Jokin Ezkieta","nacionalidad":"Spain","fechaNacimiento":"1996-08-17","posicion":"PT"},{"nombre":"Unai Simón","nacionalidad":"Spain","fechaNacimiento":"1997-06-11","posicion":"PT"},{"nombre":"Iago Herrerín","nacionalidad":"Spain","fechaNacimiento":"1988-01-25","posicion":"PT"},{"nombre":"Balenziaga","nacionalidad":"Spain","fechaNacimiento":"1988-02-29","posicion":"DF"},{"nombre":"Yeray Álvarez","nacionalidad":"Spain","fechaNacimiento":"1995-01-24","posicion":"DF"},{"nombre":"Iñigo Lekue","nacionalidad":"Spain","fechaNacimiento":"1993-05-04","posicion":"DF"},{"nombre":"Unai Núñez","nacionalidad":"Spain","fechaNacimiento":"1997-01-30","posicion":"DF"},{"nombre":"Íñigo Martínez","nacionalidad":"Spain","fechaNacimiento":"1991-05-17","posicion":"DF"},{"nombre":"De Marcos","nacionalidad":"Spain","fechaNacimiento":"1989-04-10","posicion":"MC"},{"nombre":"Raúl García","nacionalidad":"Spain","fechaNacimiento":"1986-07-11","posicion":"MC"},{"nombre":"Iñigo Córdoba","nacionalidad":"Spain","fechaNacimiento":"1997-03-13","posicion":"MC"},{"nombre":"Peru Nolaskoain","nacionalidad":"Spain","fechaNacimiento":"1998-10-25","posicion":"MC"},{"nombre":"Muniain","nacionalidad":"Spain","fechaNacimiento":"1992-12-19","posicion":"DL"},{"nombre":"Iñaki Williams","nacionalidad":"Spain","fechaNacimiento":"1994-06-15","posicion":"DL"},{"nombre":"Ander Capa","nacionalidad":"Spain","fechaNacimiento":"1992-02-08","posicion":"MC"},{"nombre":"Dani García","nacionalidad":"Spain","fechaNacimiento":"1990-05-24","posicion":"MC"},{"nombre":"Asier Villalibre","nacionalidad":"Spain","fechaNacimiento":"1997-09-30","posicion":"DL"},{"nombre":"Kenan Kodro","nacionalidad":"Bosnia and Herzegovina","fechaNacimiento":"1993-08-19","posicion":"DL"},{"nombre":"Mikel Vesga","nacionalidad":"Spain","fechaNacimiento":"1993-05-21","posicion":"MC"},{"nombre":"Gaizka Garitano","nacionalidad":"Spain","fechaNacimiento":"1975-07-09","posicion":"PT"},{"nombre":"Iñigo Vicente","nacionalidad":"Spain","fechaNacimiento":"1998-01-06","posicion":"DL"},{"nombre":"Oihan Sancet","nacionalidad":"Spain","fechaNacimiento":"2000-04-25","posicion":"MC"},{"nombre":"Jon Morcillo","nacionalidad":"Spain","fechaNacimiento":"1998-09-15","posicion":"DL"},{"nombre":"Unai Vencedor Paris","nacionalidad":"Spain","fechaNacimiento":"2000-11-15","posicion":"MC"},{"nombre":"Oier Zarraga","nacionalidad":"Spain","fechaNacimiento":"1999-01-04","posicion":"MC"}],"Club Atlético de Madrid":[{"nombre":"Adán","nacionalidad":"Spain","fechaNacimiento":"1987-05-13","posicion":"PT"},{"nombre":"Marcos Llorente","nacionalidad":"Spain","fechaNacimiento":"1995-01-30","posicion":"MC"},{"nombre":"Koke","nacionalidad":"Spain","fechaNacimiento":"1992-01-08","posicion":"MC"},{"nombre":"Diego Costa","nacionalidad":"Spain","fechaNacimiento":"1988-10-07","posicion":"DL"},{"nombre":"José Maria Giménez","nacionalidad":"Uruguay","fechaNacimiento":"1995-01-20","posicion":"DF"},{"nombre":"Šime Vrsaljko","nacionalidad":"Croatia","fechaNacimiento":"1992-01-10","posicion":"DF"},{"nombre":"Saúl","nacionalidad":"Spain","fechaNacimiento":"1994-11-21","posicion":"MC"},{"nombre":"Jan Oblak","nacionalidad":"Slovenia","fechaNacimiento":"1993-01-07","posicion":"PT"},{"nombre":"Ángel Correa","nacionalidad":"Argentina","fechaNacimiento":"1995-03-09","posicion":"DL"},{"nombre":"Vitolo","nacionalidad":"Spain","fechaNacimiento":"1989-11-02","posicion":"MC"},{"nombre":"Diego Simeone","nacionalidad":"Argentina","fechaNacimiento":"1970-04-28","posicion":"PT"},{"nombre":"Caio Henrique","nacionalidad":"Brazil","fechaNacimiento":"1997-07-31","posicion":"MC"},{"nombre":"Renan Lodi","nacionalidad":"Brazil","fechaNacimiento":"1998-04-08","posicion":"DF"},{"nombre":"Lucas Torreira","nacionalidad":"Uruguay","fechaNacimiento":"1996-02-11","posicion":"MC"},{"nombre":"Luis Suárez","nacionalidad":"Uruguay","fechaNacimiento":"1987-01-24","posicion":"DL"},{"nombre":"Héctor Herrera","nacionalidad":"Mexico","fechaNacimiento":"1990-04-19","posicion":"MC"},{"nombre":"Kieran Trippier","nacionalidad":"England","fechaNacimiento":"1990-09-19","posicion":"DF"},{"nombre":"Thomas Lemar","nacionalidad":"France","fechaNacimiento":"1995-11-12","posicion":"DL"},{"nombre":"Yannick Carrasco","nacionalidad":"Belgium","fechaNacimiento":"1993-09-04","posicion":"MC"},{"nombre":"Ivan Šaponjić","nacionalidad":"Serbia","fechaNacimiento":"1997-08-02","posicion":"DL"},{"nombre":"Alex dos Santos","nacionalidad":"Spain","fechaNacimiento":"1999-01-15","posicion":"PT"},{"nombre":"Miguel San Román","nacionalidad":"Spain","fechaNacimiento":"1997-07-14","posicion":"PT"},{"nombre":"Stefan Savić","nacionalidad":"Montenegro","fechaNacimiento":"1991-01-08","posicion":"DF"},{"nombre":"Toni Moya","nacionalidad":"Spain","fechaNacimiento":"1998-03-20","posicion":"MC"},{"nombre":"Felipe","nacionalidad":"Brazil","fechaNacimiento":"1989-05-16","posicion":"DF"},{"nombre":"Ivo Grbić","nacionalidad":"Croatia","fechaNacimiento":"1996-01-18","posicion":"PT"},{"nombre":"Álvaro García","nacionalidad":"Spain","fechaNacimiento":"2000-06-01","posicion":"DF"},{"nombre":"Mario Hermoso","nacionalidad":"Spain","fechaNacimiento":"1995-06-18","posicion":"DF"},{"nombre":"Geoffrey Kondogbia","nacionalidad":"Central African Republic","fechaNacimiento":"1993-02-15","posicion":"MC"},{"nombre":"João Félix","nacionalidad":"Portugal","fechaNacimiento":"1999-11-10","posicion":"DL"},{"nombre":"Francisco Montero","nacionalidad":"Spain","fechaNacimiento":"1999-01-14","posicion":"DF"},{"nombre":"Diego Conde","nacionalidad":"Spain","fechaNacimiento":"1998-10-20","posicion":"PT"},{"nombre":"Sergio Camello","nacionalidad":"Spain","fechaNacimiento":"2001-02-10","posicion":"DL"},{"nombre":"Manuel Sánchez","nacionalidad":"Spain","fechaNacimiento":"2000-08-24","posicion":"DF"},{"nombre":"Germán Valera","nacionalidad":"Spain","fechaNacimiento":"2002-03-16","posicion":"MC"},{"nombre":"Ricard Sánchez","nacionalidad":"Spain","fechaNacimiento":"2000-02-22","posicion":"DF"},{"nombre":"Juan Sanabria","nacionalidad":"Uruguay","fechaNacimiento":"2000-03-29","posicion":"MC"}],"CA Osasuna":[{"nombre":"Raúl Navas","nacionalidad":"Spain","fechaNacimiento":"1988-05-11","posicion":"DF"},{"nombre":"Rubén","nacionalidad":"Spain","fechaNacimiento":"1984-06-22","posicion":"PT"},{"nombre":"Adrián","nacionalidad":"Spain","fechaNacimiento":"1988-01-08","posicion":"DL"},{"nombre":"Ante Budimir","nacionalidad":"Croatia","fechaNacimiento":"1991-07-22","posicion":"DL"},{"nombre":"Jonathan Calleri","nacionalidad":"Argentina","fechaNacimiento":"1993-09-23","posicion":"DL"},{"nombre":"Brandon","nacionalidad":"Spain","fechaNacimiento":"1995-02-04","posicion":"DL"},{"nombre":"Juan Pérez","nacionalidad":"Spain","fechaNacimiento":"1996-07-15","posicion":"PT"},{"nombre":"Sergio Herrera","nacionalidad":"Spain","fechaNacimiento":"1993-06-05","posicion":"PT"},{"nombre":"Oier","nacionalidad":"Spain","fechaNacimiento":"1986-05-25","posicion":"DF"},{"nombre":"Unai García","nacionalidad":"Spain","fechaNacimiento":"1992-09-30","posicion":"DF"},{"nombre":"Aridane Hernández","nacionalidad":"Equatorial Guinea","fechaNacimiento":"1989-03-23","posicion":"DF"},{"nombre":"Roberto Torres","nacionalidad":"Spain","fechaNacimiento":"1989-03-07","posicion":"MC"},{"nombre":"Lucas Torró","nacionalidad":"Spain","fechaNacimiento":"1994-07-19","posicion":"MC"},{"nombre":"Kike Barja","nacionalidad":"Spain","fechaNacimiento":"1997-04-04","posicion":"DL"},{"nombre":"David García","nacionalidad":"Spain","fechaNacimiento":"1994-02-14","posicion":"DF"},{"nombre":"Rubén García","nacionalidad":"Spain","fechaNacimiento":"1993-07-14","posicion":"MC"},{"nombre":"Jony","nacionalidad":"Spain","fechaNacimiento":"1991-07-09","posicion":"MC"},{"nombre":"Iñigo Pérez","nacionalidad":"Spain","fechaNacimiento":"1988-01-18","posicion":"MC"},{"nombre":"Chimy Ávila","nacionalidad":"Argentina","fechaNacimiento":"1994-02-06","posicion":"DL"},{"nombre":"Jagoba Arrasate","nacionalidad":"Spain","fechaNacimiento":"1978-04-22","posicion":"PT"},{"nombre":"Nacho Vidal","nacionalidad":"Spain","fechaNacimiento":"1995-01-24","posicion":"DF"},{"nombre":"Facundo Roncaglia","nacionalidad":"Argentina","fechaNacimiento":"1987-02-10","posicion":"DF"},{"nombre":"Darko Brašanac","nacionalidad":"Serbia","fechaNacimiento":"1992-02-12","posicion":"MC"},{"nombre":"Enric Gallego","nacionalidad":"Spain","fechaNacimiento":"1986-09-12","posicion":"DL"},{"nombre":"Juan Cruz","nacionalidad":"Spain","fechaNacimiento":"1992-07-28","posicion":"DF"},{"nombre":"Javi Martínez","nacionalidad":"Spain","fechaNacimiento":"1999-12-22","posicion":"DL"},{"nombre":"Iván Martínez","nacionalidad":"Spain","fechaNacimiento":"2002-02-19","posicion":"PT"},{"nombre":"Jon Moncayola","nacionalidad":"Spain","fechaNacimiento":"1998-05-13","posicion":"MC"},{"nombre":"Aimar Oroz","nacionalidad":"Spain","fechaNacimiento":"2001-11-27","posicion":"MC"},{"nombre":"Gorka Zabarte","nacionalidad":"Spain","fechaNacimiento":"1999-01-09","posicion":"DF"},{"nombre":"Javier Delgado","nacionalidad":"Spain","fechaNacimiento":"1999-06-19","posicion":"DL"},{"nombre":"Asier Córdoba","nacionalidad":"Spain","fechaNacimiento":"2000-03-31","posicion":"DL"}],"FC Barcelona":[{"nombre":"Quique Setién","nacionalidad":"Spain","fechaNacimiento":"1958-09-27","posicion":"PT"},{"nombre":"Clément Lenglet","nacionalidad":"France","fechaNacimiento":"1995-06-17","posicion":"DF"},{"nombre":"Antoine Griezmann","nacionalidad":"France","fechaNacimiento":"1991-03-21","posicion":"DL"},{"nombre":"Arthur","nacionalidad":"Brazil","fechaNacimiento":"1996-08-12","posicion":"MC"},{"nombre":"Matheus Fernandes","nacionalidad":"Brazil","fechaNacimiento":"1998-06-30","posicion":"MC"},{"nombre":"Miralem Pjanić","nacionalidad":"Bosnia and Herzegovina","fechaNacimiento":"1990-04-02","posicion":"MC"},{"nombre":"Marc-André ter Stegen","nacionalidad":"Germany","fechaNacimiento":"1992-04-30","posicion":"PT"},{"nombre":"Piqué","nacionalidad":"Spain","fechaNacimiento":"1987-02-02","posicion":"DF"},{"nombre":"Jordi Alba","nacionalidad":"Spain","fechaNacimiento":"1989-03-21","posicion":"DF"},{"nombre":"Lionel Messi","nacionalidad":"Argentina","fechaNacimiento":"1987-06-24","posicion":"DL"},{"nombre":"Neto","nacionalidad":"Brazil","fechaNacimiento":"1989-07-19","posicion":"PT"},{"nombre":"Philippe Coutinho","nacionalidad":"Brazil","fechaNacimiento":"1992-06-12","posicion":"MC"},{"nombre":"Samuel Umtiti","nacionalidad":"France","fechaNacimiento":"1993-11-14","posicion":"DF"},{"nombre":"Ousmane Dembélé","nacionalidad":"France","fechaNacimiento":"1997-05-15","posicion":"DL"},{"nombre":"Martin Braithwaite","nacionalidad":"Denmark","fechaNacimiento":"1991-06-05","posicion":"DL"},{"nombre":"Ivan Rakitić","nacionalidad":"Croatia","fechaNacimiento":"1988-03-10","posicion":"MC"},{"nombre":"Frenkie de Jong","nacionalidad":"Netherlands","fechaNacimiento":"1997-05-12","posicion":"MC"},{"nombre":"Busquets","nacionalidad":"Spain","fechaNacimiento":"1988-07-16","posicion":"MC"},{"nombre":"Ronald Koeman","nacionalidad":"Netherlands","fechaNacimiento":"1963-03-21","posicion":"PT"},{"nombre":"Sergi Roberto","nacionalidad":"Spain","fechaNacimiento":"1992-02-07","posicion":"MC"},{"nombre":"Aleñà","nacionalidad":"Spain","fechaNacimiento":"1998-01-05","posicion":"MC"},{"nombre":"Oriol Busquets","nacionalidad":"Spain","fechaNacimiento":"1999-01-20","posicion":"MC"},{"nombre":"Ronald Araújo","nacionalidad":"Uruguay","fechaNacimiento":"1999-03-07","posicion":"DF"},{"nombre":"Riqui Puig","nacionalidad":"Spain","fechaNacimiento":"1999-08-13","posicion":"MC"},{"nombre":"Júnior Firpo","nacionalidad":"Spain","fechaNacimiento":"1996-05-10","posicion":"DF"},{"nombre":"Trincão","nacionalidad":"Portugal","fechaNacimiento":"1999-12-29","posicion":"DL"},{"nombre":"Sergiño Dest","nacionalidad":"United States","fechaNacimiento":"2000-11-03","posicion":"DF"},{"nombre":"Iñaki","nacionalidad":"Spain","fechaNacimiento":"1999-03-02","posicion":"PT"},{"nombre":"Henrik Larsson","nacionalidad":"Sweden","fechaNacimiento":"1971-09-20","posicion":"PT"},{"nombre":"Alfred Schreuder","nacionalidad":"Netherlands","fechaNacimiento":"1972-11-02","posicion":"PT"},{"nombre":"Ansu Fati","nacionalidad":"Spain","fechaNacimiento":"2002-10-31","posicion":"DL"},{"nombre":"Pedri","nacionalidad":"Spain","fechaNacimiento":"2002-11-25","posicion":"DL"},{"nombre":"Arnau Tenas","nacionalidad":"Spain","fechaNacimiento":"2001-05-30","posicion":"PT"},{"nombre":"Konrad de la Fuente","nacionalidad":"United States","fechaNacimiento":"2001-07-16","posicion":"DL"},{"nombre":"Óscar Mingueza","nacionalidad":"Spain","fechaNacimiento":"1999-05-13","posicion":"DF"}],"Getafe CF":[{"nombre":"David Soria","nacionalidad":"Spain","fechaNacimiento":"1993-04-04","posicion":"PT"},{"nombre":"Ángel","nacionalidad":"Spain","fechaNacimiento":"1987-04-26","posicion":"DL"},{"nombre":"Portillo","nacionalidad":"Spain","fechaNacimiento":"1990-06-13","posicion":"MC"},{"nombre":"Dakonam Djené","nacionalidad":"Togo","fechaNacimiento":"1991-12-31","posicion":"DF"},{"nombre":"David Alba","nacionalidad":"Spain","fechaNacimiento":"1999-05-05","posicion":"DF"},{"nombre":"Leandro Chichizola","nacionalidad":"Argentina","fechaNacimiento":"1990-03-27","posicion":"PT"},{"nombre":"Pepe Bordalás","nacionalidad":"Spain","fechaNacimiento":"1964-03-05","posicion":"PT"},{"nombre":"Nemanja Maksimović","nacionalidad":"Serbia","fechaNacimiento":"1995-01-26","posicion":"MC"},{"nombre":"Allan Nyom","nacionalidad":"Cameroon","fechaNacimiento":"1988-05-10","posicion":"DF"},{"nombre":"Abdoulay Diaby","nacionalidad":"Mali","fechaNacimiento":"1991-05-21","posicion":"DL"},{"nombre":"Cucurella","nacionalidad":"Spain","fechaNacimiento":"1998-07-22","posicion":"MC"},{"nombre":"Mata","nacionalidad":"Spain","fechaNacimiento":"1988-10-24","posicion":"DL"},{"nombre":"Cucho Hernández","nacionalidad":"Colombia","fechaNacimiento":"1999-04-20","posicion":"DL"},{"nombre":"Rubén Yáñez","nacionalidad":"Spain","fechaNacimiento":"1993-10-12","posicion":"PT"},{"nombre":"Xabi Etxeita","nacionalidad":"Spain","fechaNacimiento":"1987-10-31","posicion":"DF"},{"nombre":"Damián Suárez","nacionalidad":"Uruguay","fechaNacimiento":"1988-04-27","posicion":"DF"},{"nombre":"Mathías Olivera","nacionalidad":"Uruguay","fechaNacimiento":"1997-10-31","posicion":"DF"},{"nombre":"Mauro Arambarri","nacionalidad":"Uruguay","fechaNacimiento":"1995-09-30","posicion":"MC"},{"nombre":"José Vegar","nacionalidad":"Spain","fechaNacimiento":"1975-02-22","posicion":"PT"},{"nombre":"Chema","nacionalidad":"Spain","fechaNacimiento":"1992-03-03","posicion":"DF"},{"nombre":"Erick Cabaco","nacionalidad":"Uruguay","fechaNacimiento":"1995-04-19","posicion":"DF"},{"nombre":"Darío Poveda","nacionalidad":"Spain","fechaNacimiento":"1997-03-13","posicion":"DL"},{"nombre":"Enes Ünal","nacionalidad":"Turkey","fechaNacimiento":"1997-05-10","posicion":"DL"},{"nombre":"Timor","nacionalidad":"Spain","fechaNacimiento":"1989-01-17","posicion":"MC"},{"nombre":"Ante Palaversa","nacionalidad":"Croatia","fechaNacimiento":"2000-04-06","posicion":"MC"},{"nombre":"Victor Mollejo","nacionalidad":"Spain","fechaNacimiento":"2001-01-21","posicion":"DL"},{"nombre":"Ryan Nolan","nacionalidad":"Republic of Ireland","fechaNacimiento":"1999-02-17","posicion":"DF"}],"Granada CF":[{"nombre":"Jesús Vallejo","nacionalidad":"Spain","fechaNacimiento":"1997-01-05","posicion":"DF"},{"nombre":"Maxime Gonalons","nacionalidad":"France","fechaNacimiento":"1989-03-10","posicion":"MC"},{"nombre":"Molina","nacionalidad":"Spain","fechaNacimiento":"1982-04-22","posicion":"DL"},{"nombre":"Kenedy","nacionalidad":"Brazil","fechaNacimiento":"1996-02-08","posicion":"DL"},{"nombre":"Dimitri Foulquier","nacionalidad":"Guadeloupe","fechaNacimiento":"1993-03-23","posicion":"DF"},{"nombre":"Soldado","nacionalidad":"Spain","fechaNacimiento":"1985-05-27","posicion":"DL"},{"nombre":"Diego Martínez","nacionalidad":"Spain","fechaNacimiento":"1980-12-16","posicion":"PT"},{"nombre":"Rui Silva","nacionalidad":"Portugal","fechaNacimiento":"1994-02-07","posicion":"PT"},{"nombre":"Aarón","nacionalidad":"Spain","fechaNacimiento":"1995-09-27","posicion":"PT"},{"nombre":"Germán","nacionalidad":"Spain","fechaNacimiento":"1986-10-31","posicion":"DF"},{"nombre":"Quini","nacionalidad":"Spain","fechaNacimiento":"1989-09-24","posicion":"DF"},{"nombre":"Víctor Díaz","nacionalidad":"Spain","fechaNacimiento":"1988-06-12","posicion":"DF"},{"nombre":"Montoro","nacionalidad":"Spain","fechaNacimiento":"1988-06-25","posicion":"MC"},{"nombre":"Antonio Puertas","nacionalidad":"Spain","fechaNacimiento":"1992-02-21","posicion":"DL"},{"nombre":"Darwin Machís","nacionalidad":"Venezuela","fechaNacimiento":"1993-02-07","posicion":"DL"},{"nombre":"Yan Eteki","nacionalidad":"Cameroon","fechaNacimiento":"1997-08-26","posicion":"MC"},{"nombre":"Luis Suárez","nacionalidad":"Colombia","fechaNacimiento":"1997-12-02","posicion":"DL"},{"nombre":"Luis Milla","nacionalidad":"Spain","fechaNacimiento":"1994-10-07","posicion":"MC"},{"nombre":"Bernardo","nacionalidad":"Spain","fechaNacimiento":"1993-07-17","posicion":"DF"},{"nombre":"Fede Vico","nacionalidad":"Spain","fechaNacimiento":"1994-07-04","posicion":"MC"},{"nombre":"Ramon Azeez","nacionalidad":"Nigeria","fechaNacimiento":"1992-12-12","posicion":"MC"},{"nombre":"Andorinha","nacionalidad":"Portugal","fechaNacimiento":"1996-02-02","posicion":"PT"},{"nombre":"Domingos Duarte","nacionalidad":"Portugal","fechaNacimiento":"1995-03-10","posicion":"DF"},{"nombre":"Nehuén Pérez","nacionalidad":"Argentina","fechaNacimiento":"2000-06-24","posicion":"DF"},{"nombre":"Eris Abedini","nacionalidad":"Kosovo","fechaNacimiento":"1998-08-29","posicion":"MC"},{"nombre":"Alvaro Bravo Jiménez","nacionalidad":"Spain","fechaNacimiento":"1998-02-04","posicion":"MC"},{"nombre":"Fobi Kingsley","nacionalidad":"Ghana","fechaNacimiento":"1998-09-20","posicion":"DF"},{"nombre":"Yangel Herrera","nacionalidad":"Venezuela","fechaNacimiento":"1998-01-07","posicion":"MC"},{"nombre":"Neyder Lozano","nacionalidad":"Colombia","fechaNacimiento":"1994-03-04","posicion":"DF"},{"nombre":"Alberto Soro","nacionalidad":"Spain","fechaNacimiento":"1999-03-09","posicion":"DL"},{"nombre":"Jesús Rodríguez Ortuño","nacionalidad":"Spain","fechaNacimiento":"1998-02-11","posicion":"MC"},{"nombre":"Dani Plomer","nacionalidad":"Spain","fechaNacimiento":"1998-11-30","posicion":"DL"},{"nombre":"Carlos Neva","nacionalidad":"Spain","fechaNacimiento":"1996-06-12","posicion":"DF"},{"nombre":"Juan","nacionalidad":"Argentina","fechaNacimiento":"1998-01-24","posicion":"PT"},{"nombre":"José Sánchez","nacionalidad":"Spain","fechaNacimiento":"2000-03-02","posicion":"DF"},{"nombre":"Arnau Fàbrega Mañas","nacionalidad":"Spain","fechaNacimiento":"2000-06-28","posicion":"PT"},{"nombre":"Raúl Torrente","nacionalidad":"Spain","fechaNacimiento":"2001-03-01","posicion":"MC"},{"nombre":"Ángel Jiménez","nacionalidad":"Spain","fechaNacimiento":"2002-06-22","posicion":"PT"},{"nombre":"Ismael Ruiz","nacionalidad":"Spain","fechaNacimiento":"2001-02-14","posicion":"MC"},{"nombre":"Carlos León","nacionalidad":"Spain","fechaNacimiento":"2002-12-05","posicion":"MC"},{"nombre":"Rafael Romero","nacionalidad":"Spain","fechaNacimiento":"2003-08-07","posicion":"PT"},{"nombre":"Sergio Barcia","nacionalidad":"Spain","fechaNacimiento":"2000-12-31","posicion":"DF"}],"Real Madrid CF":[{"nombre":"Álvaro Odriozola","nacionalidad":"Spain","fechaNacimiento":"1995-12-14","posicion":"DF"},{"nombre":"Luka Modrić","nacionalidad":"Croatia","fechaNacimiento":"1985-09-09","posicion":"MC"},{"nombre":"Lucas Vázquez","nacionalidad":"Spain","fechaNacimiento":"1991-07-01","posicion":"MC"},{"nombre":"Jesús Vallejo","nacionalidad":"Spain","fechaNacimiento":"1997-01-05","posicion":"DF"},{"nombre":"Toni Kroos","nacionalidad":"Germany","fechaNacimiento":"1990-01-04","posicion":"MC"},{"nombre":"Marcelo","nacionalidad":"Brazil","fechaNacimiento":"1988-05-12","posicion":"DF"},{"nombre":"Karim Benzema","nacionalidad":"France","fechaNacimiento":"1987-12-19","posicion":"DL"},{"nombre":"Nacho","nacionalidad":"Spain","fechaNacimiento":"1990-01-18","posicion":"DF"},{"nombre":"Marco Asensio","nacionalidad":"Spain","fechaNacimiento":"1996-01-21","posicion":"MC"},{"nombre":"Achraf Hakimi","nacionalidad":"Morocco","fechaNacimiento":"1998-11-04","posicion":"DF"},{"nombre":"Isco","nacionalidad":"Spain","fechaNacimiento":"1992-04-21","posicion":"MC"},{"nombre":"Dani Ceballos","nacionalidad":"Spain","fechaNacimiento":"1996-08-07","posicion":"MC"},{"nombre":"Zinedine Zidane","nacionalidad":"France","fechaNacimiento":"1972-06-23","posicion":"PT"},{"nombre":"Federico Valverde","nacionalidad":"Uruguay","fechaNacimiento":"1998-07-22","posicion":"MC"},{"nombre":"Rodrygo","nacionalidad":"Brazil","fechaNacimiento":"2001-01-09","posicion":"DL"},{"nombre":"Éder Militão","nacionalidad":"Brazil","fechaNacimiento":"1998-01-18","posicion":"DF"},{"nombre":"Vinicius Junior","nacionalidad":"Brazil","fechaNacimiento":"2000-07-12","posicion":"DL"},{"nombre":"Sergio Ramos","nacionalidad":"Spain","fechaNacimiento":"1986-03-30","posicion":"DF"},{"nombre":"Dani Carvajal","nacionalidad":"Spain","fechaNacimiento":"1992-01-11","posicion":"DF"},{"nombre":"Casemiro","nacionalidad":"Brazil","fechaNacimiento":"1992-02-23","posicion":"MC"},{"nombre":"Alphonse Aréola","nacionalidad":"France","fechaNacimiento":"1993-02-27","posicion":"PT"},{"nombre":"Raphaël Varane","nacionalidad":"France","fechaNacimiento":"1993-04-25","posicion":"DF"},{"nombre":"Thibaut Courtois","nacionalidad":"Belgium","fechaNacimiento":"1992-05-11","posicion":"PT"},{"nombre":"Eden Hazard","nacionalidad":"Belgium","fechaNacimiento":"1991-01-07","posicion":"MC"},{"nombre":"Óscar","nacionalidad":"Spain","fechaNacimiento":"1998-06-28","posicion":"MC"},{"nombre":"Luka Jović","nacionalidad":"Serbia","fechaNacimiento":"1997-12-23","posicion":"DL"},{"nombre":"Martin Ødegaard","nacionalidad":"Norway","fechaNacimiento":"1998-12-17","posicion":"MC"},{"nombre":"Brahim Diaz","nacionalidad":"Spain","fechaNacimiento":"1999-08-03","posicion":"MC"},{"nombre":"Ferland Mendy","nacionalidad":"France","fechaNacimiento":"1995-06-08","posicion":"DF"},{"nombre":"Mariano Díaz","nacionalidad":"Dominican Republic","fechaNacimiento":"1993-08-01","posicion":"DL"},{"nombre":"Andriy Lunin","nacionalidad":"Ukraine","fechaNacimiento":"1999-02-11","posicion":"PT"},{"nombre":"Hugo Duro","nacionalidad":"Spain","fechaNacimiento":"1999-11-10","posicion":"DL"},{"nombre":"Takefusa Kubo","nacionalidad":"Japan","fechaNacimiento":"2001-06-04","posicion":"DL"},{"nombre":"Reinier","nacionalidad":"Brazil","fechaNacimiento":"2002-01-19","posicion":"MC"},{"nombre":"Diego Altube","nacionalidad":"Spain","fechaNacimiento":"2000-02-22","posicion":"PT"},{"nombre":"Víctor Chust","nacionalidad":"Spain","fechaNacimiento":"2000-03-05","posicion":"DF"},{"nombre":"Sergio Santos","nacionalidad":"Spain","fechaNacimiento":"2001-01-03","posicion":"DF"},{"nombre":"Óscar Aranda","nacionalidad":"Spain","fechaNacimiento":"2002-04-29","posicion":"DL"}],"Levante UD":[{"nombre":"Sergio León","nacionalidad":"Spain","fechaNacimiento":"1989-01-06","posicion":"DL"},{"nombre":"Óscar Duarte","nacionalidad":"Costa Rica","fechaNacimiento":"1989-06-03","posicion":"DF"},{"nombre":"Carlos Clerc","nacionalidad":"Spain","fechaNacimiento":"1992-02-21","posicion":"DF"},{"nombre":"Aitor Fernández","nacionalidad":"Spain","fechaNacimiento":"1991-05-03","posicion":"PT"},{"nombre":"Melero","nacionalidad":"Spain","fechaNacimiento":"1994-01-02","posicion":"MC"},{"nombre":"Koke","nacionalidad":"Spain","fechaNacimiento":"1995-09-27","posicion":"PT"},{"nombre":"Toño García","nacionalidad":"Spain","fechaNacimiento":"1989-11-07","posicion":"DF"},{"nombre":"Postigo","nacionalidad":"Spain","fechaNacimiento":"1988-11-04","posicion":"DF"},{"nombre":"Campaña","nacionalidad":"Spain","fechaNacimiento":"1993-05-31","posicion":"DF"},{"nombre":"Rober Pier","nacionalidad":"Spain","fechaNacimiento":"1995-02-16","posicion":"DF"},{"nombre":"Coke","nacionalidad":"Spain","fechaNacimiento":"1987-04-26","posicion":"DF"},{"nombre":"Enis Bardhi","nacionalidad":"North Macedonia","fechaNacimiento":"1995-07-02","posicion":"MC"},{"nombre":"Cheick Doukouré","nacionalidad":"Côte d’Ivoire","fechaNacimiento":"1992-09-11","posicion":"MC"},{"nombre":"José Luis Morales","nacionalidad":"Spain","fechaNacimiento":"1987-07-23","posicion":"DL"},{"nombre":"Roger Martí","nacionalidad":"Spain","fechaNacimiento":"1991-01-03","posicion":"DL"},{"nombre":"Rochina","nacionalidad":"Spain","fechaNacimiento":"1991-03-23","posicion":"DL"},{"nombre":"Paco López","nacionalidad":"Spain","fechaNacimiento":"1967-09-19","posicion":"PT"},{"nombre":"Jorge Miramón","nacionalidad":"Spain","fechaNacimiento":"1989-06-02","posicion":"DF"},{"nombre":"Rúben Vezo","nacionalidad":"Portugal","fechaNacimiento":"1994-04-25","posicion":"DF"},{"nombre":"Nemanja Radoja","nacionalidad":"Serbia","fechaNacimiento":"1993-02-06","posicion":"MC"},{"nombre":"Mickaël Malsa","nacionalidad":"Martinique","fechaNacimiento":"1995-10-12","posicion":"MC"},{"nombre":"Nikola Vukčević","nacionalidad":"Montenegro","fechaNacimiento":"1991-12-13","posicion":"MC"},{"nombre":"Son","nacionalidad":"Spain","fechaNacimiento":"1994-03-30","posicion":"DF"},{"nombre":"Dani Gómez","nacionalidad":"Spain","fechaNacimiento":"1998-07-30","posicion":"DL"},{"nombre":"Jorge de Frutos","nacionalidad":"Spain","fechaNacimiento":"1997-02-20","posicion":"DL"},{"nombre":"Dani Cárdenas","nacionalidad":"Spain","fechaNacimiento":"1997-03-28","posicion":"PT"},{"nombre":"Eusebio Monzó","nacionalidad":"Spain","fechaNacimiento":"2000-12-04","posicion":"DF"}],"Real Betis Balompié":[{"nombre":"Juanmi","nacionalidad":"Spain","fechaNacimiento":"1993-05-20","posicion":"DL"},{"nombre":"Antonio Sanabria","nacionalidad":"Paraguay","fechaNacimiento":"1996-03-04","posicion":"DL"},{"nombre":"Andrés Guardado","nacionalidad":"Mexico","fechaNacimiento":"1986-09-28","posicion":"DF"},{"nombre":"Tello","nacionalidad":"Spain","fechaNacimiento":"1991-08-11","posicion":"DL"},{"nombre":"Joaquín","nacionalidad":"Spain","fechaNacimiento":"1981-07-21","posicion":"MC"},{"nombre":"Aïssa Mandi","nacionalidad":"Algeria","fechaNacimiento":"1991-10-22","posicion":"DF"},{"nombre":"Canales","nacionalidad":"Spain","fechaNacimiento":"1991-02-16","posicion":"MC"},{"nombre":"Sidnei","nacionalidad":"Brazil","fechaNacimiento":"1989-08-23","posicion":"DF"},{"nombre":"Emerson Royal","nacionalidad":"Brazil","fechaNacimiento":"1999-01-14","posicion":"DF"},{"nombre":"William Carvalho","nacionalidad":"Portugal","fechaNacimiento":"1992-04-07","posicion":"MC"},{"nombre":"Joel Robles","nacionalidad":"Spain","fechaNacimiento":"1990-06-17","posicion":"PT"},{"nombre":"Claudio Bravo","nacionalidad":"Chile","fechaNacimiento":"1983-04-13","posicion":"PT"},{"nombre":"Nabil Fekir","nacionalidad":"France","fechaNacimiento":"1993-07-18","posicion":"MC"},{"nombre":"Manuel Pellegrini","nacionalidad":"Chile","fechaNacimiento":"1953-09-16","posicion":"PT"},{"nombre":"Borja Iglesias","nacionalidad":"Spain","fechaNacimiento":"1993-01-17","posicion":"DL"},{"nombre":"Alex Moreno","nacionalidad":"Spain","fechaNacimiento":"1993-06-08","posicion":"DF"},{"nombre":"Daniel Martín","nacionalidad":"Spain","fechaNacimiento":"1998-07-08","posicion":"PT"},{"nombre":"Juan Miranda","nacionalidad":"Spain","fechaNacimiento":"2000-01-19","posicion":"DF"},{"nombre":"Dani Rebollo","nacionalidad":"Spain","fechaNacimiento":"1999-12-10","posicion":"PT"},{"nombre":"Bartra","nacionalidad":"Spain","fechaNacimiento":"1991-01-15","posicion":"DF"},{"nombre":"Víctor Camarasa","nacionalidad":"Spain","fechaNacimiento":"1994-05-28","posicion":"MC"},{"nombre":"Aitor Ruibal","nacionalidad":"Spain","fechaNacimiento":"1996-03-22","posicion":"DL"},{"nombre":"Loren","nacionalidad":"Spain","fechaNacimiento":"1993-12-30","posicion":"DL"},{"nombre":"Víctor Ruíz","nacionalidad":"Spain","fechaNacimiento":"1989-01-25","posicion":"DF"},{"nombre":"Martín Montoya","nacionalidad":"Spain","fechaNacimiento":"1991-04-14","posicion":"DF"},{"nombre":"Guido Rodríguez","nacionalidad":"Argentina","fechaNacimiento":"1994-04-12","posicion":"MC"},{"nombre":"Diego Lainez","nacionalidad":"Mexico","fechaNacimiento":"2000-06-09","posicion":"DL"},{"nombre":"Paul Akouokou","nacionalidad":"Côte d’Ivoire","fechaNacimiento":"1997-12-20","posicion":"MC"},{"nombre":"Carlos Marín","nacionalidad":"Spain","fechaNacimiento":"1997-02-20","posicion":"PT"},{"nombre":"Rodrigo","nacionalidad":"Spain","fechaNacimiento":"2000-05-16","posicion":"DL"},{"nombre":"Fran Delgado","nacionalidad":"Spain","fechaNacimiento":"2001-07-11","posicion":"DF"}],"Real Sociedad de Fútbol":[{"nombre":"Illarramendi","nacionalidad":"Spain","fechaNacimiento":"1990-03-08","posicion":"MC"},{"nombre":"Géronimo Rulli","nacionalidad":"Argentina","fechaNacimiento":"1992-05-20","posicion":"PT"},{"nombre":"Willian José","nacionalidad":"Brazil","fechaNacimiento":"1991-11-23","posicion":"DL"},{"nombre":"Mikel Oiarzabal","nacionalidad":"Spain","fechaNacimiento":"1997-04-21","posicion":"MC"},{"nombre":"Aritz Elustondo","nacionalidad":"Spain","fechaNacimiento":"1994-03-28","posicion":"DF"},{"nombre":"Jon Bautista","nacionalidad":"Spain","fechaNacimiento":"1995-07-03","posicion":"DL"},{"nombre":"Igor Zubeldía","nacionalidad":"Spain","fechaNacimiento":"1997-03-30","posicion":"MC"},{"nombre":"Moyà","nacionalidad":"Spain","fechaNacimiento":"1984-04-02","posicion":"PT"},{"nombre":"Joseba Zaldúa","nacionalidad":"Spain","fechaNacimiento":"1992-06-24","posicion":"DF"},{"nombre":"Modibo Sagnan","nacionalidad":"Mali","fechaNacimiento":"1999-04-14","posicion":"DF"},{"nombre":"David Silva","nacionalidad":"Spain","fechaNacimiento":"1986-01-08","posicion":"MC"},{"nombre":"Alexander Isak","nacionalidad":"Sweden","fechaNacimiento":"1999-09-21","posicion":"MC"},{"nombre":"Nacho Monreal","nacionalidad":"Spain","fechaNacimiento":"1986-02-26","posicion":"DF"},{"nombre":"Mikel Merino","nacionalidad":"Spain","fechaNacimiento":"1996-06-22","posicion":"MC"},{"nombre":"Adnan Januzaj","nacionalidad":"Belgium","fechaNacimiento":"1995-02-05","posicion":"MC"},{"nombre":"Álex Remiro","nacionalidad":"Spain","fechaNacimiento":"1995-03-24","posicion":"PT"},{"nombre":"Andoni Gorosabel","nacionalidad":"Spain","fechaNacimiento":"1996-08-04","posicion":"DF"},{"nombre":"Jon Guridi","nacionalidad":"Spain","fechaNacimiento":"1995-02-28","posicion":"MC"},{"nombre":"Ander Guevara","nacionalidad":"Spain","fechaNacimiento":"1997-07-07","posicion":"MC"},{"nombre":"Imanol Alguacil","nacionalidad":"Spain","fechaNacimiento":"1971-07-04","posicion":"PT"},{"nombre":"Portu","nacionalidad":"Spain","fechaNacimiento":"1992-05-21","posicion":"DL"},{"nombre":"Luca Sangalli","nacionalidad":"Spain","fechaNacimiento":"1995-02-10","posicion":"MC"},{"nombre":"Martín Merquelanz","nacionalidad":"Spain","fechaNacimiento":"1995-06-12","posicion":"DL"},{"nombre":"Roberto López","nacionalidad":"Spain","fechaNacimiento":"2000-04-24","posicion":"MC"},{"nombre":"Robin Le Normand","nacionalidad":"France","fechaNacimiento":"1996-11-11","posicion":"DF"},{"nombre":"Aihen Muñoz","nacionalidad":"Spain","fechaNacimiento":"1997-08-16","posicion":"DF"},{"nombre":"Ander Barrenetxea","nacionalidad":"Spain","fechaNacimiento":"2001-12-27","posicion":"DL"},{"nombre":"Roberto Navarro","nacionalidad":"Spain","fechaNacimiento":"2002-04-12","posicion":"MC"},{"nombre":"Martín Zubimendi","nacionalidad":"Spain","fechaNacimiento":"1999-02-02","posicion":"MC"},{"nombre":"Aritz Arambarri","nacionalidad":"Spain","fechaNacimiento":"1998-01-31","posicion":"DF"},{"nombre":"Jon Pacheco","nacionalidad":"Spain","fechaNacimiento":"2001-01-08","posicion":"DF"},{"nombre":"Urko González","nacionalidad":"Spain","fechaNacimiento":"2001-03-20","posicion":"DF"},{"nombre":"Gaizka Ayesa","nacionalidad":"Spain","fechaNacimiento":"2001-04-02","posicion":"PT"}],"Villarreal CF":[{"nombre":"Géronimo Rulli","nacionalidad":"Argentina","fechaNacimiento":"1992-05-20","posicion":"PT"},{"nombre":"Alfonso Pedraza","nacionalidad":"Spain","fechaNacimiento":"1996-04-09","posicion":"MC"},{"nombre":"Albiol","nacionalidad":"Spain","fechaNacimiento":"1985-09-04","posicion":"DF"},{"nombre":"Dani Parejo","nacionalidad":"Spain","fechaNacimiento":"1989-04-16","posicion":"MC"},{"nombre":"Ramiro Funes Mori","nacionalidad":"Argentina","fechaNacimiento":"1991-03-05","posicion":"DF"},{"nombre":"Carlos Bacca","nacionalidad":"Colombia","fechaNacimiento":"1986-09-08","posicion":"DL"},{"nombre":"Alberto Moreno","nacionalidad":"Spain","fechaNacimiento":"1992-07-05","posicion":"DF"},{"nombre":"Juan Foyth","nacionalidad":"Argentina","fechaNacimiento":"1998-01-12","posicion":"DF"},{"nombre":"Iborra","nacionalidad":"Spain","fechaNacimiento":"1988-01-16","posicion":"MC"},{"nombre":"Francis Coquelin","nacionalidad":"France","fechaNacimiento":"1991-05-13","posicion":"MC"},{"nombre":"Unai Emery","nacionalidad":"Spain","fechaNacimiento":"1971-11-03","posicion":"PT"},{"nombre":"Paco Alcácer","nacionalidad":"Spain","fechaNacimiento":"1993-08-30","posicion":"DL"},{"nombre":"Moi Gómez","nacionalidad":"Spain","fechaNacimiento":"1994-10-20","posicion":"MC"},{"nombre":"Pervis Estupiñán","nacionalidad":"Ecuador","fechaNacimiento":"1998-01-21","posicion":"DF"},{"nombre":"Gerard Moreno","nacionalidad":"Spain","fechaNacimiento":"1992-04-07","posicion":"DL"},{"nombre":"Sergio Asenjo","nacionalidad":"Spain","fechaNacimiento":"1989-06-28","posicion":"PT"},{"nombre":"Andrés Fernández","nacionalidad":"Spain","fechaNacimiento":"1986-12-17","posicion":"PT"},{"nombre":"Jaume Costa","nacionalidad":"Spain","fechaNacimiento":"1988-03-18","posicion":"DF"},{"nombre":"Mario Gaspar","nacionalidad":"Spain","fechaNacimiento":"1990-11-24","posicion":"DF"},{"nombre":"Pau Torres","nacionalidad":"Spain","fechaNacimiento":"1997-01-16","posicion":"DF"},{"nombre":"Trigueros","nacionalidad":"Spain","fechaNacimiento":"1991-10-17","posicion":"MC"},{"nombre":"Samuel Chukwueze","nacionalidad":"Nigeria","fechaNacimiento":"1999-05-22","posicion":"MC"},{"nombre":"Dani Raba","nacionalidad":"Spain","fechaNacimiento":"1995-10-29","posicion":"DL"},{"nombre":"Rubén Peña","nacionalidad":"Spain","fechaNacimiento":"1991-07-18","posicion":"MC"},{"nombre":"Takefusa Kubo","nacionalidad":"Japan","fechaNacimiento":"2001-06-04","posicion":"DL"},{"nombre":"Miguelón","nacionalidad":"Spain","fechaNacimiento":"1996-01-18","posicion":"DF"},{"nombre":"Sofian Chakla","nacionalidad":"Morocco","fechaNacimiento":"1993-09-02","posicion":"DF"},{"nombre":"Enric Franquesa","nacionalidad":"Spain","fechaNacimiento":"1997-02-26","posicion":"DL"},{"nombre":"Fernando Niño","nacionalidad":"Spain","fechaNacimiento":"2000-10-24","posicion":"DL"},{"nombre":"Alejandro Baena","nacionalidad":"Spain","fechaNacimiento":"2001-07-20","posicion":"DL"},{"nombre":"Yeremi Pino","nacionalidad":"Spain","fechaNacimiento":"2002-10-20","posicion":"DL"},{"nombre":"Filip Jörgensen","nacionalidad":"Sweden","fechaNacimiento":"2002-04-16","posicion":"PT"}],"Valencia CF":[{"nombre":"Kevin Gameiro","nacionalidad":"France","fechaNacimiento":"1987-05-09","posicion":"DL"},{"nombre":"Rubén Sobrino","nacionalidad":"Spain","fechaNacimiento":"1993-06-01","posicion":"DL"},{"nombre":"Maxi Gómez","nacionalidad":"Uruguay","fechaNacimiento":"1996-08-14","posicion":"DL"},{"nombre":"Gonçalo Guedes","nacionalidad":"Portugal","fechaNacimiento":"1996-11-29","posicion":"DL"},{"nombre":"Denis Cheryshev","nacionalidad":"Russia","fechaNacimiento":"1990-12-26","posicion":"DL"},{"nombre":"Eliaquim Mangala","nacionalidad":"France","fechaNacimiento":"1991-02-13","posicion":"DF"},{"nombre":"Mouctar Diakhaby","nacionalidad":"France","fechaNacimiento":"1996-12-19","posicion":"DF"},{"nombre":"Daniel Wass","nacionalidad":"Denmark","fechaNacimiento":"1989-05-31","posicion":"MC"},{"nombre":"Javi Gracia","nacionalidad":"Spain","fechaNacimiento":"1970-05-01","posicion":"PT"},{"nombre":"Jasper Cillessen","nacionalidad":"Netherlands","fechaNacimiento":"1989-04-22","posicion":"PT"},{"nombre":"Manu Vallejo","nacionalidad":"Spain","fechaNacimiento":"1997-02-14","posicion":"DL"},{"nombre":"Jason","nacionalidad":"Spain","fechaNacimiento":"1994-07-06","posicion":"DL"},{"nombre":"Jaume Doménech","nacionalidad":"Spain","fechaNacimiento":"1990-11-05","posicion":"PT"},{"nombre":"Cristian","nacionalidad":"Spain","fechaNacimiento":"1998-03-21","posicion":"PT"},{"nombre":"Toni Lato","nacionalidad":"Spain","fechaNacimiento":"1997-11-21","posicion":"DF"},{"nombre":"Gabriel Paulista","nacionalidad":"Brazil","fechaNacimiento":"1990-11-26","posicion":"DF"},{"nombre":"Gaya","nacionalidad":"Spain","fechaNacimiento":"1995-05-25","posicion":"MC"},{"nombre":"Carlos Soler","nacionalidad":"Spain","fechaNacimiento":"1997-01-02","posicion":"MC"},{"nombre":"Uroš Račić","nacionalidad":"Serbia","fechaNacimiento":"1998-03-17","posicion":"DL"},{"nombre":"Alejandro Blanco","nacionalidad":"Spain","fechaNacimiento":"1998-12-16","posicion":"DL"},{"nombre":"Lee Kangin","nacionalidad":"Korea Republic","fechaNacimiento":"2001-02-19","posicion":"MC"},{"nombre":"Hugo Guillamón","nacionalidad":"Spain","fechaNacimiento":"2000-01-31","posicion":"DF"},{"nombre":"Thierry Correia","nacionalidad":"Portugal","fechaNacimiento":"1999-03-09","posicion":"DF"},{"nombre":"Esquerdo","nacionalidad":"Spain","fechaNacimiento":"1999-01-02","posicion":"MC"},{"nombre":"Guillem Molina Gutiérrez","nacionalidad":"Spain","fechaNacimiento":"2000-05-03","posicion":"DF"},{"nombre":"Koba Koindredi","nacionalidad":"France","fechaNacimiento":"2001-10-27","posicion":"MC"},{"nombre":"Yunus Musah","nacionalidad":"United States","fechaNacimiento":"2002-11-29","posicion":"MC"}],"Real Valladolid CF":[{"nombre":"Roque Mesa","nacionalidad":"Spain","fechaNacimiento":"1989-06-07","posicion":"MC"},{"nombre":"Raúl Carnero","nacionalidad":"Spain","fechaNacimiento":"1989-04-30","posicion":"DF"},{"nombre":"Jawad El Yamiq","nacionalidad":"Morocco","fechaNacimiento":"1992-02-29","posicion":"DF"},{"nombre":"Miguel Ángel Rubio","nacionalidad":"Spain","fechaNacimiento":"1998-03-11","posicion":"DF"},{"nombre":"Saidy Janko","nacionalidad":"Switzerland","fechaNacimiento":"1995-10-22","posicion":"DF"},{"nombre":"Luis Pérez","nacionalidad":"Spain","fechaNacimiento":"1995-02-04","posicion":"DF"},{"nombre":"Kike Pérez","nacionalidad":"Spain","fechaNacimiento":"1997-02-14","posicion":"MC"},{"nombre":"Fede San Emeterio","nacionalidad":"Spain","fechaNacimiento":"1997-03-16","posicion":"MC"},{"nombre":"Sergi Guardiola","nacionalidad":"Spain","fechaNacimiento":"1991-05-29","posicion":"DL"},{"nombre":"Masip","nacionalidad":"Spain","fechaNacimiento":"1989-01-03","posicion":"PT"},{"nombre":"Nacho Martínez","nacionalidad":"Spain","fechaNacimiento":"1989-03-07","posicion":"DF"},{"nombre":"Kiko Olivas","nacionalidad":"Spain","fechaNacimiento":"1988-08-21","posicion":"DF"},{"nombre":"Míchel","nacionalidad":"Spain","fechaNacimiento":"1988-07-29","posicion":"MC"},{"nombre":"Toni Villa","nacionalidad":"Spain","fechaNacimiento":"1995-01-07","posicion":"DL"},{"nombre":"Hervías","nacionalidad":"Spain","fechaNacimiento":"1993-03-08","posicion":"MC"},{"nombre":"Óscar Plano","nacionalidad":"Spain","fechaNacimiento":"1991-02-11","posicion":"DL"},{"nombre":"Sergio","nacionalidad":"Spain","fechaNacimiento":"1976-11-10","posicion":"PT"},{"nombre":"Joaquín Fernández","nacionalidad":"Spain","fechaNacimiento":"1996-05-31","posicion":"DF"},{"nombre":"Rubén Alcaraz","nacionalidad":"Spain","fechaNacimiento":"1991-05-01","posicion":"MC"},{"nombre":"Waldo","nacionalidad":"Spain","fechaNacimiento":"1995-08-17","posicion":"DL"},{"nombre":"Bruno","nacionalidad":"Spain","fechaNacimiento":"1990-05-24","posicion":"DF"},{"nombre":"Roberto Jiménez","nacionalidad":"Spain","fechaNacimiento":"1986-02-10","posicion":"PT"},{"nombre":"Kuki","nacionalidad":"Spain","fechaNacimiento":"1998-05-05","posicion":"DL"},{"nombre":"Samuel Pérez","nacionalidad":"Spain","fechaNacimiento":"1997-04-26","posicion":"PT"},{"nombre":"Fabián Orellana","nacionalidad":"Chile","fechaNacimiento":"1986-01-27","posicion":"DL"},{"nombre":"Jota","nacionalidad":"Portugal","fechaNacimiento":"1999-03-30","posicion":"DL"},{"nombre":"Shon Weissman","nacionalidad":"Israel","fechaNacimiento":"1996-02-14","posicion":"DL"},{"nombre":"Maranhão","nacionalidad":"Brazil","fechaNacimiento":"1996-10-20","posicion":"DL"},{"nombre":"Javi Sánchez","nacionalidad":"Spain","fechaNacimiento":"1997-03-14","posicion":"DF"},{"nombre":"Ignasi Vilarrasa","nacionalidad":"Ecuador","fechaNacimiento":"1997-03-17","posicion":"DF"}],"Deportivo Alavés":[{"nombre":"Lucas","nacionalidad":"Spain","fechaNacimiento":"1988-09-10","posicion":"DL"},{"nombre":"Rodrigo Ely","nacionalidad":"Brazil","fechaNacimiento":"1993-11-03","posicion":"DF"},{"nombre":"Manu","nacionalidad":"Spain","fechaNacimiento":"1986-04-26","posicion":"MC"},{"nombre":"Pacheco","nacionalidad":"Spain","fechaNacimiento":"1992-05-18","posicion":"PT"},{"nombre":"Burgui","nacionalidad":"Spain","fechaNacimiento":"1993-10-29","posicion":"DL"},{"nombre":"Tomás Pina","nacionalidad":"Spain","fechaNacimiento":"1987-10-14","posicion":"MC"},{"nombre":"Sivera","nacionalidad":"Spain","fechaNacimiento":"1996-08-11","posicion":"PT"},{"nombre":"Deyverson","nacionalidad":"Brazil","fechaNacimiento":"1991-05-08","posicion":"DL"},{"nombre":"Ximo Navarro","nacionalidad":"Spain","fechaNacimiento":"1990-01-23","posicion":"DF"},{"nombre":"John Guidetti","nacionalidad":"Sweden","fechaNacimiento":"1992-04-15","posicion":"DL"},{"nombre":"Jota Peleteiro","nacionalidad":"Spain","fechaNacimiento":"1991-06-16","posicion":"DL"},{"nombre":"Florian Lejeune","nacionalidad":"France","fechaNacimiento":"1991-05-20","posicion":"DF"},{"nombre":"Joselu","nacionalidad":"Spain","fechaNacimiento":"1990-03-27","posicion":"DL"},{"nombre":"Rodrigo Battaglia","nacionalidad":"Argentina","fechaNacimiento":"1991-07-12","posicion":"MC"},{"nombre":"Adrián Marín","nacionalidad":"Spain","fechaNacimiento":"1997-01-09","posicion":"DF"},{"nombre":"Aritz Castro","nacionalidad":"Spain","fechaNacimiento":"1998-05-20","posicion":"PT"},{"nombre":"Laguardia","nacionalidad":"Spain","fechaNacimiento":"1989-11-05","posicion":"DF"},{"nombre":"Martín","nacionalidad":"Spain","fechaNacimiento":"1996-05-10","posicion":"DF"},{"nombre":"Rubén Duarte","nacionalidad":"Spain","fechaNacimiento":"1995-10-18","posicion":"DF"},{"nombre":"Pere Pons","nacionalidad":"Spain","fechaNacimiento":"1993-02-20","posicion":"MC"},{"nombre":"Pablo Machín","nacionalidad":"Spain","fechaNacimiento":"1975-04-07","posicion":"PT"},{"nombre":"Edgar Méndez","nacionalidad":"Spain","fechaNacimiento":"1990-01-02","posicion":"DL"},{"nombre":"Luis Rioja","nacionalidad":"Spain","fechaNacimiento":"1993-10-16","posicion":"DL"},{"nombre":"Javi López","nacionalidad":"Spain","fechaNacimiento":"2002-01-01","posicion":"DF"},{"nombre":"Tomás Tavares","nacionalidad":"Portugal","fechaNacimiento":"2001-03-07","posicion":"DF"},{"nombre":"Tachi","nacionalidad":"Spain","fechaNacimiento":"1997-09-10","posicion":"DF"},{"nombre":"Borja Sainz","nacionalidad":"Spain","fechaNacimiento":"2001-02-01","posicion":"DL"},{"nombre":"Abdallahi Mahmoud","nacionalidad":"Mauritania","fechaNacimiento":"2000-05-04","posicion":"MC"}],"Cádiz CF":[{"nombre":"Luis Quezada Sánchez","nacionalidad":"Dominican Republic","fechaNacimiento":"1996-02-11","posicion":"DF"},{"nombre":"Yann Bodiger","nacionalidad":"France","fechaNacimiento":"1995-02-09","posicion":"MC"},{"nombre":"Álvaro Negredo","nacionalidad":"Spain","fechaNacimiento":"1985-08-20","posicion":"DL"},{"nombre":"Augusto Fernández","nacionalidad":"Argentina","fechaNacimiento":"1986-04-10","posicion":"MC"},{"nombre":"Juan Cala","nacionalidad":"Spain","fechaNacimiento":"1989-11-26","posicion":"DF"},{"nombre":"Alfonso Espino","nacionalidad":"Uruguay","fechaNacimiento":"1992-01-05","posicion":"DF"},{"nombre":"Jens Jønsson","nacionalidad":"Denmark","fechaNacimiento":"1993-01-10","posicion":"DF"},{"nombre":"Isaac Valencia","nacionalidad":"Spain","fechaNacimiento":"1993-04-23","posicion":"DF"},{"nombre":"Jorge Pombo","nacionalidad":"Spain","fechaNacimiento":"1994-08-29","posicion":"MC"},{"nombre":"Álvaro Giménez","nacionalidad":"Spain","fechaNacimiento":"1991-05-19","posicion":"DL"},{"nombre":"Nano","nacionalidad":"Spain","fechaNacimiento":"1995-02-05","posicion":"DL"},{"nombre":"José Mari","nacionalidad":"Spain","fechaNacimiento":"1987-12-06","posicion":"MC"},{"nombre":"Marcos López","nacionalidad":"Argentina","fechaNacimiento":"1991-01-09","posicion":"DF"},{"nombre":"Jon Garrido","nacionalidad":"Spain","fechaNacimiento":"1989-10-09","posicion":"MC"},{"nombre":"Salva Sánchez","nacionalidad":"Spain","fechaNacimiento":"1991-03-30","posicion":"DL"},{"nombre":"Álex","nacionalidad":"Spain","fechaNacimiento":"1992-10-15","posicion":"MC"},{"nombre":"David Gil","nacionalidad":"Spain","fechaNacimiento":"1994-01-11","posicion":"PT"},{"nombre":"Álvaro Cervera","nacionalidad":"Spain","fechaNacimiento":"1965-09-20","posicion":"PT"},{"nombre":"Carlos Akapo","nacionalidad":"Equatorial Guinea","fechaNacimiento":"1993-03-12","posicion":"DF"},{"nombre":"Filip Malbašić","nacionalidad":"Serbia","fechaNacimiento":"1992-11-18","posicion":"MC"},{"nombre":"Jairo Izquierdo","nacionalidad":"Spain","fechaNacimiento":"1993-10-22","posicion":"DL"},{"nombre":"Anthony Lozano","nacionalidad":"Honduras","fechaNacimiento":"1993-04-25","posicion":"DL"},{"nombre":"Fali Jiménez","nacionalidad":"Spain","fechaNacimiento":"1993-08-12","posicion":"DF"},{"nombre":"Sergio González","nacionalidad":"Spain","fechaNacimiento":"1997-05-14","posicion":"MC"},{"nombre":"Alberto Perea","nacionalidad":"Spain","fechaNacimiento":"1990-05-16","posicion":"DL"},{"nombre":"Roberto Perera","nacionalidad":"Spain","fechaNacimiento":"1980-12-15","posicion":"PT"},{"nombre":"Iván Alejo Peralta","nacionalidad":"Spain","fechaNacimiento":"1995-02-10","posicion":"MC"},{"nombre":"Pedro Alcalá","nacionalidad":"Spain","fechaNacimiento":"1989-03-19","posicion":"DF"},{"nombre":"Jeremías Ledesma","nacionalidad":"Argentina","fechaNacimiento":"1993-02-13","posicion":"PT"},{"nombre":"Saturday Erimuya","nacionalidad":"Nigeria","fechaNacimiento":"1998-01-10","posicion":"DF"},{"nombre":"Bobby Adekanye","nacionalidad":"Netherlands","fechaNacimiento":"1999-02-14","posicion":"DL"},{"nombre":"Manuel Nieto","nacionalidad":"Spain","fechaNacimiento":"1998-03-29","posicion":"DL"},{"nombre":"Marc Baró Ortiz","nacionalidad":"Spain","fechaNacimiento":"1999-08-23","posicion":"DF"}],"SD Eibar":[{"nombre":"Kévin Rodrigues","nacionalidad":"Portugal","fechaNacimiento":"1994-03-05","posicion":"MC"},{"nombre":"Marko Dmitrović","nacionalidad":"Serbia","fechaNacimiento":"1992-01-24","posicion":"PT"},{"nombre":"Damian Kądzior","nacionalidad":"Poland","fechaNacimiento":"1992-06-16","posicion":"DL"},{"nombre":"Yoshinori Mutō","nacionalidad":"Japan","fechaNacimiento":"1992-07-15","posicion":"DL"},{"nombre":"Rafa Soares","nacionalidad":"Portugal","fechaNacimiento":"1995-05-09","posicion":"DF"},{"nombre":"Roberto Olabe","nacionalidad":"Spain","fechaNacimiento":"1996-05-05","posicion":"MC"},{"nombre":"Alejandro Pozo","nacionalidad":"Spain","fechaNacimiento":"1999-02-22","posicion":"DF"},{"nombre":"Quique","nacionalidad":"Spain","fechaNacimiento":"1990-05-16","posicion":"DL"},{"nombre":"Esteban Burgos","nacionalidad":"Argentina","fechaNacimiento":"1992-01-09","posicion":"DF"},{"nombre":"Sergio Álvarez","nacionalidad":"Spain","fechaNacimiento":"1992-01-23","posicion":"MC"},{"nombre":"Rober Correa","nacionalidad":"Spain","fechaNacimiento":"1992-09-20","posicion":"DF"},{"nombre":"Martínez","nacionalidad":"Spain","fechaNacimiento":"1993-02-12","posicion":"DF"},{"nombre":"Recio","nacionalidad":"Spain","fechaNacimiento":"1991-01-11","posicion":"MC"},{"nombre":"Pedro Bigas","nacionalidad":"Spain","fechaNacimiento":"1990-09-19","posicion":"DF"},{"nombre":"Yoel","nacionalidad":"Spain","fechaNacimiento":"1988-08-28","posicion":"PT"},{"nombre":"Arbilla","nacionalidad":"Spain","fechaNacimiento":"1987-05-15","posicion":"DF"},{"nombre":"Cote","nacionalidad":"Spain","fechaNacimiento":"1989-09-05","posicion":"DF"},{"nombre":"Paulo Oliveira","nacionalidad":"Portugal","fechaNacimiento":"1992-01-08","posicion":"DF"},{"nombre":"Pedro León","nacionalidad":"Spain","fechaNacimiento":"1986-11-24","posicion":"MC"},{"nombre":"Pape Kouly Diop","nacionalidad":"Senegal","fechaNacimiento":"1986-03-19","posicion":"MC"},{"nombre":"Sergi Enrich","nacionalidad":"Spain","fechaNacimiento":"1990-02-26","posicion":"DL"},{"nombre":"Takashi Inui","nacionalidad":"Japan","fechaNacimiento":"1988-06-02","posicion":"DL"},{"nombre":"Kike García","nacionalidad":"Spain","fechaNacimiento":"1989-11-25","posicion":"DL"},{"nombre":"Mendilibar","nacionalidad":"Spain","fechaNacimiento":"1961-03-14","posicion":"PT"},{"nombre":"Andoni Azkargorta","nacionalidad":"Spain","fechaNacimiento":"1978-06-02","posicion":"PT"},{"nombre":"Edu Expósito","nacionalidad":"Spain","fechaNacimiento":"1996-08-01","posicion":"MC"},{"nombre":"Miguel Atienza","nacionalidad":"Spain","fechaNacimiento":"1999-05-27","posicion":"MC"},{"nombre":"Bryan","nacionalidad":"Spain","fechaNacimiento":"2001-02-11","posicion":"DL"},{"nombre":"Eñaut Mendía","nacionalidad":"Spain","fechaNacimiento":"1999-06-25","posicion":"DL"}],"Elche CF":[{"nombre":"Antonio Barragán","nacionalidad":"Spain","fechaNacimiento":"1987-06-12","posicion":"DF"},{"nombre":"Youssouf Koné","nacionalidad":"Mali","fechaNacimiento":"1995-07-05","posicion":"DF"},{"nombre":"Guido Carrillo","nacionalidad":"Argentina","fechaNacimiento":"1991-05-25","posicion":"DL"},{"nombre":"Lucas Boyé","nacionalidad":"Argentina","fechaNacimiento":"1996-02-28","posicion":"DL"},{"nombre":"Steven Lucumí","nacionalidad":"Colombia","fechaNacimiento":"1995-04-08","posicion":"MC"},{"nombre":"Jorge Almirón","nacionalidad":"Argentina","fechaNacimiento":"1971-06-19","posicion":"PT"},{"nombre":"Raúl Guti","nacionalidad":"Spain","fechaNacimiento":"1996-12-30","posicion":"MC"},{"nombre":"Josán Fernández","nacionalidad":"Spain","fechaNacimiento":"1989-12-03","posicion":"DL"},{"nombre":"Miguel Ángel","nacionalidad":"Spain","fechaNacimiento":"1990-10-05","posicion":"DF"},{"nombre":"Josema Sánche","nacionalidad":"Spain","fechaNacimiento":"1996-06-06","posicion":"DF"},{"nombre":"Luismi","nacionalidad":"Spain","fechaNacimiento":"1992-05-05","posicion":"MC"},{"nombre":"Dani Calvo","nacionalidad":"Spain","fechaNacimiento":"1994-04-01","posicion":"DF"},{"nombre":"Pere Milla","nacionalidad":"Spain","fechaNacimiento":"1992-09-23","posicion":"DL"},{"nombre":"Fidel","nacionalidad":"Spain","fechaNacimiento":"1989-10-27","posicion":"MC"},{"nombre":"Diego González","nacionalidad":"Spain","fechaNacimiento":"1995-01-28","posicion":"DF"},{"nombre":"Edgar Badía","nacionalidad":"Spain","fechaNacimiento":"1992-02-12","posicion":"PT"},{"nombre":"Gonzalo Verdú","nacionalidad":"Spain","fechaNacimiento":"1988-10-21","posicion":"DF"},{"nombre":"Nino","nacionalidad":"Spain","fechaNacimiento":"1980-06-10","posicion":"DL"},{"nombre":"Tete Morente","nacionalidad":"Spain","fechaNacimiento":"1996-12-04","posicion":"DL"},{"nombre":"Diego Rodríguez","nacionalidad":"Argentina","fechaNacimiento":"1989-06-25","posicion":"PT"},{"nombre":"Iván Marcone","nacionalidad":"Argentina","fechaNacimiento":"1990-06-03","posicion":"MC"},{"nombre":"Juan Sánchez Miño","nacionalidad":"Argentina","fechaNacimiento":"1990-01-01","posicion":"DF"},{"nombre":"Emiliano Rigoni","nacionalidad":"Argentina","fechaNacimiento":"1993-02-04","posicion":"MC"},{"nombre":"Omenuke Mfulu","nacionalidad":"Congo DR","fechaNacimiento":"1994-03-20","posicion":"DF"},{"nombre":"Víctor Rodríguez","nacionalidad":"Spain","fechaNacimiento":"1989-07-23","posicion":"DL"},{"nombre":"Jonatan Carmona Alamo","nacionalidad":"Spain","fechaNacimiento":"2001-09-25","posicion":"MC"},{"nombre":"Diego Bri","nacionalidad":"Spain","fechaNacimiento":"2002-09-12","posicion":"DL"},{"nombre":"Gerard Barri","nacionalidad":"Spain","fechaNacimiento":"2001-01-02","posicion":"DF"},{"nombre":"José Salinas","nacionalidad":"Spain","fechaNacimiento":"2000-09-30","posicion":"DF"}],"SD Huesca":[{"nombre":"Pedro Mosquera","nacionalidad":"Spain","fechaNacimiento":"1988-04-21","posicion":"MC"},{"nombre":"Sergio Gómez","nacionalidad":"Spain","fechaNacimiento":"2000-09-04","posicion":"DL"},{"nombre":"Gastón Silva","nacionalidad":"Uruguay","fechaNacimiento":"1994-03-05","posicion":"DF"},{"nombre":"Jaime Seoane","nacionalidad":"Spain","fechaNacimiento":"1997-01-22","posicion":"MC"},{"nombre":"Rafael Mir","nacionalidad":"Spain","fechaNacimiento":"1997-06-18","posicion":"DL"},{"nombre":"Pablo Insúa","nacionalidad":"Spain","fechaNacimiento":"1993-09-08","posicion":"DF"},{"nombre":"Shinji Okazaki","nacionalidad":"Japan","fechaNacimiento":"1986-04-16","posicion":"DL"},{"nombre":"Idrissa Doumbia","nacionalidad":"Côte d’Ivoire","fechaNacimiento":"1998-04-14","posicion":"MC"},{"nombre":"Kelechi Nwakali","nacionalidad":"Nigeria","fechaNacimiento":"1998-06-05","posicion":"MC"},{"nombre":"Sandro","nacionalidad":"Spain","fechaNacimiento":"1995-07-09","posicion":"DL"},{"nombre":"Eugeni Valderrama","nacionalidad":"Spain","fechaNacimiento":"1994-07-19","posicion":"MC"},{"nombre":"Juan Carlos","nacionalidad":"Spain","fechaNacimiento":"1991-03-15","posicion":"MC"},{"nombre":"Michel","nacionalidad":"Spain","fechaNacimiento":"1975-10-30","posicion":"PT"},{"nombre":"Javier Galán","nacionalidad":"Spain","fechaNacimiento":"1994-11-19","posicion":"DF"},{"nombre":"Javier Ontiveros","nacionalidad":"Spain","fechaNacimiento":"1997-09-09","posicion":"DL"},{"nombre":"David Ferreiro","nacionalidad":"Spain","fechaNacimiento":"1988-04-01","posicion":"DL"},{"nombre":"Jorge Pulido","nacionalidad":"Spain","fechaNacimiento":"1991-04-08","posicion":"DF"},{"nombre":"Mikel Rico","nacionalidad":"Spain","fechaNacimiento":"1984-11-01","posicion":"MC"},{"nombre":"Antonio Valera","nacionalidad":"Spain","fechaNacimiento":"1996-08-17","posicion":"PT"},{"nombre":"Daniel Escriche Romero","nacionalidad":"Spain","fechaNacimiento":"1998-03-24","posicion":"DL"},{"nombre":"Pedro López","nacionalidad":"Spain","fechaNacimiento":"1983-11-01","posicion":"DF"},{"nombre":"Andrés Fernández","nacionalidad":"Spain","fechaNacimiento":"1986-12-17","posicion":"PT"},{"nombre":"Pablo Maffeo","nacionalidad":"Spain","fechaNacimiento":"1997-07-12","posicion":"DF"},{"nombre":"Borja García","nacionalidad":"Spain","fechaNacimiento":"1990-11-02","posicion":"MC"},{"nombre":"Luisinho","nacionalidad":"Portugal","fechaNacimiento":"1985-05-05","posicion":"DF"},{"nombre":"Dimitrios Siovas","nacionalidad":"Greece","fechaNacimiento":"1988-09-16","posicion":"DF"},{"nombre":"Álvaro Fernández","nacionalidad":"Spain","fechaNacimiento":"1998-04-13","posicion":"PT"}],"RC Celta de Vigo":[{"nombre":"Nolito","nacionalidad":"Spain","fechaNacimiento":"1986-10-15","posicion":"MC"},{"nombre":"Iago Aspas","nacionalidad":"Spain","fechaNacimiento":"1987-08-01","posicion":"DL"},{"nombre":"Néstor Araujo","nacionalidad":"Mexico","fechaNacimiento":"1991-08-29","posicion":"DF"},{"nombre":"Renato Tapia","nacionalidad":"Peru","fechaNacimiento":"1995-07-28","posicion":"MC"},{"nombre":"Joseph Aidoo","nacionalidad":"Ghana","fechaNacimiento":"1995-09-29","posicion":"DF"},{"nombre":"David Costas","nacionalidad":"Spain","fechaNacimiento":"1995-03-26","posicion":"DF"},{"nombre":"Denís Suárez","nacionalidad":"Spain","fechaNacimiento":"1994-01-06","posicion":"MC"},{"nombre":"Okay Yokuşlu","nacionalidad":"Turkey","fechaNacimiento":"1994-03-09","posicion":"MC"},{"nombre":"Jorge Sáenz","nacionalidad":"Spain","fechaNacimiento":"1996-11-17","posicion":"DF"},{"nombre":"Fran Beltrán","nacionalidad":"Spain","fechaNacimiento":"1999-02-03","posicion":"MC"},{"nombre":"Iván Villar","nacionalidad":"Spain","fechaNacimiento":"1997-07-09","posicion":"PT"},{"nombre":"Jeison Murillo","nacionalidad":"Colombia","fechaNacimiento":"1992-05-27","posicion":"DF"},{"nombre":"Santi Mina","nacionalidad":"Spain","fechaNacimiento":"1995-12-07","posicion":"DL"},{"nombre":"Juncà","nacionalidad":"Spain","fechaNacimiento":"1993-11-16","posicion":"DF"},{"nombre":"Sergio Álvarez","nacionalidad":"Spain","fechaNacimiento":"1986-08-03","posicion":"PT"},{"nombre":"Rubén Blanco","nacionalidad":"Spain","fechaNacimiento":"1995-07-25","posicion":"PT"},{"nombre":"Brais Méndez","nacionalidad":"Spain","fechaNacimiento":"1997-01-07","posicion":"DL"},{"nombre":"Hugo Mallo","nacionalidad":"Spain","fechaNacimiento":"1991-06-22","posicion":"DF"},{"nombre":"Emre Mor","nacionalidad":"Turkey","fechaNacimiento":"1997-07-24","posicion":"MC"},{"nombre":"Lucas Olaza","nacionalidad":"Uruguay","fechaNacimiento":"1994-07-21","posicion":"DF"},{"nombre":"Eduardo Coudet","nacionalidad":"Argentina","fechaNacimiento":"1974-09-12","posicion":"PT"},{"nombre":"Kevin Vázquez","nacionalidad":"Spain","fechaNacimiento":"1993-03-23","posicion":"DF"},{"nombre":"Sergio Carreira","nacionalidad":"Spain","fechaNacimiento":"2000-10-13","posicion":"DF"},{"nombre":"José Fontán","nacionalidad":"Spain","fechaNacimiento":"2000-02-11","posicion":"DF"},{"nombre":"Iago Domínguez","nacionalidad":"Spain","fechaNacimiento":"2001-11-22","posicion":"PT"},{"nombre":"Miguel Baeza","nacionalidad":"Spain","fechaNacimiento":"2000-03-27","posicion":"MC"},{"nombre":"Gabriel Veiga","nacionalidad":"Spain","fechaNacimiento":"2002-05-27","posicion":"MC"},{"nombre":"Miguel Rodríguez","nacionalidad":"Spain","fechaNacimiento":"2003-04-29","posicion":"DL"},{"nombre":"Álvaro Fernández","nacionalidad":"Spain","fechaNacimiento":"2000-04-10","posicion":"PT"}],"Sevilla FC":[{"nombre":"Jesús Navas","nacionalidad":"Spain","fechaNacimiento":"1985-11-21","posicion":"MC"},{"nombre":"Sergio Rico","nacionalidad":"Spain","fechaNacimiento":"1993-09-01","posicion":"PT"},{"nombre":"Franco Vázquez","nacionalidad":"Argentina","fechaNacimiento":"1989-02-22","posicion":"MC"},{"nombre":"Sergio Escudero","nacionalidad":"Spain","fechaNacimiento":"1989-09-02","posicion":"DF"},{"nombre":"Suso","nacionalidad":"Spain","fechaNacimiento":"1993-11-19","posicion":"MC"},{"nombre":"Marcos Acuña","nacionalidad":"Argentina","fechaNacimiento":"1991-10-28","posicion":"MC"},{"nombre":"Ivan Rakitić","nacionalidad":"Croatia","fechaNacimiento":"1988-03-10","posicion":"MC"},{"nombre":"Yassine Bounou","nacionalidad":"Morocco","fechaNacimiento":"1991-04-05","posicion":"PT"},{"nombre":"Óscar","nacionalidad":"Spain","fechaNacimiento":"1998-06-28","posicion":"MC"},{"nombre":"Karim Rekik","nacionalidad":"Netherlands","fechaNacimiento":"1994-12-02","posicion":"DF"},{"nombre":"Luuk de Jong","nacionalidad":"Netherlands","fechaNacimiento":"1990-08-27","posicion":"DL"},{"nombre":"Oussama Idrissi","nacionalidad":"Morocco","fechaNacimiento":"1996-02-26","posicion":"DL"},{"nombre":"Lucas Ocampos","nacionalidad":"Argentina","fechaNacimiento":"1994-07-11","posicion":"DL"},{"nombre":"Jules Koundé","nacionalidad":"France","fechaNacimiento":"1998-11-12","posicion":"DF"},{"nombre":"Diego Carlos","nacionalidad":"Brazil","fechaNacimiento":"1993-03-15","posicion":"MC"},{"nombre":"Joris Gnagnon","nacionalidad":"Côte d’Ivoire","fechaNacimiento":"1997-01-13","posicion":"DF"},{"nombre":"Lopetegui","nacionalidad":"Spain","fechaNacimiento":"1966-08-28","posicion":"PT"},{"nombre":"Aleix Vidal","nacionalidad":"Spain","fechaNacimiento":"1989-08-21","posicion":"MC"},{"nombre":"Óliver Torres","nacionalidad":"Spain","fechaNacimiento":"1994-11-10","posicion":"MC"},{"nombre":"Carlos Fernández","nacionalidad":"Spain","fechaNacimiento":"1996-05-22","posicion":"DL"},{"nombre":"Tomáš Vaclík","nacionalidad":"Czech Republic","fechaNacimiento":"1989-03-29","posicion":"PT"},{"nombre":"Nemanja Gudelj","nacionalidad":"Serbia","fechaNacimiento":"1991-11-16","posicion":"MC"},{"nombre":"Fernando","nacionalidad":"Brazil","fechaNacimiento":"1987-07-25","posicion":"MC"},{"nombre":"Marc Gual Huguet","nacionalidad":"Spain","fechaNacimiento":"1996-03-13","posicion":"DL"},{"nombre":"Youssef En-Nesyri","nacionalidad":"Morocco","fechaNacimiento":"1997-06-01","posicion":"DL"},{"nombre":"Javier Díaz","nacionalidad":"Spain","fechaNacimiento":"1997-05-15","posicion":"PT"},{"nombre":"Antonio Zarzana","nacionalidad":"Spain","fechaNacimiento":"2002-03-21","posicion":"DL"},{"nombre":"Munir El Haddadi","nacionalidad":"Spain","fechaNacimiento":"1995-09-01","posicion":"DL"},{"nombre":"Jordán","nacionalidad":"Spain","fechaNacimiento":"1994-07-06","posicion":"MC"},{"nombre":"Sergi Gómez","nacionalidad":"Spain","fechaNacimiento":"1992-03-28","posicion":"DF"},{"nombre":"Reguilón","nacionalidad":"Spain","fechaNacimiento":"1996-12-16","posicion":"DF"},{"nombre":"Alfonso Pastor","nacionalidad":"Spain","fechaNacimiento":"2000-10-04","posicion":"PT"},{"nombre":"Juan Luis Sánchez","nacionalidad":"Spain","fechaNacimiento":"2003-08-15","posicion":"MC"},{"nombre":"Carlos Álvarez","nacionalidad":"Spain","fechaNacimiento":"2003-08-06","posicion":"MC"},{"nombre":"Adrián González Moyano","nacionalidad":"Spain","fechaNacimiento":"2000-03-28","posicion":"PT"}]}
+{
+	"Athletic Club": [
+		{
+			"nombre": "Ibai",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-11-11",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Álex Berenguer",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-07-04",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Yuri Berchiche",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1990-02-10",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Unai López",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-10-30",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Jokin Ezkieta",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-08-17",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Unai Simón",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-06-11",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Iago Herrerín",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1988-01-25",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Balenziaga",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1988-02-29",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Yeray Álvarez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-01-24",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Iñigo Lekue",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-05-04",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Unai Núñez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-01-30",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Íñigo Martínez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1991-05-17",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "De Marcos",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-04-10",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Raúl García",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1986-07-11",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Iñigo Córdoba",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-03-13",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Peru Nolaskoain",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-10-25",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Muniain",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-12-19",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Iñaki Williams",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1994-06-15",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Ander Capa",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-02-08",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Dani García",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1990-05-24",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Asier Villalibre",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-09-30",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Kenan Kodro",
+			"nacionalidad": "Bosnia and Herzegovina",
+			"fechaNacimiento": "1993-08-19",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Mikel Vesga",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-05-21",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Gaizka Garitano",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1975-07-09",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Iñigo Vicente",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-01-06",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Oihan Sancet",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-04-25",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Jon Morcillo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-09-15",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Unai Vencedor Paris",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-11-15",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Oier Zarraga",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1999-01-04",
+			"posicion": "MC"
+		}
+	],
+	"Club Atlético de Madrid": [
+		{
+			"nombre": "Adán",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1987-05-13",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Marcos Llorente",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-01-30",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Koke",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-01-08",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Diego Costa",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1988-10-07",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "José Maria Giménez",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "1995-01-20",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Šime Vrsaljko",
+			"nacionalidad": "Croatia",
+			"fechaNacimiento": "1992-01-10",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Saúl",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1994-11-21",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Jan Oblak",
+			"nacionalidad": "Slovenia",
+			"fechaNacimiento": "1993-01-07",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Ángel Correa",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1995-03-09",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Vitolo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-11-02",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Diego Simeone",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1970-04-28",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Caio Henrique",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "1997-07-31",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Renan Lodi",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "1998-04-08",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Lucas Torreira",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "1996-02-11",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Luis Suárez",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "1987-01-24",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Héctor Herrera",
+			"nacionalidad": "Mexico",
+			"fechaNacimiento": "1990-04-19",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Kieran Trippier",
+			"nacionalidad": "England",
+			"fechaNacimiento": "1990-09-19",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Thomas Lemar",
+			"nacionalidad": "France",
+			"fechaNacimiento": "1995-11-12",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Yannick Carrasco",
+			"nacionalidad": "Belgium",
+			"fechaNacimiento": "1993-09-04",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Ivan Šaponjić",
+			"nacionalidad": "Serbia",
+			"fechaNacimiento": "1997-08-02",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Alex dos Santos",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1999-01-15",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Miguel San Román",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-07-14",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Stefan Savić",
+			"nacionalidad": "Montenegro",
+			"fechaNacimiento": "1991-01-08",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Toni Moya",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-03-20",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Felipe",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "1989-05-16",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Ivo Grbić",
+			"nacionalidad": "Croatia",
+			"fechaNacimiento": "1996-01-18",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Álvaro García",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-06-01",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Mario Hermoso",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-06-18",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Geoffrey Kondogbia",
+			"nacionalidad": "Central African Republic",
+			"fechaNacimiento": "1993-02-15",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "João Félix",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "1999-11-10",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Francisco Montero",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1999-01-14",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Diego Conde",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-10-20",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Sergio Camello",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2001-02-10",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Manuel Sánchez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-08-24",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Germán Valera",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2002-03-16",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Ricard Sánchez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-02-22",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Juan Sanabria",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "2000-03-29",
+			"posicion": "MC"
+		}
+	],
+	"CA Osasuna": [
+		{
+			"nombre": "Raúl Navas",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1988-05-11",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Rubén",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1984-06-22",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Adrián",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1988-01-08",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Ante Budimir",
+			"nacionalidad": "Croatia",
+			"fechaNacimiento": "1991-07-22",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Jonathan Calleri",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1993-09-23",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Brandon",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-02-04",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Juan Pérez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-07-15",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Sergio Herrera",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-06-05",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Oier",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1986-05-25",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Unai García",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-09-30",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Aridane Hernández",
+			"nacionalidad": "Equatorial Guinea",
+			"fechaNacimiento": "1989-03-23",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Roberto Torres",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-03-07",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Lucas Torró",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1994-07-19",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Kike Barja",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-04-04",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "David García",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1994-02-14",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Rubén García",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-07-14",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Jony",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1991-07-09",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Iñigo Pérez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1988-01-18",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Chimy Ávila",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1994-02-06",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Jagoba Arrasate",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1978-04-22",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Nacho Vidal",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-01-24",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Facundo Roncaglia",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1987-02-10",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Darko Brašanac",
+			"nacionalidad": "Serbia",
+			"fechaNacimiento": "1992-02-12",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Enric Gallego",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1986-09-12",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Juan Cruz",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-07-28",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Javi Martínez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1999-12-22",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Iván Martínez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2002-02-19",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Jon Moncayola",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-05-13",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Aimar Oroz",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2001-11-27",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Gorka Zabarte",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1999-01-09",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Javier Delgado",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1999-06-19",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Asier Córdoba",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-03-31",
+			"posicion": "DL"
+		}
+	],
+	"FC Barcelona": [
+		{
+			"nombre": "Quique Setién",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1958-09-27",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Clément Lenglet",
+			"nacionalidad": "France",
+			"fechaNacimiento": "1995-06-17",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Antoine Griezmann",
+			"nacionalidad": "France",
+			"fechaNacimiento": "1991-03-21",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Arthur",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "1996-08-12",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Matheus Fernandes",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "1998-06-30",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Miralem Pjanić",
+			"nacionalidad": "Bosnia and Herzegovina",
+			"fechaNacimiento": "1990-04-02",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Marc-André ter Stegen",
+			"nacionalidad": "Germany",
+			"fechaNacimiento": "1992-04-30",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Piqué",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1987-02-02",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Jordi Alba",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-03-21",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Lionel Messi",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1987-06-24",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Neto",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "1989-07-19",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Philippe Coutinho",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "1992-06-12",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Samuel Umtiti",
+			"nacionalidad": "France",
+			"fechaNacimiento": "1993-11-14",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Ousmane Dembélé",
+			"nacionalidad": "France",
+			"fechaNacimiento": "1997-05-15",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Martin Braithwaite",
+			"nacionalidad": "Denmark",
+			"fechaNacimiento": "1991-06-05",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Ivan Rakitić",
+			"nacionalidad": "Croatia",
+			"fechaNacimiento": "1988-03-10",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Frenkie de Jong",
+			"nacionalidad": "Netherlands",
+			"fechaNacimiento": "1997-05-12",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Busquets",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1988-07-16",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Ronald Koeman",
+			"nacionalidad": "Netherlands",
+			"fechaNacimiento": "1963-03-21",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Sergi Roberto",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-02-07",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Aleñà",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-01-05",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Oriol Busquets",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1999-01-20",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Ronald Araújo",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "1999-03-07",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Riqui Puig",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1999-08-13",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Júnior Firpo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-05-10",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Trincão",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "1999-12-29",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Sergiño Dest",
+			"nacionalidad": "United States",
+			"fechaNacimiento": "2000-11-03",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Iñaki",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1999-03-02",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Henrik Larsson",
+			"nacionalidad": "Sweden",
+			"fechaNacimiento": "1971-09-20",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Alfred Schreuder",
+			"nacionalidad": "Netherlands",
+			"fechaNacimiento": "1972-11-02",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Ansu Fati",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2002-10-31",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Pedri",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2002-11-25",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Arnau Tenas",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2001-05-30",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Konrad de la Fuente",
+			"nacionalidad": "United States",
+			"fechaNacimiento": "2001-07-16",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Óscar Mingueza",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1999-05-13",
+			"posicion": "DF"
+		}
+	],
+	"Getafe CF": [
+		{
+			"nombre": "David Soria",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-04-04",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Ángel",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1987-04-26",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Portillo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1990-06-13",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Dakonam Djené",
+			"nacionalidad": "Togo",
+			"fechaNacimiento": "1991-12-31",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "David Alba",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1999-05-05",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Leandro Chichizola",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1990-03-27",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Pepe Bordalás",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1964-03-05",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Nemanja Maksimović",
+			"nacionalidad": "Serbia",
+			"fechaNacimiento": "1995-01-26",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Allan Nyom",
+			"nacionalidad": "Cameroon",
+			"fechaNacimiento": "1988-05-10",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Abdoulay Diaby",
+			"nacionalidad": "Mali",
+			"fechaNacimiento": "1991-05-21",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Cucurella",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-07-22",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Mata",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1988-10-24",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Cucho Hernández",
+			"nacionalidad": "Colombia",
+			"fechaNacimiento": "1999-04-20",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Rubén Yáñez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-10-12",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Xabi Etxeita",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1987-10-31",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Damián Suárez",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "1988-04-27",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Mathías Olivera",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "1997-10-31",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Mauro Arambarri",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "1995-09-30",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "José Vegar",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1975-02-22",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Chema",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-03-03",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Erick Cabaco",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "1995-04-19",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Darío Poveda",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-03-13",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Enes Ünal",
+			"nacionalidad": "Turkey",
+			"fechaNacimiento": "1997-05-10",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Timor",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-01-17",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Ante Palaversa",
+			"nacionalidad": "Croatia",
+			"fechaNacimiento": "2000-04-06",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Victor Mollejo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2001-01-21",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Ryan Nolan",
+			"nacionalidad": "Republic of Ireland",
+			"fechaNacimiento": "1999-02-17",
+			"posicion": "DF"
+		}
+	],
+	"Granada CF": [
+		{
+			"nombre": "Jesús Vallejo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-01-05",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Maxime Gonalons",
+			"nacionalidad": "France",
+			"fechaNacimiento": "1989-03-10",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Molina",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1982-04-22",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Kenedy",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "1996-02-08",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Dimitri Foulquier",
+			"nacionalidad": "Guadeloupe",
+			"fechaNacimiento": "1993-03-23",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Soldado",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1985-05-27",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Diego Martínez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1980-12-16",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Rui Silva",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "1994-02-07",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Aarón",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-09-27",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Germán",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1986-10-31",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Quini",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-09-24",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Víctor Díaz",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1988-06-12",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Montoro",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1988-06-25",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Antonio Puertas",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-02-21",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Darwin Machís",
+			"nacionalidad": "Venezuela",
+			"fechaNacimiento": "1993-02-07",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Yan Eteki",
+			"nacionalidad": "Cameroon",
+			"fechaNacimiento": "1997-08-26",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Luis Suárez",
+			"nacionalidad": "Colombia",
+			"fechaNacimiento": "1997-12-02",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Luis Milla",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1994-10-07",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Bernardo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-07-17",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Fede Vico",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1994-07-04",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Ramon Azeez",
+			"nacionalidad": "Nigeria",
+			"fechaNacimiento": "1992-12-12",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Andorinha",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "1996-02-02",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Domingos Duarte",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "1995-03-10",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Nehuén Pérez",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "2000-06-24",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Eris Abedini",
+			"nacionalidad": "Kosovo",
+			"fechaNacimiento": "1998-08-29",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Alvaro Bravo Jiménez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-02-04",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Fobi Kingsley",
+			"nacionalidad": "Ghana",
+			"fechaNacimiento": "1998-09-20",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Yangel Herrera",
+			"nacionalidad": "Venezuela",
+			"fechaNacimiento": "1998-01-07",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Neyder Lozano",
+			"nacionalidad": "Colombia",
+			"fechaNacimiento": "1994-03-04",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Alberto Soro",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1999-03-09",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Jesús Rodríguez Ortuño",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-02-11",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Dani Plomer",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-11-30",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Carlos Neva",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-06-12",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Juan",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1998-01-24",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "José Sánchez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-03-02",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Arnau Fàbrega Mañas",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-06-28",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Raúl Torrente",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2001-03-01",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Ángel Jiménez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2002-06-22",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Ismael Ruiz",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2001-02-14",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Carlos León",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2002-12-05",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Rafael Romero",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2003-08-07",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Sergio Barcia",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-12-31",
+			"posicion": "DF"
+		}
+	],
+	"Real Madrid CF": [
+		{
+			"nombre": "Álvaro Odriozola",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-12-14",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Luka Modrić",
+			"nacionalidad": "Croatia",
+			"fechaNacimiento": "1985-09-09",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Lucas Vázquez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1991-07-01",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Jesús Vallejo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-01-05",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Toni Kroos",
+			"nacionalidad": "Germany",
+			"fechaNacimiento": "1990-01-04",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Marcelo",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "1988-05-12",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Karim Benzema",
+			"nacionalidad": "France",
+			"fechaNacimiento": "1987-12-19",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Nacho",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1990-01-18",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Marco Asensio",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-01-21",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Achraf Hakimi",
+			"nacionalidad": "Morocco",
+			"fechaNacimiento": "1998-11-04",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Isco",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-04-21",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Dani Ceballos",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-08-07",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Zinedine Zidane",
+			"nacionalidad": "France",
+			"fechaNacimiento": "1972-06-23",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Federico Valverde",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "1998-07-22",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Rodrygo",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "2001-01-09",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Éder Militão",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "1998-01-18",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Vinicius Junior",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "2000-07-12",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Sergio Ramos",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1986-03-30",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Dani Carvajal",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-01-11",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Casemiro",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "1992-02-23",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Alphonse Aréola",
+			"nacionalidad": "France",
+			"fechaNacimiento": "1993-02-27",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Raphaël Varane",
+			"nacionalidad": "France",
+			"fechaNacimiento": "1993-04-25",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Thibaut Courtois",
+			"nacionalidad": "Belgium",
+			"fechaNacimiento": "1992-05-11",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Eden Hazard",
+			"nacionalidad": "Belgium",
+			"fechaNacimiento": "1991-01-07",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Óscar",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-06-28",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Luka Jović",
+			"nacionalidad": "Serbia",
+			"fechaNacimiento": "1997-12-23",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Martin Ødegaard",
+			"nacionalidad": "Norway",
+			"fechaNacimiento": "1998-12-17",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Brahim Diaz",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1999-08-03",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Ferland Mendy",
+			"nacionalidad": "France",
+			"fechaNacimiento": "1995-06-08",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Mariano Díaz",
+			"nacionalidad": "Dominican Republic",
+			"fechaNacimiento": "1993-08-01",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Andriy Lunin",
+			"nacionalidad": "Ukraine",
+			"fechaNacimiento": "1999-02-11",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Hugo Duro",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1999-11-10",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Takefusa Kubo",
+			"nacionalidad": "Japan",
+			"fechaNacimiento": "2001-06-04",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Reinier",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "2002-01-19",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Diego Altube",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-02-22",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Víctor Chust",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-03-05",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Sergio Santos",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2001-01-03",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Óscar Aranda",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2002-04-29",
+			"posicion": "DL"
+		}
+	],
+	"Levante UD": [
+		{
+			"nombre": "Sergio León",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-01-06",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Óscar Duarte",
+			"nacionalidad": "Costa Rica",
+			"fechaNacimiento": "1989-06-03",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Carlos Clerc",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-02-21",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Aitor Fernández",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1991-05-03",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Melero",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1994-01-02",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Koke",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-09-27",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Toño García",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-11-07",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Postigo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1988-11-04",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Campaña",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-05-31",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Rober Pier",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-02-16",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Coke",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1987-04-26",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Enis Bardhi",
+			"nacionalidad": "North Macedonia",
+			"fechaNacimiento": "1995-07-02",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Cheick Doukouré",
+			"nacionalidad": "Côte d’Ivoire",
+			"fechaNacimiento": "1992-09-11",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "José Luis Morales",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1987-07-23",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Roger Martí",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1991-01-03",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Rochina",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1991-03-23",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Paco López",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1967-09-19",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Jorge Miramón",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-06-02",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Rúben Vezo",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "1994-04-25",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Nemanja Radoja",
+			"nacionalidad": "Serbia",
+			"fechaNacimiento": "1993-02-06",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Mickaël Malsa",
+			"nacionalidad": "Martinique",
+			"fechaNacimiento": "1995-10-12",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Nikola Vukčević",
+			"nacionalidad": "Montenegro",
+			"fechaNacimiento": "1991-12-13",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Son",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1994-03-30",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Dani Gómez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-07-30",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Jorge de Frutos",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-02-20",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Dani Cárdenas",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-03-28",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Eusebio Monzó",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-12-04",
+			"posicion": "DF"
+		}
+	],
+	"Real Betis Balompié": [
+		{
+			"nombre": "Juanmi",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-05-20",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Antonio Sanabria",
+			"nacionalidad": "Paraguay",
+			"fechaNacimiento": "1996-03-04",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Andrés Guardado",
+			"nacionalidad": "Mexico",
+			"fechaNacimiento": "1986-09-28",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Tello",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1991-08-11",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Joaquín",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1981-07-21",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Aïssa Mandi",
+			"nacionalidad": "Algeria",
+			"fechaNacimiento": "1991-10-22",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Canales",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1991-02-16",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Sidnei",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "1989-08-23",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Emerson Royal",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "1999-01-14",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "William Carvalho",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "1992-04-07",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Joel Robles",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1990-06-17",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Claudio Bravo",
+			"nacionalidad": "Chile",
+			"fechaNacimiento": "1983-04-13",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Nabil Fekir",
+			"nacionalidad": "France",
+			"fechaNacimiento": "1993-07-18",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Manuel Pellegrini",
+			"nacionalidad": "Chile",
+			"fechaNacimiento": "1953-09-16",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Borja Iglesias",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-01-17",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Alex Moreno",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-06-08",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Daniel Martín",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-07-08",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Juan Miranda",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-01-19",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Dani Rebollo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1999-12-10",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Bartra",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1991-01-15",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Víctor Camarasa",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1994-05-28",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Aitor Ruibal",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-03-22",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Loren",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-12-30",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Víctor Ruíz",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-01-25",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Martín Montoya",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1991-04-14",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Guido Rodríguez",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1994-04-12",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Diego Lainez",
+			"nacionalidad": "Mexico",
+			"fechaNacimiento": "2000-06-09",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Paul Akouokou",
+			"nacionalidad": "Côte d’Ivoire",
+			"fechaNacimiento": "1997-12-20",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Carlos Marín",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-02-20",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Rodrigo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-05-16",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Fran Delgado",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2001-07-11",
+			"posicion": "DF"
+		}
+	],
+	"Real Sociedad de Fútbol": [
+		{
+			"nombre": "Illarramendi",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1990-03-08",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Géronimo Rulli",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1992-05-20",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Willian José",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "1991-11-23",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Mikel Oiarzabal",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-04-21",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Aritz Elustondo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1994-03-28",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Jon Bautista",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-07-03",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Igor Zubeldía",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-03-30",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Moyà",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1984-04-02",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Joseba Zaldúa",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-06-24",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Modibo Sagnan",
+			"nacionalidad": "Mali",
+			"fechaNacimiento": "1999-04-14",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "David Silva",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1986-01-08",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Alexander Isak",
+			"nacionalidad": "Sweden",
+			"fechaNacimiento": "1999-09-21",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Nacho Monreal",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1986-02-26",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Mikel Merino",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-06-22",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Adnan Januzaj",
+			"nacionalidad": "Belgium",
+			"fechaNacimiento": "1995-02-05",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Álex Remiro",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-03-24",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Andoni Gorosabel",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-08-04",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Jon Guridi",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-02-28",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Ander Guevara",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-07-07",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Imanol Alguacil",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1971-07-04",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Portu",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-05-21",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Luca Sangalli",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-02-10",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Martín Merquelanz",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-06-12",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Roberto López",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-04-24",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Robin Le Normand",
+			"nacionalidad": "France",
+			"fechaNacimiento": "1996-11-11",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Aihen Muñoz",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-08-16",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Ander Barrenetxea",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2001-12-27",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Roberto Navarro",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2002-04-12",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Martín Zubimendi",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1999-02-02",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Aritz Arambarri",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-01-31",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Jon Pacheco",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2001-01-08",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Urko González",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2001-03-20",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Gaizka Ayesa",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2001-04-02",
+			"posicion": "PT"
+		}
+	],
+	"Villarreal CF": [
+		{
+			"nombre": "Géronimo Rulli",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1992-05-20",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Alfonso Pedraza",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-04-09",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Albiol",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1985-09-04",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Dani Parejo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-04-16",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Ramiro Funes Mori",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1991-03-05",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Carlos Bacca",
+			"nacionalidad": "Colombia",
+			"fechaNacimiento": "1986-09-08",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Alberto Moreno",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-07-05",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Juan Foyth",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1998-01-12",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Iborra",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1988-01-16",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Francis Coquelin",
+			"nacionalidad": "France",
+			"fechaNacimiento": "1991-05-13",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Unai Emery",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1971-11-03",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Paco Alcácer",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-08-30",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Moi Gómez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1994-10-20",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Pervis Estupiñán",
+			"nacionalidad": "Ecuador",
+			"fechaNacimiento": "1998-01-21",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Gerard Moreno",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-04-07",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Sergio Asenjo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-06-28",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Andrés Fernández",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1986-12-17",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Jaume Costa",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1988-03-18",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Mario Gaspar",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1990-11-24",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Pau Torres",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-01-16",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Trigueros",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1991-10-17",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Samuel Chukwueze",
+			"nacionalidad": "Nigeria",
+			"fechaNacimiento": "1999-05-22",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Dani Raba",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-10-29",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Rubén Peña",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1991-07-18",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Takefusa Kubo",
+			"nacionalidad": "Japan",
+			"fechaNacimiento": "2001-06-04",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Miguelón",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-01-18",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Sofian Chakla",
+			"nacionalidad": "Morocco",
+			"fechaNacimiento": "1993-09-02",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Enric Franquesa",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-02-26",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Fernando Niño",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-10-24",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Alejandro Baena",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2001-07-20",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Yeremi Pino",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2002-10-20",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Filip Jörgensen",
+			"nacionalidad": "Sweden",
+			"fechaNacimiento": "2002-04-16",
+			"posicion": "PT"
+		}
+	],
+	"Valencia CF": [
+		{
+			"nombre": "Kevin Gameiro",
+			"nacionalidad": "France",
+			"fechaNacimiento": "1987-05-09",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Rubén Sobrino",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-06-01",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Maxi Gómez",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "1996-08-14",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Gonçalo Guedes",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "1996-11-29",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Denis Cheryshev",
+			"nacionalidad": "Russia",
+			"fechaNacimiento": "1990-12-26",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Eliaquim Mangala",
+			"nacionalidad": "France",
+			"fechaNacimiento": "1991-02-13",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Mouctar Diakhaby",
+			"nacionalidad": "France",
+			"fechaNacimiento": "1996-12-19",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Daniel Wass",
+			"nacionalidad": "Denmark",
+			"fechaNacimiento": "1989-05-31",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Javi Gracia",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1970-05-01",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Jasper Cillessen",
+			"nacionalidad": "Netherlands",
+			"fechaNacimiento": "1989-04-22",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Manu Vallejo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-02-14",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Jason",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1994-07-06",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Jaume Doménech",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1990-11-05",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Cristian",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-03-21",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Toni Lato",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-11-21",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Gabriel Paulista",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "1990-11-26",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Gaya",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-05-25",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Carlos Soler",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-01-02",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Uroš Račić",
+			"nacionalidad": "Serbia",
+			"fechaNacimiento": "1998-03-17",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Alejandro Blanco",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-12-16",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Lee Kangin",
+			"nacionalidad": "Korea Republic",
+			"fechaNacimiento": "2001-02-19",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Hugo Guillamón",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-01-31",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Thierry Correia",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "1999-03-09",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Esquerdo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1999-01-02",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Guillem Molina Gutiérrez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-05-03",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Koba Koindredi",
+			"nacionalidad": "France",
+			"fechaNacimiento": "2001-10-27",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Yunus Musah",
+			"nacionalidad": "United States",
+			"fechaNacimiento": "2002-11-29",
+			"posicion": "MC"
+		}
+	],
+	"Real Valladolid CF": [
+		{
+			"nombre": "Roque Mesa",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-06-07",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Raúl Carnero",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-04-30",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Jawad El Yamiq",
+			"nacionalidad": "Morocco",
+			"fechaNacimiento": "1992-02-29",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Miguel Ángel Rubio",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-03-11",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Saidy Janko",
+			"nacionalidad": "Switzerland",
+			"fechaNacimiento": "1995-10-22",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Luis Pérez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-02-04",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Kike Pérez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-02-14",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Fede San Emeterio",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-03-16",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Sergi Guardiola",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1991-05-29",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Masip",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-01-03",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Nacho Martínez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-03-07",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Kiko Olivas",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1988-08-21",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Míchel",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1988-07-29",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Toni Villa",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-01-07",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Hervías",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-03-08",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Óscar Plano",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1991-02-11",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Sergio",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1976-11-10",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Joaquín Fernández",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-05-31",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Rubén Alcaraz",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1991-05-01",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Waldo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-08-17",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Bruno",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1990-05-24",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Roberto Jiménez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1986-02-10",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Kuki",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-05-05",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Samuel Pérez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-04-26",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Fabián Orellana",
+			"nacionalidad": "Chile",
+			"fechaNacimiento": "1986-01-27",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Jota",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "1999-03-30",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Shon Weissman",
+			"nacionalidad": "Israel",
+			"fechaNacimiento": "1996-02-14",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Maranhão",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "1996-10-20",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Javi Sánchez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-03-14",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Ignasi Vilarrasa",
+			"nacionalidad": "Ecuador",
+			"fechaNacimiento": "1997-03-17",
+			"posicion": "DF"
+		}
+	],
+	"Deportivo Alavés": [
+		{
+			"nombre": "Lucas",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1988-09-10",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Rodrigo Ely",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "1993-11-03",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Manu",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1986-04-26",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Pacheco",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-05-18",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Burgui",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-10-29",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Tomás Pina",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1987-10-14",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Sivera",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-08-11",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Deyverson",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "1991-05-08",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Ximo Navarro",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1990-01-23",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "John Guidetti",
+			"nacionalidad": "Sweden",
+			"fechaNacimiento": "1992-04-15",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Jota Peleteiro",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1991-06-16",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Florian Lejeune",
+			"nacionalidad": "France",
+			"fechaNacimiento": "1991-05-20",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Joselu",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1990-03-27",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Rodrigo Battaglia",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1991-07-12",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Adrián Marín",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-01-09",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Aritz Castro",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-05-20",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Laguardia",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-11-05",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Martín",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-05-10",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Rubén Duarte",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-10-18",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Pere Pons",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-02-20",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Pablo Machín",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1975-04-07",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Edgar Méndez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1990-01-02",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Luis Rioja",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-10-16",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Javi López",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2002-01-01",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Tomás Tavares",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "2001-03-07",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Tachi",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-09-10",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Borja Sainz",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2001-02-01",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Abdallahi Mahmoud",
+			"nacionalidad": "Mauritania",
+			"fechaNacimiento": "2000-05-04",
+			"posicion": "MC"
+		}
+	],
+	"Cádiz CF": [
+		{
+			"nombre": "Luis Quezada Sánchez",
+			"nacionalidad": "Dominican Republic",
+			"fechaNacimiento": "1996-02-11",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Yann Bodiger",
+			"nacionalidad": "France",
+			"fechaNacimiento": "1995-02-09",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Álvaro Negredo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1985-08-20",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Augusto Fernández",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1986-04-10",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Juan Cala",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-11-26",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Alfonso Espino",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "1992-01-05",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Jens Jønsson",
+			"nacionalidad": "Denmark",
+			"fechaNacimiento": "1993-01-10",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Isaac Valencia",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-04-23",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Jorge Pombo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1994-08-29",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Álvaro Giménez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1991-05-19",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Nano",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-02-05",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "José Mari",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1987-12-06",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Marcos López",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1991-01-09",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Jon Garrido",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-10-09",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Salva Sánchez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1991-03-30",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Álex",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-10-15",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "David Gil",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1994-01-11",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Álvaro Cervera",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1965-09-20",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Carlos Akapo",
+			"nacionalidad": "Equatorial Guinea",
+			"fechaNacimiento": "1993-03-12",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Filip Malbašić",
+			"nacionalidad": "Serbia",
+			"fechaNacimiento": "1992-11-18",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Jairo Izquierdo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-10-22",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Anthony Lozano",
+			"nacionalidad": "Honduras",
+			"fechaNacimiento": "1993-04-25",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Fali Jiménez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-08-12",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Sergio González",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-05-14",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Alberto Perea",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1990-05-16",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Roberto Perera",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1980-12-15",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Iván Alejo Peralta",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-02-10",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Pedro Alcalá",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-03-19",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Jeremías Ledesma",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1993-02-13",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Saturday Erimuya",
+			"nacionalidad": "Nigeria",
+			"fechaNacimiento": "1998-01-10",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Bobby Adekanye",
+			"nacionalidad": "Netherlands",
+			"fechaNacimiento": "1999-02-14",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Manuel Nieto",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-03-29",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Marc Baró Ortiz",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1999-08-23",
+			"posicion": "DF"
+		}
+	],
+	"SD Eibar": [
+		{
+			"nombre": "Kévin Rodrigues",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "1994-03-05",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Marko Dmitrović",
+			"nacionalidad": "Serbia",
+			"fechaNacimiento": "1992-01-24",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Damian Kądzior",
+			"nacionalidad": "Poland",
+			"fechaNacimiento": "1992-06-16",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Yoshinori Mutō",
+			"nacionalidad": "Japan",
+			"fechaNacimiento": "1992-07-15",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Rafa Soares",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "1995-05-09",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Roberto Olabe",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-05-05",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Alejandro Pozo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1999-02-22",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Quique",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1990-05-16",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Esteban Burgos",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1992-01-09",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Sergio Álvarez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-01-23",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Rober Correa",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-09-20",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Martínez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-02-12",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Recio",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1991-01-11",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Pedro Bigas",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1990-09-19",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Yoel",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1988-08-28",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Arbilla",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1987-05-15",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Cote",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-09-05",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Paulo Oliveira",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "1992-01-08",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Pedro León",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1986-11-24",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Pape Kouly Diop",
+			"nacionalidad": "Senegal",
+			"fechaNacimiento": "1986-03-19",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Sergi Enrich",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1990-02-26",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Takashi Inui",
+			"nacionalidad": "Japan",
+			"fechaNacimiento": "1988-06-02",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Kike García",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-11-25",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Mendilibar",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1961-03-14",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Andoni Azkargorta",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1978-06-02",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Edu Expósito",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-08-01",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Miguel Atienza",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1999-05-27",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Bryan",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2001-02-11",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Eñaut Mendía",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1999-06-25",
+			"posicion": "DL"
+		}
+	],
+	"Elche CF": [
+		{
+			"nombre": "Antonio Barragán",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1987-06-12",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Youssouf Koné",
+			"nacionalidad": "Mali",
+			"fechaNacimiento": "1995-07-05",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Guido Carrillo",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1991-05-25",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Lucas Boyé",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1996-02-28",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Steven Lucumí",
+			"nacionalidad": "Colombia",
+			"fechaNacimiento": "1995-04-08",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Jorge Almirón",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1971-06-19",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Raúl Guti",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-12-30",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Josán Fernández",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-12-03",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Miguel Ángel",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1990-10-05",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Josema Sánche",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-06-06",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Luismi",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-05-05",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Dani Calvo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1994-04-01",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Pere Milla",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-09-23",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Fidel",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-10-27",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Diego González",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-01-28",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Edgar Badía",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-02-12",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Gonzalo Verdú",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1988-10-21",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Nino",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1980-06-10",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Tete Morente",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-12-04",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Diego Rodríguez",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1989-06-25",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Iván Marcone",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1990-06-03",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Juan Sánchez Miño",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1990-01-01",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Emiliano Rigoni",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1993-02-04",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Omenuke Mfulu",
+			"nacionalidad": "Congo DR",
+			"fechaNacimiento": "1994-03-20",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Víctor Rodríguez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-07-23",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Jonatan Carmona Alamo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2001-09-25",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Diego Bri",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2002-09-12",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Gerard Barri",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2001-01-02",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "José Salinas",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-09-30",
+			"posicion": "DF"
+		}
+	],
+	"SD Huesca": [
+		{
+			"nombre": "Pedro Mosquera",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1988-04-21",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Sergio Gómez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-09-04",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Gastón Silva",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "1994-03-05",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Jaime Seoane",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-01-22",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Rafael Mir",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-06-18",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Pablo Insúa",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-09-08",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Shinji Okazaki",
+			"nacionalidad": "Japan",
+			"fechaNacimiento": "1986-04-16",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Idrissa Doumbia",
+			"nacionalidad": "Côte d’Ivoire",
+			"fechaNacimiento": "1998-04-14",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Kelechi Nwakali",
+			"nacionalidad": "Nigeria",
+			"fechaNacimiento": "1998-06-05",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Sandro",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-07-09",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Eugeni Valderrama",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1994-07-19",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Juan Carlos",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1991-03-15",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Michel",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1975-10-30",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Javier Galán",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1994-11-19",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Javier Ontiveros",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-09-09",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "David Ferreiro",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1988-04-01",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Jorge Pulido",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1991-04-08",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Mikel Rico",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1984-11-01",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Antonio Valera",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-08-17",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Daniel Escriche Romero",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-03-24",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Pedro López",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1983-11-01",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Andrés Fernández",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1986-12-17",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Pablo Maffeo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-07-12",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Borja García",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1990-11-02",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Luisinho",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "1985-05-05",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Dimitrios Siovas",
+			"nacionalidad": "Greece",
+			"fechaNacimiento": "1988-09-16",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Álvaro Fernández",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-04-13",
+			"posicion": "PT"
+		}
+	],
+	"RC Celta de Vigo": [
+		{
+			"nombre": "Nolito",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1986-10-15",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Iago Aspas",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1987-08-01",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Néstor Araujo",
+			"nacionalidad": "Mexico",
+			"fechaNacimiento": "1991-08-29",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Renato Tapia",
+			"nacionalidad": "Peru",
+			"fechaNacimiento": "1995-07-28",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Joseph Aidoo",
+			"nacionalidad": "Ghana",
+			"fechaNacimiento": "1995-09-29",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "David Costas",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-03-26",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Denís Suárez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1994-01-06",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Okay Yokuşlu",
+			"nacionalidad": "Turkey",
+			"fechaNacimiento": "1994-03-09",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Jorge Sáenz",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-11-17",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Fran Beltrán",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1999-02-03",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Iván Villar",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-07-09",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Jeison Murillo",
+			"nacionalidad": "Colombia",
+			"fechaNacimiento": "1992-05-27",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Santi Mina",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-12-07",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Juncà",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-11-16",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Sergio Álvarez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1986-08-03",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Rubén Blanco",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-07-25",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Brais Méndez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-01-07",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Hugo Mallo",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1991-06-22",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Emre Mor",
+			"nacionalidad": "Turkey",
+			"fechaNacimiento": "1997-07-24",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Lucas Olaza",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "1994-07-21",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Eduardo Coudet",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1974-09-12",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Kevin Vázquez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-03-23",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Sergio Carreira",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-10-13",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "José Fontán",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-02-11",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Iago Domínguez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2001-11-22",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Miguel Baeza",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-03-27",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Gabriel Veiga",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2002-05-27",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Miguel Rodríguez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2003-04-29",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Álvaro Fernández",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-04-10",
+			"posicion": "PT"
+		}
+	],
+	"Sevilla FC": [
+		{
+			"nombre": "Jesús Navas",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1985-11-21",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Sergio Rico",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-09-01",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Franco Vázquez",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1989-02-22",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Sergio Escudero",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-09-02",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Suso",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1993-11-19",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Marcos Acuña",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1991-10-28",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Ivan Rakitić",
+			"nacionalidad": "Croatia",
+			"fechaNacimiento": "1988-03-10",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Yassine Bounou",
+			"nacionalidad": "Morocco",
+			"fechaNacimiento": "1991-04-05",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Óscar",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1998-06-28",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Karim Rekik",
+			"nacionalidad": "Netherlands",
+			"fechaNacimiento": "1994-12-02",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Luuk de Jong",
+			"nacionalidad": "Netherlands",
+			"fechaNacimiento": "1990-08-27",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Oussama Idrissi",
+			"nacionalidad": "Morocco",
+			"fechaNacimiento": "1996-02-26",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Lucas Ocampos",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "1994-07-11",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Jules Koundé",
+			"nacionalidad": "France",
+			"fechaNacimiento": "1998-11-12",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Diego Carlos",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "1993-03-15",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Joris Gnagnon",
+			"nacionalidad": "Côte d’Ivoire",
+			"fechaNacimiento": "1997-01-13",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Lopetegui",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1966-08-28",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Aleix Vidal",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1989-08-21",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Óliver Torres",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1994-11-10",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Carlos Fernández",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-05-22",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Tomáš Vaclík",
+			"nacionalidad": "Czech Republic",
+			"fechaNacimiento": "1989-03-29",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Nemanja Gudelj",
+			"nacionalidad": "Serbia",
+			"fechaNacimiento": "1991-11-16",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Fernando",
+			"nacionalidad": "Brazil",
+			"fechaNacimiento": "1987-07-25",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Marc Gual Huguet",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-03-13",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Youssef En-Nesyri",
+			"nacionalidad": "Morocco",
+			"fechaNacimiento": "1997-06-01",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Javier Díaz",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1997-05-15",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Antonio Zarzana",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2002-03-21",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Munir El Haddadi",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1995-09-01",
+			"posicion": "DL"
+		},
+		{
+			"nombre": "Jordán",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1994-07-06",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Sergi Gómez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1992-03-28",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Reguilón",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "1996-12-16",
+			"posicion": "DF"
+		},
+		{
+			"nombre": "Alfonso Pastor",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-10-04",
+			"posicion": "PT"
+		},
+		{
+			"nombre": "Juan Luis Sánchez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2003-08-15",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Carlos Álvarez",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2003-08-06",
+			"posicion": "MC"
+		},
+		{
+			"nombre": "Adrián González Moyano",
+			"nacionalidad": "Spain",
+			"fechaNacimiento": "2000-03-28",
+			"posicion": "PT"
+		}
+	]
+}

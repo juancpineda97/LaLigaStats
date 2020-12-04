@@ -12,6 +12,8 @@ if (process.argv[2] != "github"){
 
 var key = process.env.TRANSFERMARKT_KEY;
 
+console.log(key);
+
 var id_equipos = [];
 var equipos = {};
 

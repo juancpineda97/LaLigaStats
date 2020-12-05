@@ -2,6 +2,9 @@ const fetch = require("node-fetch");
 var LocalStorage = require('node-localstorage').LocalStorage;
 localStorage = new LocalStorage('./data');
 
+const data = require("../data/nacionalidades_traduccion.json");
+var nacionalidades_tr = JSON.parse(JSON.stringify(data));
+
 //Por argumentos en línea de comandos, indico si se ejecuta en GitHub Actions
 // o no, para, en este caso, no incluir el archivo de variables de entorno.
 
@@ -67,7 +70,8 @@ async function obtenerDatosEquipo(nombre,id){
         let nombre_jugador = jugadores_full[i]['name'];
         
         //Nacionalidad
-        let nacionalidad = jugadores_full[i]['nationalities'][0]['name'];
+        let nac_init = jugadores_full[i]['nationalities'][0]['name'];
+        let nacionalidad = nacionalidades_tr[nac_init];
 
         //fechaNacimiento
         let fecha_init = jugadores_full[i]['dateOfBirth'];

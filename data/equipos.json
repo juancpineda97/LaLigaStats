@@ -457,7 +457,7 @@
 			"nombre": "Óscar Mingueza",
 			"nacionalidad": "España",
 			"fechaNacimiento": "12-5-1999",
-			"valor": 0.2,
+			"valor": 3,
 			"dorsal": "28",
 			"posicion": "DF",
 			"pieHabil": "D",
@@ -805,28 +805,6 @@
 			"posicion": "MC",
 			"pieHabil": "D",
 			"altura": "1,66",
-			"capitan": false
-		},
-		{
-			"nombre": "Ricard Sánchez",
-			"nacionalidad": "España",
-			"fechaNacimiento": "21-2-2000",
-			"valor": 0.25,
-			"dorsal": "29",
-			"posicion": "DF",
-			"pieHabil": "D",
-			"altura": "1,75",
-			"capitan": false
-		},
-		{
-			"nombre": "Miguel San Román",
-			"nacionalidad": "España",
-			"fechaNacimiento": "13-7-1997",
-			"valor": 0.3,
-			"dorsal": "31",
-			"posicion": "PT",
-			"pieHabil": "D",
-			"altura": "1,89",
 			"capitan": false
 		},
 		{
@@ -1420,7 +1398,7 @@
 			"nombre": "Álex Baena",
 			"nacionalidad": "España",
 			"fechaNacimiento": "19-7-2001",
-			"valor": 0.2,
+			"valor": 2,
 			"dorsal": "32",
 			"posicion": "DL",
 			"pieHabil": "D",
@@ -2073,7 +2051,7 @@
 		},
 		{
 			"nombre": "Gabriel Paulista",
-			"nacionalidad": "Brasil",
+			"nacionalidad": "España",
 			"fechaNacimiento": "25-11-1990",
 			"valor": 15,
 			"dorsal": "5",
@@ -2231,8 +2209,8 @@
 			"fechaNacimiento": "28-11-2002",
 			"valor": 5,
 			"dorsal": "30",
-			"posicion": "DL",
-			"pieHabil": "A",
+			"posicion": "MC",
+			"pieHabil": "D",
 			"altura": "1,78",
 			"capitan": false
 		},
@@ -2256,39 +2234,6 @@
 			"posicion": "MC",
 			"pieHabil": "I",
 			"altura": "1,73",
-			"capitan": false
-		},
-		{
-			"nombre": "Koba Koindredi",
-			"nacionalidad": "Francia",
-			"fechaNacimiento": "26-10-2001",
-			"valor": 0.2,
-			"dorsal": "27",
-			"posicion": "MC",
-			"pieHabil": "D",
-			"altura": "1,84",
-			"capitan": false
-		},
-		{
-			"nombre": "Vicente Esquerdo",
-			"nacionalidad": "España",
-			"fechaNacimiento": "1-1-1999",
-			"valor": 0.3,
-			"dorsal": "26",
-			"posicion": "MC",
-			"pieHabil": "I",
-			"altura": "1,80",
-			"capitan": false
-		},
-		{
-			"nombre": "Guillem Molina",
-			"nacionalidad": "España",
-			"fechaNacimiento": "2-5-2000",
-			"valor": 0.15,
-			"dorsal": "31",
-			"posicion": "DF",
-			"pieHabil": "D",
-			"altura": "1,83",
 			"capitan": false
 		}
 	],
@@ -2572,7 +2517,7 @@
 			"nombre": "Oier Zarraga",
 			"nacionalidad": "España",
 			"fechaNacimiento": "3-1-1999",
-			"valor": 0.3,
+			"valor": 0.5,
 			"dorsal": "28",
 			"posicion": "MC",
 			"pieHabil": "D",
@@ -2941,7 +2886,7 @@
 			"fechaNacimiento": "6-3-1989",
 			"valor": 6,
 			"dorsal": "10",
-			"posicion": "MC",
+			"posicion": "DL",
 			"pieHabil": "D",
 			"altura": "1,78",
 			"capitan": false
@@ -3040,7 +2985,7 @@
 			"fechaNacimiento": "13-7-1993",
 			"valor": 10,
 			"dorsal": "14",
-			"posicion": "MC",
+			"posicion": "DL",
 			"pieHabil": "I",
 			"altura": "1,71",
 			"capitan": false
@@ -3339,7 +3284,7 @@
 			"fechaNacimiento": "1-7-1995",
 			"valor": 20,
 			"dorsal": "10",
-			"posicion": "MC",
+			"posicion": "DL",
 			"pieHabil": "D",
 			"altura": "1,72",
 			"capitan": false
@@ -4851,28 +4796,6 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Sergi García",
-			"nacionalidad": "España",
-			"fechaNacimiento": "13-4-1999",
-			"valor": 0.1,
-			"dorsal": "27",
-			"posicion": "MC",
-			"pieHabil": "A",
-			"altura": "1,95",
-			"capitan": false
-		},
-		{
-			"nombre": "Abdallahi Mahmoud",
-			"nacionalidad": "Mauritania",
-			"fechaNacimiento": "3-5-2000",
-			"valor": 0.1,
-			"dorsal": "30",
-			"posicion": "MC",
-			"pieHabil": "A",
-			"altura": "1,87",
-			"capitan": false
-		},
-		{
 			"nombre": "Borja Sainz",
 			"nacionalidad": "España",
 			"fechaNacimiento": "31-1-2001",
@@ -5416,21 +5339,10 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Sergio Carreira",
-			"nacionalidad": "España",
-			"fechaNacimiento": "12-10-2000",
-			"valor": 0.15,
-			"dorsal": "34",
-			"posicion": "DF",
-			"pieHabil": "A",
-			"altura": "1,70",
-			"capitan": false
-		},
-		{
 			"nombre": "Miguel Rodríguez",
 			"nacionalidad": "España",
 			"fechaNacimiento": "28-4-2003",
-			"valor": null,
+			"valor": 0.6,
 			"dorsal": "32",
 			"posicion": "DL",
 			"pieHabil": "I",

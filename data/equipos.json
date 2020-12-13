@@ -2209,7 +2209,7 @@
 			"fechaNacimiento": "28-11-2002",
 			"valor": 5,
 			"dorsal": "30",
-			"posicion": "MC",
+			"posicion": "DL",
 			"pieHabil": "D",
 			"altura": "1,78",
 			"capitan": false
@@ -2235,6 +2235,17 @@
 			"pieHabil": "I",
 			"altura": "1,73",
 			"capitan": false
+		},
+		{
+			"nombre": "Vicente Esquerdo",
+			"nacionalidad": "España",
+			"fechaNacimiento": "1-1-1999",
+			"valor": 1,
+			"dorsal": "26",
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": "1,80",
+			"capitan": false
 		}
 	],
 	"Athletic Bilbao": [
@@ -2255,7 +2266,7 @@
 			"fechaNacimiento": "18-12-1992",
 			"valor": 14,
 			"dorsal": "10",
-			"posicion": "DL",
+			"posicion": "MC",
 			"pieHabil": "D",
 			"altura": "1,69",
 			"capitan": true
@@ -2821,6 +2832,17 @@
 			"posicion": "DF",
 			"pieHabil": "D",
 			"altura": "1,84",
+			"capitan": false
+		},
+		{
+			"nombre": "Pepe Sánchez",
+			"nacionalidad": "España",
+			"fechaNacimiento": "1-3-2000",
+			"valor": 0.1,
+			"dorsal": "28",
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": "1,85",
 			"capitan": false
 		}
 	],

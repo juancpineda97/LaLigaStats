@@ -11,3 +11,6 @@ node_modules
 
 #Archivo de variables de entorno
 .env.dist
+
+#Archivos vercel
+.vercel

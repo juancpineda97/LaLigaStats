@@ -791,7 +791,7 @@
 			"fechaNacimiento": "29-1-1995",
 			"valor": 45,
 			"dorsal": "14",
-			"posicion": "DL",
+			"posicion": "MC",
 			"pieHabil": "D",
 			"altura": "1,84",
 			"capitan": false
@@ -837,7 +837,7 @@
 			"dorsal": "3",
 			"posicion": "DF",
 			"pieHabil": "I",
-			"altura": "1,79",
+			"altura": "1,71",
 			"capitan": false
 		}
 	],
@@ -1205,7 +1205,7 @@
 			"posicion": "DF",
 			"pieHabil": "D",
 			"altura": "1,80",
-			"capitan": false
+			"capitan": true
 		},
 		{
 			"nombre": "Francis Coquelin",
@@ -4561,7 +4561,7 @@
 			"dorsal": "5",
 			"posicion": "DF",
 			"pieHabil": "D",
-			"altura": "1,85",
+			"altura": "1,83",
 			"capitan": false
 		},
 		{
@@ -4660,7 +4660,7 @@
 			"dorsal": "1",
 			"posicion": "PT",
 			"pieHabil": "I",
-			"altura": "1,86",
+			"altura": "1,85",
 			"capitan": false
 		},
 		{
@@ -4682,7 +4682,7 @@
 			"dorsal": "24",
 			"posicion": "DL",
 			"pieHabil": "I",
-			"altura": "1,80",
+			"altura": "1,78",
 			"capitan": false
 		},
 		{
@@ -4693,7 +4693,7 @@
 			"dorsal": "3",
 			"posicion": "DF",
 			"pieHabil": "I",
-			"altura": "1,72",
+			"altura": "1,79",
 			"capitan": false
 		},
 		{
@@ -4737,7 +4737,7 @@
 			"dorsal": "18",
 			"posicion": "DL",
 			"pieHabil": "D",
-			"altura": "1,84",
+			"altura": "1,86",
 			"capitan": false
 		},
 		{
@@ -4770,7 +4770,7 @@
 			"dorsal": "13",
 			"posicion": "PT",
 			"pieHabil": "D",
-			"altura": "1,84",
+			"altura": "1,85",
 			"capitan": false
 		},
 		{
@@ -4792,7 +4792,7 @@
 			"dorsal": "21",
 			"posicion": "DF",
 			"pieHabil": "D",
-			"altura": "1,78",
+			"altura": "1,80",
 			"capitan": false
 		},
 		{

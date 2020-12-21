@@ -122,7 +122,9 @@ async function obtenerDatosEquipo(nombre,id){
         }
 
         //altura
-        let altura = jugadores_full[i]['height'];
+        let altura_temp = jugadores_full[i]['height'];
+        altura_temp = altura_temp.replace(/,/g, '.');
+        let altura = parseFloat(altura_temp);
 
         //capitan
         let capitan = jugadores_full[i]['captain'];

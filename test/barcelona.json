@@ -7,7 +7,7 @@
         "dorsal": 3,
         "posicion": "DF",
         "pieHabil": "D",
-        "altura": "1,94",
+        "altura": 1.94,
         "capitan": false
     },
     {
@@ -18,7 +18,7 @@
         "dorsal": 10,
         "posicion": "DL",
         "pieHabil": "I",
-        "altura": "1,70",
+        "altura": 1.7,
         "capitan": true
     },
     {
@@ -29,7 +29,7 @@
         "dorsal": 8,
         "posicion": "MC",
         "pieHabil": "D",
-        "altura": "1,80",
+        "altura": 1.8,
         "capitan": false
     },
     {
@@ -40,7 +40,7 @@
         "dorsal": 5,
         "posicion": "MC",
         "pieHabil": "D",
-        "altura": "1,89",
+        "altura": 1.89,
         "capitan": false
     },
     {
@@ -51,7 +51,7 @@
         "dorsal": 18,
         "posicion": "DF",
         "pieHabil": "I",
-        "altura": "1,70",
+        "altura": 1.7,
         "capitan": false
     },
     {
@@ -62,7 +62,7 @@
         "dorsal": 1,
         "posicion": "PT",
         "pieHabil": "D",
-        "altura": "1,87",
+        "altura": 1.87,
         "capitan": false
     },
     {
@@ -73,7 +73,7 @@
         "dorsal": 14,
         "posicion": "MC",
         "pieHabil": "D",
-        "altura": "1,72",
+        "altura": 1.72,
         "capitan": false
     },
     {
@@ -84,7 +84,7 @@
         "dorsal": 20,
         "posicion": "DF",
         "pieHabil": "D",
-        "altura": "1,78",
+        "altura": 1.78,
         "capitan": false
     },
     {
@@ -95,7 +95,7 @@
         "dorsal": 9,
         "posicion": "DL",
         "pieHabil": "D",
-        "altura": "1,77",
+        "altura": 1.77,
         "capitan": false
     },
     {
@@ -106,7 +106,7 @@
         "dorsal": 13,
         "posicion": "PT",
         "pieHabil": "D",
-        "altura": "1,90",
+        "altura": 1.9,
         "capitan": false
     },
     {
@@ -117,7 +117,7 @@
         "dorsal": 7,
         "posicion": "DL",
         "pieHabil": "I",
-        "altura": "1,76",
+        "altura": 1.76,
         "capitan": false
     },
     {
@@ -128,7 +128,7 @@
         "dorsal": 23,
         "posicion": "DF",
         "pieHabil": "I",
-        "altura": "1,82",
+        "altura": 1.82,
         "capitan": false
     },
     {
@@ -139,7 +139,7 @@
         "dorsal": 15,
         "posicion": "DF",
         "pieHabil": "I",
-        "altura": "1,86",
+        "altura": 1.86,
         "capitan": false
     },
     {
@@ -150,7 +150,7 @@
         "dorsal": 26,
         "posicion": "PT",
         "pieHabil": "D",
-        "altura": "1,84",
+        "altura": 1.84,
         "capitan": false
     },
     {
@@ -161,7 +161,7 @@
         "dorsal": 6,
         "posicion": "MC",
         "pieHabil": "I",
-        "altura": "1,80",
+        "altura": 1.8,
         "capitan": false
     },
     {
@@ -172,7 +172,7 @@
         "dorsal": 11,
         "posicion": "DL",
         "pieHabil": "A",
-        "altura": "1,78",
+        "altura": 1.78,
         "capitan": false
     }
 ]

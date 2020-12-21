@@ -1,161 +1,178 @@
 [   
     {
-        "nombre": "Ter Stegen",
-        "equipo": "Barcelona",
-        "nacionalidad": "Alemania",
-        "fechaNacimiento": "30/04/1992",
-        "valor": 75,
-        "dorsal": 1,
-        "posicion": "PT"
-    },
-
-    {
-        "nombre": "Jordi Alba",
-        "equipo": "Barcelona",
+        "nombre": "Gerard Piqué",
         "nacionalidad": "España",
-        "fechaNacimiento": "21/03/1989",
-        "valor": 30,
-        "dorsal": 18,
-        "posicion": "DF"
-    },
-
-    {
-        "nombre": "Lenglet",
-        "equipo": "Barcelona",
-        "nacionalidad": "Francia",
-        "fechaNacimiento": "17/06/1995",
-        "valor": 50,
-        "dorsal": 15,
-        "posicion": "DF"
-    },
-
-    {
-        "nombre": "Piqué",
-        "equipo": "Barcelona",
-        "nacionalidad": "España",
-        "fechaNacimiento": "02/02/1987",
+        "fechaNacimiento": "2-2-1987",
         "valor": 15,
         "dorsal": 3,
-        "posicion": "DF"
+        "posicion": "DF",
+        "pieHabil": "D",
+        "altura": "1,94",
+        "capitan": false
     },
-
     {
-        "nombre": "Sergi Roberto",
-        "equipo": "Barcelona",
-        "nacionalidad": "España",
-        "fechaNacimiento": "07/02/1992",
-        "valor": 20,
-        "dorsal": 20,
-        "posicion": "DF"
-    },
-
-    {
-        "nombre": "Busquets",
-        "equipo": "Barcelona",
-        "nacionalidad": "España",
-        "fechaNacimiento": "16/07/1988",
-        "valor": 15,
-        "dorsal": 5,
-        "posicion": "MC"
-    },
-
-    {
-        "nombre": "Frenkie de Jong",
-        "equipo": "Barcelona",
-        "nacionalidad": "Países Bajos",
-        "fechaNacimiento": "15/05/1997",
-        "valor": 70,
-        "dorsal": 21,
-        "posicion": "MC"
-    },
-
-    {
-        "nombre": "Coutinho",
-        "equipo": "Barcelona",
-        "nacionalidad": "Brasil",
-        "fechaNacimiento": "12/06/1992",
-        "valor": 60,
-        "dorsal": 14,
-        "posicion": "MC"
-    },
-
-    {
-        "nombre": "Dembélé",
-        "equipo": "Barcelona",
-        "nacionalidad": "Francia",
-        "fechaNacimiento": "15/05/1997",
-        "valor": 50,
-        "dorsal": 11,
-        "posicion": "DL"
-    },
-
-    {
-        "nombre": "Griezmann",
-        "equipo": "Barcelona",
-        "nacionalidad": "Francia",
-        "fechaNacimiento": "21/03/1991",
-        "valor": 80,
-        "dorsal": 7,
-        "posicion": "DL"
-    },
-
-    {
-        "nombre": "Messi",
-        "equipo": "Barcelona",
+        "nombre": "Lionel Messi",
         "nacionalidad": "Argentina",
-        "fechaNacimiento": "24/06/1987",
+        "fechaNacimiento": "24-6-1987",
         "valor": 100,
         "dorsal": 10,
-        "posicion": "DL"
+        "posicion": "DL",
+        "pieHabil": "I",
+        "altura": "1,70",
+        "capitan": true
     },
-
     {
-        "nombre": "Neto",
-        "equipo": "Barcelona",
-        "nacionalidad": "Brasil",
-        "fechaNacimiento": "19/07/1989",
-        "valor": 10,
-        "dorsal": 13,
-        "posicion": "PT"
-    },
-
-    {
-        "nombre": "Dest",
-        "equipo": "Barcelona",
-        "nacionalidad": "Estados Unidos",
-        "fechaNacimiento": "03/11/2000",
-        "valor": 20,
-        "dorsal": 2,
-        "posicion": "DF"
-    },
-
-    {
-        "nombre": "Pjanic",
-        "equipo": "Barcelona",
-        "nacionalidad": "Bosnia y Herzegovina",
-        "fechaNacimiento": "02/04/1990",
+        "nombre": "Miralem Pjanic",
+        "nacionalidad": "Bosnia-Herzegovina",
+        "fechaNacimiento": "2-4-1990",
         "valor": 50,
         "dorsal": 8,
-        "posicion": "MC"
+        "posicion": "MC",
+        "pieHabil": "D",
+        "altura": "1,80",
+        "capitan": false
     },
-
     {
-        "nombre": "Ansu Fati",
-        "equipo": "Barcelona",
+        "nombre": "Sergio Busquets",
         "nacionalidad": "España",
-        "fechaNacimiento": "31/10/2002",
-        "valor": 80,
-        "dorsal": 22,
-        "posicion": "DL"
+        "fechaNacimiento": "16-7-1988",
+        "valor": 15,
+        "dorsal": 5,
+        "posicion": "MC",
+        "pieHabil": "D",
+        "altura": "1,89",
+        "capitan": false
     },
-
     {
-        "nombre": "Trincão",
-        "equipo": "Barcelona",
-        "nacionalidad": "Portugal",
-        "fechaNacimiento": "29/12/1999",
+        "nombre": "Jordi Alba",
+        "nacionalidad": "España",
+        "fechaNacimiento": "21-3-1989",
         "valor": 30,
-        "dorsal": 17,
-        "posicion": "DL"
+        "dorsal": 18,
+        "posicion": "DF",
+        "pieHabil": "I",
+        "altura": "1,70",
+        "capitan": false
+    },
+    {
+        "nombre": "Marc-André ter Stegen",
+        "nacionalidad": "Alemania",
+        "fechaNacimiento": "30-4-1992",
+        "valor": 75,
+        "dorsal": 1,
+        "posicion": "PT",
+        "pieHabil": "D",
+        "altura": "1,87",
+        "capitan": false
+    },
+    {
+        "nombre": "Philippe Coutinho",
+        "nacionalidad": "Brasil",
+        "fechaNacimiento": "12-6-1992",
+        "valor": 60,
+        "dorsal": 14,
+        "posicion": "MC",
+        "pieHabil": "D",
+        "altura": "1,72",
+        "capitan": false
+    },
+    {
+        "nombre": "Sergi Roberto",
+        "nacionalidad": "España",
+        "fechaNacimiento": "7-2-1992",
+        "valor": 25,
+        "dorsal": 20,
+        "posicion": "DF",
+        "pieHabil": "D",
+        "altura": "1,78",
+        "capitan": false
+    },
+    {
+        "nombre": "Martin Braithwaite",
+        "nacionalidad": "Dinamarca",
+        "fechaNacimiento": "5-6-1991",
+        "valor": 7.5,
+        "dorsal": 9,
+        "posicion": "DL",
+        "pieHabil": "D",
+        "altura": "1,77",
+        "capitan": false
+    },
+    {
+        "nombre": "Neto",
+        "nacionalidad": "Brasil",
+        "fechaNacimiento": "19-7-1989",
+        "valor": 10,
+        "dorsal": 13,
+        "posicion": "PT",
+        "pieHabil": "D",
+        "altura": "1,90",
+        "capitan": false
+    },
+    {
+        "nombre": "Antoine Griezmann",
+        "nacionalidad": "Francia",
+        "fechaNacimiento": "21-3-1991",
+        "valor": 80,
+        "dorsal": 7,
+        "posicion": "DL",
+        "pieHabil": "I",
+        "altura": "1,76",
+        "capitan": false
+    },
+    {
+        "nombre": "Samuel Umtiti",
+        "nacionalidad": "Francia",
+        "fechaNacimiento": "14-11-1993",
+        "valor": 12,
+        "dorsal": 23,
+        "posicion": "DF",
+        "pieHabil": "I",
+        "altura": "1,82",
+        "capitan": false
+    },
+    {
+        "nombre": "Clément Lenglet",
+        "nacionalidad": "Francia",
+        "fechaNacimiento": "17-6-1995",
+        "valor": 50,
+        "dorsal": 15,
+        "posicion": "DF",
+        "pieHabil": "I",
+        "altura": "1,86",
+        "capitan": false
+    },
+    {
+        "nombre": "Iñaki Peña",
+        "nacionalidad": "España",
+        "fechaNacimiento": "2-3-1999",
+        "valor": 2.5,
+        "dorsal": 26,
+        "posicion": "PT",
+        "pieHabil": "D",
+        "altura": "1,84",
+        "capitan": false
+    },
+    {
+        "nombre": "Carles Aleñá",
+        "nacionalidad": "España",
+        "fechaNacimiento": "5-1-1998",
+        "valor": 18,
+        "dorsal": 6,
+        "posicion": "MC",
+        "pieHabil": "I",
+        "altura": "1,80",
+        "capitan": false
+    },
+    {
+        "nombre": "Ousmane Dembélé",
+        "nacionalidad": "Francia",
+        "fechaNacimiento": "15-5-1997",
+        "valor": 50,
+        "dorsal": 11,
+        "posicion": "DL",
+        "pieHabil": "A",
+        "altura": "1,78",
+        "capitan": false
     }
 ]

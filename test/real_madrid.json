@@ -1,161 +1,178 @@
 [
     {
-        "nombre": "Courtois",
-        "equipo": "Real Madrid",
-        "nacionalidad": "Bélgica",
-        "fechaNacimiento": "15/05/1992",
-        "valor": 75,
-        "dorsal": 1,
-        "posicion": "PT"
-    },
-    
-    {
-        "nombre": "Mendy",
-        "equipo": "Real Madrid",
-        "nacionalidad": "Francia",
-        "fechaNacimiento": "08/06/1995",
-        "valor": 40,
-        "dorsal": 23,
-        "posicion": "DF"
-    },
-
-    {
-        "nombre": "Sergio Ramos",
-        "equipo": "Real Madrid",
-        "nacionalidad": "España",
-        "fechaNacimiento": "30/03/1986",
-        "valor": 14,
-        "dorsal": 4,
-        "posicion": "DF"
-    },
-
-    {
-        "nombre": "Varane",
-        "equipo": "Real Madrid",
-        "nacionalidad": "Francia",
-        "fechaNacimiento": "25/04/1993",
-        "valor": 70,
-        "dorsal": 5,
-        "posicion": "DF"
-    },
-
-    {
-        "nombre": "Carvajal",
-        "equipo": "Real Madrid",
-        "nacionalidad": "España",
-        "fechaNacimiento": "11/01/1992",
-        "valor": 40,
-        "dorsal": 2,
-        "posicion": "DF"
-    },
-
-    {
         "nombre": "Casemiro",
-        "equipo": "Real Madrid",
         "nacionalidad": "Brasil",
-        "fechaNacimiento": "23/02/1992",
+        "fechaNacimiento": "23-2-1992",
         "valor": 65,
         "dorsal": 14,
-        "posicion": "MC"
+        "posicion": "MC",
+        "pieHabil": "D",
+        "altura": "1,85",
+        "capitan": false
     },
-
     {
-        "nombre": "Valverde",
-        "equipo": "Real Madrid",
-        "nacionalidad": "Uruguay",
-        "fechaNacimiento": "22/07/1998",
-        "valor": 70,
-        "dorsal": 15,
-        "posicion": "MC"
-    },
-
-    {
-        "nombre": "Kroos",
-        "equipo": "Real Madrid",
-        "nacionalidad": "Alemania",
-        "fechaNacimiento": "04/01/1990",
-        "valor": 50,
-        "dorsal": 8,
-        "posicion": "MC"
-    },
-
-    {
-        "nombre": "Hazard",
-        "equipo": "Real Madrid",
-        "nacionalidad": "Bélgica",
-        "fechaNacimiento": "07/01/1990",
-        "valor": 60,
-        "dorsal": 7,
-        "posicion": "DL"
-    },
-
-    {
-        "nombre": "Vinícius",
-        "equipo": "Real Madrid",
-        "nacionalidad": "Brasil",
-        "fechaNacimiento": "12/07/2000",
-        "valor": 50,
-        "dorsal": 20,
-        "posicion": "DL"
-    },
-
-    {
-        "nombre": "Benzema",
-        "equipo": "Real Madrid",
+        "nombre": "Karim Benzema",
         "nacionalidad": "Francia",
-        "fechaNacimiento": "19/12/1987",
+        "fechaNacimiento": "19-12-1987",
         "valor": 25,
         "dorsal": 9,
-        "posicion": "DL"
+        "posicion": "DL",
+        "pieHabil": "A",
+        "altura": "1,84",
+        "capitan": false
     },
-
     {
-        "nombre": "Lunin",
-        "equipo": "Real Madrid",
-        "nacionalidad": "Ucrania",
-        "fechaNacimiento": "11/02/1999",
-        "valor": 3,
-        "dorsal": 13,
-        "posicion": "PT"
+        "nombre": "Sergio Ramos",
+        "nacionalidad": "España",
+        "fechaNacimiento": "30-3-1986",
+        "valor": 14,
+        "dorsal": 4,
+        "posicion": "DF",
+        "pieHabil": "D",
+        "altura": "1,84",
+        "capitan": true
     },
-
     {
-        "nombre": "Marcelo",
-        "equipo": "Real Madrid",
-        "nacionalidad": "Brasil",
-        "fechaNacimiento": "12/05/1988",
-        "valor": 12,
-        "dorsal": 12,
-        "posicion": "DF"
-    },
-
-    {
-        "nombre": "Modric",
-        "equipo": "Real Madrid",
+        "nombre": "Luka Modric",
         "nacionalidad": "Croacia",
-        "fechaNacimiento": "09/09/1985",
+        "fechaNacimiento": "9-9-1985",
         "valor": 10,
         "dorsal": 10,
-        "posicion": "MC"
+        "posicion": "MC",
+        "pieHabil": "A",
+        "altura": "1,72",
+        "capitan": false
     },
-
+    {
+        "nombre": "Toni Kroos",
+        "nacionalidad": "Alemania",
+        "fechaNacimiento": "4-1-1990",
+        "valor": 50,
+        "dorsal": 8,
+        "posicion": "MC",
+        "pieHabil": "D",
+        "altura": "1,83",
+        "capitan": false
+    },
+    {
+        "nombre": "Marcelo",
+        "nacionalidad": "Brasil",
+        "fechaNacimiento": "12-5-1988",
+        "valor": 12,
+        "dorsal": 12,
+        "posicion": "DF",
+        "pieHabil": "I",
+        "altura": "1,74",
+        "capitan": false
+    },
+    {
+        "nombre": "Eden Hazard",
+        "nacionalidad": "Bélgica",
+        "fechaNacimiento": "7-1-1991",
+        "valor": 60,
+        "dorsal": 7,
+        "posicion": "DL",
+        "pieHabil": "A",
+        "altura": "1,75",
+        "capitan": false
+    },
+    {
+        "nombre": "Nacho Fernández",
+        "nacionalidad": "España",
+        "fechaNacimiento": "18-1-1990",
+        "valor": 10,
+        "dorsal": 6,
+        "posicion": "DF",
+        "pieHabil": "D",
+        "altura": "1,80",
+        "capitan": false
+    },
     {
         "nombre": "Isco",
-        "equipo": "Real Madrid",
-        "nacionalidad": "Español",
-        "fechaNacimiento": "21/04/1992",
-        "valor": 30,
+        "nacionalidad": "España",
+        "fechaNacimiento": "21-4-1992",
+        "valor": 20,
         "dorsal": 22,
-        "posicion": "MC"
+        "posicion": "MC",
+        "pieHabil": "D",
+        "altura": "1,76",
+        "capitan": false
     },
-
     {
-        "nombre": "Jovic",
-        "equipo": "Real Madrid",
+        "nombre": "Thibaut Courtois",
+        "nacionalidad": "Bélgica",
+        "fechaNacimiento": "11-5-1992",
+        "valor": 75,
+        "dorsal": 1,
+        "posicion": "PT",
+        "pieHabil": "I",
+        "altura": "1,99",
+        "capitan": false
+    },
+    {
+        "nombre": "Daniel Carvajal",
+        "nacionalidad": "España",
+        "fechaNacimiento": "11-1-1992",
+        "valor": 40,
+        "dorsal": 2,
+        "posicion": "DF",
+        "pieHabil": "D",
+        "altura": "1,73",
+        "capitan": false
+    },
+    {
+        "nombre": "Raphaël Varane",
+        "nacionalidad": "Francia",
+        "fechaNacimiento": "25-4-1993",
+        "valor": 70,
+        "dorsal": 5,
+        "posicion": "DF",
+        "pieHabil": "D",
+        "altura": "1,91",
+        "capitan": false
+    },
+    {
+        "nombre": "Lucas Vázquez",
+        "nacionalidad": "España",
+        "fechaNacimiento": "1-7-1991",
+        "valor": 10,
+        "dorsal": 17,
+        "posicion": "DL",
+        "pieHabil": "D",
+        "altura": "1,73",
+        "capitan": false
+    },
+    {
+        "nombre": "Mariano Díaz",
+        "nacionalidad": "España",
+        "fechaNacimiento": "1-8-1993",
+        "valor": 12,
+        "dorsal": 24,
+        "posicion": "DL",
+        "pieHabil": "D",
+        "altura": "1,80",
+        "capitan": false
+    },
+    {
+        "nombre": "Luka Jovic",
         "nacionalidad": "Serbia",
-        "fechaNacimiento": "23/12/1997",
-        "valor": 25,
+        "fechaNacimiento": "23-12-1997",
+        "valor": 22,
         "dorsal": 18,
-        "posicion": "DL"
+        "posicion": "DL",
+        "pieHabil": "A",
+        "altura": "1,82",
+        "capitan": false
+    },
+    {
+        "nombre": "Álvaro Odriozola",
+        "nacionalidad": "España",
+        "fechaNacimiento": "14-12-1995",
+        "valor": 14,
+        "dorsal": 19,
+        "posicion": "DF",
+        "pieHabil": "D",
+        "altura": "1,76",
+        "capitan": false
     }
 ]

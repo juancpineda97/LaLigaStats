@@ -20,7 +20,12 @@ exports.handler = async event => {
     var valores_equipos_ordenados = {};
 
     valores_equipos_array.forEach(equipo => {
-        valores_equipos_ordenados[equipo[0]] = equipo[1];
+        if ((equipo[1] % 1) == 0){
+            valores_equipos_ordenados[equipo[0]] = Math.trunc(equipo[1]);
+        }
+        else{
+            valores_equipos_ordenados[equipo[0]] = equipo[1];
+        }     
     });
 
     return {

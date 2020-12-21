@@ -104,7 +104,7 @@ class Jugador{
         
         datosJugador = datosJugador + "Altura (m): " + this.getAltura();
 
-        if (this.getCapitan == true){
+        if (this.getCapitan() == true){
             datosJugador = datosJugador + "\n" + "CAPITÁN del equipo";
         }
 

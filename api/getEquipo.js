@@ -21,9 +21,12 @@ module.exports = (req, res) => {
         }
 
         if (equipos_a_mostrar.length > 0){
-            var mensaje = "";
+            var mensaje = {};
             for (let j = 0; j < equipos_a_mostrar.length; j++) {
-                mensaje = mensaje + JSON.stringify(archivo[equipos_a_mostrar[j]]);
+                //mensaje = mensaje + JSON.stringify(archivo[equipos_a_mostrar[j]]);
+                var equipo_temp = [];
+                equipo_temp = archivo[equipos_a_mostrar[j]];
+                mensaje[equipos_a_mostrar[j]] = equipo_temp;
             }
             res.status(200).send(mensaje);
         }

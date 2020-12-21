@@ -87,7 +87,7 @@ async function obtenerDatosEquipo(nombre,id){
         let valor = valor_temp/1000000;
 
         //dorsal
-        let dorsal = jugadores_full[i]['shirtNumber'];
+        let dorsal = parseInt(jugadores_full[i]['shirtNumber']);
 
         //posicion
         let pos = jugadores_full[i]['positions']['first']['group'];

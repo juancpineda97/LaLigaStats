@@ -5,16 +5,19 @@ class Jugador{
 
     /**
      * Constructor básico de la clase Jugador.
-     * @param {String} nombre - Nombre del jugador
-     * @param {String} equipo - Nombre del equipo al que pertenece
-     * @param {String} nacionalidad - Nacionalidad del jugador
-     * @param {String} fechaNacimiento - Fecha de nacimiento
-     * @param {double} valor - Valor del jugador en millones de euros.
+     * @param {String} nombre_p - Nombre del jugador
+     * @param {String} equipo_p - Nombre del equipo al que pertenece
+     * @param {String} nacionalidad_p - Nacionalidad del jugador
+     * @param {String} fechaNacimiento_p - Fecha de nacimiento
+     * @param {double} valor_p - Valor del jugador en millones de euros.
      * @param {int} dorsal_p - Dorsal del jugador en el equipo.
      * @param {String} posicion_p - Posición del jugador, valores posibles = "PT" , "DF" , "MC" , "DL".
+     * @param {int} pieHabil_p - Pie hábil del jugador
+     * @param {int} altura_p - Altura del jugador.
+     * @param {int} capitan_p - True si es el capitan del equipo, False en otro caso.
      */
     constructor(nombre_p, equipo_p, nacionalidad_p, fechaNacimiento_p, valor_p, dorsal_p, posicion_p){
-        var sonValidos = this.comprobarDatos(nombre_p, equipo_p, nacionalidad_p, fechaNacimiento_p, valor_p, dorsal_p, posicion_p);
+        var sonValidos = this.comprobarDatos(nombre_p, equipo_p, nacionalidad_p, fechaNacimiento_p, valor_p, dorsal_p, posicion_p, pieHabil_p, altura_p, capitan_p);
         if(!sonValidos){
             throw new Error('Tipos de dato no validos');
         }
@@ -27,6 +30,9 @@ class Jugador{
             var valor = valor_p;
             var dorsal = dorsal_p;
             var posicion = posicion_p;
+            var pieHabil = pieHabil_p;
+            var altura = altura_p;
+            var capitan = capitan_p;
         }
 
         //Get de atributos privados
@@ -57,7 +63,19 @@ class Jugador{
 
         this.getPosicion = function(){
   	        return posicion;
-        }    
+        }
+
+        this.getPieHabil = function(){
+            return pieHabil;
+        }
+
+        this.getAltura = function(){
+                return altura;
+        }
+
+        this.getCapitan = function(){
+                return capitan;
+        }
     }
 
     /**

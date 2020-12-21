@@ -89,7 +89,25 @@ class Jugador{
         "Fecha de nacimiento: " + this.getFechaNacimiento() + "\n" +
         "Valor(M): " + this.getValor() + "\n" +
         "Dorsal: " + this.getDorsal() + "\n" +
-        "Posición: " + this.getPosicion();
+        "Posición: " + this.getPosicion() + "\n" +
+        "Pie Hábil: ";
+        
+        if (this.getPieHabil() == 'D'){
+            datosJugador = datosJugador + "Diestro" + "\n";
+        }
+        else if (this.getPieHabil() == 'I'){
+            datosJugador = datosJugador + "Zurdo" + "\n";
+        }
+        else{
+            datosJugador = datosJugador + "Ambidiestro" + "\n";
+        }
+        
+        datosJugador = datosJugador + "Altura (m): " + this.getAltura();
+
+        if (this.getCapitan == true){
+            datosJugador = datosJugador + "\n" + "CAPITÁN del equipo";
+        }
+
         return datosJugador;
     }
 

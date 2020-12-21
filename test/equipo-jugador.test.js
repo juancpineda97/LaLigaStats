@@ -44,7 +44,6 @@ var suplentesrealmadrid = [5,17,24,18,19];
 var partido_prueba = new Partido(barcelona, realmadrid, new Date(2020, 10, 24, 16, 0, 0), oncebarcelona,
 oncerealmadrid, suplentesbarcelona, suplentesrealmadrid, "Camp Nou", "Martinez Munuera");
 
-
 describe("Tests relacionados con la funcionalidad de mostrar al usuario los jugadores de un equipo", () =>{
 
     test("Comprobación del funcionamiento del método verEquipo()", () => {
@@ -52,7 +51,6 @@ describe("Tests relacionados con la funcionalidad de mostrar al usuario los juga
         team.getListaJugadores().forEach(function(elemento) {
             aserciones.expect(salidametodo).toInclude(elemento.verJugador());
         })
-        console.log(salidametodo);
     });
 
     test("Comprobación del funcionamiento del método verEquipo() con un equipo sin jugadores", () => {

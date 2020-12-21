@@ -7,6 +7,9 @@ module.exports = (req, res) => {
     if(equipo == undefined){
         res.status(400).send("No se ha indicado ningún equipo");
     }
+    else if (equipo.length < 3){
+        res.status(400).send("Por favor, indique un nombre de equipo con al menos 3 letras");
+    }
     else{
         var equipos_a_mostrar = [];
         var re = new RegExp(equipo, "i");

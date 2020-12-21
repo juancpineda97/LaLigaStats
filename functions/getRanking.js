@@ -14,9 +14,17 @@ exports.handler = async event => {
         valores_equipos[equipo] = valor_acumulado;
     });
 
+    var valores_equipos_array= Object.entries(valores_equipos);
+    valores_equipos_array.sort((a,b) => b[1] -a[1]);
+
+    var valores_equipos_ordenados = {};
+
+    valores_equipos_array.forEach(equipo => {
+        valores_equipos_ordenados[equipo[0]] = equipo[1];
+    });
+
     return {
         statusCode:200,
-        body:JSON.stringify(valores_equipos)
+        body:JSON.stringify(valores_equipos_ordenados)
     }
-
 }

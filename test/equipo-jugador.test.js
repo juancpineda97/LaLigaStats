@@ -6,11 +6,11 @@ const datosRealMadrid = require("../test/real_madrid.json");
 const Partido = require("../src/partido.js");
 
 // Variables para tests
-var player1 = new Jugador("Griezmann", "Barcelona", "Francia", "21/03/1991", 80, 7, "DL");
-var player2 = new Jugador("Messi", "Barcelona", "Argentina", "24/06/1987", 100, 10, "DL");
-var player3 = new Jugador("Coutinho", "Barcelona", "Brasil", "12/06/1992", 60, 14, "MC");
-var player4 = new Jugador("Koke", "Atlético de Madrid", "España", "08/01/1992", 60, 6, "MC");
-var player5 = new Jugador("Courtois", "Real Madrid", "Bélgica", "11/05/1992", 75, 1, "PT");
+var player1 = new Jugador("Griezmann", "Barcelona", "Francia", "21/03/1991", 80, 7, "DL", "I", 1.76, false);
+var player2 = new Jugador("Messi", "Barcelona", "Argentina", "24/06/1987", 100, 10, "DL", "I", 1.70, true);
+var player3 = new Jugador("Coutinho", "Barcelona", "Brasil", "12/06/1992", 60, 14, "MC", "D", 1.72, false);
+var player4 = new Jugador("Koke", "Atlético de Madrid", "España", "08/01/1992", 60, 6, "MC", "D", 1.76, true);
+var player5 = new Jugador("Courtois", "Real Madrid", "Bélgica", "11/05/1992", 75, 1, "PT", "I", 1.99, false);
 let listaJugadores = [player1, player2, player3];
 var team = new Equipo("Barcelona", listaJugadores);
 let listempty = new Array();
@@ -23,11 +23,13 @@ var barcelonajugadores = [];
 var realmadridjugadores = [];
 
 for (let i = 0; i < 16; i++) {
-    var tempplayer1 = new Jugador(archivobarcelona[i]["nombre"], archivobarcelona[i]["equipo"], archivobarcelona[i]["nacionalidad"], 
-    archivobarcelona[i]["fechaNacimiento"], parseInt(archivobarcelona[i]["valor"], 10), parseInt(archivobarcelona[i]["dorsal"], 10), archivobarcelona[i]["posicion"]);
+    var tempplayer1 = new Jugador(archivobarcelona[i]["nombre"], "FC Barcelona", archivobarcelona[i]["nacionalidad"], 
+    archivobarcelona[i]["fechaNacimiento"], archivobarcelona[i]["valor"], archivobarcelona[i]["dorsal"], archivobarcelona[i]["posicion"],
+    archivobarcelona[i]["pieHabil"], archivobarcelona[i]["altura"], archivobarcelona[i]["capitan"]);
     
-    var tempplayer2 = new Jugador(archivorealmadrid[i]["nombre"], archivorealmadrid[i]["equipo"], archivorealmadrid[i]["nacionalidad"], 
-    archivorealmadrid[i]["fechaNacimiento"], parseInt(archivorealmadrid[i]["valor"], 10), parseInt(archivorealmadrid[i]["dorsal"], 10), archivorealmadrid[i]["posicion"]);
+    var tempplayer2 = new Jugador(archivorealmadrid[i]["nombre"], "Real Madrid", archivorealmadrid[i]["nacionalidad"], 
+    archivorealmadrid[i]["fechaNacimiento"], archivorealmadrid[i]["valor"], archivorealmadrid[i]["dorsal"], archivorealmadrid[i]["posicion"],
+    archivorealmadrid[i]["pieHabil"], archivorealmadrid[i]["altura"], archivorealmadrid[i]["capitan"]);
     
     barcelonajugadores.push(tempplayer1);
     realmadridjugadores.push(tempplayer2);
@@ -35,10 +37,10 @@ for (let i = 0; i < 16; i++) {
 
 var barcelona = new Equipo("Barcelona", barcelonajugadores);
 var realmadrid = new Equipo("Real Madrid", realmadridjugadores);
-var oncebarcelona = [1,18,15,3,20,5,21,14,11,7,10];
-var suplentesbarcelona = [13,2,8,22,17];
-var oncerealmadrid = [1,23,4,5,2,14,15,8,7,20,9];
-var suplentesrealmadrid = [13,12,10,22,18];
+var oncebarcelona = [3,10,8,5,18,1,14,20,9,13,7];
+var suplentesbarcelona = [23,15,26,6,11];
+var oncerealmadrid = [14,9,4,10,8,12,7,6,22,1,2];
+var suplentesrealmadrid = [5,17,24,18,19];
 var partido_prueba = new Partido(barcelona, realmadrid, new Date(2020, 10, 24, 16, 0, 0), oncebarcelona,
 oncerealmadrid, suplentesbarcelona, suplentesrealmadrid, "Camp Nou", "Martinez Munuera");
 
@@ -50,6 +52,7 @@ describe("Tests relacionados con la funcionalidad de mostrar al usuario los juga
         team.getListaJugadores().forEach(function(elemento) {
             aserciones.expect(salidametodo).toInclude(elemento.verJugador());
         })
+        console.log(salidametodo);
     });
 
     test("Comprobación del funcionamiento del método verEquipo() con un equipo sin jugadores", () => {
@@ -80,6 +83,29 @@ describe("Tests relacionados con la funcionalidad de mostrar al usuario los dato
         aserciones.expect(salidametodo).toInclude(player1.getValor());
         aserciones.expect(salidametodo).toInclude(player1.getDorsal());
         aserciones.expect(salidametodo).toInclude(player1.getPosicion());
+        
+        var pie_habil = "";
+
+        if (player1.getPieHabil() == 'D'){
+            pie_habil = "Diestro";
+        }
+        else if (player1.getPieHabil() == 'I'){
+            pie_habil = "Zurdo";
+        }
+        else{
+            pie_habil = "Ambidiestro";
+        }
+        
+        aserciones.expect(salidametodo).toInclude(pie_habil);
+        
+        
+        aserciones.expect(salidametodo).toInclude(player1.getAltura());
+
+        var escapitan = player1.getCapitan();
+
+        if(escapitan){
+            aserciones.expect(salidametodo).toInclude("CAPITÁN del equipo");
+        }
     });
 
     test("Comprobando que se muestran los datos de varios jugadores correctamente", () => {
@@ -111,12 +137,42 @@ describe("Tests relacionados con la funcionalidad de mostrar al usuario los dato
     
     test("Comprobación del funcionamiento del método verPartido()", () => {
         var salidametodo = partido_prueba.verPartido();
-        var lista_11inicial_barcelona = ["1 - Ter Stegen" , "18 - Jordi Alba" , "15 - Lenglet" , "3 - Piqué" , "20 - Sergi Roberto" ,
-        "5 - Busquets" , "21 - Frenkie de Jong" , "14 - Coutinho" , "11 - Dembélé" , "7 - Griezmann" , "10 - Messi"];
-        var lista_11inicial_realmadrid = ["1 - Courtois" , "23 - Mendy" , "4 - Sergio Ramos" , "5 - Varane" , "2 - Carvajal" , 
-        "14 - Casemiro" , "15 - Valverde" , "8 - Kroos" , "7 - Hazard" , "20 - Vinícius" , "9 - Benzema"];
-        var lista_suplentes_barcelona = ["13 - Neto" , "2 - Dest" , "8 - Pjanic" , "22 - Ansu Fati" , "17 - Trincão"];
-        var lista_suplentes_realmadrid = ["13 - Lunin" , "12 - Marcelo" , "10 - Modric" , "22 - Isco" , "18 - Jovic"];
+        var lista_11inicial_barcelona = 
+        ["3 - Gerard Piqué",
+        "10 - Lionel Messi",
+        "8 - Miralem Pjanic",
+        "5 - Sergio Busquets",
+        "18 - Jordi Alba",
+        "1 - Marc-André ter Stegen",
+        "14 - Philippe Coutinho",
+        "20 - Sergi Roberto",
+        "9 - Martin Braithwaite",
+        "13 - Neto",
+        "7 - Antoine Griezmann"];
+        var lista_11inicial_realmadrid = 
+        ["14 - Casemiro",
+        "9 - Karim Benzema",
+        "4 - Sergio Ramos",
+        "10 - Luka Modric",
+        "8 - Toni Kroos",
+        "12 - Marcelo",
+        "7 - Eden Hazard",
+        "6 - Nacho Fernández",
+        "22 - Isco",
+        "1 - Thibaut Courtois",
+        "2 - Daniel Carvajal"];
+        var lista_suplentes_barcelona = 
+        ["23 - Samuel Umtiti",
+        "15 - Clément Lenglet",
+        "26 - Iñaki Peña",
+        "6 - Carles Aleñá",
+        "11 - Ousmane Dembélé"];
+        var lista_suplentes_realmadrid = 
+        ["5 - Raphaël Varane",
+        "17 - Lucas Vázquez",
+        "24 - Mariano Díaz",
+        "18 - Luka Jovic",
+        "19 - Álvaro Odriozola"];
         
         aserciones.expect(salidametodo).toInclude(barcelona.getNombre());
         aserciones.expect(salidametodo).toInclude(partido_prueba.getArbitro());
@@ -156,6 +212,9 @@ describe("Test de la clase Jugador", () =>{
         aserciones.expect(player1.getValor()).toEqual(80);
         aserciones.expect(player1.getDorsal()).toEqual(7);
         aserciones.expect(player1.getPosicion()).toEqual("DL");
+        aserciones.expect(player1.getPieHabil()).toEqual("I");
+        aserciones.expect(player1.getAltura()).toEqual(1.76);
+        aserciones.expect(player1.getCapitan()).toEqual(false);
     });
 
     test("Comprobación de la visibilidad de los atributos privados", () => {
@@ -166,21 +225,24 @@ describe("Test de la clase Jugador", () =>{
         aserciones.expect(player1.valor).toBeType("undefined");
         aserciones.expect(player1.dorsal).toBeType("undefined");
         aserciones.expect(player1.posicion).toBeType("undefined");
+        aserciones.expect(player1.pieHabil).toBeType("undefined");
+        aserciones.expect(player1.altura).toBeType("undefined");
+        aserciones.expect(player1.capitan).toBeType("undefined");
     });
 
     test("Comprobación del funcionamiento del constructor con tipos de dato no válidos", () => {
-        thrown_error = () => new Jugador(404, "Barcelona", "Brasil", "12/06/1992", 60, 14, "DL");
+        thrown_error = () => new Jugador(404, "Barcelona", "Brasil", "12/06/1992", 60, 14, "DL", "I", 1.76, false);
         expectedError = new Error('Tipos de dato no validos');
         expect(thrown_error).toThrow(expectedError);
     });
 
     test("Comprobación del método comprobarDatos(...) con datos correctos", () => {
-        var salidaMetodo = player1.comprobarDatos("Coutinho", "Barcelona", "Brasil", "12/06/1992", 60, 14, "DL");
+        var salidaMetodo = player1.comprobarDatos("Coutinho", "Barcelona", "Brasil", "12/06/1992", 60, 14, "MC", "D", 1.72, false);
         aserciones.expect(salidaMetodo).toEqual(true);
     });
 
     test("Comprobación del método comprobarDatos(...) con datos no válidos", () => {
-        var salidaMetodo = player1.comprobarDatos("Coutinho", 555, "Brasil", "12/06/1992", 60, 14, "RF");
+        var salidaMetodo = player1.comprobarDatos("Coutinho", 555, "Brasil", "12/06/1992", 60, 14, "RF", "D", 1.72, false);
         aserciones.expect(salidaMetodo).toEqual(false);
     });
 

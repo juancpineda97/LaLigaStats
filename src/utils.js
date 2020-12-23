@@ -63,3 +63,5 @@ function getJugadoresEquipo(JSON, equipo){
         }
     }
 }
+
+module.exports = {getJugadoresEquipo};

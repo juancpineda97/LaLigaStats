@@ -64,4 +64,12 @@ function getJugadoresEquipo(JSON, equipo){
     }
 }
 
-module.exports = {getJugadoresEquipo};
+/**
+ * Función que devuelve un ranking del valor total de los equipos de LaLiga ordenado de mayor a menor valor. 
+ * @param {boolean} JSON - True si se quiere la salida en formato de JSON, false si se quiere en formato de string.
+ */
+function getRankingValorEquipos(JSON){
+
+}
+
+module.exports = {getJugadoresEquipo , getRankingValorEquipos};

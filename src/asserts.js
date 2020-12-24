@@ -41,12 +41,26 @@ class Asercion {
                 }
             },
 
-            //Comprueba si el valor actual es menor que el esperado
+            //Comprueba si el valor actual es mayor que el esperado
             toBeGreaterThan(expected) {
                 if (actual > expected) {
                     throw new Error(`${actual} es mayor que el valor esperado: ${expected}`);
                 }
             },
+
+            //Comprueba si el valor actual es menor o igual que el esperado
+            toBeLowerThan(expected) {
+                if (actual <= expected) {
+                    throw new Error(`${actual} es menor que el valor esperado: ${expected}`);
+                }
+            },
+
+            //Comprueba si el valor actual es mayor o igual que el esperado
+            toBeGreaterThan(expected) {
+                if (actual >= expected) {
+                    throw new Error(`${actual} es mayor que el valor esperado: ${expected}`);
+                }
+            }
         }
     }
 }

@@ -4,6 +4,10 @@ const Asercion = require("../src/asserts.js");
 const datosBarcelona = require("../test/barcelona.json");
 const datosRealMadrid = require("../test/real_madrid.json");
 const Partido = require("../src/partido.js");
+const utils = require("../src/utils.js");
+
+const data = require("../data/equipos.json");
+var archivo = JSON.parse(JSON.stringify(data));
 
 // Variables para tests
 var player1 = new Jugador("Griezmann", "Barcelona", "Francia", "21/03/1991", 80, 7, "DL", "I", 1.76, false);
@@ -323,4 +327,26 @@ describe("Test de la clase Partido", () =>{
         aserciones.expect(salidaMetodo2).toEqual(false);
     });
 
+});
+
+describe("Tests de las funciones del archivo utils.js", () =>{
+
+    test("Comprobación del funcionamiento de la función getJugadoresEquipo() con formato JSON", () => {
+        var salidametodo = JSON.stringify(utils.getJugadoresEquipo(true, "barcelona"));
+        archivo['FC Barcelona'].forEach(jugador => {
+            aserciones.expect(salidametodo).toInclude(JSON.stringify(jugador));
+        });
+    });
+
+    test("Comprobación del funcionamiento de la función getJugadoresEquipo() con formato string", () => {
+        var salidametodo = utils.getJugadoresEquipo(false, "barcelona");
+        archivo['FC Barcelona'].forEach(jugador => {
+            aserciones.expect(salidametodo).toInclude(jugador['nombre']);
+        });
+    });
+
+    test("Comprobación del funcionamiento de la función getJugadoresEquipo() con un equipo inexistente", () => {
+        var salidametodo = utils.getJugadoresEquipo(false, "equipoquenoexiste");
+        aserciones.expect(salidametodo).toEqual("");
+    });
 });

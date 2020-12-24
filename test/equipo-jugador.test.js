@@ -349,4 +349,20 @@ describe("Tests de las funciones del archivo utils.js", () =>{
         var salidametodo = utils.getJugadoresEquipo(false, "equipoquenoexiste");
         aserciones.expect(salidametodo).toEqual("");
     });
+
+    test("Comprobación del funcionamiento de la función getRankingValorEquipos() con formato JSON", () => {
+        var salidametodo = utils.getRankingValorEquipos(true);
+        var nombres_equipos = Object.keys(salidametodo);
+        for (let i = 0; i < nombres_equipos.length-1; i++) {
+            aserciones.expect(parseFloat(salidametodo[nombres_equipos[i]])).toBeGreaterOrEqualThan(parseFloat(salidametodo[nombres_equipos[i+1]]));
+        }
+    });
+
+    test("Comprobación del funcionamiento de la función getRankingValorEquipos() con formato string", () => {
+        var salidametodo = utils.getRankingValorEquipos(false);
+        var nombres_equipos = Object.keys(archivo);
+        for (let i = 0; i < nombres_equipos.length; i++) {
+            aserciones.expect(salidametodo).toInclude(nombres_equipos[i]);
+        }
+    });
 });

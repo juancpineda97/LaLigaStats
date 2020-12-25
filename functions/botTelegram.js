@@ -40,7 +40,7 @@ exports.handler = async event => {
             }
         }
         else if(mensaje == "/help"){
-            response = "Comandos disponibles:\n/ranking - Muestra el ranking de los equipos más valiosos de LaLiga\n/help - Muestra los comandos disponibles";
+            response = "Comandos disponibles:\n/ranking - Muestra el ranking de los equipos más valiosos de LaLiga\n/equipo [nombre equipo] - Muestra los jugadores del equipo indicado\n/help - Muestra los comandos disponibles";
             return {
                 statusCode:200,
                 body: JSON.stringify({text:response, method:'sendMessage', chat_id:chat}),

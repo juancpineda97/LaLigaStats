@@ -21,13 +21,16 @@ exports.handler = async event => {
             //Obtengo el primer parámetro = equipo
             var equipo = "";
             equipo = mensaje.split(" ")[1];
-            //console.log(typeof equipo);
-            //console.log(mensaje);
-            //console.log(equipo);
-            response = utils.getJugadoresEquipo(false,equipo);
-            //console.log(response);
-            //var ejemplo = {"FC Barcelona":[{"nombre":"Gerard Piqué","nacionalidad":"España","fechaNacimiento":"1-2-1987","valor":15,"dorsal":3,"posicion":"DF","pieHabil":"D","altura":1.94,"capitan":false},{"nombre":"Lionel Messi","nacionalidad":"Argentina","fechaNacimiento":"23-6-1987","valor":100,"dorsal":10,"posicion":"DL","pieHabil":"I","altura":1.7,"capitan":true}]};
-            //ejemplo = JSON.stringify(ejemplo);
+            if (equipo == undefined){
+                response = "Debe indicar un nombre de equipo."
+            }
+            else {
+                response = utils.getJugadoresEquipo(false,equipo,true);
+                if (response == ""){
+                    response = "Lo sentimos, no se ha encontrado el equipo indicado."
+                }
+            }
+            
             return {
                 statusCode:200,
                 body: JSON.stringify({text:response, method:'sendMessage', chat_id:chat}),

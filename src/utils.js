@@ -9,8 +9,9 @@ var keys = Object.keys(archivo);
  * Función que devuelve los jugadores de un equipo dado.
  * @param {boolean} JSON - True si se quiere la salida en formato de JSON, false si se quiere en formato de string.
  * @param {String} equipo - Equipo del que se quieren mostrar los jugadores.
+ * @param {boolean} short - True si se quiere la salida de string en formato corto, false si se quiere en formato con todos los datos.
  */
-function getJugadoresEquipo(JSON, equipo){
+function getJugadoresEquipo(JSON, equipo, short){
     var equipos_a_mostrar = [];
     var re = new RegExp(equipo, "i");
 
@@ -39,24 +40,38 @@ function getJugadoresEquipo(JSON, equipo){
             for (let j = 0; j < equipos_a_mostrar.length; j++) {
                 var lista_jugadores = [];
                 for (let k = 0; k < archivo[equipos_a_mostrar[j]].length; k++){
-                    var jugador_temp = new Jugador(
-                        archivo[equipos_a_mostrar[j]][k]["nombre"],
-                        equipos_a_mostrar[j],
-                        archivo[equipos_a_mostrar[j]][k]["nacionalidad"],
-                        archivo[equipos_a_mostrar[j]][k]["fechaNacimiento"],
-                        archivo[equipos_a_mostrar[j]][k]["valor"],
-                        archivo[equipos_a_mostrar[j]][k]["dorsal"],
-                        archivo[equipos_a_mostrar[j]][k]["posicion"],
-                        archivo[equipos_a_mostrar[j]][k]["pieHabil"],
-                        archivo[equipos_a_mostrar[j]][k]["altura"],
-                        archivo[equipos_a_mostrar[j]][k]["capitan"]);
-
-                    lista_jugadores.push(jugador_temp);
+                    if (short){
+                        var valor_a_guardar = archivo[equipos_a_mostrar[j]][k]["dorsal"] + " - " + archivo[equipos_a_mostrar[j]][k]["nombre"];
+                        lista_jugadores.push(valor_a_guardar);
+                    }
+                    else {
+                        var jugador_temp = new Jugador(
+                            archivo[equipos_a_mostrar[j]][k]["nombre"],
+                            equipos_a_mostrar[j],
+                            archivo[equipos_a_mostrar[j]][k]["nacionalidad"],
+                            archivo[equipos_a_mostrar[j]][k]["fechaNacimiento"],
+                            archivo[equipos_a_mostrar[j]][k]["valor"],
+                            archivo[equipos_a_mostrar[j]][k]["dorsal"],
+                            archivo[equipos_a_mostrar[j]][k]["posicion"],
+                            archivo[equipos_a_mostrar[j]][k]["pieHabil"],
+                            archivo[equipos_a_mostrar[j]][k]["altura"],
+                            archivo[equipos_a_mostrar[j]][k]["capitan"]);
+    
+                        lista_jugadores.push(jugador_temp);
+                    }
                 }
-                var equipo_temp = new Equipo(equipos_a_mostrar[j], lista_jugadores);
-                mensaje = mensaje + equipo_temp.verEquipo();
+                if (short){
+                    mensaje = mensaje +  "Lista de jugadores del " + equipos_a_mostrar[j] + ":\n\n";
+                    lista_jugadores.forEach(jugador => {
+                        mensaje = mensaje + jugador.toString() + "\n";
+                    });
+                }
+                else{
+                    var equipo_temp = new Equipo(equipos_a_mostrar[j], lista_jugadores);
+                    mensaje = mensaje + equipo_temp.verEquipo();
+                }
                 if (j < equipos_a_mostrar.length - 1){
-                    mensaje = mensaje + "\n\n\n";
+                    mensaje = mensaje + "\n\n";
                 }
             }
             return mensaje;

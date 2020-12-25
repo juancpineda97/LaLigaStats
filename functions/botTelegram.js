@@ -50,7 +50,7 @@ exports.handler = async event => {
             }
         }
         else if(mensaje == "/start"){
-            response = "¡Bienvenido al bot de LaLigaStats! Usa el comando /help para ver los comandos disponibles";
+            response = "¡Bienvenido al bot de LaLigaStats! Usa el comando /help para ver los comandos disponibles.";
             return {
                 statusCode:200,
                 body: JSON.stringify({text:response, method:'sendMessage', chat_id:chat}),
@@ -60,7 +60,7 @@ exports.handler = async event => {
             }
         }
         else{
-            response = "Comando no permitido, por favor, use uno de los siguientes comandos: /ranking , /help";
+            response = "Comando no permitido, por favor, use el comando /help para ver los comandos disponibles.";
             return {
                 statusCode:200,
                 body: JSON.stringify({text:response, method:'sendMessage', chat_id:chat}),

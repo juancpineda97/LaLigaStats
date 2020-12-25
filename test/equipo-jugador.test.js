@@ -332,21 +332,21 @@ describe("Test de la clase Partido", () =>{
 describe("Tests de las funciones del archivo utils.js", () =>{
 
     test("Comprobación del funcionamiento de la función getJugadoresEquipo() con formato JSON", () => {
-        var salidametodo = JSON.stringify(utils.getJugadoresEquipo(true, "barcelona"));
+        var salidametodo = JSON.stringify(utils.getJugadoresEquipo(true, "barcelona",false));
         archivo['FC Barcelona'].forEach(jugador => {
             aserciones.expect(salidametodo).toInclude(JSON.stringify(jugador));
         });
     });
 
     test("Comprobación del funcionamiento de la función getJugadoresEquipo() con formato string", () => {
-        var salidametodo = utils.getJugadoresEquipo(false, "barcelona");
+        var salidametodo = utils.getJugadoresEquipo(false, "barcelona",false);
         archivo['FC Barcelona'].forEach(jugador => {
             aserciones.expect(salidametodo).toInclude(jugador['nombre']);
         });
     });
 
     test("Comprobación del funcionamiento de la función getJugadoresEquipo() con un equipo inexistente", () => {
-        var salidametodo = utils.getJugadoresEquipo(false, "equipoquenoexiste");
+        var salidametodo = utils.getJugadoresEquipo(false, "equipoquenoexiste",false);
         aserciones.expect(salidametodo).toEqual("");
     });
 

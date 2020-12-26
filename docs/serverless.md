@@ -16,7 +16,7 @@ Además, también se podrá hacer un despliegue local, antes de ser puesto en fa
 
 ![vercel_3.png](img/vercel_3.png)
 
-Para que se realice el despliegue de la función deseada, esta estará, tal y como pasaba en el ejemplo del ejercicio 2, en el directorio */api/getEquipo.js*. La función es la siguiente:
+Para que se realice el despliegue de la función deseada, esta estará, tal y como pasaba en el ejemplo del ejercicio 2, en el directorio [/api/getEquipo.js](../api/getEquipo.js). La función es la siguiente:
 
 ![vercel_4.png](img/vercel_4.png)
 
@@ -33,3 +33,28 @@ Cómo se puede ver, como parte de la lógica de negocio se hace uso de la funci�
 Por último, destacar que la integración contínua está presente en esta función, ya que cada vez que se realiza un push al repositorio de la aplicación, automáticamente Vercel realiza un nuevo despliegue de esta, cómo se ve en el siguiente ejemplo de un commit en el repositorio:
 
 ![vercel_6.png](img/vercel_6.png)
+
+## Función Ver ranking de equipos más valiosos
+Esta función serverless se corresponde con una nueva HU creada, que está relacionada con [mostrar un ranking de los equipos más valiosos](https://github.com/juancpineda97/LaLigaStats/issues/80) de LaLiga, considerando la suma de los valores de los jugadores que integran un equipo. Esta función estará alojada en Netlify, para ello, habrá que realizar los pasos de darse de alta, instalación y configuración tal y cómo se explica detalladamente en el [ejercicio 3](https://github.com/juancpineda97/Ejercicios-IV/blob/main/ejercicios/tema5.md#ejercicio-3) desarrollado. Cómo se puede ver en el ejercicio, en el primer despliegue en local, se enlazará el proyecto local con el alojado en Netlify, una vez realizado esto, ya se podrán realizar despliegues como se observa a continuación:
+
+![netlify_1.png](img/netlify_1.png)
+
+Al igual que pasaba con Vercel, también se pueden realizar despliegues localmente:
+
+![netlify_2.png](img/netlify_2.png)
+
+Ya que cómo se ha indicado que las funciones de Netlify estarán en el directorio */functions* , se creará el archivo [/functions/getRanking.js](../functions/getRanking.js) con la función de Netlify para mostrar el ranking de equipos, la cuál será la siguiente:
+
+![netlify_3.png](img/netlify_3.png)
+
+Esta función es más simple todavía que la anterior, ya que en ella se llamará a la función *getRankingValorEquipos()* del archivo [utils.js](../src/utils.js) cómo pasaba en la función anterior, ya que esta función implementará la lógica de negocio, y se devolverá el resultado en un string (que estará escrito en formato JSON) con el ranking de los equipos.
+
+La función estará disponible en el siguiente enlace:
+
+https://laligastats.netlify.app/.netlify/functions/getRanking
+
+Y devolverá, por ejemplo, la siguiente salida:
+
+![netlify_4.png](img/netlify_4.png)
+
+También destacar que, cómo pasaba anteriormente, en Netlify también se asegura la integración contínua, ya que cada vez que se realiza un push a el repositorio en Github, se realiza automáticamente un despliegue de la función en Netlify.

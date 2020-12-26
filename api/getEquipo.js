@@ -9,7 +9,7 @@ module.exports = (req, res) => {
         res.status(400).send("Por favor, indique un nombre de equipo con al menos 3 letras");
     }
     else{
-        var salida = utils.getJugadoresEquipo(true, equipo);
+        var salida = utils.getJugadoresEquipo(true, equipo, false);
 
         if (salida != ""){
             res.status(200).send(salida);

@@ -58,3 +58,19 @@ Y devolverá, por ejemplo, la siguiente salida:
 ![netlify_4.png](img/netlify_4.png)
 
 También destacar que, cómo pasaba anteriormente, en Netlify también se asegura la integración contínua, ya que cada vez que se realiza un push a el repositorio en Github, se realiza automáticamente un despliegue de la función en Netlify.
+
+## Bot Telegram
+Además, se creará un bot de Telegram, el cuál podrá realizar las funciones descritas anteriormente, mostrar los jugadores de un equipo y el ranking de equipos más valiosos. Para ello, se ha creado una nueva función de Netlify, [botTelegram.js](/functions/botTelegram.js), que funcionará de forma similar a la función creada anteriormente. Esta función se ejecutará y realizará una tarea u otra dependiendo del comando que envíe el usuario. Los comandos disponibles son: **/ranking**, que muestra el ranking de los equipos más valiosos de LaLiga, **/equipo [nombre equipo]** que muestra los jugadores del equipo indicado, y **/help** que muestra los comandos disponibles.
+
+Para implementar las funciones del bot, en un principio se pensó en realizar una llamada a la función severless correspondiente, y así aprovechar que ya están implementadas; sin embargo, se ha optado por llamar directamente a la función correspondiente del archivo [utils.js](../src/utils.js), ya que así se ahorra el tiempo de ejecución correspondiente a la llamada de una función API que realizaría lo mismo que al llamar directamente a la función del archivo utils.js
+
+Una vez creada la función del bot de Telegram, y realizado el despliegue, se creará el bot de telegram en sí fácilmente con la ayuda de otro bot oficial, [BotFather](https://t.me/BotFather), el cuál nos facilitará un *token*, que nos servirá, para indicar con el siguiente comando, que cada vez que se envíe un mensaje al bot, se ejecute la función serverless en Netlify, es decir, se relaciona esta función con el bot de Telegram en sí (técnicamente llamado WebHook):
+
+![bot_1.png](img/bot_1.png)
+*(Se oculta el token del bot, ya que es muy importante que éste no se comparta)*
+
+Una vez realizado esto, ya se puede usar el bot, aquí está el enlace a éste: [LaLigaStats_bot](https://t.me/LaLigaStats_bot). Aquí se pueden apreciar algunas capturas del funcionamiento de éste:
+
+<img src="img/bot_2.jpg" alt="drawing" width="300"/>
+
+<img src="img/bot_3.jpg" alt="drawing" width="250"/>

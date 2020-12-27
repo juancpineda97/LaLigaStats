@@ -74,3 +74,15 @@ Una vez realizado esto, ya se puede usar el bot, aquí está el enlace a éste: 
 <img src="img/bot_2.jpg" alt="drawing" width="300"/>
 
 <img src="img/bot_3.jpg" alt="drawing" width="250"/>
+
+Además, destacar que el funcionamiento del bot de Telegram estará siempre actualizado, ya que cuando se realiza un push al repositorio en GitHub, Netlify realiza automáticamente un nuevo despliegue tal y cómo con la otra función.
+
+## Avances del código
+En esta etapa del proyecto, se han realizado los siguientes avances del código:
+- Se ha incluido el archivo [equipos.json](../data/equipos.json), el cuál contiene los datos de los equipos de LaLiga y sus jugadores que usará la aplicación.
+- Sin embargo, lo más destacado es que este archivo se genera automáticamente ejecutando el archivo [getData.js](../src/getData.js), el cuál obtiene los datos de equipos y jugadores de una API externa y los almacena en el formato deseado en el archivo antes mencionado.
+- Además, se ha configurado la [siguiente](../.github/workflows/data.yml) GitHub Action, la cuál ejecutará cada 4 días el archivo getData.js para así mantener los datos que usa la aplicación siempre actualizados.
+- Y, además, cómo esta GitHub Action actualiza los datos creando un nuevo commit automáticamente y posteriormente realizando un push al repositorio con los nuevos datos, tanto las funciones serverless cómo el bot de telegram se mantendrán también siempre actualizados, ya que al realizarse este push automático con los nuevos datos, Netlify y Vercel realizarán los correspondientes despliegues automáticamente.
+- También se han añadido nuevos atributos a la clase [Jugador](../src/jugador.js).
+- Se han modificado tests anteriores y añadido nuevos [tests](../test/equipo-jugador.test.js).
+- Se ha creado un nueva historia de usuario [(HU04)](https://github.com/juancpineda97/LaLigaStats/issues/80) y su correspondiente código.

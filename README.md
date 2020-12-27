@@ -15,6 +15,12 @@ La aplicación contará con una [API REST](https://www.idento.es/blog/desarrollo
 
 La idea es empezar desarrollando una aplicación sencilla que muestre estadísticas de partidos de La Liga Española, para luego incorporar las predicciones sobre eventos de los partidos de la jornada. Una vez desarrollada una versión estable con estas características, se empezará a trabajar en mejoras como la posibilidad de mostrar estadísticas y predicciones en tiempo real sobre partidos que estén en juego, añadir más competiciones, la mejora del algoritmo de predicciones, etc...
 
+## Serverless
+Esta aplicación cuenta con un par de funciones serverless, y un bot de telegram que hace uso de otra función serverless, en el siguiente [documento](docs/serverless.md) se explica su implementación y funcionamiento.
+- Función Vercel: https://la-liga-stats.juancpineda97.vercel.app/api/getEquipo.js?equipo=barcelona
+- Función Netlify: https://laligastats.netlify.app/.netlify/functions/getRanking
+- Bot Telegram: [LaLigaStats_bot](https://t.me/LaLigaStats_bot)
+
 ## Herramientas
 En el siguiente [documento](./docs/motivacion_herramientas.md) se describen las herramientas utilizadas así como la motivación para usarlas, las cuales son:
 
@@ -120,6 +126,7 @@ Las últimas HU creadas y abiertas son las siguientes:
 - [(HU01) Ver jugadores de un equipo](https://github.com/juancpineda97/LaLigaStats/issues/4)
 - [(HU02) Mostrar datos del jugador](https://github.com/juancpineda97/LaLigaStats/issues/5)
 - [(HU03) Mostrar información sobre un partido](https://github.com/juancpineda97/LaLigaStats/issues/40)
+- [(HU04) Mostrar ranking de los equipos más valiosos](https://github.com/juancpineda97/LaLigaStats/issues/80)
 
 ## Documentación
 - [Motivación al uso de las herramientas indicadas.](./docs/motivacion_herramientas.md)

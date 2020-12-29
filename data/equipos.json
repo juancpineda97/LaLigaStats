@@ -588,17 +588,6 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Diego Costa",
-			"nacionalidad": "España",
-			"fechaNacimiento": "6-10-1988",
-			"valor": 10,
-			"dorsal": 19,
-			"posicion": "DL",
-			"pieHabil": "D",
-			"altura": 1.86,
-			"capitan": false
-		},
-		{
 			"nombre": "Vitolo",
 			"nacionalidad": "España",
 			"fechaNacimiento": "1-11-1989",
@@ -791,7 +780,7 @@
 			"fechaNacimiento": "29-1-1995",
 			"valor": 45,
 			"dorsal": 14,
-			"posicion": "MC",
+			"posicion": "DL",
 			"pieHabil": "D",
 			"altura": 1.84,
 			"capitan": false
@@ -3917,7 +3906,7 @@
 			"dorsal": 23,
 			"posicion": "DL",
 			"pieHabil": "D",
-			"altura": 1.81,
+			"altura": 1.82,
 			"capitan": false
 		},
 		{

@@ -731,7 +731,7 @@
 			"capitan": false
 		},
 		{
-			"nombre": "José Giménez",
+			"nombre": "José María Giménez",
 			"nacionalidad": "Uruguay",
 			"fechaNacimiento": "19-1-1995",
 			"valor": 70,
@@ -1164,6 +1164,17 @@
 			"capitan": false
 		},
 		{
+			"nombre": "Étienne Capoue",
+			"nacionalidad": "Francia",
+			"fechaNacimiento": "10-7-1988",
+			"valor": 4,
+			"dorsal": null,
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": 1.89,
+			"capitan": false
+		},
+		{
 			"nombre": "Jaume Costa",
 			"nacionalidad": "España",
 			"fechaNacimiento": "17-3-1988",
@@ -1370,6 +1381,17 @@
 			"posicion": "DL",
 			"pieHabil": "I",
 			"altura": 1.84,
+			"capitan": false
+		},
+		{
+			"nombre": "Santiago Cáseres",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "24-2-1997",
+			"valor": 4.8,
+			"dorsal": null,
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": 1.8,
 			"capitan": false
 		},
 		{
@@ -4464,17 +4486,6 @@
 			"capitan": false
 		},
 		{
-			"nombre": "José Antonio Martínez",
-			"nacionalidad": "España",
-			"fechaNacimiento": "11-2-1993",
-			"valor": 1.2,
-			"dorsal": 5,
-			"posicion": "DF",
-			"pieHabil": "I",
-			"altura": 1.91,
-			"capitan": false
-		},
-		{
 			"nombre": "Esteban Burgos",
 			"nacionalidad": "Argentina",
 			"fechaNacimiento": "8-1-1992",
@@ -4516,6 +4527,17 @@
 			"posicion": "DL",
 			"pieHabil": "I",
 			"altura": 1.75,
+			"capitan": false
+		},
+		{
+			"nombre": "Sergio Cubero",
+			"nacionalidad": "España",
+			"fechaNacimiento": "4-9-1999",
+			"valor": null,
+			"dorsal": 31,
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": 1.87,
 			"capitan": false
 		}
 	],
@@ -4886,6 +4908,17 @@
 			"capitan": false
 		},
 		{
+			"nombre": "Damián Musto",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "8-6-1987",
+			"valor": 0.55,
+			"dorsal": null,
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": 1.82,
+			"capitan": false
+		},
+		{
 			"nombre": "David Ferreiro",
 			"nacionalidad": "España",
 			"fechaNacimiento": "31-3-1988",
@@ -5215,6 +5248,17 @@
 			"posicion": "DF",
 			"pieHabil": "D",
 			"altura": 1.75,
+			"capitan": false
+		},
+		{
+			"nombre": "Aarón Martín",
+			"nacionalidad": "España",
+			"fechaNacimiento": "21-4-1997",
+			"valor": 4.5,
+			"dorsal": null,
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": 1.8,
 			"capitan": false
 		},
 		{

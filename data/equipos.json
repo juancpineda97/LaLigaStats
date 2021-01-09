@@ -296,7 +296,7 @@
 			"dorsal": 8,
 			"posicion": "MC",
 			"pieHabil": "D",
-			"altura": 1.8,
+			"altura": 1.78,
 			"capitan": false
 		},
 		{
@@ -421,17 +421,6 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Carles Aleñá",
-			"nacionalidad": "España",
-			"fechaNacimiento": "4-1-1998",
-			"valor": 15,
-			"dorsal": 6,
-			"posicion": "MC",
-			"pieHabil": "I",
-			"altura": 1.8,
-			"capitan": false
-		},
-		{
 			"nombre": "Ousmane Dembélé",
 			"nacionalidad": "Francia",
 			"fechaNacimiento": "14-5-1997",
@@ -457,7 +446,7 @@
 			"nombre": "Óscar Mingueza",
 			"nacionalidad": "España",
 			"fechaNacimiento": "12-5-1999",
-			"valor": 3,
+			"valor": 5,
 			"dorsal": 28,
 			"posicion": "DF",
 			"pieHabil": "D",
@@ -523,7 +512,7 @@
 			"nombre": "Arnau Tenas",
 			"nacionalidad": "España",
 			"fechaNacimiento": "29-5-2001",
-			"valor": 0.5,
+			"valor": 1.5,
 			"dorsal": 36,
 			"posicion": "PT",
 			"pieHabil": "D",
@@ -780,7 +769,7 @@
 			"fechaNacimiento": "29-1-1995",
 			"valor": 50,
 			"dorsal": 14,
-			"posicion": "DL",
+			"posicion": "MC",
 			"pieHabil": "D",
 			"altura": 1.84,
 			"capitan": false
@@ -1362,17 +1351,6 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Takefusa Kubo",
-			"nacionalidad": "Japón",
-			"fechaNacimiento": "3-6-2001",
-			"valor": 20,
-			"dorsal": 16,
-			"posicion": "DL",
-			"pieHabil": "I",
-			"altura": 1.73,
-			"capitan": false
-		},
-		{
 			"nombre": "Dani Raba",
 			"nacionalidad": "España",
 			"fechaNacimiento": "28-10-1995",
@@ -1595,6 +1573,17 @@
 			"capitan": false
 		},
 		{
+			"nombre": "Carles Aleñá",
+			"nacionalidad": "España",
+			"fechaNacimiento": "4-1-1998",
+			"valor": 15,
+			"dorsal": 11,
+			"posicion": "MC",
+			"pieHabil": "I",
+			"altura": 1.8,
+			"capitan": false
+		},
+		{
 			"nombre": "Marc Cucurella",
 			"nacionalidad": "España",
 			"fechaNacimiento": "21-7-1998",
@@ -1658,6 +1647,17 @@
 			"posicion": "DL",
 			"pieHabil": "D",
 			"altura": 1.87,
+			"capitan": false
+		},
+		{
+			"nombre": "Takefusa Kubo",
+			"nacionalidad": "Japón",
+			"fechaNacimiento": "3-6-2001",
+			"valor": 20,
+			"dorsal": null,
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": 1.73,
 			"capitan": false
 		},
 		{
@@ -2886,7 +2886,7 @@
 			"fechaNacimiento": "6-3-1989",
 			"valor": 6,
 			"dorsal": 10,
-			"posicion": "DL",
+			"posicion": "MC",
 			"pieHabil": "D",
 			"altura": 1.78,
 			"capitan": false
@@ -3367,6 +3367,17 @@
 			"capitan": false
 		},
 		{
+			"nombre": "Edgar Sevikyan",
+			"nacionalidad": "Rusia",
+			"fechaNacimiento": "7-8-2001",
+			"valor": 0.7,
+			"dorsal": 44,
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": 1.75,
+			"capitan": false
+		},
+		{
 			"nombre": "Jorge de Frutos",
 			"nacionalidad": "España",
 			"fechaNacimiento": "19-2-1997",
@@ -3720,7 +3731,7 @@
 			"posicion": "MC",
 			"pieHabil": "D",
 			"altura": 1.82,
-			"capitan": false
+			"capitan": true
 		},
 		{
 			"nombre": "Nacho Martínez",

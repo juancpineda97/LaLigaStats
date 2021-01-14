@@ -21,6 +21,7 @@ var team = new Equipo("Barcelona", listaJugadores);
 let listempty = new Array();
 var teamempty = new Equipo("Barcelona", listempty);
 var aserciones = new Asercion();
+var liga = new Liga(archivo);
 
 var archivobarcelona = JSON.parse(JSON.stringify(datosBarcelona));
 var archivorealmadrid = JSON.parse(JSON.stringify(datosRealMadrid));
@@ -371,7 +372,6 @@ describe("Tests de la funciones del archivo utils.js", () =>{
 describe("Tests de la clase Liga", () =>{
 
     test("Comprobación del funcionamiento del constructor", () => {
-        var liga = new Liga(archivo);
         var equipos_liga = liga.getEquipos();
 
         var keys = Object.keys(archivo);
@@ -385,6 +385,19 @@ describe("Tests de la clase Liga", () =>{
         thrown_error = () => new Liga("Barcelona");
         expectedError = new Error('Tipos de dato no validos');
         expect(thrown_error).toThrow(expectedError);
+    });
+
+    test("Comprobación del método verJugadoresEquipo()", () => {
+        var equipo_vacio_1 = liga.verJugadoresEquipo("NoExiste" , true);
+        var equipo_vacio_2 = liga.verJugadoresEquipo("NoExiste" , false);
+
+        var barcelona = liga.verJugadoresEquipo("Barcelona", false);
+
+        aserciones.expect(equipo_vacio_2).toEqual("");
+        aserciones.expect(Object.keys(equipo_vacio_1).length).toEqual(0);
+
+        aserciones.expect(barcelona).toInclude("Barcelona");
+        aserciones.expect(barcelona).toNotInclude("Real Madrid");
     });
 
 });

@@ -59,6 +59,63 @@ class Liga{
         }
     }
 
+    /**
+     * 
+     * @param {String} nombreEquipo - Nombre del equipo a mostrar
+     * @param {boolean} JSON - True si se quieren los resultados en formato de JSON, False en formato de String.
+     * @returns {JSON || boolean} - Jugadores del equipo
+     */
+    verJugadoresEquipo(nombreEquipo, JSON){
+        var re = new RegExp(nombreEquipo, "i");
+        var resultado;
+
+        if (JSON){
+            resultado = {};
+        }
+        else {
+            resultado = "";
+        }
+
+        var equipos_total = this.getEquipos();
+        var equipos_coinciden = []
+
+        equipos_total.forEach(equipo => {
+            if(equipo.getNombre().match(re)){
+                equipos_coinciden.push(equipo);
+            }
+        });
+
+        equipos_coinciden.forEach(equipo => {
+
+            if (JSON){
+                resultado[equipo.getNombre()] = [];
+
+                equipo.getListaJugadores().forEach(jugador => {
+                    var datos_jugador = {};
+                    datos_jugador['nombre'] = jugador.getNombre();
+                    datos_jugador['nacionalidad'] = jugador.getNacionalidad();
+                    datos_jugador['fechaNacimiento'] = jugador.getFechaNacimiento();
+                    datos_jugador['valor'] = jugador.getValor();
+                    datos_jugador['dorsal'] = jugador.getDorsal();
+                    datos_jugador['posicion'] = jugador.getPosicion();
+                    datos_jugador['pieHabil'] = jugador.getPieHabil();
+                    datos_jugador['altura'] = jugador.getAltura();
+                    datos_jugador['capitan'] = jugador.getCapitan();
+                    
+                    resultado[equipo.getNombre()].push(datos_jugador);
+                });
+            }
+
+            else {
+                resultado += equipo.verEquipo();
+            }
+            
+        });
+
+        return resultado;
+
+    }
+
 }
 
 module.exports = Liga;

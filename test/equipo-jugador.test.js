@@ -5,6 +5,7 @@ const datosBarcelona = require("../test/barcelona.json");
 const datosRealMadrid = require("../test/real_madrid.json");
 const Partido = require("../src/partido.js");
 const utils = require("../src/utils.js");
+const Liga = require("../src/liga.js");
 
 const data = require("../data/equipos.json");
 var archivo = JSON.parse(JSON.stringify(data));
@@ -329,7 +330,7 @@ describe("Test de la clase Partido", () =>{
 
 });
 
-describe("Tests de las funciones del archivo utils.js", () =>{
+describe("Tests de la funciones del archivo utils.js", () =>{
 
     test("Comprobación del funcionamiento de la función getJugadoresEquipo() con formato JSON", () => {
         var salidametodo = JSON.stringify(utils.getJugadoresEquipo(true, "barcelona",false));
@@ -365,4 +366,25 @@ describe("Tests de las funciones del archivo utils.js", () =>{
             aserciones.expect(salidametodo).toInclude(nombres_equipos[i]);
         }
     });
+});
+
+describe("Tests de la clase Liga", () =>{
+
+    test("Comprobación del funcionamiento del constructor", () => {
+        var liga = new Liga(archivo);
+        var equipos_liga = liga.getEquipos();
+
+        var keys = Object.keys(archivo);
+
+        equipos_liga.forEach(equipo => {
+            aserciones.expect(keys).toInclude(equipo.getNombre());
+        });
+    });
+
+    test("Comprobación del funcionamiento del constructor con tipos de datos no válidos", () => {
+        thrown_error = () => new Liga("Barcelona");
+        expectedError = new Error('Tipos de dato no validos');
+        expect(thrown_error).toThrow(expectedError);
+    });
+
 });

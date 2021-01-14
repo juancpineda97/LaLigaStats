@@ -3,7 +3,7 @@
 		{
 			"nombre": "Casemiro",
 			"nacionalidad": "Brasil",
-			"fechaNacimiento": "22-2-1992",
+			"fechaNacimiento": "23-2-1992",
 			"valor": 70,
 			"dorsal": 14,
 			"posicion": "MC",
@@ -14,7 +14,7 @@
 		{
 			"nombre": "Karim Benzema",
 			"nacionalidad": "Francia",
-			"fechaNacimiento": "18-12-1987",
+			"fechaNacimiento": "19-12-1987",
 			"valor": 25,
 			"dorsal": 9,
 			"posicion": "DL",
@@ -25,7 +25,7 @@
 		{
 			"nombre": "Sergio Ramos",
 			"nacionalidad": "España",
-			"fechaNacimiento": "29-3-1986",
+			"fechaNacimiento": "30-3-1986",
 			"valor": 14,
 			"dorsal": 4,
 			"posicion": "DF",
@@ -36,7 +36,7 @@
 		{
 			"nombre": "Luka Modric",
 			"nacionalidad": "Croacia",
-			"fechaNacimiento": "8-9-1985",
+			"fechaNacimiento": "9-9-1985",
 			"valor": 10,
 			"dorsal": 10,
 			"posicion": "MC",
@@ -47,7 +47,7 @@
 		{
 			"nombre": "Toni Kroos",
 			"nacionalidad": "Alemania",
-			"fechaNacimiento": "3-1-1990",
+			"fechaNacimiento": "4-1-1990",
 			"valor": 50,
 			"dorsal": 8,
 			"posicion": "MC",
@@ -58,7 +58,7 @@
 		{
 			"nombre": "Marcelo",
 			"nacionalidad": "Brasil",
-			"fechaNacimiento": "11-5-1988",
+			"fechaNacimiento": "12-5-1988",
 			"valor": 10,
 			"dorsal": 12,
 			"posicion": "DF",
@@ -69,7 +69,7 @@
 		{
 			"nombre": "Eden Hazard",
 			"nacionalidad": "Bélgica",
-			"fechaNacimiento": "6-1-1991",
+			"fechaNacimiento": "7-1-1991",
 			"valor": 50,
 			"dorsal": 7,
 			"posicion": "DL",
@@ -80,7 +80,7 @@
 		{
 			"nombre": "Nacho Fernández",
 			"nacionalidad": "España",
-			"fechaNacimiento": "17-1-1990",
+			"fechaNacimiento": "18-1-1990",
 			"valor": 10,
 			"dorsal": 6,
 			"posicion": "DF",
@@ -91,7 +91,7 @@
 		{
 			"nombre": "Isco",
 			"nacionalidad": "España",
-			"fechaNacimiento": "20-4-1992",
+			"fechaNacimiento": "21-4-1992",
 			"valor": 20,
 			"dorsal": 22,
 			"posicion": "MC",
@@ -102,7 +102,7 @@
 		{
 			"nombre": "Thibaut Courtois",
 			"nacionalidad": "Bélgica",
-			"fechaNacimiento": "10-5-1992",
+			"fechaNacimiento": "11-5-1992",
 			"valor": 75,
 			"dorsal": 1,
 			"posicion": "PT",
@@ -113,7 +113,7 @@
 		{
 			"nombre": "Daniel Carvajal",
 			"nacionalidad": "España",
-			"fechaNacimiento": "10-1-1992",
+			"fechaNacimiento": "11-1-1992",
 			"valor": 40,
 			"dorsal": 2,
 			"posicion": "DF",
@@ -124,7 +124,7 @@
 		{
 			"nombre": "Raphaël Varane",
 			"nacionalidad": "Francia",
-			"fechaNacimiento": "24-4-1993",
+			"fechaNacimiento": "25-4-1993",
 			"valor": 70,
 			"dorsal": 5,
 			"posicion": "DF",
@@ -135,7 +135,7 @@
 		{
 			"nombre": "Lucas Vázquez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "30-6-1991",
+			"fechaNacimiento": "1-7-1991",
 			"valor": 15,
 			"dorsal": 17,
 			"posicion": "DL",
@@ -146,7 +146,7 @@
 		{
 			"nombre": "Mariano Díaz",
 			"nacionalidad": "España",
-			"fechaNacimiento": "31-7-1993",
+			"fechaNacimiento": "1-8-1993",
 			"valor": 10,
 			"dorsal": 24,
 			"posicion": "DL",
@@ -155,20 +155,9 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Luka Jovic",
-			"nacionalidad": "Serbia",
-			"fechaNacimiento": "22-12-1997",
-			"valor": 20,
-			"dorsal": 18,
-			"posicion": "DL",
-			"pieHabil": "A",
-			"altura": 1.82,
-			"capitan": false
-		},
-		{
 			"nombre": "Álvaro Odriozola",
 			"nacionalidad": "España",
-			"fechaNacimiento": "13-12-1995",
+			"fechaNacimiento": "14-12-1995",
 			"valor": 10,
 			"dorsal": 19,
 			"posicion": "DF",
@@ -179,7 +168,7 @@
 		{
 			"nombre": "Ferland Mendy",
 			"nacionalidad": "Francia",
-			"fechaNacimiento": "7-6-1995",
+			"fechaNacimiento": "8-6-1995",
 			"valor": 40,
 			"dorsal": 23,
 			"posicion": "DF",
@@ -190,7 +179,7 @@
 		{
 			"nombre": "Marco Asensio",
 			"nacionalidad": "España",
-			"fechaNacimiento": "20-1-1996",
+			"fechaNacimiento": "21-1-1996",
 			"valor": 35,
 			"dorsal": 11,
 			"posicion": "DL",
@@ -201,7 +190,7 @@
 		{
 			"nombre": "Martin Ødegaard",
 			"nacionalidad": "Noruega",
-			"fechaNacimiento": "16-12-1998",
+			"fechaNacimiento": "17-12-1998",
 			"valor": 40,
 			"dorsal": 21,
 			"posicion": "MC",
@@ -212,7 +201,7 @@
 		{
 			"nombre": "Federico Valverde",
 			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "21-7-1998",
+			"fechaNacimiento": "22-7-1998",
 			"valor": 70,
 			"dorsal": 15,
 			"posicion": "MC",
@@ -223,7 +212,7 @@
 		{
 			"nombre": "Vinícius Júnior",
 			"nacionalidad": "Brasil",
-			"fechaNacimiento": "11-7-2000",
+			"fechaNacimiento": "12-7-2000",
 			"valor": 40,
 			"dorsal": 20,
 			"posicion": "DL",
@@ -234,7 +223,7 @@
 		{
 			"nombre": "Éder Militão",
 			"nacionalidad": "Brasil",
-			"fechaNacimiento": "17-1-1998",
+			"fechaNacimiento": "18-1-1998",
 			"valor": 30,
 			"dorsal": 3,
 			"posicion": "DF",
@@ -245,7 +234,7 @@
 		{
 			"nombre": "Andriy Lunin",
 			"nacionalidad": "Ucrania",
-			"fechaNacimiento": "10-2-1999",
+			"fechaNacimiento": "11-2-1999",
 			"valor": 3,
 			"dorsal": 13,
 			"posicion": "PT",
@@ -256,7 +245,7 @@
 		{
 			"nombre": "Rodrygo",
 			"nacionalidad": "Brasil",
-			"fechaNacimiento": "8-1-2001",
+			"fechaNacimiento": "9-1-2001",
 			"valor": 45,
 			"dorsal": 25,
 			"posicion": "DL",
@@ -269,7 +258,7 @@
 		{
 			"nombre": "Gerard Piqué",
 			"nacionalidad": "España",
-			"fechaNacimiento": "1-2-1987",
+			"fechaNacimiento": "2-2-1987",
 			"valor": 12,
 			"dorsal": 3,
 			"posicion": "DF",
@@ -280,7 +269,7 @@
 		{
 			"nombre": "Lionel Messi",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "23-6-1987",
+			"fechaNacimiento": "24-6-1987",
 			"valor": 80,
 			"dorsal": 10,
 			"posicion": "DL",
@@ -291,7 +280,7 @@
 		{
 			"nombre": "Miralem Pjanic",
 			"nacionalidad": "Bosnia-Herzegovina",
-			"fechaNacimiento": "1-4-1990",
+			"fechaNacimiento": "2-4-1990",
 			"valor": 40,
 			"dorsal": 8,
 			"posicion": "MC",
@@ -302,7 +291,7 @@
 		{
 			"nombre": "Sergio Busquets",
 			"nacionalidad": "España",
-			"fechaNacimiento": "15-7-1988",
+			"fechaNacimiento": "16-7-1988",
 			"valor": 10,
 			"dorsal": 5,
 			"posicion": "MC",
@@ -313,7 +302,7 @@
 		{
 			"nombre": "Jordi Alba",
 			"nacionalidad": "España",
-			"fechaNacimiento": "20-3-1989",
+			"fechaNacimiento": "21-3-1989",
 			"valor": 25,
 			"dorsal": 18,
 			"posicion": "DF",
@@ -324,7 +313,7 @@
 		{
 			"nombre": "Marc-André ter Stegen",
 			"nacionalidad": "Alemania",
-			"fechaNacimiento": "29-4-1992",
+			"fechaNacimiento": "30-4-1992",
 			"valor": 75,
 			"dorsal": 1,
 			"posicion": "PT",
@@ -335,7 +324,7 @@
 		{
 			"nombre": "Philippe Coutinho",
 			"nacionalidad": "Brasil",
-			"fechaNacimiento": "11-6-1992",
+			"fechaNacimiento": "12-6-1992",
 			"valor": 50,
 			"dorsal": 14,
 			"posicion": "MC",
@@ -346,7 +335,7 @@
 		{
 			"nombre": "Sergi Roberto",
 			"nacionalidad": "España",
-			"fechaNacimiento": "6-2-1992",
+			"fechaNacimiento": "7-2-1992",
 			"valor": 25,
 			"dorsal": 20,
 			"posicion": "DF",
@@ -357,7 +346,7 @@
 		{
 			"nombre": "Martin Braithwaite",
 			"nacionalidad": "Dinamarca",
-			"fechaNacimiento": "4-6-1991",
+			"fechaNacimiento": "5-6-1991",
 			"valor": 9,
 			"dorsal": 9,
 			"posicion": "DL",
@@ -368,7 +357,7 @@
 		{
 			"nombre": "Neto",
 			"nacionalidad": "Brasil",
-			"fechaNacimiento": "18-7-1989",
+			"fechaNacimiento": "19-7-1989",
 			"valor": 10,
 			"dorsal": 13,
 			"posicion": "PT",
@@ -379,7 +368,7 @@
 		{
 			"nombre": "Antoine Griezmann",
 			"nacionalidad": "Francia",
-			"fechaNacimiento": "20-3-1991",
+			"fechaNacimiento": "21-3-1991",
 			"valor": 60,
 			"dorsal": 7,
 			"posicion": "DL",
@@ -390,7 +379,7 @@
 		{
 			"nombre": "Samuel Umtiti",
 			"nacionalidad": "Francia",
-			"fechaNacimiento": "13-11-1993",
+			"fechaNacimiento": "14-11-1993",
 			"valor": 10,
 			"dorsal": 23,
 			"posicion": "DF",
@@ -401,7 +390,7 @@
 		{
 			"nombre": "Clément Lenglet",
 			"nacionalidad": "Francia",
-			"fechaNacimiento": "16-6-1995",
+			"fechaNacimiento": "17-6-1995",
 			"valor": 40,
 			"dorsal": 15,
 			"posicion": "DF",
@@ -412,7 +401,7 @@
 		{
 			"nombre": "Iñaki Peña",
 			"nacionalidad": "España",
-			"fechaNacimiento": "1-3-1999",
+			"fechaNacimiento": "2-3-1999",
 			"valor": 2.5,
 			"dorsal": 26,
 			"posicion": "PT",
@@ -423,7 +412,7 @@
 		{
 			"nombre": "Ousmane Dembélé",
 			"nacionalidad": "Francia",
-			"fechaNacimiento": "14-5-1997",
+			"fechaNacimiento": "15-5-1997",
 			"valor": 50,
 			"dorsal": 11,
 			"posicion": "DL",
@@ -434,7 +423,7 @@
 		{
 			"nombre": "Frenkie de Jong",
 			"nacionalidad": "Países Bajos",
-			"fechaNacimiento": "11-5-1997",
+			"fechaNacimiento": "12-5-1997",
 			"valor": 65,
 			"dorsal": 21,
 			"posicion": "MC",
@@ -445,7 +434,7 @@
 		{
 			"nombre": "Óscar Mingueza",
 			"nacionalidad": "España",
-			"fechaNacimiento": "12-5-1999",
+			"fechaNacimiento": "13-5-1999",
 			"valor": 5,
 			"dorsal": 28,
 			"posicion": "DF",
@@ -456,7 +445,7 @@
 		{
 			"nombre": "Riqui Puig",
 			"nacionalidad": "España",
-			"fechaNacimiento": "12-8-1999",
+			"fechaNacimiento": "13-8-1999",
 			"valor": 18,
 			"dorsal": 12,
 			"posicion": "MC",
@@ -467,7 +456,7 @@
 		{
 			"nombre": "Matheus Fernandes",
 			"nacionalidad": "Brasil",
-			"fechaNacimiento": "29-6-1998",
+			"fechaNacimiento": "30-6-1998",
 			"valor": 2,
 			"dorsal": 19,
 			"posicion": "MC",
@@ -478,7 +467,7 @@
 		{
 			"nombre": "Sergiño Dest",
 			"nacionalidad": "Estados Unidos",
-			"fechaNacimiento": "2-11-2000",
+			"fechaNacimiento": "3-11-2000",
 			"valor": 25,
 			"dorsal": 2,
 			"posicion": "DF",
@@ -489,7 +478,7 @@
 		{
 			"nombre": "Júnior Firpo",
 			"nacionalidad": "España",
-			"fechaNacimiento": "21-8-1996",
+			"fechaNacimiento": "22-8-1996",
 			"valor": 10,
 			"dorsal": 24,
 			"posicion": "DF",
@@ -500,7 +489,7 @@
 		{
 			"nombre": "Trincão",
 			"nacionalidad": "Portugal",
-			"fechaNacimiento": "28-12-1999",
+			"fechaNacimiento": "29-12-1999",
 			"valor": 25,
 			"dorsal": 17,
 			"posicion": "DL",
@@ -511,7 +500,7 @@
 		{
 			"nombre": "Arnau Tenas",
 			"nacionalidad": "España",
-			"fechaNacimiento": "29-5-2001",
+			"fechaNacimiento": "30-5-2001",
 			"valor": 1.5,
 			"dorsal": 36,
 			"posicion": "PT",
@@ -522,7 +511,7 @@
 		{
 			"nombre": "Konrad de la Fuente",
 			"nacionalidad": "Estados Unidos",
-			"fechaNacimiento": "15-7-2001",
+			"fechaNacimiento": "16-7-2001",
 			"valor": 2.5,
 			"dorsal": 29,
 			"posicion": "DL",
@@ -533,7 +522,7 @@
 		{
 			"nombre": "Ansu Fati",
 			"nacionalidad": "España",
-			"fechaNacimiento": "30-10-2002",
+			"fechaNacimiento": "31-10-2002",
 			"valor": 80,
 			"dorsal": 22,
 			"posicion": "DL",
@@ -544,7 +533,7 @@
 		{
 			"nombre": "Ronald Araújo",
 			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "6-3-1999",
+			"fechaNacimiento": "7-3-1999",
 			"valor": 20,
 			"dorsal": 4,
 			"posicion": "DF",
@@ -555,7 +544,7 @@
 		{
 			"nombre": "Pedri",
 			"nacionalidad": "España",
-			"fechaNacimiento": "24-11-2002",
+			"fechaNacimiento": "25-11-2002",
 			"valor": 50,
 			"dorsal": 16,
 			"posicion": "MC",
@@ -568,7 +557,7 @@
 		{
 			"nombre": "Luis Suárez",
 			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "23-1-1987",
+			"fechaNacimiento": "24-1-1987",
 			"valor": 15,
 			"dorsal": 9,
 			"posicion": "DL",
@@ -579,7 +568,7 @@
 		{
 			"nombre": "Vitolo",
 			"nacionalidad": "España",
-			"fechaNacimiento": "1-11-1989",
+			"fechaNacimiento": "2-11-1989",
 			"valor": 8,
 			"dorsal": 20,
 			"posicion": "DL",
@@ -590,7 +579,7 @@
 		{
 			"nombre": "Koke",
 			"nacionalidad": "España",
-			"fechaNacimiento": "7-1-1992",
+			"fechaNacimiento": "8-1-1992",
 			"valor": 60,
 			"dorsal": 6,
 			"posicion": "MC",
@@ -601,7 +590,7 @@
 		{
 			"nombre": "Sime Vrsaljko",
 			"nacionalidad": "Croacia",
-			"fechaNacimiento": "9-1-1992",
+			"fechaNacimiento": "10-1-1992",
 			"valor": 8,
 			"dorsal": 24,
 			"posicion": "DF",
@@ -612,7 +601,7 @@
 		{
 			"nombre": "Kieran Trippier",
 			"nacionalidad": "Inglaterra",
-			"fechaNacimiento": "18-9-1990",
+			"fechaNacimiento": "19-9-1990",
 			"valor": 20,
 			"dorsal": 23,
 			"posicion": "DF",
@@ -623,7 +612,7 @@
 		{
 			"nombre": "Stefan Savic",
 			"nacionalidad": "Montenegro",
-			"fechaNacimiento": "7-1-1991",
+			"fechaNacimiento": "8-1-1991",
 			"valor": 25,
 			"dorsal": 15,
 			"posicion": "DF",
@@ -634,7 +623,7 @@
 		{
 			"nombre": "Jan Oblak",
 			"nacionalidad": "Eslovenia",
-			"fechaNacimiento": "6-1-1993",
+			"fechaNacimiento": "7-1-1993",
 			"valor": 90,
 			"dorsal": 13,
 			"posicion": "PT",
@@ -645,7 +634,7 @@
 		{
 			"nombre": "Héctor Herrera",
 			"nacionalidad": "México",
-			"fechaNacimiento": "18-4-1990",
+			"fechaNacimiento": "19-4-1990",
 			"valor": 8,
 			"dorsal": 16,
 			"posicion": "MC",
@@ -656,7 +645,7 @@
 		{
 			"nombre": "Geoffrey Kondogbia",
 			"nacionalidad": "República Centroafricana",
-			"fechaNacimiento": "14-2-1993",
+			"fechaNacimiento": "15-2-1993",
 			"valor": 15,
 			"dorsal": 4,
 			"posicion": "MC",
@@ -667,7 +656,7 @@
 		{
 			"nombre": "Yannick Carrasco",
 			"nacionalidad": "Bélgica",
-			"fechaNacimiento": "3-9-1993",
+			"fechaNacimiento": "4-9-1993",
 			"valor": 30,
 			"dorsal": 21,
 			"posicion": "DL",
@@ -678,7 +667,7 @@
 		{
 			"nombre": "Saúl Ñíguez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "20-11-1994",
+			"fechaNacimiento": "21-11-1994",
 			"valor": 60,
 			"dorsal": 8,
 			"posicion": "MC",
@@ -689,7 +678,7 @@
 		{
 			"nombre": "Felipe",
 			"nacionalidad": "Brasil",
-			"fechaNacimiento": "15-5-1989",
+			"fechaNacimiento": "16-5-1989",
 			"valor": 20,
 			"dorsal": 18,
 			"posicion": "DF",
@@ -700,7 +689,7 @@
 		{
 			"nombre": "Thomas Lemar",
 			"nacionalidad": "Francia",
-			"fechaNacimiento": "11-11-1995",
+			"fechaNacimiento": "12-11-1995",
 			"valor": 20,
 			"dorsal": 11,
 			"posicion": "DL",
@@ -711,7 +700,7 @@
 		{
 			"nombre": "Ivo Grbic",
 			"nacionalidad": "Croacia",
-			"fechaNacimiento": "17-1-1996",
+			"fechaNacimiento": "18-1-1996",
 			"valor": 7,
 			"dorsal": 1,
 			"posicion": "PT",
@@ -722,9 +711,9 @@
 		{
 			"nombre": "Moussa Dembélé",
 			"nacionalidad": "Francia",
-			"fechaNacimiento": "11-7-1996",
+			"fechaNacimiento": "12-7-1996",
 			"valor": 30,
-			"dorsal": null,
+			"dorsal": 19,
 			"posicion": "DL",
 			"pieHabil": "D",
 			"altura": 1.83,
@@ -733,7 +722,7 @@
 		{
 			"nombre": "José María Giménez",
 			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "19-1-1995",
+			"fechaNacimiento": "20-1-1995",
 			"valor": 65,
 			"dorsal": 2,
 			"posicion": "DF",
@@ -744,7 +733,7 @@
 		{
 			"nombre": "Ángel Correa",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "8-3-1995",
+			"fechaNacimiento": "9-3-1995",
 			"valor": 40,
 			"dorsal": 10,
 			"posicion": "DL",
@@ -755,7 +744,7 @@
 		{
 			"nombre": "Ivan Saponjic",
 			"nacionalidad": "Serbia",
-			"fechaNacimiento": "1-8-1997",
+			"fechaNacimiento": "2-8-1997",
 			"valor": 1.2,
 			"dorsal": 17,
 			"posicion": "DL",
@@ -766,7 +755,7 @@
 		{
 			"nombre": "Mario Hermoso",
 			"nacionalidad": "España",
-			"fechaNacimiento": "17-6-1995",
+			"fechaNacimiento": "18-6-1995",
 			"valor": 30,
 			"dorsal": 22,
 			"posicion": "DF",
@@ -777,7 +766,7 @@
 		{
 			"nombre": "Marcos Llorente",
 			"nacionalidad": "España",
-			"fechaNacimiento": "29-1-1995",
+			"fechaNacimiento": "30-1-1995",
 			"valor": 50,
 			"dorsal": 14,
 			"posicion": "DL",
@@ -788,7 +777,7 @@
 		{
 			"nombre": "Lucas Torreira",
 			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "10-2-1996",
+			"fechaNacimiento": "11-2-1996",
 			"valor": 28,
 			"dorsal": 5,
 			"posicion": "MC",
@@ -799,7 +788,7 @@
 		{
 			"nombre": "João Félix",
 			"nacionalidad": "Portugal",
-			"fechaNacimiento": "9-11-1999",
+			"fechaNacimiento": "10-11-1999",
 			"valor": 100,
 			"dorsal": 7,
 			"posicion": "DL",
@@ -810,7 +799,7 @@
 		{
 			"nombre": "Renan Lodi",
 			"nacionalidad": "Brasil",
-			"fechaNacimiento": "7-4-1998",
+			"fechaNacimiento": "8-4-1998",
 			"valor": 40,
 			"dorsal": 12,
 			"posicion": "DF",
@@ -823,7 +812,7 @@
 		{
 			"nombre": "Jesús Navas",
 			"nacionalidad": "España",
-			"fechaNacimiento": "20-11-1985",
+			"fechaNacimiento": "21-11-1985",
 			"valor": 3,
 			"dorsal": 16,
 			"posicion": "DF",
@@ -834,7 +823,7 @@
 		{
 			"nombre": "Ivan Rakitic",
 			"nacionalidad": "Croacia",
-			"fechaNacimiento": "9-3-1988",
+			"fechaNacimiento": "10-3-1988",
 			"valor": 10,
 			"dorsal": 10,
 			"posicion": "MC",
@@ -845,7 +834,7 @@
 		{
 			"nombre": "Fernando Reges",
 			"nacionalidad": "Brasil",
-			"fechaNacimiento": "24-7-1987",
+			"fechaNacimiento": "25-7-1987",
 			"valor": 4,
 			"dorsal": 25,
 			"posicion": "MC",
@@ -856,7 +845,7 @@
 		{
 			"nombre": "Marcos Acuña",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "27-10-1991",
+			"fechaNacimiento": "28-10-1991",
 			"valor": 14,
 			"dorsal": 19,
 			"posicion": "DF",
@@ -867,7 +856,7 @@
 		{
 			"nombre": "Tomas Vaclík",
 			"nacionalidad": "Republica Checa",
-			"fechaNacimiento": "28-3-1989",
+			"fechaNacimiento": "29-3-1989",
 			"valor": 8,
 			"dorsal": 1,
 			"posicion": "PT",
@@ -878,7 +867,7 @@
 		{
 			"nombre": "Luuk de Jong",
 			"nacionalidad": "Países Bajos",
-			"fechaNacimiento": "26-8-1990",
+			"fechaNacimiento": "27-8-1990",
 			"valor": 12,
 			"dorsal": 9,
 			"posicion": "DL",
@@ -889,7 +878,7 @@
 		{
 			"nombre": "Nemanja Gudelj",
 			"nacionalidad": "Serbia",
-			"fechaNacimiento": "15-11-1991",
+			"fechaNacimiento": "16-11-1991",
 			"valor": 6,
 			"dorsal": 6,
 			"posicion": "MC",
@@ -900,7 +889,7 @@
 		{
 			"nombre": "Franco Vázquez",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "21-2-1989",
+			"fechaNacimiento": "22-2-1989",
 			"valor": 5,
 			"dorsal": 22,
 			"posicion": "MC",
@@ -911,7 +900,7 @@
 		{
 			"nombre": "Aleix Vidal",
 			"nacionalidad": "España",
-			"fechaNacimiento": "20-8-1989",
+			"fechaNacimiento": "21-8-1989",
 			"valor": 2,
 			"dorsal": 17,
 			"posicion": "DF",
@@ -922,7 +911,7 @@
 		{
 			"nombre": "Sergi Gómez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "27-3-1992",
+			"fechaNacimiento": "28-3-1992",
 			"valor": 3.5,
 			"dorsal": 3,
 			"posicion": "DF",
@@ -933,7 +922,7 @@
 		{
 			"nombre": "Sergio Escudero",
 			"nacionalidad": "España",
-			"fechaNacimiento": "1-9-1989",
+			"fechaNacimiento": "2-9-1989",
 			"valor": 3,
 			"dorsal": 18,
 			"posicion": "DF",
@@ -944,7 +933,7 @@
 		{
 			"nombre": "Suso",
 			"nacionalidad": "España",
-			"fechaNacimiento": "18-11-1993",
+			"fechaNacimiento": "19-11-1993",
 			"valor": 17,
 			"dorsal": 7,
 			"posicion": "DL",
@@ -955,7 +944,7 @@
 		{
 			"nombre": "Karim Rekik",
 			"nacionalidad": "Países Bajos",
-			"fechaNacimiento": "1-12-1994",
+			"fechaNacimiento": "2-12-1994",
 			"valor": 3.5,
 			"dorsal": 4,
 			"posicion": "DF",
@@ -966,7 +955,7 @@
 		{
 			"nombre": "Lucas Ocampos",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "10-7-1994",
+			"fechaNacimiento": "11-7-1994",
 			"valor": 45,
 			"dorsal": 5,
 			"posicion": "DL",
@@ -977,7 +966,7 @@
 		{
 			"nombre": "Bono",
 			"nacionalidad": "Marruecos",
-			"fechaNacimiento": "4-4-1991",
+			"fechaNacimiento": "5-4-1991",
 			"valor": 15,
 			"dorsal": 13,
 			"posicion": "PT",
@@ -988,7 +977,7 @@
 		{
 			"nombre": "Óliver Torres",
 			"nacionalidad": "España",
-			"fechaNacimiento": "9-11-1994",
+			"fechaNacimiento": "10-11-1994",
 			"valor": 13,
 			"dorsal": 21,
 			"posicion": "MC",
@@ -999,7 +988,7 @@
 		{
 			"nombre": "Carlos Fernández",
 			"nacionalidad": "España",
-			"fechaNacimiento": "21-5-1996",
+			"fechaNacimiento": "22-5-1996",
 			"valor": 9,
 			"dorsal": 24,
 			"posicion": "DL",
@@ -1010,7 +999,7 @@
 		{
 			"nombre": "Munir El Haddadi",
 			"nacionalidad": "Marruecos",
-			"fechaNacimiento": "31-8-1995",
+			"fechaNacimiento": "1-9-1995",
 			"valor": 10,
 			"dorsal": 11,
 			"posicion": "DL",
@@ -1021,7 +1010,7 @@
 		{
 			"nombre": "Oussama Idrissi",
 			"nacionalidad": "Marruecos",
-			"fechaNacimiento": "25-2-1996",
+			"fechaNacimiento": "26-2-1996",
 			"valor": 9,
 			"dorsal": 23,
 			"posicion": "DL",
@@ -1032,7 +1021,7 @@
 		{
 			"nombre": "Joan Jordán",
 			"nacionalidad": "España",
-			"fechaNacimiento": "5-7-1994",
+			"fechaNacimiento": "6-7-1994",
 			"valor": 25,
 			"dorsal": 8,
 			"posicion": "MC",
@@ -1043,7 +1032,7 @@
 		{
 			"nombre": "Óscar Rodríguez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "27-6-1998",
+			"fechaNacimiento": "28-6-1998",
 			"valor": 12,
 			"dorsal": 14,
 			"posicion": "MC",
@@ -1054,7 +1043,7 @@
 		{
 			"nombre": "Diego Carlos",
 			"nacionalidad": "Brasil",
-			"fechaNacimiento": "14-3-1993",
+			"fechaNacimiento": "15-3-1993",
 			"valor": 50,
 			"dorsal": 20,
 			"posicion": "DF",
@@ -1065,7 +1054,7 @@
 		{
 			"nombre": "Joris Gnagnon",
 			"nacionalidad": "Francia",
-			"fechaNacimiento": "12-1-1997",
+			"fechaNacimiento": "13-1-1997",
 			"valor": 2.5,
 			"dorsal": 2,
 			"posicion": "DF",
@@ -1076,7 +1065,7 @@
 		{
 			"nombre": "Javi Díaz",
 			"nacionalidad": "España",
-			"fechaNacimiento": "14-5-1997",
+			"fechaNacimiento": "15-5-1997",
 			"valor": 0.4,
 			"dorsal": 31,
 			"posicion": "PT",
@@ -1087,7 +1076,7 @@
 		{
 			"nombre": "Jules Koundé",
 			"nacionalidad": "Francia",
-			"fechaNacimiento": "11-11-1998",
+			"fechaNacimiento": "12-11-1998",
 			"valor": 50,
 			"dorsal": 12,
 			"posicion": "DF",
@@ -1098,7 +1087,7 @@
 		{
 			"nombre": "Youssef En-Nesyri",
 			"nacionalidad": "Marruecos",
-			"fechaNacimiento": "31-5-1997",
+			"fechaNacimiento": "1-6-1997",
 			"valor": 15,
 			"dorsal": 15,
 			"posicion": "DL",
@@ -1111,7 +1100,7 @@
 		{
 			"nombre": "Ramiro Funes Mori",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "4-3-1991",
+			"fechaNacimiento": "5-3-1991",
 			"valor": 3,
 			"dorsal": 6,
 			"posicion": "DF",
@@ -1122,7 +1111,7 @@
 		{
 			"nombre": "Raúl Albiol",
 			"nacionalidad": "España",
-			"fechaNacimiento": "3-9-1985",
+			"fechaNacimiento": "4-9-1985",
 			"valor": 2.5,
 			"dorsal": 3,
 			"posicion": "DF",
@@ -1133,7 +1122,7 @@
 		{
 			"nombre": "Sergio Asenjo",
 			"nacionalidad": "España",
-			"fechaNacimiento": "27-6-1989",
+			"fechaNacimiento": "28-6-1989",
 			"valor": 10,
 			"dorsal": 1,
 			"posicion": "PT",
@@ -1144,7 +1133,7 @@
 		{
 			"nombre": "Dani Parejo",
 			"nacionalidad": "España",
-			"fechaNacimiento": "15-4-1989",
+			"fechaNacimiento": "16-4-1989",
 			"valor": 10,
 			"dorsal": 5,
 			"posicion": "MC",
@@ -1155,7 +1144,7 @@
 		{
 			"nombre": "Étienne Capoue",
 			"nacionalidad": "Francia",
-			"fechaNacimiento": "10-7-1988",
+			"fechaNacimiento": "11-7-1988",
 			"valor": 2,
 			"dorsal": 25,
 			"posicion": "MC",
@@ -1166,7 +1155,7 @@
 		{
 			"nombre": "Jaume Costa",
 			"nacionalidad": "España",
-			"fechaNacimiento": "17-3-1988",
+			"fechaNacimiento": "18-3-1988",
 			"valor": 2,
 			"dorsal": 21,
 			"posicion": "DF",
@@ -1177,7 +1166,7 @@
 		{
 			"nombre": "Vicente Iborra",
 			"nacionalidad": "España",
-			"fechaNacimiento": "15-1-1988",
+			"fechaNacimiento": "16-1-1988",
 			"valor": 3.5,
 			"dorsal": 10,
 			"posicion": "MC",
@@ -1188,7 +1177,7 @@
 		{
 			"nombre": "Mario Gaspar",
 			"nacionalidad": "España",
-			"fechaNacimiento": "23-11-1990",
+			"fechaNacimiento": "24-11-1990",
 			"valor": 6,
 			"dorsal": 2,
 			"posicion": "DF",
@@ -1199,7 +1188,7 @@
 		{
 			"nombre": "Francis Coquelin",
 			"nacionalidad": "Francia",
-			"fechaNacimiento": "12-5-1991",
+			"fechaNacimiento": "13-5-1991",
 			"valor": 6,
 			"dorsal": 19,
 			"posicion": "MC",
@@ -1210,7 +1199,7 @@
 		{
 			"nombre": "Carlos Bacca",
 			"nacionalidad": "Colombia",
-			"fechaNacimiento": "7-9-1986",
+			"fechaNacimiento": "8-9-1986",
 			"valor": 1.8,
 			"dorsal": 9,
 			"posicion": "DL",
@@ -1221,7 +1210,7 @@
 		{
 			"nombre": "Paco Alcácer",
 			"nacionalidad": "España",
-			"fechaNacimiento": "29-8-1993",
+			"fechaNacimiento": "30-8-1993",
 			"valor": 25,
 			"dorsal": 17,
 			"posicion": "DL",
@@ -1232,7 +1221,7 @@
 		{
 			"nombre": "Moi Gómez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "22-6-1994",
+			"fechaNacimiento": "23-6-1994",
 			"valor": 8,
 			"dorsal": 23,
 			"posicion": "DL",
@@ -1243,7 +1232,7 @@
 		{
 			"nombre": "Gerard Moreno",
 			"nacionalidad": "España",
-			"fechaNacimiento": "6-4-1992",
+			"fechaNacimiento": "7-4-1992",
 			"valor": 30,
 			"dorsal": 7,
 			"posicion": "DL",
@@ -1254,7 +1243,7 @@
 		{
 			"nombre": "Manu Trigueros",
 			"nacionalidad": "España",
-			"fechaNacimiento": "16-10-1991",
+			"fechaNacimiento": "17-10-1991",
 			"valor": 11,
 			"dorsal": 14,
 			"posicion": "MC",
@@ -1265,7 +1254,7 @@
 		{
 			"nombre": "Alberto Moreno",
 			"nacionalidad": "España",
-			"fechaNacimiento": "4-7-1992",
+			"fechaNacimiento": "5-7-1992",
 			"valor": 3,
 			"dorsal": 18,
 			"posicion": "DF",
@@ -1276,7 +1265,7 @@
 		{
 			"nombre": "Gero Rulli",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "19-5-1992",
+			"fechaNacimiento": "20-5-1992",
 			"valor": 4,
 			"dorsal": 13,
 			"posicion": "PT",
@@ -1287,7 +1276,7 @@
 		{
 			"nombre": "Soufiane Chakla",
 			"nacionalidad": "Marruecos",
-			"fechaNacimiento": "1-9-1993",
+			"fechaNacimiento": "2-9-1993",
 			"valor": 0.8,
 			"dorsal": 22,
 			"posicion": "DF",
@@ -1298,7 +1287,7 @@
 		{
 			"nombre": "Rubén Peña",
 			"nacionalidad": "España",
-			"fechaNacimiento": "17-7-1991",
+			"fechaNacimiento": "18-7-1991",
 			"valor": 4,
 			"dorsal": 20,
 			"posicion": "DF",
@@ -1309,7 +1298,7 @@
 		{
 			"nombre": "Pervis Estupiñán",
 			"nacionalidad": "Ecuador",
-			"fechaNacimiento": "20-1-1998",
+			"fechaNacimiento": "21-1-1998",
 			"valor": 14,
 			"dorsal": 15,
 			"posicion": "DF",
@@ -1320,7 +1309,7 @@
 		{
 			"nombre": "Alfonso Pedraza",
 			"nacionalidad": "España",
-			"fechaNacimiento": "8-4-1996",
+			"fechaNacimiento": "9-4-1996",
 			"valor": 10,
 			"dorsal": 24,
 			"posicion": "DF",
@@ -1331,7 +1320,7 @@
 		{
 			"nombre": "Pau Torres",
 			"nacionalidad": "España",
-			"fechaNacimiento": "15-1-1997",
+			"fechaNacimiento": "16-1-1997",
 			"valor": 50,
 			"dorsal": 4,
 			"posicion": "DF",
@@ -1342,7 +1331,7 @@
 		{
 			"nombre": "Samu Chukwueze",
 			"nacionalidad": "Nigeria",
-			"fechaNacimiento": "21-5-1999",
+			"fechaNacimiento": "22-5-1999",
 			"valor": 20,
 			"dorsal": 11,
 			"posicion": "DL",
@@ -1353,7 +1342,7 @@
 		{
 			"nombre": "Dani Raba",
 			"nacionalidad": "España",
-			"fechaNacimiento": "28-10-1995",
+			"fechaNacimiento": "29-10-1995",
 			"valor": 0.9,
 			"dorsal": 12,
 			"posicion": "DL",
@@ -1364,7 +1353,7 @@
 		{
 			"nombre": "Santiago Cáseres",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "24-2-1997",
+			"fechaNacimiento": "25-2-1997",
 			"valor": 4.8,
 			"dorsal": null,
 			"posicion": "MC",
@@ -1375,7 +1364,7 @@
 		{
 			"nombre": "Juan Foyth",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "11-1-1998",
+			"fechaNacimiento": "12-1-1998",
 			"valor": 10,
 			"dorsal": 8,
 			"posicion": "DF",
@@ -1386,7 +1375,7 @@
 		{
 			"nombre": "Álex Baena",
 			"nacionalidad": "España",
-			"fechaNacimiento": "19-7-2001",
+			"fechaNacimiento": "20-7-2001",
 			"valor": 2,
 			"dorsal": 32,
 			"posicion": "DL",
@@ -1397,7 +1386,7 @@
 		{
 			"nombre": "Yéremi Pino",
 			"nacionalidad": "España",
-			"fechaNacimiento": "19-10-2002",
+			"fechaNacimiento": "20-10-2002",
 			"valor": 5,
 			"dorsal": 30,
 			"posicion": "DL",
@@ -1408,7 +1397,7 @@
 		{
 			"nombre": "Fer Niño",
 			"nacionalidad": "España",
-			"fechaNacimiento": "23-10-2000",
+			"fechaNacimiento": "24-10-2000",
 			"valor": 3,
 			"dorsal": 34,
 			"posicion": "DL",
@@ -1421,7 +1410,7 @@
 		{
 			"nombre": "Ángel Rodríguez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "25-4-1987",
+			"fechaNacimiento": "26-4-1987",
 			"valor": 4,
 			"dorsal": 9,
 			"posicion": "DL",
@@ -1432,7 +1421,7 @@
 		{
 			"nombre": "Xabi Etxeita",
 			"nacionalidad": "España",
-			"fechaNacimiento": "30-10-1987",
+			"fechaNacimiento": "31-10-1987",
 			"valor": 1,
 			"dorsal": 4,
 			"posicion": "DF",
@@ -1443,7 +1432,7 @@
 		{
 			"nombre": "Damián Suárez",
 			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "26-4-1988",
+			"fechaNacimiento": "27-4-1988",
 			"valor": 2,
 			"dorsal": 22,
 			"posicion": "DF",
@@ -1454,7 +1443,7 @@
 		{
 			"nombre": "Allan Nyom",
 			"nacionalidad": "Camerún",
-			"fechaNacimiento": "9-5-1988",
+			"fechaNacimiento": "10-5-1988",
 			"valor": 2.5,
 			"dorsal": 12,
 			"posicion": "DF",
@@ -1465,7 +1454,7 @@
 		{
 			"nombre": "Francisco Portillo",
 			"nacionalidad": "España",
-			"fechaNacimiento": "12-6-1990",
+			"fechaNacimiento": "13-6-1990",
 			"valor": 1.5,
 			"dorsal": 8,
 			"posicion": "DL",
@@ -1476,7 +1465,7 @@
 		{
 			"nombre": "Abdoulay Diaby",
 			"nacionalidad": "Mali",
-			"fechaNacimiento": "20-5-1991",
+			"fechaNacimiento": "21-5-1991",
 			"valor": 2.8,
 			"dorsal": 21,
 			"posicion": "DL",
@@ -1487,7 +1476,7 @@
 		{
 			"nombre": "David Timor",
 			"nacionalidad": "España",
-			"fechaNacimiento": "16-10-1989",
+			"fechaNacimiento": "17-10-1989",
 			"valor": 1.5,
 			"dorsal": 24,
 			"posicion": "MC",
@@ -1498,7 +1487,7 @@
 		{
 			"nombre": "Djené",
 			"nacionalidad": "Togo",
-			"fechaNacimiento": "30-12-1991",
+			"fechaNacimiento": "31-12-1991",
 			"valor": 25,
 			"dorsal": 2,
 			"posicion": "DF",
@@ -1509,7 +1498,7 @@
 		{
 			"nombre": "David Soria",
 			"nacionalidad": "España",
-			"fechaNacimiento": "3-4-1993",
+			"fechaNacimiento": "4-4-1993",
 			"valor": 9,
 			"dorsal": 13,
 			"posicion": "PT",
@@ -1520,7 +1509,7 @@
 		{
 			"nombre": "Jaime Mata",
 			"nacionalidad": "España",
-			"fechaNacimiento": "23-10-1988",
+			"fechaNacimiento": "24-10-1988",
 			"valor": 5,
 			"dorsal": 7,
 			"posicion": "DL",
@@ -1531,7 +1520,7 @@
 		{
 			"nombre": "Rubén Yáñez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "11-10-1993",
+			"fechaNacimiento": "12-10-1993",
 			"valor": 2,
 			"dorsal": 1,
 			"posicion": "PT",
@@ -1542,7 +1531,7 @@
 		{
 			"nombre": "Chema",
 			"nacionalidad": "España",
-			"fechaNacimiento": "2-3-1992",
+			"fechaNacimiento": "3-3-1992",
 			"valor": 1,
 			"dorsal": 6,
 			"posicion": "DF",
@@ -1553,7 +1542,7 @@
 		{
 			"nombre": "Enes Ünal",
 			"nacionalidad": "Turquía",
-			"fechaNacimiento": "9-5-1997",
+			"fechaNacimiento": "10-5-1997",
 			"valor": 7,
 			"dorsal": 10,
 			"posicion": "DL",
@@ -1564,7 +1553,7 @@
 		{
 			"nombre": "Nemanja Maksimovic",
 			"nacionalidad": "Serbia",
-			"fechaNacimiento": "25-1-1995",
+			"fechaNacimiento": "26-1-1995",
 			"valor": 18,
 			"dorsal": 20,
 			"posicion": "MC",
@@ -1575,7 +1564,7 @@
 		{
 			"nombre": "Carles Aleñá",
 			"nacionalidad": "España",
-			"fechaNacimiento": "4-1-1998",
+			"fechaNacimiento": "5-1-1998",
 			"valor": 15,
 			"dorsal": 11,
 			"posicion": "MC",
@@ -1586,7 +1575,7 @@
 		{
 			"nombre": "Marc Cucurella",
 			"nacionalidad": "España",
-			"fechaNacimiento": "21-7-1998",
+			"fechaNacimiento": "22-7-1998",
 			"valor": 20,
 			"dorsal": 15,
 			"posicion": "MC",
@@ -1597,7 +1586,7 @@
 		{
 			"nombre": "Mauro Arambarri",
 			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "29-9-1995",
+			"fechaNacimiento": "30-9-1995",
 			"valor": 20,
 			"dorsal": 18,
 			"posicion": "MC",
@@ -1608,7 +1597,7 @@
 		{
 			"nombre": "Erick Cabaco",
 			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "18-4-1995",
+			"fechaNacimiento": "19-4-1995",
 			"valor": 2.8,
 			"dorsal": 3,
 			"posicion": "DF",
@@ -1619,7 +1608,7 @@
 		{
 			"nombre": "Ante Palaversa",
 			"nacionalidad": "Croacia",
-			"fechaNacimiento": "5-4-2000",
+			"fechaNacimiento": "6-4-2000",
 			"valor": 3,
 			"dorsal": 14,
 			"posicion": "MC",
@@ -1630,7 +1619,7 @@
 		{
 			"nombre": "Mathí­as Olivera",
 			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "30-10-1997",
+			"fechaNacimiento": "31-10-1997",
 			"valor": 8,
 			"dorsal": 17,
 			"posicion": "DF",
@@ -1641,7 +1630,7 @@
 		{
 			"nombre": "Darío Poveda",
 			"nacionalidad": "España",
-			"fechaNacimiento": "12-3-1997",
+			"fechaNacimiento": "13-3-1997",
 			"valor": 0.4,
 			"dorsal": 19,
 			"posicion": "DL",
@@ -1652,7 +1641,7 @@
 		{
 			"nombre": "Takefusa Kubo",
 			"nacionalidad": "Japón",
-			"fechaNacimiento": "3-6-2001",
+			"fechaNacimiento": "4-6-2001",
 			"valor": 20,
 			"dorsal": 5,
 			"posicion": "DL",
@@ -1663,7 +1652,7 @@
 		{
 			"nombre": "Cucho Hernández",
 			"nacionalidad": "Colombia",
-			"fechaNacimiento": "21-4-1999",
+			"fechaNacimiento": "22-4-1999",
 			"valor": 12,
 			"dorsal": 23,
 			"posicion": "DL",
@@ -1674,7 +1663,7 @@
 		{
 			"nombre": "Víctor Mollejo",
 			"nacionalidad": "España",
-			"fechaNacimiento": "20-1-2001",
+			"fechaNacimiento": "21-1-2001",
 			"valor": 3.5,
 			"dorsal": 26,
 			"posicion": "DL",
@@ -1687,7 +1676,7 @@
 		{
 			"nombre": "Miguel Ángel Moyá",
 			"nacionalidad": "España",
-			"fechaNacimiento": "1-4-1984",
+			"fechaNacimiento": "2-4-1984",
 			"valor": 1,
 			"dorsal": 13,
 			"posicion": "PT",
@@ -1698,7 +1687,7 @@
 		{
 			"nombre": "David Silva",
 			"nacionalidad": "España",
-			"fechaNacimiento": "7-1-1986",
+			"fechaNacimiento": "8-1-1986",
 			"valor": 5,
 			"dorsal": 21,
 			"posicion": "MC",
@@ -1709,7 +1698,7 @@
 		{
 			"nombre": "Nacho Monreal",
 			"nacionalidad": "España",
-			"fechaNacimiento": "25-2-1986",
+			"fechaNacimiento": "26-2-1986",
 			"valor": 2,
 			"dorsal": 20,
 			"posicion": "DF",
@@ -1720,7 +1709,7 @@
 		{
 			"nombre": "Asier Illarramendi",
 			"nacionalidad": "España",
-			"fechaNacimiento": "7-3-1990",
+			"fechaNacimiento": "8-3-1990",
 			"valor": 7,
 			"dorsal": 4,
 			"posicion": "MC",
@@ -1731,7 +1720,7 @@
 		{
 			"nombre": "Portu",
 			"nacionalidad": "España",
-			"fechaNacimiento": "20-5-1992",
+			"fechaNacimiento": "21-5-1992",
 			"valor": 20,
 			"dorsal": 7,
 			"posicion": "DL",
@@ -1742,7 +1731,7 @@
 		{
 			"nombre": "Willian José",
 			"nacionalidad": "Brasil",
-			"fechaNacimiento": "22-11-1991",
+			"fechaNacimiento": "23-11-1991",
 			"valor": 20,
 			"dorsal": 9,
 			"posicion": "DL",
@@ -1753,7 +1742,7 @@
 		{
 			"nombre": "Adnan Januzaj",
 			"nacionalidad": "Bélgica",
-			"fechaNacimiento": "4-2-1995",
+			"fechaNacimiento": "5-2-1995",
 			"valor": 10,
 			"dorsal": 11,
 			"posicion": "DL",
@@ -1764,7 +1753,7 @@
 		{
 			"nombre": "Joseba Zaldua",
 			"nacionalidad": "España",
-			"fechaNacimiento": "23-6-1992",
+			"fechaNacimiento": "24-6-1992",
 			"valor": 7,
 			"dorsal": 2,
 			"posicion": "DF",
@@ -1775,7 +1764,7 @@
 		{
 			"nombre": "Álex Remiro",
 			"nacionalidad": "España",
-			"fechaNacimiento": "23-3-1995",
+			"fechaNacimiento": "24-3-1995",
 			"valor": 20,
 			"dorsal": 1,
 			"posicion": "PT",
@@ -1786,7 +1775,7 @@
 		{
 			"nombre": "Aritz Elustondo",
 			"nacionalidad": "España",
-			"fechaNacimiento": "27-3-1994",
+			"fechaNacimiento": "28-3-1994",
 			"valor": 15,
 			"dorsal": 6,
 			"posicion": "DF",
@@ -1797,7 +1786,7 @@
 		{
 			"nombre": "Jon Bautista",
 			"nacionalidad": "España",
-			"fechaNacimiento": "2-7-1995",
+			"fechaNacimiento": "3-7-1995",
 			"valor": 1.2,
 			"dorsal": 25,
 			"posicion": "DL",
@@ -1808,7 +1797,7 @@
 		{
 			"nombre": "Andoni Gorosabel",
 			"nacionalidad": "España",
-			"fechaNacimiento": "3-8-1996",
+			"fechaNacimiento": "4-8-1996",
 			"valor": 10,
 			"dorsal": 18,
 			"posicion": "DF",
@@ -1819,7 +1808,7 @@
 		{
 			"nombre": "Jon Guridi",
 			"nacionalidad": "España",
-			"fechaNacimiento": "27-2-1995",
+			"fechaNacimiento": "28-2-1995",
 			"valor": 1.8,
 			"dorsal": 14,
 			"posicion": "MC",
@@ -1830,7 +1819,7 @@
 		{
 			"nombre": "Martín Merquelanz",
 			"nacionalidad": "España",
-			"fechaNacimiento": "11-6-1995",
+			"fechaNacimiento": "12-6-1995",
 			"valor": 2,
 			"dorsal": 17,
 			"posicion": "DL",
@@ -1841,7 +1830,7 @@
 		{
 			"nombre": "Luca Sangalli",
 			"nacionalidad": "España",
-			"fechaNacimiento": "9-2-1995",
+			"fechaNacimiento": "10-2-1995",
 			"valor": 1.5,
 			"dorsal": 23,
 			"posicion": "MC",
@@ -1852,7 +1841,7 @@
 		{
 			"nombre": "Mikel Merino",
 			"nacionalidad": "España",
-			"fechaNacimiento": "21-6-1996",
+			"fechaNacimiento": "22-6-1996",
 			"valor": 40,
 			"dorsal": 8,
 			"posicion": "MC",
@@ -1863,7 +1852,7 @@
 		{
 			"nombre": "Alexander Isak",
 			"nacionalidad": "Suecia",
-			"fechaNacimiento": "20-9-1999",
+			"fechaNacimiento": "21-9-1999",
 			"valor": 22,
 			"dorsal": 19,
 			"posicion": "DL",
@@ -1874,7 +1863,7 @@
 		{
 			"nombre": "Mikel Oyarzabal",
 			"nacionalidad": "España",
-			"fechaNacimiento": "20-4-1997",
+			"fechaNacimiento": "21-4-1997",
 			"valor": 70,
 			"dorsal": 10,
 			"posicion": "DL",
@@ -1885,7 +1874,7 @@
 		{
 			"nombre": "Robin Le Normand",
 			"nacionalidad": "Francia",
-			"fechaNacimiento": "10-11-1996",
+			"fechaNacimiento": "11-11-1996",
 			"valor": 20,
 			"dorsal": 24,
 			"posicion": "DF",
@@ -1896,7 +1885,7 @@
 		{
 			"nombre": "Igor Zubeldia",
 			"nacionalidad": "España",
-			"fechaNacimiento": "29-3-1997",
+			"fechaNacimiento": "30-3-1997",
 			"valor": 20,
 			"dorsal": 5,
 			"posicion": "MC",
@@ -1907,7 +1896,7 @@
 		{
 			"nombre": "Martín Zubimendi",
 			"nacionalidad": "España",
-			"fechaNacimiento": "1-2-1999",
+			"fechaNacimiento": "2-2-1999",
 			"valor": 15,
 			"dorsal": 36,
 			"posicion": "MC",
@@ -1918,7 +1907,7 @@
 		{
 			"nombre": "Alex Sola",
 			"nacionalidad": "España",
-			"fechaNacimiento": "8-6-1999",
+			"fechaNacimiento": "9-6-1999",
 			"valor": 0.4,
 			"dorsal": null,
 			"posicion": "DF",
@@ -1929,7 +1918,7 @@
 		{
 			"nombre": "Ander Guevara",
 			"nacionalidad": "España",
-			"fechaNacimiento": "6-7-1997",
+			"fechaNacimiento": "7-7-1997",
 			"valor": 6,
 			"dorsal": 16,
 			"posicion": "MC",
@@ -1940,7 +1929,7 @@
 		{
 			"nombre": "Aihen Muñoz",
 			"nacionalidad": "España",
-			"fechaNacimiento": "15-8-1997",
+			"fechaNacimiento": "16-8-1997",
 			"valor": 6,
 			"dorsal": 12,
 			"posicion": "DF",
@@ -1951,7 +1940,7 @@
 		{
 			"nombre": "Modibo Sagnan",
 			"nacionalidad": "Francia",
-			"fechaNacimiento": "13-4-1999",
+			"fechaNacimiento": "14-4-1999",
 			"valor": 3,
 			"dorsal": 15,
 			"posicion": "DF",
@@ -1962,7 +1951,7 @@
 		{
 			"nombre": "Roberto López",
 			"nacionalidad": "España",
-			"fechaNacimiento": "23-4-2000",
+			"fechaNacimiento": "24-4-2000",
 			"valor": 8,
 			"dorsal": 28,
 			"posicion": "MC",
@@ -1973,7 +1962,7 @@
 		{
 			"nombre": "Ander Barrenetxea",
 			"nacionalidad": "España",
-			"fechaNacimiento": "26-12-2001",
+			"fechaNacimiento": "27-12-2001",
 			"valor": 15,
 			"dorsal": 22,
 			"posicion": "DL",
@@ -1986,7 +1975,7 @@
 		{
 			"nombre": "Kévin Gameiro",
 			"nacionalidad": "Francia",
-			"fechaNacimiento": "8-5-1987",
+			"fechaNacimiento": "9-5-1987",
 			"valor": 3.5,
 			"dorsal": 9,
 			"posicion": "DL",
@@ -1997,7 +1986,7 @@
 		{
 			"nombre": "Daniel Wass",
 			"nacionalidad": "Dinamarca",
-			"fechaNacimiento": "30-5-1989",
+			"fechaNacimiento": "31-5-1989",
 			"valor": 7.5,
 			"dorsal": 18,
 			"posicion": "DF",
@@ -2008,7 +1997,7 @@
 		{
 			"nombre": "Rubén Sobrino",
 			"nacionalidad": "España",
-			"fechaNacimiento": "31-5-1992",
+			"fechaNacimiento": "1-6-1992",
 			"valor": 1.5,
 			"dorsal": 11,
 			"posicion": "DL",
@@ -2019,7 +2008,7 @@
 		{
 			"nombre": "Eliaquim Mangala",
 			"nacionalidad": "Francia",
-			"fechaNacimiento": "12-2-1991",
+			"fechaNacimiento": "13-2-1991",
 			"valor": 4,
 			"dorsal": 4,
 			"posicion": "DF",
@@ -2030,7 +2019,7 @@
 		{
 			"nombre": "Denis Cheryshev",
 			"nacionalidad": "Rusia",
-			"fechaNacimiento": "25-12-1990",
+			"fechaNacimiento": "26-12-1990",
 			"valor": 4,
 			"dorsal": 17,
 			"posicion": "DL",
@@ -2041,7 +2030,7 @@
 		{
 			"nombre": "Jasper Cillessen",
 			"nacionalidad": "Países Bajos",
-			"fechaNacimiento": "21-4-1989",
+			"fechaNacimiento": "22-4-1989",
 			"valor": 6,
 			"dorsal": 13,
 			"posicion": "PT",
@@ -2052,7 +2041,7 @@
 		{
 			"nombre": "Gabriel Paulista",
 			"nacionalidad": "España",
-			"fechaNacimiento": "25-11-1990",
+			"fechaNacimiento": "26-11-1990",
 			"valor": 15,
 			"dorsal": 5,
 			"posicion": "DF",
@@ -2063,7 +2052,7 @@
 		{
 			"nombre": "José Gayà",
 			"nacionalidad": "España",
-			"fechaNacimiento": "24-5-1995",
+			"fechaNacimiento": "25-5-1995",
 			"valor": 35,
 			"dorsal": 14,
 			"posicion": "DF",
@@ -2074,7 +2063,7 @@
 		{
 			"nombre": "Gonçalo Guedes",
 			"nacionalidad": "Portugal",
-			"fechaNacimiento": "28-11-1996",
+			"fechaNacimiento": "29-11-1996",
 			"valor": 15,
 			"dorsal": 7,
 			"posicion": "DL",
@@ -2085,7 +2074,7 @@
 		{
 			"nombre": "Jaume Doménech",
 			"nacionalidad": "España",
-			"fechaNacimiento": "4-11-1990",
+			"fechaNacimiento": "5-11-1990",
 			"valor": 6,
 			"dorsal": 1,
 			"posicion": "PT",
@@ -2096,7 +2085,7 @@
 		{
 			"nombre": "Jason",
 			"nacionalidad": "España",
-			"fechaNacimiento": "5-7-1994",
+			"fechaNacimiento": "6-7-1994",
 			"valor": 2.5,
 			"dorsal": 23,
 			"posicion": "DL",
@@ -2107,7 +2096,7 @@
 		{
 			"nombre": "Toni Lato",
 			"nacionalidad": "España",
-			"fechaNacimiento": "20-11-1997",
+			"fechaNacimiento": "21-11-1997",
 			"valor": 3,
 			"dorsal": 3,
 			"posicion": "DF",
@@ -2118,7 +2107,7 @@
 		{
 			"nombre": "Álex Blanco",
 			"nacionalidad": "España",
-			"fechaNacimiento": "15-12-1998",
+			"fechaNacimiento": "16-12-1998",
 			"valor": 1,
 			"dorsal": 37,
 			"posicion": "DL",
@@ -2129,7 +2118,7 @@
 		{
 			"nombre": "Mouctar Diakhaby",
 			"nacionalidad": "Francia",
-			"fechaNacimiento": "18-12-1996",
+			"fechaNacimiento": "19-12-1996",
 			"valor": 10,
 			"dorsal": 12,
 			"posicion": "DF",
@@ -2140,7 +2129,7 @@
 		{
 			"nombre": "Thierry Correia",
 			"nacionalidad": "Portugal",
-			"fechaNacimiento": "8-3-1999",
+			"fechaNacimiento": "9-3-1999",
 			"valor": 2.5,
 			"dorsal": 2,
 			"posicion": "DF",
@@ -2151,7 +2140,7 @@
 		{
 			"nombre": "Carlos Soler",
 			"nacionalidad": "España",
-			"fechaNacimiento": "1-1-1997",
+			"fechaNacimiento": "2-1-1997",
 			"valor": 35,
 			"dorsal": 8,
 			"posicion": "MC",
@@ -2162,7 +2151,7 @@
 		{
 			"nombre": "Maxi Gómez",
 			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "13-8-1996",
+			"fechaNacimiento": "14-8-1996",
 			"valor": 32,
 			"dorsal": 22,
 			"posicion": "DL",
@@ -2173,7 +2162,7 @@
 		{
 			"nombre": "Cristian Rivero",
 			"nacionalidad": "España",
-			"fechaNacimiento": "20-3-1998",
+			"fechaNacimiento": "21-3-1998",
 			"valor": 0.2,
 			"dorsal": 25,
 			"posicion": "PT",
@@ -2184,7 +2173,7 @@
 		{
 			"nombre": "Uros Racic",
 			"nacionalidad": "Serbia",
-			"fechaNacimiento": "16-3-1998",
+			"fechaNacimiento": "17-3-1998",
 			"valor": 10,
 			"dorsal": 19,
 			"posicion": "MC",
@@ -2195,7 +2184,7 @@
 		{
 			"nombre": "Hugo Guillamón",
 			"nacionalidad": "España",
-			"fechaNacimiento": "30-1-2000",
+			"fechaNacimiento": "31-1-2000",
 			"valor": 7.5,
 			"dorsal": 15,
 			"posicion": "DF",
@@ -2206,7 +2195,7 @@
 		{
 			"nombre": "Yunus Musah",
 			"nacionalidad": "Estados Unidos",
-			"fechaNacimiento": "28-11-2002",
+			"fechaNacimiento": "29-11-2002",
 			"valor": 10,
 			"dorsal": 30,
 			"posicion": "DL",
@@ -2217,7 +2206,7 @@
 		{
 			"nombre": "Manu Vallejo",
 			"nacionalidad": "España",
-			"fechaNacimiento": "13-2-1997",
+			"fechaNacimiento": "14-2-1997",
 			"valor": 7,
 			"dorsal": 21,
 			"posicion": "DL",
@@ -2228,7 +2217,7 @@
 		{
 			"nombre": "Kang-in Lee",
 			"nacionalidad": "Corea del Sur",
-			"fechaNacimiento": "18-2-2001",
+			"fechaNacimiento": "19-2-2001",
 			"valor": 15,
 			"dorsal": 20,
 			"posicion": "MC",
@@ -2241,7 +2230,7 @@
 		{
 			"nombre": "Raúl García",
 			"nacionalidad": "España",
-			"fechaNacimiento": "10-7-1986",
+			"fechaNacimiento": "11-7-1986",
 			"valor": 3.5,
 			"dorsal": 22,
 			"posicion": "DL",
@@ -2252,7 +2241,7 @@
 		{
 			"nombre": "Iker Muniain",
 			"nacionalidad": "España",
-			"fechaNacimiento": "18-12-1992",
+			"fechaNacimiento": "19-12-1992",
 			"valor": 14,
 			"dorsal": 10,
 			"posicion": "MC",
@@ -2263,7 +2252,7 @@
 		{
 			"nombre": "Yuri Berchiche",
 			"nacionalidad": "España",
-			"fechaNacimiento": "9-2-1990",
+			"fechaNacimiento": "10-2-1990",
 			"valor": 16,
 			"dorsal": 17,
 			"posicion": "DF",
@@ -2274,7 +2263,7 @@
 		{
 			"nombre": "Iago Herrerín",
 			"nacionalidad": "España",
-			"fechaNacimiento": "24-1-1988",
+			"fechaNacimiento": "25-1-1988",
 			"valor": 1.8,
 			"dorsal": 25,
 			"posicion": "PT",
@@ -2285,7 +2274,7 @@
 		{
 			"nombre": "Mikel Balenziaga",
 			"nacionalidad": "España",
-			"fechaNacimiento": "28-2-1988",
+			"fechaNacimiento": "29-2-1988",
 			"valor": 1.2,
 			"dorsal": 24,
 			"posicion": "DF",
@@ -2296,7 +2285,7 @@
 		{
 			"nombre": "Óscar de Marcos",
 			"nacionalidad": "España",
-			"fechaNacimiento": "13-4-1989",
+			"fechaNacimiento": "14-4-1989",
 			"valor": 2.5,
 			"dorsal": 18,
 			"posicion": "DF",
@@ -2307,7 +2296,7 @@
 		{
 			"nombre": "Ibai Gómez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "10-11-1989",
+			"fechaNacimiento": "11-11-1989",
 			"valor": 1.5,
 			"dorsal": 7,
 			"posicion": "DL",
@@ -2318,7 +2307,7 @@
 		{
 			"nombre": "Iñigo Martínez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "16-5-1991",
+			"fechaNacimiento": "17-5-1991",
 			"valor": 25,
 			"dorsal": 4,
 			"posicion": "DF",
@@ -2329,7 +2318,7 @@
 		{
 			"nombre": "Dani García",
 			"nacionalidad": "España",
-			"fechaNacimiento": "23-5-1990",
+			"fechaNacimiento": "24-5-1990",
 			"valor": 4,
 			"dorsal": 14,
 			"posicion": "MC",
@@ -2340,7 +2329,7 @@
 		{
 			"nombre": "Unai López",
 			"nacionalidad": "España",
-			"fechaNacimiento": "29-10-1995",
+			"fechaNacimiento": "30-10-1995",
 			"valor": 10,
 			"dorsal": 8,
 			"posicion": "MC",
@@ -2351,7 +2340,7 @@
 		{
 			"nombre": "Kenan Kodro",
 			"nacionalidad": "Bosnia-Herzegovina",
-			"fechaNacimiento": "18-8-1993",
+			"fechaNacimiento": "19-8-1993",
 			"valor": 1,
 			"dorsal": 19,
 			"posicion": "DL",
@@ -2362,7 +2351,7 @@
 		{
 			"nombre": "Ander Capa",
 			"nacionalidad": "España",
-			"fechaNacimiento": "7-2-1992",
+			"fechaNacimiento": "8-2-1992",
 			"valor": 7,
 			"dorsal": 21,
 			"posicion": "DF",
@@ -2373,7 +2362,7 @@
 		{
 			"nombre": "Iñigo Córdoba",
 			"nacionalidad": "España",
-			"fechaNacimiento": "12-3-1997",
+			"fechaNacimiento": "13-3-1997",
 			"valor": 2.5,
 			"dorsal": 11,
 			"posicion": "DL",
@@ -2384,7 +2373,7 @@
 		{
 			"nombre": "Asier Villalibre",
 			"nacionalidad": "España",
-			"fechaNacimiento": "29-9-1997",
+			"fechaNacimiento": "30-9-1997",
 			"valor": 3.5,
 			"dorsal": 20,
 			"posicion": "DL",
@@ -2395,7 +2384,7 @@
 		{
 			"nombre": "Yeray Álvarez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "23-1-1995",
+			"fechaNacimiento": "24-1-1995",
 			"valor": 20,
 			"dorsal": 5,
 			"posicion": "DF",
@@ -2406,7 +2395,7 @@
 		{
 			"nombre": "Iñigo Lekue",
 			"nacionalidad": "España",
-			"fechaNacimiento": "3-5-1993",
+			"fechaNacimiento": "4-5-1993",
 			"valor": 1.5,
 			"dorsal": 15,
 			"posicion": "DF",
@@ -2417,7 +2406,7 @@
 		{
 			"nombre": "Iñaki Williams",
 			"nacionalidad": "España",
-			"fechaNacimiento": "14-6-1994",
+			"fechaNacimiento": "15-6-1994",
 			"valor": 25,
 			"dorsal": 9,
 			"posicion": "DL",
@@ -2428,7 +2417,7 @@
 		{
 			"nombre": "Unai Simón",
 			"nacionalidad": "España",
-			"fechaNacimiento": "10-6-1997",
+			"fechaNacimiento": "11-6-1997",
 			"valor": 30,
 			"dorsal": 1,
 			"posicion": "PT",
@@ -2439,7 +2428,7 @@
 		{
 			"nombre": "Mikel Vesga",
 			"nacionalidad": "España",
-			"fechaNacimiento": "7-4-1993",
+			"fechaNacimiento": "8-4-1993",
 			"valor": 2,
 			"dorsal": 6,
 			"posicion": "MC",
@@ -2450,7 +2439,7 @@
 		{
 			"nombre": "Iñigo Vicente",
 			"nacionalidad": "España",
-			"fechaNacimiento": "5-1-1998",
+			"fechaNacimiento": "6-1-1998",
 			"valor": 1,
 			"dorsal": 26,
 			"posicion": "DL",
@@ -2461,7 +2450,7 @@
 		{
 			"nombre": "Unai Núñez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "29-1-1997",
+			"fechaNacimiento": "30-1-1997",
 			"valor": 20,
 			"dorsal": 3,
 			"posicion": "DF",
@@ -2472,7 +2461,7 @@
 		{
 			"nombre": "Álex Berenguer",
 			"nacionalidad": "España",
-			"fechaNacimiento": "3-7-1995",
+			"fechaNacimiento": "4-7-1995",
 			"valor": 10,
 			"dorsal": 12,
 			"posicion": "DL",
@@ -2483,7 +2472,7 @@
 		{
 			"nombre": "Jokin Ezkieta",
 			"nacionalidad": "España",
-			"fechaNacimiento": "16-8-1996",
+			"fechaNacimiento": "17-8-1996",
 			"valor": 0.3,
 			"dorsal": 13,
 			"posicion": "PT",
@@ -2494,7 +2483,7 @@
 		{
 			"nombre": "Peru Nolaskoain",
 			"nacionalidad": "España",
-			"fechaNacimiento": "24-10-1998",
+			"fechaNacimiento": "25-10-1998",
 			"valor": 3.5,
 			"dorsal": 23,
 			"posicion": "MC",
@@ -2505,7 +2494,7 @@
 		{
 			"nombre": "Jon Morcillo",
 			"nacionalidad": "España",
-			"fechaNacimiento": "14-9-1998",
+			"fechaNacimiento": "15-9-1998",
 			"valor": 2.5,
 			"dorsal": 2,
 			"posicion": "DL",
@@ -2516,7 +2505,7 @@
 		{
 			"nombre": "Oier Zarraga",
 			"nacionalidad": "España",
-			"fechaNacimiento": "3-1-1999",
+			"fechaNacimiento": "4-1-1999",
 			"valor": 0.5,
 			"dorsal": 28,
 			"posicion": "MC",
@@ -2527,7 +2516,7 @@
 		{
 			"nombre": "Oihan Sancet",
 			"nacionalidad": "España",
-			"fechaNacimiento": "24-4-2000",
+			"fechaNacimiento": "25-4-2000",
 			"valor": 3.5,
 			"dorsal": 16,
 			"posicion": "MC",
@@ -2538,7 +2527,7 @@
 		{
 			"nombre": "Unai Vencedor",
 			"nacionalidad": "España",
-			"fechaNacimiento": "14-11-2000",
+			"fechaNacimiento": "15-11-2000",
 			"valor": 1.8,
 			"dorsal": 27,
 			"posicion": "MC",
@@ -2551,7 +2540,7 @@
 		{
 			"nombre": "Roberto Soldado",
 			"nacionalidad": "España",
-			"fechaNacimiento": "26-5-1985",
+			"fechaNacimiento": "27-5-1985",
 			"valor": 1.2,
 			"dorsal": 9,
 			"posicion": "DL",
@@ -2562,7 +2551,7 @@
 		{
 			"nombre": "Jorge Molina",
 			"nacionalidad": "España",
-			"fechaNacimiento": "21-4-1982",
+			"fechaNacimiento": "22-4-1982",
 			"valor": 1.5,
 			"dorsal": 23,
 			"posicion": "DL",
@@ -2573,7 +2562,7 @@
 		{
 			"nombre": "Víctor Díaz",
 			"nacionalidad": "España",
-			"fechaNacimiento": "11-6-1988",
+			"fechaNacimiento": "12-6-1988",
 			"valor": 1,
 			"dorsal": 16,
 			"posicion": "DF",
@@ -2584,7 +2573,7 @@
 		{
 			"nombre": "Ángel Montoro",
 			"nacionalidad": "España",
-			"fechaNacimiento": "24-6-1988",
+			"fechaNacimiento": "25-6-1988",
 			"valor": 1.2,
 			"dorsal": 19,
 			"posicion": "MC",
@@ -2595,7 +2584,7 @@
 		{
 			"nombre": "Maxime Gonalons",
 			"nacionalidad": "Francia",
-			"fechaNacimiento": "9-3-1989",
+			"fechaNacimiento": "10-3-1989",
 			"valor": 3,
 			"dorsal": 4,
 			"posicion": "MC",
@@ -2606,7 +2595,7 @@
 		{
 			"nombre": "Germán Sánchez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "11-12-1986",
+			"fechaNacimiento": "12-12-1986",
 			"valor": 0.8,
 			"dorsal": 6,
 			"posicion": "DF",
@@ -2617,7 +2606,7 @@
 		{
 			"nombre": "Ramon Azeez",
 			"nacionalidad": "Nigeria",
-			"fechaNacimiento": "11-12-1992",
+			"fechaNacimiento": "12-12-1992",
 			"valor": 2,
 			"dorsal": 12,
 			"posicion": "MC",
@@ -2628,7 +2617,7 @@
 		{
 			"nombre": "Fede Vico",
 			"nacionalidad": "España",
-			"fechaNacimiento": "3-7-1994",
+			"fechaNacimiento": "4-7-1994",
 			"valor": 1,
 			"dorsal": 14,
 			"posicion": "MC",
@@ -2639,7 +2628,7 @@
 		{
 			"nombre": "Dimitri Foulquier",
 			"nacionalidad": "Guadalupe",
-			"fechaNacimiento": "22-3-1993",
+			"fechaNacimiento": "23-3-1993",
 			"valor": 3,
 			"dorsal": 2,
 			"posicion": "DF",
@@ -2650,7 +2639,7 @@
 		{
 			"nombre": "Darwin Machís",
 			"nacionalidad": "Venezuela",
-			"fechaNacimiento": "6-2-1993",
+			"fechaNacimiento": "7-2-1993",
 			"valor": 10,
 			"dorsal": 11,
 			"posicion": "DL",
@@ -2661,7 +2650,7 @@
 		{
 			"nombre": "Quini",
 			"nacionalidad": "España",
-			"fechaNacimiento": "23-9-1989",
+			"fechaNacimiento": "24-9-1989",
 			"valor": 0.4,
 			"dorsal": 17,
 			"posicion": "DF",
@@ -2672,7 +2661,7 @@
 		{
 			"nombre": "Rui Silva",
 			"nacionalidad": "Portugal",
-			"fechaNacimiento": "6-2-1994",
+			"fechaNacimiento": "7-2-1994",
 			"valor": 10,
 			"dorsal": 1,
 			"posicion": "PT",
@@ -2683,7 +2672,7 @@
 		{
 			"nombre": "Jesús Vallejo",
 			"nacionalidad": "España",
-			"fechaNacimiento": "4-1-1997",
+			"fechaNacimiento": "5-1-1997",
 			"valor": 5,
 			"dorsal": 20,
 			"posicion": "DF",
@@ -2694,7 +2683,7 @@
 		{
 			"nombre": "Domingos Duarte",
 			"nacionalidad": "Portugal",
-			"fechaNacimiento": "9-3-1995",
+			"fechaNacimiento": "10-3-1995",
 			"valor": 12,
 			"dorsal": 22,
 			"posicion": "DF",
@@ -2705,7 +2694,7 @@
 		{
 			"nombre": "Antonio Puertas",
 			"nacionalidad": "España",
-			"fechaNacimiento": "20-2-1992",
+			"fechaNacimiento": "21-2-1992",
 			"valor": 5,
 			"dorsal": 10,
 			"posicion": "DL",
@@ -2716,7 +2705,7 @@
 		{
 			"nombre": "Kenedy",
 			"nacionalidad": "Brasil",
-			"fechaNacimiento": "7-2-1996",
+			"fechaNacimiento": "8-2-1996",
 			"valor": 8,
 			"dorsal": 24,
 			"posicion": "DL",
@@ -2727,7 +2716,7 @@
 		{
 			"nombre": "Luis Milla",
 			"nacionalidad": "España",
-			"fechaNacimiento": "6-10-1994",
+			"fechaNacimiento": "7-10-1994",
 			"valor": 5,
 			"dorsal": 5,
 			"posicion": "MC",
@@ -2738,7 +2727,7 @@
 		{
 			"nombre": "Aarón Escandell",
 			"nacionalidad": "España",
-			"fechaNacimiento": "26-9-1995",
+			"fechaNacimiento": "27-9-1995",
 			"valor": 1,
 			"dorsal": 13,
 			"posicion": "PT",
@@ -2749,7 +2738,7 @@
 		{
 			"nombre": "Yan Eteki",
 			"nacionalidad": "Camerún",
-			"fechaNacimiento": "25-8-1997",
+			"fechaNacimiento": "26-8-1997",
 			"valor": 2,
 			"dorsal": 8,
 			"posicion": "MC",
@@ -2760,7 +2749,7 @@
 		{
 			"nombre": "Yangel Herrera",
 			"nacionalidad": "Venezuela",
-			"fechaNacimiento": "6-1-1998",
+			"fechaNacimiento": "7-1-1998",
 			"valor": 15,
 			"dorsal": 21,
 			"posicion": "MC",
@@ -2771,7 +2760,7 @@
 		{
 			"nombre": "Luis Suárez",
 			"nacionalidad": "Colombia",
-			"fechaNacimiento": "1-12-1997",
+			"fechaNacimiento": "2-12-1997",
 			"valor": 10,
 			"dorsal": 7,
 			"posicion": "DL",
@@ -2782,7 +2771,7 @@
 		{
 			"nombre": "Carlos Neva",
 			"nacionalidad": "España",
-			"fechaNacimiento": "11-6-1996",
+			"fechaNacimiento": "12-6-1996",
 			"valor": 5,
 			"dorsal": 15,
 			"posicion": "DF",
@@ -2793,7 +2782,7 @@
 		{
 			"nombre": "Neyder Lozano",
 			"nacionalidad": "Colombia",
-			"fechaNacimiento": "3-3-1994",
+			"fechaNacimiento": "4-3-1994",
 			"valor": 0.4,
 			"dorsal": 18,
 			"posicion": "DF",
@@ -2804,7 +2793,7 @@
 		{
 			"nombre": "Alberto Soro",
 			"nacionalidad": "España",
-			"fechaNacimiento": "8-3-1999",
+			"fechaNacimiento": "9-3-1999",
 			"valor": 2,
 			"dorsal": 26,
 			"posicion": "DL",
@@ -2815,7 +2804,7 @@
 		{
 			"nombre": "Nehuén Pérez",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "23-6-2000",
+			"fechaNacimiento": "24-6-2000",
 			"valor": 4.5,
 			"dorsal": 3,
 			"posicion": "DF",
@@ -2826,7 +2815,7 @@
 		{
 			"nombre": "Pepe Sánchez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "1-3-2000",
+			"fechaNacimiento": "2-3-2000",
 			"valor": 0.1,
 			"dorsal": 28,
 			"posicion": "DF",
@@ -2839,7 +2828,7 @@
 		{
 			"nombre": "Rubén Martínez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "21-6-1984",
+			"fechaNacimiento": "22-6-1984",
 			"valor": 0.5,
 			"dorsal": 13,
 			"posicion": "PT",
@@ -2850,7 +2839,7 @@
 		{
 			"nombre": "Adrián López",
 			"nacionalidad": "España",
-			"fechaNacimiento": "7-1-1988",
+			"fechaNacimiento": "8-1-1988",
 			"valor": 1.2,
 			"dorsal": 20,
 			"posicion": "DL",
@@ -2861,7 +2850,7 @@
 		{
 			"nombre": "Ante Budimir",
 			"nacionalidad": "Croacia",
-			"fechaNacimiento": "21-7-1991",
+			"fechaNacimiento": "22-7-1991",
 			"valor": 7,
 			"dorsal": 17,
 			"posicion": "DL",
@@ -2872,7 +2861,7 @@
 		{
 			"nombre": "Facundo Roncaglia",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "9-2-1987",
+			"fechaNacimiento": "10-2-1987",
 			"valor": 1,
 			"dorsal": 12,
 			"posicion": "DF",
@@ -2883,7 +2872,7 @@
 		{
 			"nombre": "Oier",
 			"nacionalidad": "España",
-			"fechaNacimiento": "24-5-1986",
+			"fechaNacimiento": "25-5-1986",
 			"valor": 0.7,
 			"dorsal": 6,
 			"posicion": "MC",
@@ -2894,7 +2883,7 @@
 		{
 			"nombre": "Roberto Torres",
 			"nacionalidad": "España",
-			"fechaNacimiento": "6-3-1989",
+			"fechaNacimiento": "7-3-1989",
 			"valor": 6,
 			"dorsal": 10,
 			"posicion": "MC",
@@ -2905,7 +2894,7 @@
 		{
 			"nombre": "Iñigo Pérez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "17-1-1988",
+			"fechaNacimiento": "18-1-1988",
 			"valor": 0.6,
 			"dorsal": 21,
 			"posicion": "MC",
@@ -2916,7 +2905,7 @@
 		{
 			"nombre": "Aridane Hernández",
 			"nacionalidad": "España",
-			"fechaNacimiento": "22-3-1989",
+			"fechaNacimiento": "23-3-1989",
 			"valor": 3,
 			"dorsal": 23,
 			"posicion": "DF",
@@ -2927,7 +2916,7 @@
 		{
 			"nombre": "Darko Brasanac",
 			"nacionalidad": "Serbia",
-			"fechaNacimiento": "11-2-1992",
+			"fechaNacimiento": "12-2-1992",
 			"valor": 1.8,
 			"dorsal": 8,
 			"posicion": "MC",
@@ -2938,7 +2927,7 @@
 		{
 			"nombre": "Enric Gallego",
 			"nacionalidad": "España",
-			"fechaNacimiento": "11-9-1986",
+			"fechaNacimiento": "12-9-1986",
 			"valor": 1.2,
 			"dorsal": 19,
 			"posicion": "DL",
@@ -2949,7 +2938,7 @@
 		{
 			"nombre": "Raúl Navas",
 			"nacionalidad": "España",
-			"fechaNacimiento": "10-5-1988",
+			"fechaNacimiento": "11-5-1988",
 			"valor": 0.7,
 			"dorsal": 22,
 			"posicion": "DF",
@@ -2960,7 +2949,7 @@
 		{
 			"nombre": "Chimy Ávila",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "5-2-1994",
+			"fechaNacimiento": "6-2-1994",
 			"valor": 10,
 			"dorsal": 9,
 			"posicion": "DL",
@@ -2971,7 +2960,7 @@
 		{
 			"nombre": "Juan Cruz",
 			"nacionalidad": "España",
-			"fechaNacimiento": "27-7-1992",
+			"fechaNacimiento": "28-7-1992",
 			"valor": 2.5,
 			"dorsal": 3,
 			"posicion": "DF",
@@ -2982,7 +2971,7 @@
 		{
 			"nombre": "Unai García",
 			"nacionalidad": "España",
-			"fechaNacimiento": "2-9-1992",
+			"fechaNacimiento": "3-9-1992",
 			"valor": 1,
 			"dorsal": 4,
 			"posicion": "DF",
@@ -2993,7 +2982,7 @@
 		{
 			"nombre": "Rubén García",
 			"nacionalidad": "España",
-			"fechaNacimiento": "13-7-1993",
+			"fechaNacimiento": "14-7-1993",
 			"valor": 10,
 			"dorsal": 14,
 			"posicion": "DL",
@@ -3004,7 +2993,7 @@
 		{
 			"nombre": "Lucas Torró",
 			"nacionalidad": "España",
-			"fechaNacimiento": "18-7-1994",
+			"fechaNacimiento": "19-7-1994",
 			"valor": 1.8,
 			"dorsal": 24,
 			"posicion": "MC",
@@ -3015,7 +3004,7 @@
 		{
 			"nombre": "Nacho Vidal",
 			"nacionalidad": "España",
-			"fechaNacimiento": "23-1-1995",
+			"fechaNacimiento": "24-1-1995",
 			"valor": 2,
 			"dorsal": 2,
 			"posicion": "DF",
@@ -3026,7 +3015,7 @@
 		{
 			"nombre": "Jony",
 			"nacionalidad": "España",
-			"fechaNacimiento": "8-7-1991",
+			"fechaNacimiento": "9-7-1991",
 			"valor": 4,
 			"dorsal": 7,
 			"posicion": "DL",
@@ -3037,7 +3026,7 @@
 		{
 			"nombre": "Sergio Herrera",
 			"nacionalidad": "España",
-			"fechaNacimiento": "4-6-1993",
+			"fechaNacimiento": "5-6-1993",
 			"valor": 1.8,
 			"dorsal": 1,
 			"posicion": "PT",
@@ -3048,7 +3037,7 @@
 		{
 			"nombre": "Brandon",
 			"nacionalidad": "España",
-			"fechaNacimiento": "3-2-1995",
+			"fechaNacimiento": "4-2-1995",
 			"valor": 0.8,
 			"dorsal": 18,
 			"posicion": "DL",
@@ -3059,7 +3048,7 @@
 		{
 			"nombre": "Jonathan Calleri",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "22-9-1993",
+			"fechaNacimiento": "23-9-1993",
 			"valor": 5,
 			"dorsal": 16,
 			"posicion": "DL",
@@ -3070,7 +3059,7 @@
 		{
 			"nombre": "Kike Barja",
 			"nacionalidad": "España",
-			"fechaNacimiento": "3-4-1997",
+			"fechaNacimiento": "4-4-1997",
 			"valor": 1,
 			"dorsal": 11,
 			"posicion": "DL",
@@ -3081,7 +3070,7 @@
 		{
 			"nombre": "David García",
 			"nacionalidad": "España",
-			"fechaNacimiento": "13-2-1994",
+			"fechaNacimiento": "14-2-1994",
 			"valor": 7.5,
 			"dorsal": 5,
 			"posicion": "DF",
@@ -3092,7 +3081,7 @@
 		{
 			"nombre": "Juan Pérez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "14-7-1996",
+			"fechaNacimiento": "15-7-1996",
 			"valor": 0.4,
 			"dorsal": 25,
 			"posicion": "PT",
@@ -3103,7 +3092,7 @@
 		{
 			"nombre": "Jon Moncayola",
 			"nacionalidad": "España",
-			"fechaNacimiento": "12-5-1998",
+			"fechaNacimiento": "13-5-1998",
 			"valor": 3,
 			"dorsal": 27,
 			"posicion": "MC",
@@ -3114,7 +3103,7 @@
 		{
 			"nombre": "Manu Sánchez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "23-8-2000",
+			"fechaNacimiento": "24-8-2000",
 			"valor": 6,
 			"dorsal": null,
 			"posicion": "DF",
@@ -3127,7 +3116,7 @@
 		{
 			"nombre": "Rubén Rochina",
 			"nacionalidad": "España",
-			"fechaNacimiento": "22-3-1991",
+			"fechaNacimiento": "23-3-1991",
 			"valor": 3.5,
 			"dorsal": 16,
 			"posicion": "DL",
@@ -3138,7 +3127,7 @@
 		{
 			"nombre": "Coke",
 			"nacionalidad": "España",
-			"fechaNacimiento": "25-4-1987",
+			"fechaNacimiento": "26-4-1987",
 			"valor": 0.8,
 			"dorsal": 23,
 			"posicion": "DF",
@@ -3149,7 +3138,7 @@
 		{
 			"nombre": "Aitor Fernández",
 			"nacionalidad": "España",
-			"fechaNacimiento": "2-5-1991",
+			"fechaNacimiento": "3-5-1991",
 			"valor": 8,
 			"dorsal": 13,
 			"posicion": "PT",
@@ -3160,7 +3149,7 @@
 		{
 			"nombre": "José Campaña",
 			"nacionalidad": "España",
-			"fechaNacimiento": "30-5-1993",
+			"fechaNacimiento": "31-5-1993",
 			"valor": 22,
 			"dorsal": 24,
 			"posicion": "MC",
@@ -3171,7 +3160,7 @@
 		{
 			"nombre": "Toño",
 			"nacionalidad": "España",
-			"fechaNacimiento": "6-11-1989",
+			"fechaNacimiento": "7-11-1989",
 			"valor": 0.8,
 			"dorsal": 3,
 			"posicion": "DF",
@@ -3182,7 +3171,7 @@
 		{
 			"nombre": "Cheick Doukouré",
 			"nacionalidad": "Costa de Marfil",
-			"fechaNacimiento": "10-9-1992",
+			"fechaNacimiento": "11-9-1992",
 			"valor": 0.5,
 			"dorsal": 25,
 			"posicion": "MC",
@@ -3193,7 +3182,7 @@
 		{
 			"nombre": "Sergio León",
 			"nacionalidad": "España",
-			"fechaNacimiento": "5-1-1989",
+			"fechaNacimiento": "6-1-1989",
 			"valor": 1.5,
 			"dorsal": 7,
 			"posicion": "DL",
@@ -3204,7 +3193,7 @@
 		{
 			"nombre": "Nikola Vukcevic",
 			"nacionalidad": "Montenegro",
-			"fechaNacimiento": "12-12-1991",
+			"fechaNacimiento": "13-12-1991",
 			"valor": 2.5,
 			"dorsal": 17,
 			"posicion": "MC",
@@ -3215,7 +3204,7 @@
 		{
 			"nombre": "Sergio Postigo",
 			"nacionalidad": "España",
-			"fechaNacimiento": "3-11-1988",
+			"fechaNacimiento": "4-11-1988",
 			"valor": 1.2,
 			"dorsal": 15,
 			"posicion": "DF",
@@ -3226,7 +3215,7 @@
 		{
 			"nombre": "Gonzalo Melero",
 			"nacionalidad": "España",
-			"fechaNacimiento": "1-1-1994",
+			"fechaNacimiento": "2-1-1994",
 			"valor": 5,
 			"dorsal": 22,
 			"posicion": "MC",
@@ -3237,7 +3226,7 @@
 		{
 			"nombre": "Nemanja Radoja",
 			"nacionalidad": "Serbia",
-			"fechaNacimiento": "5-2-1993",
+			"fechaNacimiento": "6-2-1993",
 			"valor": 3,
 			"dorsal": 5,
 			"posicion": "MC",
@@ -3248,7 +3237,7 @@
 		{
 			"nombre": "Óscar Duarte",
 			"nacionalidad": "Costa Rica",
-			"fechaNacimiento": "2-6-1989",
+			"fechaNacimiento": "3-6-1989",
 			"valor": 0.7,
 			"dorsal": 6,
 			"posicion": "DF",
@@ -3259,7 +3248,7 @@
 		{
 			"nombre": "Carlos Clerc",
 			"nacionalidad": "España",
-			"fechaNacimiento": "20-2-1992",
+			"fechaNacimiento": "21-2-1992",
 			"valor": 2,
 			"dorsal": 19,
 			"posicion": "DF",
@@ -3270,7 +3259,7 @@
 		{
 			"nombre": "Mickaël Malsa",
 			"nacionalidad": "Martinica",
-			"fechaNacimiento": "11-10-1995",
+			"fechaNacimiento": "12-10-1995",
 			"valor": 2.8,
 			"dorsal": 12,
 			"posicion": "MC",
@@ -3281,7 +3270,7 @@
 		{
 			"nombre": "Roger Martí",
 			"nacionalidad": "España",
-			"fechaNacimiento": "2-1-1991",
+			"fechaNacimiento": "3-1-1991",
 			"valor": 8,
 			"dorsal": 9,
 			"posicion": "DL",
@@ -3292,7 +3281,7 @@
 		{
 			"nombre": "Jorge Miramón",
 			"nacionalidad": "España",
-			"fechaNacimiento": "1-6-1989",
+			"fechaNacimiento": "2-6-1989",
 			"valor": 2.2,
 			"dorsal": 20,
 			"posicion": "DF",
@@ -3303,7 +3292,7 @@
 		{
 			"nombre": "Enis Bardhi",
 			"nacionalidad": "Macedonia del Norte",
-			"fechaNacimiento": "1-7-1995",
+			"fechaNacimiento": "2-7-1995",
 			"valor": 18,
 			"dorsal": 10,
 			"posicion": "DL",
@@ -3314,7 +3303,7 @@
 		{
 			"nombre": "José Luis Morales",
 			"nacionalidad": "España",
-			"fechaNacimiento": "22-7-1987",
+			"fechaNacimiento": "23-7-1987",
 			"valor": 5,
 			"dorsal": 11,
 			"posicion": "DL",
@@ -3325,7 +3314,7 @@
 		{
 			"nombre": "Rúben Vezo",
 			"nacionalidad": "Portugal",
-			"fechaNacimiento": "24-4-1994",
+			"fechaNacimiento": "25-4-1994",
 			"valor": 8,
 			"dorsal": 14,
 			"posicion": "DF",
@@ -3336,7 +3325,7 @@
 		{
 			"nombre": "Koke Vegas",
 			"nacionalidad": "España",
-			"fechaNacimiento": "26-9-1995",
+			"fechaNacimiento": "27-9-1995",
 			"valor": 0.7,
 			"dorsal": 1,
 			"posicion": "PT",
@@ -3347,7 +3336,7 @@
 		{
 			"nombre": "Son",
 			"nacionalidad": "España",
-			"fechaNacimiento": "29-3-1994",
+			"fechaNacimiento": "30-3-1994",
 			"valor": 0.8,
 			"dorsal": 2,
 			"posicion": "DF",
@@ -3358,7 +3347,7 @@
 		{
 			"nombre": "Rober Pier",
 			"nacionalidad": "España",
-			"fechaNacimiento": "15-2-1995",
+			"fechaNacimiento": "16-2-1995",
 			"valor": 1.2,
 			"dorsal": 4,
 			"posicion": "DF",
@@ -3369,7 +3358,7 @@
 		{
 			"nombre": "Dani Cárdenas",
 			"nacionalidad": "España",
-			"fechaNacimiento": "27-3-1997",
+			"fechaNacimiento": "28-3-1997",
 			"valor": 0.6,
 			"dorsal": 34,
 			"posicion": "PT",
@@ -3380,7 +3369,7 @@
 		{
 			"nombre": "Dani Gómez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "29-7-1998",
+			"fechaNacimiento": "30-7-1998",
 			"valor": 1.5,
 			"dorsal": 21,
 			"posicion": "DL",
@@ -3391,7 +3380,7 @@
 		{
 			"nombre": "Edgar Sevikyan",
 			"nacionalidad": "Rusia",
-			"fechaNacimiento": "7-8-2001",
+			"fechaNacimiento": "8-8-2001",
 			"valor": 0.7,
 			"dorsal": 44,
 			"posicion": "DL",
@@ -3402,7 +3391,7 @@
 		{
 			"nombre": "Jorge de Frutos",
 			"nacionalidad": "España",
-			"fechaNacimiento": "19-2-1997",
+			"fechaNacimiento": "20-2-1997",
 			"valor": 4,
 			"dorsal": 18,
 			"posicion": "DL",
@@ -3415,7 +3404,7 @@
 		{
 			"nombre": "Joaquín",
 			"nacionalidad": "España",
-			"fechaNacimiento": "20-7-1981",
+			"fechaNacimiento": "21-7-1981",
 			"valor": 1.5,
 			"dorsal": 17,
 			"posicion": "DL",
@@ -3426,7 +3415,7 @@
 		{
 			"nombre": "Andrés Guardado",
 			"nacionalidad": "México",
-			"fechaNacimiento": "27-9-1986",
+			"fechaNacimiento": "28-9-1986",
 			"valor": 1.8,
 			"dorsal": 18,
 			"posicion": "MC",
@@ -3437,7 +3426,7 @@
 		{
 			"nombre": "Sidnei",
 			"nacionalidad": "Brasil",
-			"fechaNacimiento": "22-8-1989",
+			"fechaNacimiento": "23-8-1989",
 			"valor": 4,
 			"dorsal": 12,
 			"posicion": "DF",
@@ -3448,7 +3437,7 @@
 		{
 			"nombre": "Claudio Bravo",
 			"nacionalidad": "Chile",
-			"fechaNacimiento": "12-4-1983",
+			"fechaNacimiento": "13-4-1983",
 			"valor": 1,
 			"dorsal": 25,
 			"posicion": "PT",
@@ -3459,7 +3448,7 @@
 		{
 			"nombre": "Víctor Ruiz",
 			"nacionalidad": "España",
-			"fechaNacimiento": "24-1-1989",
+			"fechaNacimiento": "25-1-1989",
 			"valor": 2.5,
 			"dorsal": 6,
 			"posicion": "DF",
@@ -3470,7 +3459,7 @@
 		{
 			"nombre": "Sergio Canales",
 			"nacionalidad": "España",
-			"fechaNacimiento": "15-2-1991",
+			"fechaNacimiento": "16-2-1991",
 			"valor": 20,
 			"dorsal": 10,
 			"posicion": "MC",
@@ -3481,7 +3470,7 @@
 		{
 			"nombre": "Martín Montoya",
 			"nacionalidad": "España",
-			"fechaNacimiento": "13-4-1991",
+			"fechaNacimiento": "14-4-1991",
 			"valor": 3.5,
 			"dorsal": 2,
 			"posicion": "DF",
@@ -3492,7 +3481,7 @@
 		{
 			"nombre": "Aïssa Mandi",
 			"nacionalidad": "Argelia",
-			"fechaNacimiento": "21-10-1991",
+			"fechaNacimiento": "22-10-1991",
 			"valor": 8,
 			"dorsal": 23,
 			"posicion": "DF",
@@ -3503,7 +3492,7 @@
 		{
 			"nombre": "Marc Bartra",
 			"nacionalidad": "España",
-			"fechaNacimiento": "14-1-1991",
+			"fechaNacimiento": "15-1-1991",
 			"valor": 10,
 			"dorsal": 5,
 			"posicion": "DF",
@@ -3514,7 +3503,7 @@
 		{
 			"nombre": "William Carvalho",
 			"nacionalidad": "Portugal",
-			"fechaNacimiento": "6-4-1992",
+			"fechaNacimiento": "7-4-1992",
 			"valor": 20,
 			"dorsal": 14,
 			"posicion": "MC",
@@ -3525,7 +3514,7 @@
 		{
 			"nombre": "Joel Robles",
 			"nacionalidad": "España",
-			"fechaNacimiento": "16-6-1990",
+			"fechaNacimiento": "17-6-1990",
 			"valor": 4,
 			"dorsal": 1,
 			"posicion": "PT",
@@ -3536,7 +3525,7 @@
 		{
 			"nombre": "Juanmi",
 			"nacionalidad": "España",
-			"fechaNacimiento": "19-5-1993",
+			"fechaNacimiento": "20-5-1993",
 			"valor": 2.5,
 			"dorsal": 7,
 			"posicion": "DL",
@@ -3547,7 +3536,7 @@
 		{
 			"nombre": "Cristian Tello",
 			"nacionalidad": "España",
-			"fechaNacimiento": "10-8-1991",
+			"fechaNacimiento": "11-8-1991",
 			"valor": 7.5,
 			"dorsal": 11,
 			"posicion": "DL",
@@ -3558,7 +3547,7 @@
 		{
 			"nombre": "Álex Moreno",
 			"nacionalidad": "España",
-			"fechaNacimiento": "7-6-1993",
+			"fechaNacimiento": "8-6-1993",
 			"valor": 9,
 			"dorsal": 15,
 			"posicion": "DF",
@@ -3569,7 +3558,7 @@
 		{
 			"nombre": "Nabil Fekir",
 			"nacionalidad": "Francia",
-			"fechaNacimiento": "17-7-1993",
+			"fechaNacimiento": "18-7-1993",
 			"valor": 25,
 			"dorsal": 8,
 			"posicion": "MC",
@@ -3580,7 +3569,7 @@
 		{
 			"nombre": "Antonio Sanabria",
 			"nacionalidad": "Paraguay",
-			"fechaNacimiento": "3-3-1996",
+			"fechaNacimiento": "4-3-1996",
 			"valor": 6.5,
 			"dorsal": 19,
 			"posicion": "DL",
@@ -3591,7 +3580,7 @@
 		{
 			"nombre": "Víctor Camarasa",
 			"nacionalidad": "España",
-			"fechaNacimiento": "27-5-1994",
+			"fechaNacimiento": "28-5-1994",
 			"valor": 1.8,
 			"dorsal": 3,
 			"posicion": "MC",
@@ -3602,7 +3591,7 @@
 		{
 			"nombre": "Borja Iglesias",
 			"nacionalidad": "España",
-			"fechaNacimiento": "16-1-1993",
+			"fechaNacimiento": "17-1-1993",
 			"valor": 7,
 			"dorsal": 9,
 			"posicion": "DL",
@@ -3613,7 +3602,7 @@
 		{
 			"nombre": "Dani Martín",
 			"nacionalidad": "España",
-			"fechaNacimiento": "7-7-1998",
+			"fechaNacimiento": "8-7-1998",
 			"valor": 3.5,
 			"dorsal": 13,
 			"posicion": "PT",
@@ -3624,7 +3613,7 @@
 		{
 			"nombre": "Juan Miranda",
 			"nacionalidad": "España",
-			"fechaNacimiento": "18-1-2000",
+			"fechaNacimiento": "19-1-2000",
 			"valor": 5,
 			"dorsal": 33,
 			"posicion": "DF",
@@ -3635,7 +3624,7 @@
 		{
 			"nombre": "Guido Rodríguez",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "11-4-1994",
+			"fechaNacimiento": "12-4-1994",
 			"valor": 15,
 			"dorsal": 21,
 			"posicion": "MC",
@@ -3646,7 +3635,7 @@
 		{
 			"nombre": "Loren Morón",
 			"nacionalidad": "España",
-			"fechaNacimiento": "29-12-1993",
+			"fechaNacimiento": "30-12-1993",
 			"valor": 12,
 			"dorsal": 16,
 			"posicion": "DL",
@@ -3657,7 +3646,7 @@
 		{
 			"nombre": "Diego Lainez",
 			"nacionalidad": "México",
-			"fechaNacimiento": "8-6-2000",
+			"fechaNacimiento": "9-6-2000",
 			"valor": 7.5,
 			"dorsal": 20,
 			"posicion": "DL",
@@ -3668,7 +3657,7 @@
 		{
 			"nombre": "Aitor Ruibal",
 			"nacionalidad": "España",
-			"fechaNacimiento": "21-3-1996",
+			"fechaNacimiento": "22-3-1996",
 			"valor": 2,
 			"dorsal": 24,
 			"posicion": "DL",
@@ -3679,7 +3668,7 @@
 		{
 			"nombre": "Paul Akouokou",
 			"nacionalidad": "Costa de Marfil",
-			"fechaNacimiento": "19-12-1997",
+			"fechaNacimiento": "20-12-1997",
 			"valor": 1.5,
 			"dorsal": 4,
 			"posicion": "MC",
@@ -3690,7 +3679,7 @@
 		{
 			"nombre": "Emerson",
 			"nacionalidad": "Brasil",
-			"fechaNacimiento": "13-1-1999",
+			"fechaNacimiento": "14-1-1999",
 			"valor": 20,
 			"dorsal": 22,
 			"posicion": "DF",
@@ -3703,7 +3692,7 @@
 		{
 			"nombre": "Roberto",
 			"nacionalidad": "España",
-			"fechaNacimiento": "9-2-1986",
+			"fechaNacimiento": "10-2-1986",
 			"valor": 0.7,
 			"dorsal": 13,
 			"posicion": "PT",
@@ -3714,7 +3703,7 @@
 		{
 			"nombre": "Kiko Olivas",
 			"nacionalidad": "España",
-			"fechaNacimiento": "20-8-1988",
+			"fechaNacimiento": "21-8-1988",
 			"valor": 1,
 			"dorsal": 4,
 			"posicion": "DF",
@@ -3725,7 +3714,7 @@
 		{
 			"nombre": "Fabián Orellana",
 			"nacionalidad": "Chile",
-			"fechaNacimiento": "26-1-1986",
+			"fechaNacimiento": "27-1-1986",
 			"valor": 1.5,
 			"dorsal": 12,
 			"posicion": "DL",
@@ -3736,7 +3725,7 @@
 		{
 			"nombre": "Jordi Masip",
 			"nacionalidad": "España",
-			"fechaNacimiento": "2-1-1989",
+			"fechaNacimiento": "3-1-1989",
 			"valor": 2.8,
 			"dorsal": 1,
 			"posicion": "PT",
@@ -3747,7 +3736,7 @@
 		{
 			"nombre": "Míchel Herrero",
 			"nacionalidad": "España",
-			"fechaNacimiento": "28-7-1988",
+			"fechaNacimiento": "29-7-1988",
 			"valor": 1.2,
 			"dorsal": 21,
 			"posicion": "MC",
@@ -3758,7 +3747,7 @@
 		{
 			"nombre": "Nacho Martínez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "6-3-1989",
+			"fechaNacimiento": "7-3-1989",
 			"valor": 1.8,
 			"dorsal": 22,
 			"posicion": "DF",
@@ -3769,7 +3758,7 @@
 		{
 			"nombre": "Raúl Carnero",
 			"nacionalidad": "España",
-			"fechaNacimiento": "29-4-1989",
+			"fechaNacimiento": "30-4-1989",
 			"valor": 0.8,
 			"dorsal": 3,
 			"posicion": "DF",
@@ -3780,7 +3769,7 @@
 		{
 			"nombre": "Pablo Hervías",
 			"nacionalidad": "España",
-			"fechaNacimiento": "7-3-1993",
+			"fechaNacimiento": "8-3-1993",
 			"valor": 1.5,
 			"dorsal": 11,
 			"posicion": "DL",
@@ -3791,7 +3780,7 @@
 		{
 			"nombre": "Bruno González",
 			"nacionalidad": "España",
-			"fechaNacimiento": "23-5-1990",
+			"fechaNacimiento": "24-5-1990",
 			"valor": 1,
 			"dorsal": 6,
 			"posicion": "DF",
@@ -3802,7 +3791,7 @@
 		{
 			"nombre": "Saidy Janko",
 			"nacionalidad": "Suiza",
-			"fechaNacimiento": "21-10-1995",
+			"fechaNacimiento": "22-10-1995",
 			"valor": 1.5,
 			"dorsal": 18,
 			"posicion": "DF",
@@ -3813,7 +3802,7 @@
 		{
 			"nombre": "Roque Mesa",
 			"nacionalidad": "España",
-			"fechaNacimiento": "6-6-1989",
+			"fechaNacimiento": "7-6-1989",
 			"valor": 3,
 			"dorsal": 17,
 			"posicion": "MC",
@@ -3824,7 +3813,7 @@
 		{
 			"nombre": "Óscar Plano",
 			"nacionalidad": "España",
-			"fechaNacimiento": "10-2-1991",
+			"fechaNacimiento": "11-2-1991",
 			"valor": 3,
 			"dorsal": 10,
 			"posicion": "DL",
@@ -3835,7 +3824,7 @@
 		{
 			"nombre": "Joaquín Fernández",
 			"nacionalidad": "España",
-			"fechaNacimiento": "30-5-1996",
+			"fechaNacimiento": "31-5-1996",
 			"valor": 3,
 			"dorsal": 24,
 			"posicion": "DF",
@@ -3846,7 +3835,7 @@
 		{
 			"nombre": "Jawad El Yamiq",
 			"nacionalidad": "Marruecos",
-			"fechaNacimiento": "28-2-1992",
+			"fechaNacimiento": "29-2-1992",
 			"valor": 1.2,
 			"dorsal": 15,
 			"posicion": "DF",
@@ -3857,7 +3846,7 @@
 		{
 			"nombre": "Rubén Alcaraz",
 			"nacionalidad": "España",
-			"fechaNacimiento": "30-4-1991",
+			"fechaNacimiento": "1-5-1991",
 			"valor": 6,
 			"dorsal": 14,
 			"posicion": "MC",
@@ -3868,7 +3857,7 @@
 		{
 			"nombre": "Shon Weissman",
 			"nacionalidad": "Israel",
-			"fechaNacimiento": "13-2-1996",
+			"fechaNacimiento": "14-2-1996",
 			"valor": 6,
 			"dorsal": 9,
 			"posicion": "DL",
@@ -3879,7 +3868,7 @@
 		{
 			"nombre": "Sergi Guardiola",
 			"nacionalidad": "España",
-			"fechaNacimiento": "28-5-1991",
+			"fechaNacimiento": "29-5-1991",
 			"valor": 4,
 			"dorsal": 7,
 			"posicion": "DL",
@@ -3890,7 +3879,7 @@
 		{
 			"nombre": "Fede San Emeterio",
 			"nacionalidad": "España",
-			"fechaNacimiento": "15-3-1997",
+			"fechaNacimiento": "16-3-1997",
 			"valor": 3.5,
 			"dorsal": 20,
 			"posicion": "MC",
@@ -3901,7 +3890,7 @@
 		{
 			"nombre": "Jota",
 			"nacionalidad": "Portugal",
-			"fechaNacimiento": "29-3-1999",
+			"fechaNacimiento": "30-3-1999",
 			"valor": 6.5,
 			"dorsal": 40,
 			"posicion": "DL",
@@ -3912,7 +3901,7 @@
 		{
 			"nombre": "Toni Villa",
 			"nacionalidad": "España",
-			"fechaNacimiento": "6-1-1995",
+			"fechaNacimiento": "7-1-1995",
 			"valor": 2.5,
 			"dorsal": 19,
 			"posicion": "DL",
@@ -3923,7 +3912,7 @@
 		{
 			"nombre": "Javi Sánchez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "13-3-1997",
+			"fechaNacimiento": "14-3-1997",
 			"valor": 2.8,
 			"dorsal": 5,
 			"posicion": "DF",
@@ -3934,7 +3923,7 @@
 		{
 			"nombre": "Luis Pérez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "3-2-1995",
+			"fechaNacimiento": "4-2-1995",
 			"valor": 0.9,
 			"dorsal": 2,
 			"posicion": "DF",
@@ -3945,7 +3934,7 @@
 		{
 			"nombre": "Waldo Rubio",
 			"nacionalidad": "España",
-			"fechaNacimiento": "16-8-1995",
+			"fechaNacimiento": "17-8-1995",
 			"valor": 1.2,
 			"dorsal": 23,
 			"posicion": "DL",
@@ -3956,7 +3945,7 @@
 		{
 			"nombre": "Marcos André",
 			"nacionalidad": "Brasil",
-			"fechaNacimiento": "19-10-1996",
+			"fechaNacimiento": "20-10-1996",
 			"valor": 4,
 			"dorsal": 16,
 			"posicion": "DL",
@@ -3967,7 +3956,7 @@
 		{
 			"nombre": "Kike Pérez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "13-2-1997",
+			"fechaNacimiento": "14-2-1997",
 			"valor": 0.8,
 			"dorsal": 8,
 			"posicion": "MC",
@@ -3980,7 +3969,7 @@
 		{
 			"nombre": "Álvaro Negredo",
 			"nacionalidad": "España",
-			"fechaNacimiento": "19-8-1985",
+			"fechaNacimiento": "20-8-1985",
 			"valor": 1.2,
 			"dorsal": 18,
 			"posicion": "DL",
@@ -3991,7 +3980,7 @@
 		{
 			"nombre": "Augusto Fernández",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "9-4-1986",
+			"fechaNacimiento": "10-4-1986",
 			"valor": 0.3,
 			"dorsal": 17,
 			"posicion": "MC",
@@ -4002,7 +3991,7 @@
 		{
 			"nombre": "Pedro Alcalá",
 			"nacionalidad": "España",
-			"fechaNacimiento": "18-3-1989",
+			"fechaNacimiento": "19-3-1989",
 			"valor": 0.6,
 			"dorsal": 19,
 			"posicion": "DF",
@@ -4013,7 +4002,7 @@
 		{
 			"nombre": "Álvaro Giménez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "18-5-1991",
+			"fechaNacimiento": "19-5-1991",
 			"valor": 2.5,
 			"dorsal": 21,
 			"posicion": "DL",
@@ -4024,7 +4013,7 @@
 		{
 			"nombre": "Juan Cala",
 			"nacionalidad": "España",
-			"fechaNacimiento": "25-11-1989",
+			"fechaNacimiento": "26-11-1989",
 			"valor": 1.2,
 			"dorsal": 16,
 			"posicion": "DF",
@@ -4035,7 +4024,7 @@
 		{
 			"nombre": "Álex Fernández",
 			"nacionalidad": "España",
-			"fechaNacimiento": "14-10-1992",
+			"fechaNacimiento": "15-10-1992",
 			"valor": 7,
 			"dorsal": 8,
 			"posicion": "MC",
@@ -4046,7 +4035,7 @@
 		{
 			"nombre": "Alberto Perea",
 			"nacionalidad": "España",
-			"fechaNacimiento": "18-12-1990",
+			"fechaNacimiento": "19-12-1990",
 			"valor": 1,
 			"dorsal": 10,
 			"posicion": "DL",
@@ -4057,7 +4046,7 @@
 		{
 			"nombre": "Choco Lozano",
 			"nacionalidad": "Honduras",
-			"fechaNacimiento": "24-4-1993",
+			"fechaNacimiento": "25-4-1993",
 			"valor": 2.5,
 			"dorsal": 9,
 			"posicion": "DL",
@@ -4068,7 +4057,7 @@
 		{
 			"nombre": "Jens Jönsson",
 			"nacionalidad": "Dinamarca",
-			"fechaNacimiento": "9-1-1993",
+			"fechaNacimiento": "10-1-1993",
 			"valor": 1.8,
 			"dorsal": 2,
 			"posicion": "MC",
@@ -4079,7 +4068,7 @@
 		{
 			"nombre": "Jon Ander Garrido",
 			"nacionalidad": "España",
-			"fechaNacimiento": "8-10-1989",
+			"fechaNacimiento": "9-10-1989",
 			"valor": 0.6,
 			"dorsal": 5,
 			"posicion": "MC",
@@ -4090,7 +4079,7 @@
 		{
 			"nombre": "David Gil",
 			"nacionalidad": "España",
-			"fechaNacimiento": "10-1-1994",
+			"fechaNacimiento": "11-1-1994",
 			"valor": 0.4,
 			"dorsal": 13,
 			"posicion": "PT",
@@ -4101,7 +4090,7 @@
 		{
 			"nombre": "Filip Malbašić",
 			"nacionalidad": "Serbia",
-			"fechaNacimiento": "17-11-1992",
+			"fechaNacimiento": "18-11-1992",
 			"valor": 1,
 			"dorsal": 24,
 			"posicion": "DL",
@@ -4112,7 +4101,7 @@
 		{
 			"nombre": "Carlos Akapo",
 			"nacionalidad": "Guinea Ecuatorial",
-			"fechaNacimiento": "11-3-1993",
+			"fechaNacimiento": "12-3-1993",
 			"valor": 0.8,
 			"dorsal": 15,
 			"posicion": "DF",
@@ -4123,7 +4112,7 @@
 		{
 			"nombre": "José Mari",
 			"nacionalidad": "España",
-			"fechaNacimiento": "5-12-1987",
+			"fechaNacimiento": "6-12-1987",
 			"valor": 0.5,
 			"dorsal": 6,
 			"posicion": "MC",
@@ -4134,7 +4123,7 @@
 		{
 			"nombre": "Salvi Sánchez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "29-3-1991",
+			"fechaNacimiento": "30-3-1991",
 			"valor": 2.8,
 			"dorsal": 7,
 			"posicion": "DL",
@@ -4145,7 +4134,7 @@
 		{
 			"nombre": "Marcos Mauro",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "8-1-1991",
+			"fechaNacimiento": "9-1-1991",
 			"valor": 1,
 			"dorsal": 4,
 			"posicion": "DF",
@@ -4156,7 +4145,7 @@
 		{
 			"nombre": "Fali",
 			"nacionalidad": "España",
-			"fechaNacimiento": "11-8-1993",
+			"fechaNacimiento": "12-8-1993",
 			"valor": 1.2,
 			"dorsal": 3,
 			"posicion": "DF",
@@ -4167,7 +4156,7 @@
 		{
 			"nombre": "Iza Carcelén",
 			"nacionalidad": "España",
-			"fechaNacimiento": "22-4-1993",
+			"fechaNacimiento": "23-4-1993",
 			"valor": 1.8,
 			"dorsal": 20,
 			"posicion": "DF",
@@ -4178,7 +4167,7 @@
 		{
 			"nombre": "Iván Alejo",
 			"nacionalidad": "España",
-			"fechaNacimiento": "9-2-1995",
+			"fechaNacimiento": "10-2-1995",
 			"valor": 1.2,
 			"dorsal": 14,
 			"posicion": "DL",
@@ -4189,7 +4178,7 @@
 		{
 			"nombre": "Luismi Quezada",
 			"nacionalidad": "República Dominicana",
-			"fechaNacimiento": "10-2-1996",
+			"fechaNacimiento": "11-2-1996",
 			"valor": 0.3,
 			"dorsal": null,
 			"posicion": "DF",
@@ -4200,7 +4189,7 @@
 		{
 			"nombre": "Jeremías Ledesma",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "12-2-1993",
+			"fechaNacimiento": "13-2-1993",
 			"valor": 3,
 			"dorsal": 1,
 			"posicion": "PT",
@@ -4211,7 +4200,7 @@
 		{
 			"nombre": "Yann Bodiger",
 			"nacionalidad": "Francia",
-			"fechaNacimiento": "8-2-1995",
+			"fechaNacimiento": "9-2-1995",
 			"valor": 1,
 			"dorsal": 12,
 			"posicion": "MC",
@@ -4222,7 +4211,7 @@
 		{
 			"nombre": "Nano Mesa",
 			"nacionalidad": "España",
-			"fechaNacimiento": "4-2-1995",
+			"fechaNacimiento": "5-2-1995",
 			"valor": 0.5,
 			"dorsal": 23,
 			"posicion": "DL",
@@ -4233,7 +4222,7 @@
 		{
 			"nombre": "Alfonso Espino",
 			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "4-1-1992",
+			"fechaNacimiento": "5-1-1992",
 			"valor": 2,
 			"dorsal": 22,
 			"posicion": "DF",
@@ -4244,7 +4233,7 @@
 		{
 			"nombre": "Bobby Adekanye",
 			"nacionalidad": "Países Bajos",
-			"fechaNacimiento": "13-2-1999",
+			"fechaNacimiento": "14-2-1999",
 			"valor": 0.8,
 			"dorsal": 32,
 			"posicion": "DL",
@@ -4255,7 +4244,7 @@
 		{
 			"nombre": "Jorge Pombo",
 			"nacionalidad": "España",
-			"fechaNacimiento": "21-2-1994",
+			"fechaNacimiento": "22-2-1994",
 			"valor": 1.2,
 			"dorsal": 11,
 			"posicion": "MC",
@@ -4266,7 +4255,7 @@
 		{
 			"nombre": "Jairo Izquierdo",
 			"nacionalidad": "España",
-			"fechaNacimiento": "21-10-1993",
+			"fechaNacimiento": "22-10-1993",
 			"valor": 0.8,
 			"dorsal": 25,
 			"posicion": "DL",
@@ -4279,7 +4268,7 @@
 		{
 			"nombre": "Pape Diop",
 			"nacionalidad": "Senegal",
-			"fechaNacimiento": "18-3-1986",
+			"fechaNacimiento": "19-3-1986",
 			"valor": 0.8,
 			"dorsal": 8,
 			"posicion": "MC",
@@ -4290,7 +4279,7 @@
 		{
 			"nombre": "Pedro León",
 			"nacionalidad": "España",
-			"fechaNacimiento": "23-11-1986",
+			"fechaNacimiento": "24-11-1986",
 			"valor": 1,
 			"dorsal": 21,
 			"posicion": "DL",
@@ -4301,7 +4290,7 @@
 		{
 			"nombre": "Yoel Rodríguez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "27-8-1988",
+			"fechaNacimiento": "28-8-1988",
 			"valor": 0.9,
 			"dorsal": 13,
 			"posicion": "PT",
@@ -4312,7 +4301,7 @@
 		{
 			"nombre": "Anaitz Arbilla",
 			"nacionalidad": "España",
-			"fechaNacimiento": "14-5-1987",
+			"fechaNacimiento": "15-5-1987",
 			"valor": 1.2,
 			"dorsal": 23,
 			"posicion": "DF",
@@ -4323,7 +4312,7 @@
 		{
 			"nombre": "Quique González",
 			"nacionalidad": "España",
-			"fechaNacimiento": "15-5-1990",
+			"fechaNacimiento": "16-5-1990",
 			"valor": 0.8,
 			"dorsal": 7,
 			"posicion": "DL",
@@ -4334,7 +4323,7 @@
 		{
 			"nombre": "Sergi Enrich",
 			"nacionalidad": "España",
-			"fechaNacimiento": "25-2-1990",
+			"fechaNacimiento": "26-2-1990",
 			"valor": 2,
 			"dorsal": 9,
 			"posicion": "DL",
@@ -4345,7 +4334,7 @@
 		{
 			"nombre": "José Ángel",
 			"nacionalidad": "España",
-			"fechaNacimiento": "4-9-1989",
+			"fechaNacimiento": "5-9-1989",
 			"valor": 2,
 			"dorsal": 15,
 			"posicion": "DF",
@@ -4356,7 +4345,7 @@
 		{
 			"nombre": "Kike García",
 			"nacionalidad": "España",
-			"fechaNacimiento": "24-11-1989",
+			"fechaNacimiento": "25-11-1989",
 			"valor": 2,
 			"dorsal": 17,
 			"posicion": "DL",
@@ -4367,7 +4356,7 @@
 		{
 			"nombre": "Marko Dmitrovic",
 			"nacionalidad": "Serbia",
-			"fechaNacimiento": "23-1-1992",
+			"fechaNacimiento": "24-1-1992",
 			"valor": 10,
 			"dorsal": 1,
 			"posicion": "PT",
@@ -4378,7 +4367,7 @@
 		{
 			"nombre": "Takashi Inui",
 			"nacionalidad": "Japón",
-			"fechaNacimiento": "1-6-1988",
+			"fechaNacimiento": "2-6-1988",
 			"valor": 2,
 			"dorsal": 14,
 			"posicion": "DL",
@@ -4389,7 +4378,7 @@
 		{
 			"nombre": "Sergio Álvarez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "22-1-1992",
+			"fechaNacimiento": "23-1-1992",
 			"valor": 1.5,
 			"dorsal": 6,
 			"posicion": "MC",
@@ -4400,7 +4389,7 @@
 		{
 			"nombre": "Paulo Oliveira",
 			"nacionalidad": "Portugal",
-			"fechaNacimiento": "7-1-1992",
+			"fechaNacimiento": "8-1-1992",
 			"valor": 4,
 			"dorsal": 4,
 			"posicion": "DF",
@@ -4411,7 +4400,7 @@
 		{
 			"nombre": "Recio",
 			"nacionalidad": "España",
-			"fechaNacimiento": "10-1-1991",
+			"fechaNacimiento": "11-1-1991",
 			"valor": 1.5,
 			"dorsal": 18,
 			"posicion": "MC",
@@ -4422,7 +4411,7 @@
 		{
 			"nombre": "Rafa Soares",
 			"nacionalidad": "Portugal",
-			"fechaNacimiento": "8-5-1995",
+			"fechaNacimiento": "9-5-1995",
 			"valor": 1.8,
 			"dorsal": 11,
 			"posicion": "DF",
@@ -4433,7 +4422,7 @@
 		{
 			"nombre": "Damian Kadzior",
 			"nacionalidad": "Polonia",
-			"fechaNacimiento": "15-6-1992",
+			"fechaNacimiento": "16-6-1992",
 			"valor": 1.5,
 			"dorsal": 19,
 			"posicion": "DL",
@@ -4444,7 +4433,7 @@
 		{
 			"nombre": "Pedro Bigas",
 			"nacionalidad": "España",
-			"fechaNacimiento": "14-5-1990",
+			"fechaNacimiento": "15-5-1990",
 			"valor": 1.8,
 			"dorsal": 3,
 			"posicion": "DF",
@@ -4455,7 +4444,7 @@
 		{
 			"nombre": "Kévin Rodrigues",
 			"nacionalidad": "Portugal",
-			"fechaNacimiento": "4-3-1994",
+			"fechaNacimiento": "5-3-1994",
 			"valor": 3.5,
 			"dorsal": 24,
 			"posicion": "DF",
@@ -4466,7 +4455,7 @@
 		{
 			"nombre": "Roberto Correa",
 			"nacionalidad": "España",
-			"fechaNacimiento": "19-9-1992",
+			"fechaNacimiento": "20-9-1992",
 			"valor": 0.9,
 			"dorsal": 20,
 			"posicion": "DF",
@@ -4477,7 +4466,7 @@
 		{
 			"nombre": "Yoshinori Muto",
 			"nacionalidad": "Japón",
-			"fechaNacimiento": "14-7-1992",
+			"fechaNacimiento": "15-7-1992",
 			"valor": 2.8,
 			"dorsal": 12,
 			"posicion": "DL",
@@ -4488,7 +4477,7 @@
 		{
 			"nombre": "Roberto Olabe",
 			"nacionalidad": "España",
-			"fechaNacimiento": "4-5-1996",
+			"fechaNacimiento": "5-5-1996",
 			"valor": 0.7,
 			"dorsal": 16,
 			"posicion": "MC",
@@ -4499,7 +4488,7 @@
 		{
 			"nombre": "Esteban Burgos",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "8-1-1992",
+			"fechaNacimiento": "9-1-1992",
 			"valor": 3,
 			"dorsal": 2,
 			"posicion": "DF",
@@ -4510,7 +4499,7 @@
 		{
 			"nombre": "Alejandro Pozo",
 			"nacionalidad": "España",
-			"fechaNacimiento": "21-2-1999",
+			"fechaNacimiento": "22-2-1999",
 			"valor": 5,
 			"dorsal": 22,
 			"posicion": "DF",
@@ -4521,7 +4510,7 @@
 		{
 			"nombre": "Edu Expósito",
 			"nacionalidad": "España",
-			"fechaNacimiento": "31-7-1996",
+			"fechaNacimiento": "1-8-1996",
 			"valor": 4,
 			"dorsal": 10,
 			"posicion": "MC",
@@ -4532,7 +4521,7 @@
 		{
 			"nombre": "Bryan Gil",
 			"nacionalidad": "España",
-			"fechaNacimiento": "10-2-2001",
+			"fechaNacimiento": "11-2-2001",
 			"valor": 15,
 			"dorsal": 25,
 			"posicion": "DL",
@@ -4545,7 +4534,7 @@
 		{
 			"nombre": "Víctor Laguardia",
 			"nacionalidad": "España",
-			"fechaNacimiento": "4-11-1989",
+			"fechaNacimiento": "5-11-1989",
 			"valor": 5,
 			"dorsal": 5,
 			"posicion": "DF",
@@ -4556,7 +4545,7 @@
 		{
 			"nombre": "Lucas Pérez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "9-9-1988",
+			"fechaNacimiento": "10-9-1988",
 			"valor": 6,
 			"dorsal": 7,
 			"posicion": "DL",
@@ -4567,7 +4556,7 @@
 		{
 			"nombre": "Manu García",
 			"nacionalidad": "España",
-			"fechaNacimiento": "25-4-1986",
+			"fechaNacimiento": "26-4-1986",
 			"valor": 0.8,
 			"dorsal": 19,
 			"posicion": "MC",
@@ -4578,7 +4567,7 @@
 		{
 			"nombre": "Joselu",
 			"nacionalidad": "España",
-			"fechaNacimiento": "26-3-1990",
+			"fechaNacimiento": "27-3-1990",
 			"valor": 4,
 			"dorsal": 9,
 			"posicion": "DL",
@@ -4589,7 +4578,7 @@
 		{
 			"nombre": "Rodrigo Battaglia",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "11-7-1991",
+			"fechaNacimiento": "12-7-1991",
 			"valor": 4,
 			"dorsal": 6,
 			"posicion": "MC",
@@ -4600,7 +4589,7 @@
 		{
 			"nombre": "John Guidetti",
 			"nacionalidad": "Suecia",
-			"fechaNacimiento": "14-4-1992",
+			"fechaNacimiento": "15-4-1992",
 			"valor": 1.2,
 			"dorsal": 10,
 			"posicion": "DL",
@@ -4611,7 +4600,7 @@
 		{
 			"nombre": "Florian Lejeune",
 			"nacionalidad": "Francia",
-			"fechaNacimiento": "19-5-1991",
+			"fechaNacimiento": "20-5-1991",
 			"valor": 4.2,
 			"dorsal": 22,
 			"posicion": "DF",
@@ -4622,7 +4611,7 @@
 		{
 			"nombre": "Edgar Méndez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "1-1-1990",
+			"fechaNacimiento": "2-1-1990",
 			"valor": 2,
 			"dorsal": 16,
 			"posicion": "DL",
@@ -4633,7 +4622,7 @@
 		{
 			"nombre": "Tomás Pina",
 			"nacionalidad": "España",
-			"fechaNacimiento": "13-10-1987",
+			"fechaNacimiento": "14-10-1987",
 			"valor": 1.2,
 			"dorsal": 8,
 			"posicion": "MC",
@@ -4644,7 +4633,7 @@
 		{
 			"nombre": "Fernando Pacheco",
 			"nacionalidad": "España",
-			"fechaNacimiento": "17-5-1992",
+			"fechaNacimiento": "18-5-1992",
 			"valor": 14,
 			"dorsal": 1,
 			"posicion": "PT",
@@ -4655,7 +4644,7 @@
 		{
 			"nombre": "Rodrigo Ely",
 			"nacionalidad": "Brasil",
-			"fechaNacimiento": "2-11-1993",
+			"fechaNacimiento": "3-11-1993",
 			"valor": 2.5,
 			"dorsal": 4,
 			"posicion": "DF",
@@ -4666,7 +4655,7 @@
 		{
 			"nombre": "Jota Peleteiro",
 			"nacionalidad": "España",
-			"fechaNacimiento": "15-6-1991",
+			"fechaNacimiento": "16-6-1991",
 			"valor": 2,
 			"dorsal": 24,
 			"posicion": "DL",
@@ -4677,7 +4666,7 @@
 		{
 			"nombre": "Rubén Duarte",
 			"nacionalidad": "España",
-			"fechaNacimiento": "17-10-1995",
+			"fechaNacimiento": "18-10-1995",
 			"valor": 4.5,
 			"dorsal": 3,
 			"posicion": "DF",
@@ -4688,7 +4677,7 @@
 		{
 			"nombre": "Ximo Navarro",
 			"nacionalidad": "España",
-			"fechaNacimiento": "22-1-1990",
+			"fechaNacimiento": "23-1-1990",
 			"valor": 2,
 			"dorsal": 23,
 			"posicion": "DF",
@@ -4699,7 +4688,7 @@
 		{
 			"nombre": "Pere Pons",
 			"nacionalidad": "España",
-			"fechaNacimiento": "19-2-1993",
+			"fechaNacimiento": "20-2-1993",
 			"valor": 2.8,
 			"dorsal": 20,
 			"posicion": "MC",
@@ -4710,7 +4699,7 @@
 		{
 			"nombre": "Deyverson",
 			"nacionalidad": "Brasil",
-			"fechaNacimiento": "7-5-1991",
+			"fechaNacimiento": "8-5-1991",
 			"valor": 3.5,
 			"dorsal": 14,
 			"posicion": "DL",
@@ -4721,7 +4710,7 @@
 		{
 			"nombre": "Burgui",
 			"nacionalidad": "España",
-			"fechaNacimiento": "28-10-1993",
+			"fechaNacimiento": "29-10-1993",
 			"valor": 0.8,
 			"dorsal": 18,
 			"posicion": "DL",
@@ -4732,7 +4721,7 @@
 		{
 			"nombre": "Luis Rioja",
 			"nacionalidad": "España",
-			"fechaNacimiento": "15-10-1993",
+			"fechaNacimiento": "16-10-1993",
 			"valor": 2,
 			"dorsal": 11,
 			"posicion": "DL",
@@ -4743,7 +4732,7 @@
 		{
 			"nombre": "Adrián Marín",
 			"nacionalidad": "España",
-			"fechaNacimiento": "8-1-1997",
+			"fechaNacimiento": "9-1-1997",
 			"valor": 1,
 			"dorsal": 17,
 			"posicion": "DF",
@@ -4754,7 +4743,7 @@
 		{
 			"nombre": "Antonio Sivera",
 			"nacionalidad": "España",
-			"fechaNacimiento": "10-8-1996",
+			"fechaNacimiento": "11-8-1996",
 			"valor": 0.9,
 			"dorsal": 13,
 			"posicion": "PT",
@@ -4765,7 +4754,7 @@
 		{
 			"nombre": "Tachi",
 			"nacionalidad": "España",
-			"fechaNacimiento": "9-9-1997",
+			"fechaNacimiento": "10-9-1997",
 			"valor": 0.8,
 			"dorsal": 2,
 			"posicion": "DF",
@@ -4776,7 +4765,7 @@
 		{
 			"nombre": "Martín Aguirregabiria",
 			"nacionalidad": "España",
-			"fechaNacimiento": "9-5-1996",
+			"fechaNacimiento": "10-5-1996",
 			"valor": 3.2,
 			"dorsal": 21,
 			"posicion": "DF",
@@ -4787,7 +4776,7 @@
 		{
 			"nombre": "Tomás Tavares",
 			"nacionalidad": "Portugal",
-			"fechaNacimiento": "6-3-2001",
+			"fechaNacimiento": "7-3-2001",
 			"valor": 6.5,
 			"dorsal": 37,
 			"posicion": "DF",
@@ -4798,7 +4787,7 @@
 		{
 			"nombre": "Javi López",
 			"nacionalidad": "España",
-			"fechaNacimiento": "24-3-2002",
+			"fechaNacimiento": "25-3-2002",
 			"valor": 0.6,
 			"dorsal": 26,
 			"posicion": "DF",
@@ -4809,7 +4798,7 @@
 		{
 			"nombre": "Borja Sainz",
 			"nacionalidad": "España",
-			"fechaNacimiento": "31-1-2001",
+			"fechaNacimiento": "1-2-2001",
 			"valor": 2.5,
 			"dorsal": 29,
 			"posicion": "DL",
@@ -4822,7 +4811,7 @@
 		{
 			"nombre": "Pedro López",
 			"nacionalidad": "España",
-			"fechaNacimiento": "31-10-1983",
+			"fechaNacimiento": "1-11-1983",
 			"valor": 0.1,
 			"dorsal": 19,
 			"posicion": "DF",
@@ -4833,7 +4822,7 @@
 		{
 			"nombre": "Pedro Mosquera",
 			"nacionalidad": "España",
-			"fechaNacimiento": "20-4-1988",
+			"fechaNacimiento": "21-4-1988",
 			"valor": 0.7,
 			"dorsal": 5,
 			"posicion": "MC",
@@ -4844,7 +4833,7 @@
 		{
 			"nombre": "Mikel Rico",
 			"nacionalidad": "España",
-			"fechaNacimiento": "3-11-1984",
+			"fechaNacimiento": "4-11-1984",
 			"valor": 0.3,
 			"dorsal": 17,
 			"posicion": "MC",
@@ -4855,7 +4844,7 @@
 		{
 			"nombre": "Dimitrios Siovas",
 			"nacionalidad": "Grecia",
-			"fechaNacimiento": "15-9-1988",
+			"fechaNacimiento": "16-9-1988",
 			"valor": 2.8,
 			"dorsal": 18,
 			"posicion": "DF",
@@ -4866,7 +4855,7 @@
 		{
 			"nombre": "Luisinho",
 			"nacionalidad": "Portugal",
-			"fechaNacimiento": "4-5-1985",
+			"fechaNacimiento": "5-5-1985",
 			"valor": 0.2,
 			"dorsal": 16,
 			"posicion": "DF",
@@ -4877,7 +4866,7 @@
 		{
 			"nombre": "Andrés Fernández",
 			"nacionalidad": "España",
-			"fechaNacimiento": "16-12-1986",
+			"fechaNacimiento": "17-12-1986",
 			"valor": 0.6,
 			"dorsal": 25,
 			"posicion": "PT",
@@ -4888,7 +4877,7 @@
 		{
 			"nombre": "Jorge Pulido",
 			"nacionalidad": "España",
-			"fechaNacimiento": "7-4-1991",
+			"fechaNacimiento": "8-4-1991",
 			"valor": 2,
 			"dorsal": 14,
 			"posicion": "DF",
@@ -4899,7 +4888,7 @@
 		{
 			"nombre": "Borja García",
 			"nacionalidad": "España",
-			"fechaNacimiento": "1-11-1990",
+			"fechaNacimiento": "2-11-1990",
 			"valor": 1.5,
 			"dorsal": 24,
 			"posicion": "MC",
@@ -4910,7 +4899,7 @@
 		{
 			"nombre": "Damián Musto",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "8-6-1987",
+			"fechaNacimiento": "9-6-1987",
 			"valor": 0.3,
 			"dorsal": null,
 			"posicion": "MC",
@@ -4921,7 +4910,7 @@
 		{
 			"nombre": "David Ferreiro",
 			"nacionalidad": "España",
-			"fechaNacimiento": "31-3-1988",
+			"fechaNacimiento": "1-4-1988",
 			"valor": 1,
 			"dorsal": 7,
 			"posicion": "DL",
@@ -4932,7 +4921,7 @@
 		{
 			"nombre": "Shinji Okazaki",
 			"nacionalidad": "Japón",
-			"fechaNacimiento": "15-4-1986",
+			"fechaNacimiento": "16-4-1986",
 			"valor": 1.2,
 			"dorsal": 12,
 			"posicion": "DL",
@@ -4943,7 +4932,7 @@
 		{
 			"nombre": "Pablo Insua",
 			"nacionalidad": "España",
-			"fechaNacimiento": "8-9-1993",
+			"fechaNacimiento": "9-9-1993",
 			"valor": 1,
 			"dorsal": 4,
 			"posicion": "DF",
@@ -4954,7 +4943,7 @@
 		{
 			"nombre": "Gastón Silva",
 			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "4-3-1994",
+			"fechaNacimiento": "5-3-1994",
 			"valor": 1.2,
 			"dorsal": 22,
 			"posicion": "DF",
@@ -4965,7 +4954,7 @@
 		{
 			"nombre": "Sandro Ramírez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "8-7-1995",
+			"fechaNacimiento": "9-7-1995",
 			"valor": 2.8,
 			"dorsal": 6,
 			"posicion": "DL",
@@ -4976,7 +4965,7 @@
 		{
 			"nombre": "Juan Carlos Real",
 			"nacionalidad": "España",
-			"fechaNacimiento": "14-3-1991",
+			"fechaNacimiento": "15-3-1991",
 			"valor": 1,
 			"dorsal": 21,
 			"posicion": "MC",
@@ -4987,7 +4976,7 @@
 		{
 			"nombre": "Eugeni Valderrama",
 			"nacionalidad": "España",
-			"fechaNacimiento": "18-7-1994",
+			"fechaNacimiento": "19-7-1994",
 			"valor": 1,
 			"dorsal": 8,
 			"posicion": "MC",
@@ -4998,7 +4987,7 @@
 		{
 			"nombre": "Pablo Maffeo",
 			"nacionalidad": "España",
-			"fechaNacimiento": "11-7-1997",
+			"fechaNacimiento": "12-7-1997",
 			"valor": 3,
 			"dorsal": 3,
 			"posicion": "DF",
@@ -5009,7 +4998,7 @@
 		{
 			"nombre": "Antonio Valera",
 			"nacionalidad": "España",
-			"fechaNacimiento": "16-8-1996",
+			"fechaNacimiento": "17-8-1996",
 			"valor": 0.3,
 			"dorsal": 30,
 			"posicion": "PT",
@@ -5020,7 +5009,7 @@
 		{
 			"nombre": "Javi Ontiveros",
 			"nacionalidad": "España",
-			"fechaNacimiento": "8-9-1997",
+			"fechaNacimiento": "9-9-1997",
 			"valor": 6,
 			"dorsal": 15,
 			"posicion": "DL",
@@ -5031,7 +5020,7 @@
 		{
 			"nombre": "Jaime Seoane",
 			"nacionalidad": "España",
-			"fechaNacimiento": "21-1-1997",
+			"fechaNacimiento": "22-1-1997",
 			"valor": 0.8,
 			"dorsal": 20,
 			"posicion": "MC",
@@ -5042,7 +5031,7 @@
 		{
 			"nombre": "Rafa Mir",
 			"nacionalidad": "España",
-			"fechaNacimiento": "17-6-1997",
+			"fechaNacimiento": "18-6-1997",
 			"valor": 5.5,
 			"dorsal": 9,
 			"posicion": "DL",
@@ -5053,7 +5042,7 @@
 		{
 			"nombre": "Sergio Gómez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "3-9-2000",
+			"fechaNacimiento": "4-9-2000",
 			"valor": 2.5,
 			"dorsal": 10,
 			"posicion": "MC",
@@ -5064,7 +5053,7 @@
 		{
 			"nombre": "Kelechi Nwakali",
 			"nacionalidad": "Nigeria",
-			"fechaNacimiento": "4-6-1998",
+			"fechaNacimiento": "5-6-1998",
 			"valor": 0.7,
 			"dorsal": 26,
 			"posicion": "MC",
@@ -5075,7 +5064,7 @@
 		{
 			"nombre": "Idrissa Doumbia",
 			"nacionalidad": "Costa de Marfil",
-			"fechaNacimiento": "13-4-1998",
+			"fechaNacimiento": "14-4-1998",
 			"valor": 3.5,
 			"dorsal": 2,
 			"posicion": "MC",
@@ -5086,7 +5075,7 @@
 		{
 			"nombre": "Javi Galán",
 			"nacionalidad": "España",
-			"fechaNacimiento": "18-11-1994",
+			"fechaNacimiento": "19-11-1994",
 			"valor": 3.5,
 			"dorsal": 11,
 			"posicion": "DF",
@@ -5097,7 +5086,7 @@
 		{
 			"nombre": "Álvaro Fernández",
 			"nacionalidad": "España",
-			"fechaNacimiento": "12-4-1998",
+			"fechaNacimiento": "13-4-1998",
 			"valor": 3,
 			"dorsal": 1,
 			"posicion": "PT",
@@ -5108,7 +5097,7 @@
 		{
 			"nombre": "Dani Escriche",
 			"nacionalidad": "España",
-			"fechaNacimiento": "23-3-1998",
+			"fechaNacimiento": "24-3-1998",
 			"valor": 0.8,
 			"dorsal": 23,
 			"posicion": "DL",
@@ -5121,7 +5110,7 @@
 		{
 			"nombre": "Sergio Álvarez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "2-8-1986",
+			"fechaNacimiento": "3-8-1986",
 			"valor": 0.7,
 			"dorsal": 25,
 			"posicion": "PT",
@@ -5132,7 +5121,7 @@
 		{
 			"nombre": "Néstor Araújo",
 			"nacionalidad": "México",
-			"fechaNacimiento": "28-8-1991",
+			"fechaNacimiento": "29-8-1991",
 			"valor": 7,
 			"dorsal": 4,
 			"posicion": "DF",
@@ -5143,7 +5132,7 @@
 		{
 			"nombre": "Nolito",
 			"nacionalidad": "España",
-			"fechaNacimiento": "14-10-1986",
+			"fechaNacimiento": "15-10-1986",
 			"valor": 1.5,
 			"dorsal": 9,
 			"posicion": "DL",
@@ -5154,7 +5143,7 @@
 		{
 			"nombre": "Iago Aspas",
 			"nacionalidad": "España",
-			"fechaNacimiento": "31-7-1987",
+			"fechaNacimiento": "1-8-1987",
 			"valor": 10,
 			"dorsal": 10,
 			"posicion": "DL",
@@ -5165,7 +5154,7 @@
 		{
 			"nombre": "Hugo Mallo",
 			"nacionalidad": "España",
-			"fechaNacimiento": "21-6-1991",
+			"fechaNacimiento": "22-6-1991",
 			"valor": 5,
 			"dorsal": 2,
 			"posicion": "DF",
@@ -5176,7 +5165,7 @@
 		{
 			"nombre": "Jeison Murillo",
 			"nacionalidad": "Colombia",
-			"fechaNacimiento": "26-5-1992",
+			"fechaNacimiento": "27-5-1992",
 			"valor": 6,
 			"dorsal": 24,
 			"posicion": "DF",
@@ -5187,7 +5176,7 @@
 		{
 			"nombre": "Okay Yokuslu",
 			"nacionalidad": "Turquía",
-			"fechaNacimiento": "8-3-1994",
+			"fechaNacimiento": "9-3-1994",
 			"valor": 4,
 			"dorsal": 5,
 			"posicion": "MC",
@@ -5198,7 +5187,7 @@
 		{
 			"nombre": "David Juncà",
 			"nacionalidad": "España",
-			"fechaNacimiento": "15-11-1993",
+			"fechaNacimiento": "16-11-1993",
 			"valor": 0.7,
 			"dorsal": 17,
 			"posicion": "DF",
@@ -5209,7 +5198,7 @@
 		{
 			"nombre": "Denis Suárez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "5-1-1994",
+			"fechaNacimiento": "6-1-1994",
 			"valor": 10,
 			"dorsal": 6,
 			"posicion": "MC",
@@ -5220,7 +5209,7 @@
 		{
 			"nombre": "Rubén Blanco",
 			"nacionalidad": "España",
-			"fechaNacimiento": "24-7-1995",
+			"fechaNacimiento": "25-7-1995",
 			"valor": 7,
 			"dorsal": 13,
 			"posicion": "PT",
@@ -5231,7 +5220,7 @@
 		{
 			"nombre": "Lucas Olaza",
 			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "20-7-1994",
+			"fechaNacimiento": "21-7-1994",
 			"valor": 6,
 			"dorsal": 15,
 			"posicion": "DF",
@@ -5242,7 +5231,7 @@
 		{
 			"nombre": "Kevin Vázquez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "22-3-1993",
+			"fechaNacimiento": "23-3-1993",
 			"valor": 0.8,
 			"dorsal": 20,
 			"posicion": "DF",
@@ -5253,7 +5242,7 @@
 		{
 			"nombre": "Aarón Martín",
 			"nacionalidad": "España",
-			"fechaNacimiento": "21-4-1997",
+			"fechaNacimiento": "22-4-1997",
 			"valor": 3,
 			"dorsal": 19,
 			"posicion": "DF",
@@ -5264,7 +5253,7 @@
 		{
 			"nombre": "Santi Mina",
 			"nacionalidad": "España",
-			"fechaNacimiento": "6-12-1995",
+			"fechaNacimiento": "7-12-1995",
 			"valor": 12,
 			"dorsal": 22,
 			"posicion": "DL",
@@ -5275,7 +5264,7 @@
 		{
 			"nombre": "David Costas",
 			"nacionalidad": "España",
-			"fechaNacimiento": "25-3-1995",
+			"fechaNacimiento": "26-3-1995",
 			"valor": 1.2,
 			"dorsal": 3,
 			"posicion": "DF",
@@ -5286,7 +5275,7 @@
 		{
 			"nombre": "Renato Tapia",
 			"nacionalidad": "Perú",
-			"fechaNacimiento": "27-7-1995",
+			"fechaNacimiento": "28-7-1995",
 			"valor": 10,
 			"dorsal": 14,
 			"posicion": "MC",
@@ -5297,7 +5286,7 @@
 		{
 			"nombre": "Emre Mor",
 			"nacionalidad": "Turquía",
-			"fechaNacimiento": "23-7-1997",
+			"fechaNacimiento": "24-7-1997",
 			"valor": 1,
 			"dorsal": 11,
 			"posicion": "DL",
@@ -5308,7 +5297,7 @@
 		{
 			"nombre": "Iván Villar",
 			"nacionalidad": "España",
-			"fechaNacimiento": "8-7-1997",
+			"fechaNacimiento": "9-7-1997",
 			"valor": 1,
 			"dorsal": 1,
 			"posicion": "PT",
@@ -5319,7 +5308,7 @@
 		{
 			"nombre": "Brais Méndez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "6-1-1997",
+			"fechaNacimiento": "7-1-1997",
 			"valor": 12,
 			"dorsal": 23,
 			"posicion": "DL",
@@ -5330,7 +5319,7 @@
 		{
 			"nombre": "Jorge Sáenz",
 			"nacionalidad": "España",
-			"fechaNacimiento": "16-11-1996",
+			"fechaNacimiento": "17-11-1996",
 			"valor": 1,
 			"dorsal": 16,
 			"posicion": "DF",
@@ -5341,7 +5330,7 @@
 		{
 			"nombre": "Joseph Aidoo",
 			"nacionalidad": "Ghana",
-			"fechaNacimiento": "28-9-1995",
+			"fechaNacimiento": "29-9-1995",
 			"valor": 7,
 			"dorsal": 18,
 			"posicion": "DF",
@@ -5352,7 +5341,7 @@
 		{
 			"nombre": "Fran Beltrán",
 			"nacionalidad": "España",
-			"fechaNacimiento": "2-2-1999",
+			"fechaNacimiento": "3-2-1999",
 			"valor": 12,
 			"dorsal": 8,
 			"posicion": "MC",
@@ -5363,7 +5352,7 @@
 		{
 			"nombre": "Miguel Baeza",
 			"nacionalidad": "España",
-			"fechaNacimiento": "26-3-2000",
+			"fechaNacimiento": "27-3-2000",
 			"valor": 2.5,
 			"dorsal": 27,
 			"posicion": "MC",
@@ -5374,7 +5363,7 @@
 		{
 			"nombre": "Miguel Rodríguez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "28-4-2003",
+			"fechaNacimiento": "29-4-2003",
 			"valor": 0.8,
 			"dorsal": 32,
 			"posicion": "DL",
@@ -5385,7 +5374,7 @@
 		{
 			"nombre": "Gabriel Veiga",
 			"nacionalidad": "España",
-			"fechaNacimiento": "26-5-2002",
+			"fechaNacimiento": "27-5-2002",
 			"valor": 1,
 			"dorsal": 31,
 			"posicion": "MC",
@@ -5398,7 +5387,7 @@
 		{
 			"nombre": "Nino",
 			"nacionalidad": "España",
-			"fechaNacimiento": "9-6-1980",
+			"fechaNacimiento": "10-6-1980",
 			"valor": 0.1,
 			"dorsal": 7,
 			"posicion": "DL",
@@ -5409,7 +5398,7 @@
 		{
 			"nombre": "Antonio Barragán",
 			"nacionalidad": "España",
-			"fechaNacimiento": "11-6-1987",
+			"fechaNacimiento": "12-6-1987",
 			"valor": 0.8,
 			"dorsal": 19,
 			"posicion": "DF",
@@ -5420,7 +5409,7 @@
 		{
 			"nombre": "Iván Marcone",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "2-6-1990",
+			"fechaNacimiento": "3-6-1990",
 			"valor": 3,
 			"dorsal": 4,
 			"posicion": "MC",
@@ -5431,7 +5420,7 @@
 		{
 			"nombre": "Diego Rodríguez",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "24-6-1989",
+			"fechaNacimiento": "25-6-1989",
 			"valor": 0.3,
 			"dorsal": 1,
 			"posicion": "PT",
@@ -5442,7 +5431,7 @@
 		{
 			"nombre": "Edgar Badia",
 			"nacionalidad": "España",
-			"fechaNacimiento": "11-2-1992",
+			"fechaNacimiento": "12-2-1992",
 			"valor": 1.5,
 			"dorsal": 13,
 			"posicion": "PT",
@@ -5453,7 +5442,7 @@
 		{
 			"nombre": "Víctor Rodríguez",
 			"nacionalidad": "España",
-			"fechaNacimiento": "22-7-1989",
+			"fechaNacimiento": "23-7-1989",
 			"valor": 0.8,
 			"dorsal": 8,
 			"posicion": "DL",
@@ -5464,7 +5453,7 @@
 		{
 			"nombre": "Fidel",
 			"nacionalidad": "España",
-			"fechaNacimiento": "26-10-1989",
+			"fechaNacimiento": "27-10-1989",
 			"valor": 1.5,
 			"dorsal": 16,
 			"posicion": "DL",
@@ -5475,7 +5464,7 @@
 		{
 			"nombre": "Juan Sánchez Miño",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "31-12-1989",
+			"fechaNacimiento": "1-1-1990",
 			"valor": 2.5,
 			"dorsal": 3,
 			"posicion": "DF",
@@ -5486,7 +5475,7 @@
 		{
 			"nombre": "Miguel Cifuentes",
 			"nacionalidad": "España",
-			"fechaNacimiento": "4-10-1990",
+			"fechaNacimiento": "5-10-1990",
 			"valor": 0.8,
 			"dorsal": 23,
 			"posicion": "DF",
@@ -5497,7 +5486,7 @@
 		{
 			"nombre": "Guido Carrillo",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "24-5-1991",
+			"fechaNacimiento": "25-5-1991",
 			"valor": 2.5,
 			"dorsal": 21,
 			"posicion": "DL",
@@ -5508,7 +5497,7 @@
 		{
 			"nombre": "Gonzalo Verdú",
 			"nacionalidad": "España",
-			"fechaNacimiento": "20-10-1988",
+			"fechaNacimiento": "21-10-1988",
 			"valor": 0.8,
 			"dorsal": 5,
 			"posicion": "DF",
@@ -5519,7 +5508,7 @@
 		{
 			"nombre": "Omenuke Mfulu",
 			"nacionalidad": "República Democrática del Congo",
-			"fechaNacimiento": "19-3-1994",
+			"fechaNacimiento": "20-3-1994",
 			"valor": 0.8,
 			"dorsal": 6,
 			"posicion": "MC",
@@ -5530,7 +5519,7 @@
 		{
 			"nombre": "Luismi",
 			"nacionalidad": "España",
-			"fechaNacimiento": "4-5-1992",
+			"fechaNacimiento": "5-5-1992",
 			"valor": 0.5,
 			"dorsal": 15,
 			"posicion": "MC",
@@ -5541,7 +5530,7 @@
 		{
 			"nombre": "Pere Milla",
 			"nacionalidad": "España",
-			"fechaNacimiento": "22-9-1992",
+			"fechaNacimiento": "23-9-1992",
 			"valor": 1,
 			"dorsal": 10,
 			"posicion": "DL",
@@ -5552,7 +5541,7 @@
 		{
 			"nombre": "Josema",
 			"nacionalidad": "España",
-			"fechaNacimiento": "5-6-1996",
+			"fechaNacimiento": "6-6-1996",
 			"valor": 1,
 			"dorsal": 24,
 			"posicion": "DF",
@@ -5563,7 +5552,7 @@
 		{
 			"nombre": "Youssouf Koné",
 			"nacionalidad": "Mali",
-			"fechaNacimiento": "4-7-1995",
+			"fechaNacimiento": "5-7-1995",
 			"valor": 2,
 			"dorsal": 18,
 			"posicion": "DF",
@@ -5574,7 +5563,7 @@
 		{
 			"nombre": "Josan",
 			"nacionalidad": "España",
-			"fechaNacimiento": "2-12-1989",
+			"fechaNacimiento": "3-12-1989",
 			"valor": 0.8,
 			"dorsal": 17,
 			"posicion": "DL",
@@ -5585,7 +5574,7 @@
 		{
 			"nombre": "Emiliano Rigoni",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "3-2-1993",
+			"fechaNacimiento": "4-2-1993",
 			"valor": 3.2,
 			"dorsal": 22,
 			"posicion": "DL",
@@ -5596,7 +5585,7 @@
 		{
 			"nombre": "Dani Calvo",
 			"nacionalidad": "España",
-			"fechaNacimiento": "31-3-1994",
+			"fechaNacimiento": "1-4-1994",
 			"valor": 1,
 			"dorsal": 12,
 			"posicion": "DF",
@@ -5607,7 +5596,7 @@
 		{
 			"nombre": "Raúl Guti",
 			"nacionalidad": "España",
-			"fechaNacimiento": "29-12-1996",
+			"fechaNacimiento": "30-12-1996",
 			"valor": 4.5,
 			"dorsal": 14,
 			"posicion": "MC",
@@ -5618,7 +5607,7 @@
 		{
 			"nombre": "Lucas Boyé",
 			"nacionalidad": "Argentina",
-			"fechaNacimiento": "27-2-1996",
+			"fechaNacimiento": "28-2-1996",
 			"valor": 1.8,
 			"dorsal": 9,
 			"posicion": "DL",
@@ -5629,7 +5618,7 @@
 		{
 			"nombre": "Tete Morente",
 			"nacionalidad": "España",
-			"fechaNacimiento": "3-12-1996",
+			"fechaNacimiento": "4-12-1996",
 			"valor": 1.5,
 			"dorsal": 11,
 			"posicion": "DL",
@@ -5640,7 +5629,7 @@
 		{
 			"nombre": "Diego González",
 			"nacionalidad": "España",
-			"fechaNacimiento": "27-1-1995",
+			"fechaNacimiento": "28-1-1995",
 			"valor": 0.9,
 			"dorsal": 2,
 			"posicion": "DF",
@@ -5651,7 +5640,7 @@
 		{
 			"nombre": "Jeison Lucumí",
 			"nacionalidad": "Colombia",
-			"fechaNacimiento": "7-4-1995",
+			"fechaNacimiento": "8-4-1995",
 			"valor": 1.2,
 			"dorsal": 20,
 			"posicion": "DL",

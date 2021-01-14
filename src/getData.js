@@ -85,10 +85,16 @@ async function obtenerDatosEquipo(nombre,id){
         //valor
         let valor_temp = parseFloat(jugadores_full[i]['marketValue']['value']);
         let valor = valor_temp/1000000;
+        if (valor == null){
+            valor = 0;
+        }
 
         //dorsal
         let dorsal = parseInt(jugadores_full[i]['shirtNumber']);
-
+        if (dorsal == null){
+            dorsal = 0;
+        }
+        
         //posicion
         let pos = jugadores_full[i]['positions']['first']['group'];
         let posicion = "";

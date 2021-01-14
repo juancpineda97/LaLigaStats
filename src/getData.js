@@ -90,11 +90,11 @@ async function obtenerDatosEquipo(nombre,id){
         }
 
         //dorsal
-        let dorsal = parseInt(jugadores_full[i]['shirtNumber']);
-        if (dorsal == null){
-            dorsal = 0;
+        let dorsal = 0;
+        if (jugadores_full[i]['shirtNumber'] != null){
+            dorsal = parseInt(jugadores_full[i]['shirtNumber']);
         }
-        
+
         //posicion
         let pos = jugadores_full[i]['positions']['first']['group'];
         let posicion = "";

@@ -6,6 +6,7 @@ const datosRealMadrid = require("../test/real_madrid.json");
 const Partido = require("../src/partido.js");
 const utils = require("../src/utils.js");
 const Liga = require("../src/liga.js");
+const miError = require("../api_rest/errores.js");
 
 const data = require("../data/equipos.json");
 var archivo = JSON.parse(JSON.stringify(data));
@@ -489,12 +490,23 @@ describe("Tests de la clase Liga", () =>{
         var resultado1 = liga.aniadePartido(partido1);
         var resultado2 = liga.aniadePartido(partido2);
 
-        console.log(resultado2);
-
         aserciones.expect(resultado1.done).toEqual(true);
         aserciones.expect(resultado2.done).toEqual(false);
         aserciones.expect(resultado1.partido.equipoLocal).toEqual("UD Levante");
         aserciones.expect(resultado1.partido.estadio).toEqual("Sin definir");
         aserciones.expect(resultado2.error).toEqual("Hay varias coincidencias para alguno de los equipos dados");
+    });
+});
+
+describe("Tests de la clase miError", () =>{
+
+    test("Comprobación del funcionamiento del constructor", () => {
+        var error1 = new miError(404, "No se ha encontrado el recurso");
+        var error2 = new miError(400, "Error en la solicitud");
+        
+        aserciones.expect(error1.codigo).toEqual(404);
+        aserciones.expect(error2.codigo).toEqual(400);
+        aserciones.expect(error1.message).toEqual("No se ha encontrado el recurso");
+        aserciones.expect(error2.message).toEqual("Error en la solicitud");
     });
 });

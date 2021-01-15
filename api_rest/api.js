@@ -7,8 +7,7 @@ const puerto = process.env.port || 8080;
 var archivo = JSON.parse(JSON.stringify(data));
 var liga = new Liga(archivo);
 
-
-app.get('/equipo/:nombre_equipo', function(req, res){
+function getTipo(req){
     var req_tipo = req.headers.accept;
     var tipo = true;
     var content_type = 'application/json';
@@ -18,12 +17,46 @@ app.get('/equipo/:nombre_equipo', function(req, res){
         content_type = 'text/plain';
     }
 
+    return {
+        "tipo":tipo,
+        "content_type":content_type
+    }
+}
+
+//HU01
+app.get('/equipos/:nombre_equipo', function(req, res){
+    var tipo_req = getTipo(req);
     var nombre_equipo = req.params.nombre_equipo;
-    var resultado = liga.verJugadoresEquipo(nombre_equipo, tipo);
-    res.contentType(content_type);
+    var resultado = liga.verJugadoresEquipo(nombre_equipo, tipo_req.tipo);
+    res.contentType(tipo_req.content_type);
     res.send(resultado).status(200);
 });
 
+//HU02
+app.get('/jugadores/:nombre_jugador', function(req, res){
+    var tipo_req = getTipo(req);
+    var nombre_jugador = req.params.nombre_jugador;
+    var resultado = liga.verJugador(nombre_jugador, tipo_req.tipo);
+    res.contentType(tipo_req.content_type);
+    res.send(resultado).status(200);
+});
+
+//HU03
+app.get('/partidos/:nombre_equipo', function(req, res){
+    var tipo_req = getTipo(req);
+    var nombre_equipo = req.params.nombre_equipo;
+    var resultado = liga.verPartido(nombre_equipo, tipo_req.tipo);
+    res.contentType(tipo_req.content_type);
+    res.send(resultado).status(200);
+});
+
+//HU04
+app.get('/ranking', function(req, res){
+    var tipo_req = getTipo(req);
+    var resultado = liga.verRankingEquipos(tipo_req.tipo);
+    res.contentType(tipo_req.content_type);
+    res.send(resultado).status(200);
+});
 
 app.listen(puerto, function() {
 });

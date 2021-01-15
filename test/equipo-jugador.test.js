@@ -416,4 +416,20 @@ describe("Tests de la clase Liga", () =>{
         aserciones.expect(messi_1["Messi"][0]["nacionalidad"]).toNotInclude("Francia");
     });
 
+    test("Comprobación del método verPartido()", () => {
+        liga.addPartido(partido_prueba);
+
+        var sin_partidos_1 = liga.verPartido("Atletico", true);
+        var sin_partidos_2 = liga.verPartido("Atletico", false);
+
+        var partidos_fcb_1 = liga.verPartido("Barcelona", true);
+        var partidos_fcb_2 = liga.verPartido("Barcelona", false);
+
+        aserciones.expect(sin_partidos_1["Atletico"].length).toEqual(0);
+        aserciones.expect(sin_partidos_2).toEqual("");
+
+        aserciones.expect(partidos_fcb_1["Barcelona"][0]["equipoLocal"]).toEqual("Barcelona");
+        aserciones.expect(partidos_fcb_2).toInclude("Barcelona");
+    });
+
 });

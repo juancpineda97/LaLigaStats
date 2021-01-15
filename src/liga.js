@@ -2,11 +2,6 @@ const Equipo = require("./equipo.js");
 const Jugador = require("./jugador.js");
 const Partido = require("./partido.js");
 
-const data = require("../data/equipos.json");
-var archivo = JSON.parse(JSON.stringify(data));
-var keys = Object.keys(archivo);
-
-
 /**
  * Clase que representa al objeto Liga
  */
@@ -380,6 +375,141 @@ class Liga{
                 'capitan':jugador_traspaso.getCapitan()
             }
         }
+    }
+
+
+    aniadePartido(datos){
+        if (typeof datos != 'object'){
+            return{
+                "done":false,
+                "error":"Tipo de dato no valido"
+            }
+        }
+
+        var keys = Object.keys(datos);
+
+        if ((keys.includes("equipoLocal") == false) || 
+        (keys.includes("equipoVisitante") == false) ||
+        (keys.includes("fecha_dia") == false) || 
+        (keys.includes("fecha_mes") == false) ||
+        (keys.includes("fecha_anio") == false) ||
+        (keys.includes("fecha_hora") == false) ||
+        (keys.includes("fecha_minutos") == false)){
+            return{
+                "done":false,
+                "error":"Argumentos no válidos. Se debe incluir equipoLocal, equipoVisitante, fecha_dia, fecha_mes, fecha_anio, fecha_hora, fecha_minutos"
+            }
+        }
+
+        var equipos_total = this.getEquipos();
+
+        var re1 = new RegExp(datos.equipoLocal, "i");
+        var re2 = new RegExp(datos.equipoVisitante, "i");
+        var equipoLocal_coincidencias = [];
+        var equipoVisitante_coincidencias = [];
+        
+        equipos_total.forEach(equipo => {
+            if(equipo.getNombre().match(re1)){
+                equipoLocal_coincidencias.push(equipo); 
+            }
+
+            if(equipo.getNombre().match(re2)){
+                equipoVisitante_coincidencias.push(equipo);
+            }
+        });
+
+        if (equipoLocal_coincidencias.length < 1 || equipoVisitante_coincidencias < 1){
+            return {
+                "done":false,
+                "error":"No se han encontrado los equipos"
+            }
+        }
+
+        if (equipoLocal_coincidencias.length > 1 || equipoVisitante_coincidencias > 1){
+            return {
+                "done":false,
+                "error":"Hay varias coincidencias para alguno de los equipos dados"
+            }
+        }
+
+        var equipoLocal = equipoLocal_coincidencias[0];
+        var equipoVisitante = equipoVisitante_coincidencias[0];
+
+        var onceInicialLocal;
+        var onceInicialVisitante;
+        var suplentesLocal;
+        var suplentesVisitante;
+        var estadio;
+        var arbitro;
+
+        if (keys.includes("onceInicialLocal") == false){
+            onceInicialLocal = [0,0,0,0,0,0,0,0,0,0,0];
+        }
+        else{
+            onceInicialLocal = datos.onceInicialLocal;
+        }
+
+        if (keys.includes("onceInicialVisitante") == false){
+            onceInicialVisitante = [0,0,0,0,0,0,0,0,0,0,0];
+        }
+        else{
+            onceInicialVisitante = datos.onceInicialVisitante;
+        }
+
+        if (keys.includes("suplentesLocal") == false){
+            suplentesLocal = [0,0,0,0,0];
+        }
+        else{
+            suplentesLocal = datos.suplentesLocal;
+        }
+
+        if (keys.includes("suplentesVisitante") == false){
+            suplentesVisitante = [0,0,0,0,0];
+        }
+        else{
+            suplentesVisitante = datos.suplentesVisitante;
+        }
+
+        if (keys.includes("estadio") == false){
+            estadio = "Sin definir";
+        }
+        else{
+            estadio = datos.estadio;
+        }
+
+        if (keys.includes("arbitro") == false){
+            arbitro = "Sin definir";
+        }
+        else{
+            arbitro = datos.arbitro;
+        }
+
+        var fecha = new Date(datos.fecha_anio, datos.fecha_mes, datos.fecha_dia,
+            datos.fecha_hora, datos.fecha_minutos, 0);
+
+        var partido = new Partido(equipoLocal, equipoVisitante, fecha, onceInicialLocal, 
+            onceInicialVisitante, suplentesLocal, suplentesVisitante, estadio, arbitro);
+
+        this.addPartido(partido);
+
+        return{
+            "done":true,
+            "partido":{
+                'equipoLocal':partido.getEquipoLocal().getNombre(),
+                'equipoVisitante':partido.getEquipoVisitante().getNombre(),
+                'fecha':partido.getFecha(),
+                'onceInicialLocal':partido.getOnceInicialLocal(),
+                'onceInicialVisitante':partido.getOnceInicialVisitante(),
+                'suplentesLocal':partido.getSuplentesLocal(),
+                'suplentesVisitante':partido.getSuplentesVisitante(),
+                'estadio':partido.getEstadio(),
+                'arbitro':partido.getArbitro(),
+                'golesLocal':partido.getGolesLocal(),
+                'golesVisitante':partido.getGolesVisitante()
+
+            }
+        }
+
     }
 
 }

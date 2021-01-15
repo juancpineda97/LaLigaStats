@@ -464,4 +464,37 @@ describe("Tests de la clase Liga", () =>{
         aserciones.expect(equipo_original).toNotInclude("Messi");
         aserciones.expect(equipo_nuevo).toInclude("Messi");
     });
+
+    test("Comprobación del método aniadePartido()", () => {
+        var partido1 = {
+            "equipoLocal":"Levante",
+            "equipoVisitante":"Huesca",
+            "fecha_anio":2020,
+            "fecha_mes":8,
+            "fecha_dia":26,
+            "fecha_hora":22,
+            "fecha_minutos":30
+        }
+
+        var partido2 = {
+            "equipoLocal":"Levante",
+            "equipoVisitante":"Madrid",
+            "fecha_anio":2020,
+            "fecha_mes":8,
+            "fecha_dia":26,
+            "fecha_hora":22,
+            "fecha_minutos":30
+        }
+        
+        var resultado1 = liga.aniadePartido(partido1);
+        var resultado2 = liga.aniadePartido(partido2);
+
+        console.log(resultado2);
+
+        aserciones.expect(resultado1.done).toEqual(true);
+        aserciones.expect(resultado2.done).toEqual(false);
+        aserciones.expect(resultado1.partido.equipoLocal).toEqual("UD Levante");
+        aserciones.expect(resultado1.partido.estadio).toEqual("Sin definir");
+        aserciones.expect(resultado2.error).toEqual("Hay varias coincidencias para alguno de los equipos dados");
+    });
 });

@@ -65,6 +65,9 @@ app.get('/partidos/:nombre_equipo', function(req, res){
     var tipo_req = getTipo(req);
     var nombre_equipo = req.params.nombre_equipo;
     var resultado = liga.verPartido(nombre_equipo, tipo_req.tipo);
+    if (resultado == "" || (typeof resultado == 'object' && resultado[nombre_equipo].length == 0)){
+        throw new miError(404, "No se ha encontrado ningún partido del equipo dado");
+    }
     res.contentType(tipo_req.content_type);
     res.send(resultado).status(200);
 });

@@ -428,7 +428,6 @@ class Liga{
 
             if(equipo.getNombre().match(re2)){
                 equipoVisitante_coincidencias.push(equipo);
-                console.log(equipo.getNombre());
             }
         });
 

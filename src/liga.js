@@ -318,6 +318,7 @@ class Liga{
         if (jugadores_coinciden.length < 1){
             return {
                 "done":false,
+                "codigo":404,
                 "error":"No se ha encontrado al jugador especificado"
             }
         }
@@ -325,6 +326,7 @@ class Liga{
         if (jugadores_coinciden.length > 1){
             return {
                 "done":false,
+                "codigo":400,
                 "error":"Se ha encontrado más de un jugador"
             }
         }
@@ -347,6 +349,7 @@ class Liga{
         if (equipos_coinciden.length < 1){
             return {
                 "done":false,
+                "codigo":404,
                 "error":"No se ha encontrado el equipo especificado"
             }
         }
@@ -354,6 +357,7 @@ class Liga{
         if (equipos_coinciden.length > 1){
             return {
                 "done":false,
+                "codigo":400,
                 "error":"Se ha encontrado más de un equipo"
             }
         }
@@ -395,6 +399,7 @@ class Liga{
         if (typeof datos != 'object'){
             return{
                 "done":false,
+                "codigo":400,
                 "error":"Tipo de dato no valido"
             }
         }
@@ -410,6 +415,7 @@ class Liga{
         (keys.includes("fecha_minutos") == false)){
             return{
                 "done":false,
+                "codigo":400,
                 "error":"Argumentos no válidos. Se debe incluir equipoLocal, equipoVisitante, fecha_dia, fecha_mes, fecha_anio, fecha_hora, fecha_minutos"
             }
         }
@@ -434,6 +440,7 @@ class Liga{
         if (equipoLocal_coincidencias.length < 1 || equipoVisitante_coincidencias.length < 1){
             return {
                 "done":false,
+                "codigo":404,
                 "error":"No se han encontrado los equipos"
             }
         }
@@ -441,6 +448,7 @@ class Liga{
         if (equipoLocal_coincidencias.length > 1 || equipoVisitante_coincidencias.length > 1){
             return {
                 "done":false,
+                "codigo":400,
                 "error":"Hay varias coincidencias para alguno de los equipos dados"
             }
         }

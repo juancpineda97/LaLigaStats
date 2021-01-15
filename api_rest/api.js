@@ -1,15 +1,25 @@
 const express = require('express');
 const Liga = require('../src/liga.js');
+const miError = require('./errores.js');
 const data = require("../data/equipos.json");
 const app = express();
 const puerto = process.env.port || 8080;
 
+//Carga del archivo con los equipos y jugadores originales
 var archivo = JSON.parse(JSON.stringify(data));
+//Creación de una instancia de Liga con estos datos.
 var liga = new Liga(archivo);
 
 //Middleware bodyparser
 app.use(express.json());
 
+/**
+ * Función que ajusta el content type 
+ * devuelto dependiendo del parámetro Accept de 
+ * la petición dada, además, devuelve en "tipo" 
+ * el modo en el que se ejecutarán algunos métodos
+ * @param {Request} req - Petición
+ */
 function getTipo(req){
     var req_tipo = req.headers.accept;
     var tipo = true;
@@ -73,6 +83,14 @@ app.post('/partidos/nuevo', function(req, res){
     var parametros = req.body;
     var salida = liga.aniadePartido(parametros);
     res.send(salida);
+});
+
+//Middleware de gestión de errores
+app.use((err, req, res, next) =>{
+    var info_error_key = "ERROR " + err.codigo;
+    var info_error = {};
+    info_error[info_error_key] = err.message;
+    res.status(err.codigo).send(info_error);
 });
 
 app.listen(puerto, function() {

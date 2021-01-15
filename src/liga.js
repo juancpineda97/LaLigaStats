@@ -59,6 +59,24 @@ class Liga{
         }
     }
 
+    
+    /**
+     * Método para obtener la lista completa de jugadores de la liga.
+     * @returns {array[Jugador]} - Lista de jugadores
+     */
+    getJugadores(){
+        var jugadores = [];
+
+        this.getEquipos().forEach(equipo => {
+            equipo.getListaJugadores().forEach(jugador => {
+                jugadores.push(jugador);
+            });
+        });
+
+        return jugadores;
+    }
+
+
     /**
      * 
      * @param {String} nombreEquipo - Nombre del equipo a mostrar
@@ -116,6 +134,24 @@ class Liga{
 
     }
 
+
+    verJugador(nombre, JSON){
+        var re = new RegExp(nombre, "i");
+        var resultado;
+
+        if (JSON){
+            resultado = {};
+        }
+        else {
+            resultado = "";
+        }
+
+
+    }
+
 }
+
+var liga = new Liga(archivo)
+
 
 module.exports = Liga;

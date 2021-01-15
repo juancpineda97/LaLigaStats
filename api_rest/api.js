@@ -92,7 +92,7 @@ app.put('/jugadores/traspaso', function(req, res){
     }
     var salida = liga.traspasoJugador(parametros.nombre_jugador, parametros.nombre_equipo);
     if (salida.done == false){
-        throw new miError(404, salida.error);
+        throw new miError(salida.codigo, salida.error);
     }
     res.send(salida);
 });

@@ -27,6 +27,34 @@ class Equipo{
         this.getListaJugadores = function(){
             return listaJugadores;
         }
+
+        this.aniadeJugador = function(jugador){
+            if (typeof jugador != 'object'){
+                throw new Error('Tipo de dato no valido');
+            }
+
+            if (jugador.getEquipo() != nombre){
+                throw new Error('El equipo del jugador no coincide');
+            }
+
+            if (jugador.getDorsal() != 0){
+                throw new Error('El dorsal debe ser 0 al inicio');
+            }
+
+            listaJugadores.push(jugador);
+        }
+
+        this.eliminaJugador = function(jugador){
+            if (typeof jugador != 'object'){
+                throw new Error('Tipo de dato no valido');
+            }
+
+            var i = listaJugadores.indexOf(jugador);
+ 
+            if ( i !== -1 ) {
+                listaJugadores.splice( i, 1 );
+            }
+        }
     }
     
     /**

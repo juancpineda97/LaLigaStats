@@ -42,7 +42,7 @@ app.get('/equipos/:nombre_equipo', function(req, res){
     var nombre_equipo = req.params.nombre_equipo;
     var resultado = liga.verJugadoresEquipo(nombre_equipo, tipo_req.tipo);
     if (resultado == "" || Object.keys(resultado).length == 0){
-        throw new miError(404, "No se ha encontrado ningún equipo con el nombre dado")
+        throw new miError(404, "No se ha encontrado ningún equipo con el nombre dado");
     }
     res.contentType(tipo_req.content_type);
     res.send(resultado).status(200);
@@ -53,6 +53,9 @@ app.get('/jugadores/:nombre_jugador', function(req, res){
     var tipo_req = getTipo(req);
     var nombre_jugador = req.params.nombre_jugador;
     var resultado = liga.verJugador(nombre_jugador, tipo_req.tipo);
+    if (resultado == "" || (typeof resultado == 'object' && resultado[nombre_jugador].length == 0)){
+        throw new miError(404, "No se ha encontrado ningún jugador con el nombre dado");
+    }
     res.contentType(tipo_req.content_type);
     res.send(resultado).status(200);
 });

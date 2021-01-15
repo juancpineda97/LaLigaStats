@@ -101,6 +101,9 @@ app.put('/jugadores/traspaso', function(req, res){
 app.post('/partidos/nuevo', function(req, res){
     var parametros = req.body;
     var salida = liga.aniadePartido(parametros);
+    if (salida.done == false){
+        throw new miError(salida.codigo, salida.error);
+    }
     res.send(salida);
 });
 

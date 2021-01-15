@@ -243,7 +243,7 @@ class Liga{
     }
 
     /**
-    * Función que devuelve un ranking del valor total de los equipos de la liga. 
+    * Método que devuelve un ranking del valor total de los equipos de la liga. 
     * @param {boolean} JSON - True si se quieren los resultados en formato de JSON, False en formato de String.
     * @returns {JSON || String} - Ranking de los equipos de mayor a menor valor.
     */
@@ -274,6 +274,8 @@ class Liga{
             }     
         });
 
+        var keys = Object.keys(valores_equipos_ordenados);
+
         if (JSON){
             return valores_equipos_ordenados;
         }
@@ -294,6 +296,12 @@ class Liga{
     }
 
 
+    /**
+    * Método que traspasa un jugador dado de un equipo a otro. 
+    * @param {String} nombre_jugador - Nombre del jugador a traspasar.
+    * @param {String} nombre_equipo - Nombre del equipo al que se traspasa el jugador.
+    * @returns {JSON} - Información con el resultado de la operación.
+    */
     traspasoJugador(nombre_jugador, nombre_equipo){
         var equipos_total = this.getEquipos();
         var jugadores_total = this.getJugadores();
@@ -378,6 +386,11 @@ class Liga{
     }
 
 
+    /**
+    * Método que añade un nuevo partido. 
+    * @param {JSON} datos - Datos del partido a añadir.
+    * @returns {JSON} - Información con el resultado de la operación.
+    */
     aniadePartido(datos){
         if (typeof datos != 'object'){
             return{
@@ -410,22 +423,23 @@ class Liga{
         
         equipos_total.forEach(equipo => {
             if(equipo.getNombre().match(re1)){
-                equipoLocal_coincidencias.push(equipo); 
+                equipoLocal_coincidencias.push(equipo);
             }
 
             if(equipo.getNombre().match(re2)){
                 equipoVisitante_coincidencias.push(equipo);
+                console.log(equipo.getNombre());
             }
         });
 
-        if (equipoLocal_coincidencias.length < 1 || equipoVisitante_coincidencias < 1){
+        if (equipoLocal_coincidencias.length < 1 || equipoVisitante_coincidencias.length < 1){
             return {
                 "done":false,
                 "error":"No se han encontrado los equipos"
             }
         }
 
-        if (equipoLocal_coincidencias.length > 1 || equipoVisitante_coincidencias > 1){
+        if (equipoLocal_coincidencias.length > 1 || equipoVisitante_coincidencias.length > 1){
             return {
                 "done":false,
                 "error":"Hay varias coincidencias para alguno de los equipos dados"

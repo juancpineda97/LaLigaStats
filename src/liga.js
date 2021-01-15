@@ -57,6 +57,10 @@ class Liga{
         this.getPartidos = function(){
             return partidos;
         }
+
+        this.addPartido = function(partido){
+            partidos.push(partido);
+        }
     }
 
 

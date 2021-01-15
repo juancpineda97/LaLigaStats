@@ -134,7 +134,7 @@ class Partido {
         var resultado = "";
         resultado += "Partido jugado el " + this.getFecha().getDate() + "/" + this.getFecha().getMonth() + "/" + this.getFecha().getFullYear() + 
         " a las " + this.getFecha().getHours() + ":" + this.getFecha().getMinutes() + ":" + this.getFecha().getSeconds() + "\n";
-        resultado += "Equipo Local: " + this.getEquipoLocal().nombre + "\n" + "Equipo Visitante: " + this.getEquipoVisitante().nombre + "\n";
+        resultado += "Equipo Local: " + this.getEquipoLocal().getNombre() + "\n" + "Equipo Visitante: " + this.getEquipoVisitante().getNombre() + "\n";
         resultado += "Resultado: " + this.getGolesLocal() + "-" + this.getGolesVisitante() + "\n";
         resultado += "Estadio: " + this.getEstadio() + " Árbitro: " + this.getArbitro() + "\n";
 

@@ -7,6 +7,9 @@ const puerto = process.env.port || 8080;
 var archivo = JSON.parse(JSON.stringify(data));
 var liga = new Liga(archivo);
 
+//Middleware bodyparser
+app.use(express.json());
+
 function getTipo(req){
     var req_tipo = req.headers.accept;
     var tipo = true;
@@ -56,6 +59,20 @@ app.get('/ranking', function(req, res){
     var resultado = liga.verRankingEquipos(tipo_req.tipo);
     res.contentType(tipo_req.content_type);
     res.send(resultado).status(200);
+});
+
+//HU05
+app.put('/jugadores/traspaso', function(req, res){
+    var parametros = req.body;
+    var salida = liga.traspasoJugador(parametros.nombre_jugador, parametros.nombre_equipo);
+    res.send(salida);
+});
+
+//HU06
+app.post('/partidos/nuevo', function(req, res){
+    var parametros = req.body;
+    var salida = liga.aniadePartido(parametros);
+    res.send(salida);
 });
 
 app.listen(puerto, function() {

@@ -86,7 +86,14 @@ app.get('/ranking', function(req, res){
 //HU05
 app.put('/jugadores/traspaso', function(req, res){
     var parametros = req.body;
+    var keys = Object.keys(parametros);
+    if(keys.includes("nombre_jugador") == false || keys.includes("nombre_equipo") == false){
+        throw new miError(400, "No se han indicado los parámetros adecuados. Estos deben ser nombre_jugador y nombre_equipo");
+    }
     var salida = liga.traspasoJugador(parametros.nombre_jugador, parametros.nombre_equipo);
+    if (salida.done == false){
+        throw new miError(404, salida.error);
+    }
     res.send(salida);
 });
 

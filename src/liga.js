@@ -247,6 +247,57 @@ class Liga{
 
     }
 
+    /**
+    * Función que devuelve un ranking del valor total de los equipos de la liga. 
+    * @param {boolean} JSON - True si se quieren los resultados en formato de JSON, False en formato de String.
+    * @returns {JSON || String} - Ranking de los equipos de mayor a menor valor.
+    */
+    verRankingEquipos(JSON){
+        var valores_equipos = {};
+
+        var equipos = this.getEquipos();
+
+        equipos.forEach(equipo => {
+            var valor_acumulado = 0.0
+            equipo.getListaJugadores().forEach(jugador => {
+                valor_acumulado = (parseFloat(valor_acumulado) + parseFloat(jugador.getValor())).toFixed(1);
+            });
+            valores_equipos[equipo.getNombre()] = parseFloat(valor_acumulado);
+        });
+
+        var valores_equipos_array= Object.entries(valores_equipos);
+        valores_equipos_array.sort((a,b) => b[1] -a[1]);
+
+        var valores_equipos_ordenados = {};
+
+        valores_equipos_array.forEach(equipo => {
+            if ((equipo[1] % 1) == 0){
+                valores_equipos_ordenados[equipo[0]] = Math.trunc(equipo[1]);
+            }
+            else{
+                valores_equipos_ordenados[equipo[0]] = equipo[1];
+            }     
+        });
+
+        if (JSON){
+            return valores_equipos_ordenados;
+        }
+        else{
+            var mensaje = "Ranking de equipos más valiosos de LaLiga:" + "\n\n";
+            var n = 1;
+            for (const equipo_valor in valores_equipos_ordenados) {
+                mensaje = mensaje + n.toString() + " -> " + equipo_valor + ": " +
+                valores_equipos_ordenados[equipo_valor].toString() + " M(€)";
+                if (n < keys.length){
+                    mensaje = mensaje + "\n";
+                }
+                n++;
+            }
+
+            return mensaje;
+        }
+    }
+
 }
 
 module.exports = Liga;

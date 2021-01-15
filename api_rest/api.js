@@ -76,6 +76,9 @@ app.get('/partidos/:nombre_equipo', function(req, res){
 app.get('/ranking', function(req, res){
     var tipo_req = getTipo(req);
     var resultado = liga.verRankingEquipos(tipo_req.tipo);
+    if (resultado == "" || Object.keys(resultado).length == 0){
+        throw new miError(404, "No hay equipos disponibles para realizar el ranking");
+    }
     res.contentType(tipo_req.content_type);
     res.send(resultado).status(200);
 });

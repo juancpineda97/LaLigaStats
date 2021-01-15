@@ -81,7 +81,7 @@ class Liga{
      * Método que devuelve los jugadores de un equipo dado
      * @param {String} nombreEquipo - Nombre del equipo a mostrar
      * @param {boolean} JSON - True si se quieren los resultados en formato de JSON, False en formato de String.
-     * @returns {JSON || boolean} - Jugadores del equipo
+     * @returns {JSON || String} - Jugadores del equipo
      */
     verJugadoresEquipo(nombreEquipo, JSON){
         var re = new RegExp(nombreEquipo, "i");
@@ -138,7 +138,7 @@ class Liga{
      * Método que muestra a los jugadores que coinciden con el nombre dado
      * @param {String} nombre - Nombre del jugador a mostrar
      * @param {boolean} JSON - True si se quieren los resultados en formato de JSON, False en formato de String.
-     * @returns {JSON || boolean} - Jugadores que coinciden con el nombre
+     * @returns {JSON || String} - Jugadores que coinciden con el nombre
      */
     verJugador(nombre, JSON){
         var re = new RegExp(nombre, "i");
@@ -184,6 +184,63 @@ class Liga{
         });
 
         return resultado;
+    }
+    
+    
+    /**
+     * Método que muestra los partidos jugados por el equipo dado
+     * @param {String} nombre_equipo - Nombre del equipo
+     * @param {boolean} JSON - True si se quieren los resultados en formato de JSON, False en formato de String.
+     * @returns {JSON || String} - Partidos que ha jugado el equipo
+     */
+    verPartido(nombre_equipo, JSON){
+        var re = new RegExp(nombre_equipo, "i");
+        var resultado;
+
+        if (JSON){
+            resultado = {};
+            resultado[nombre_equipo] = [];
+        }
+        else {
+            resultado = "";
+        }
+
+        var partidos_total = this.getPartidos();
+        var partidos_coinciden = [];
+
+        partidos_total.forEach(partido => {
+            if(partido.getEquipoLocal().getNombre().match(re) || 
+            partido.getEquipoVisitante().getNombre().match(re)){
+                partidos_coinciden.push(partido);
+            }
+        });
+
+        partidos_coinciden.forEach(partido => {
+            
+            if (JSON){
+
+                var datos_partido = {};
+                datos_partido['equipoLocal'] = partido.getEquipoLocal().getNombre();
+                datos_partido['equipoVisitante'] = partido.getEquipoVisitante().getNombre();
+                datos_partido['fecha'] = partido.getFecha();
+                datos_partido['onceInicialLocal'] = partido.getOnceInicialLocal();
+                datos_partido['onceInicialVisitante'] = partido.getOnceInicialVisitante();
+                datos_partido['suplentesLocal'] = partido.getSuplentesLocal();
+                datos_partido['suplentesVisitante'] = partido.getSuplentesVisitante();
+                datos_partido['estadio'] = partido.getEstadio();
+                datos_partido['arbitro'] = partido.getArbitro();
+                datos_partido['golesLocal'] = partido.getGolesLocal();
+                datos_partido['golesVisitante'] = partido.getGolesVisitante();
+                    
+                resultado[nombre_equipo].push(datos_partido);
+            }
+            else{
+                resultado += partido.verPartido() + "\n\n";
+            }
+        });
+
+        return resultado;
+
     }
 
 }

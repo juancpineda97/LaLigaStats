@@ -446,4 +446,22 @@ describe("Tests de la clase Liga", () =>{
             aserciones.expect(ranking_string).toInclude(nombres_equipos[i]);
         }
     });
+
+    test("Comprobación del método traspasoJugador()", () => {
+        var traspaso1 = liga.traspasoJugador("NoExiste", "Real Madrid");
+        var traspaso2 = liga.traspasoJugador("Coutinho", "NoExiste");
+        var traspaso3 = liga.traspasoJugador("Messi", "Real Madrid");
+
+        aserciones.expect(traspaso1.done).toEqual(false);
+        aserciones.expect(traspaso2.done).toEqual(false);
+        aserciones.expect(traspaso3.done).toEqual(true);
+        aserciones.expect(traspaso3.jugador.nombre).toEqual("Lionel Messi");
+        aserciones.expect(traspaso3.jugador.equipo).toEqual("Real Madrid");
+
+        var equipo_original = liga.verJugadoresEquipo("Barcelona", false);
+        var equipo_nuevo = liga.verJugadoresEquipo("Real Madrid", false);
+
+        aserciones.expect(equipo_original).toNotInclude("Messi");
+        aserciones.expect(equipo_nuevo).toInclude("Messi");
+    });
 });

@@ -432,4 +432,18 @@ describe("Tests de la clase Liga", () =>{
         aserciones.expect(partidos_fcb_2).toInclude("Barcelona");
     });
 
+    test("Comprobación del método verRankingEquipos()", () => {
+        var ranking_JSON = liga.verRankingEquipos(true);
+        var ranking_string = liga.verRankingEquipos(false);
+        var nombres_equipos_JSON = Object.keys(ranking_JSON);
+        var nombres_equipos = Object.keys(archivo);
+        
+        for (let i = 0; i < nombres_equipos_JSON.length-1; i++) {
+            aserciones.expect(ranking_JSON[nombres_equipos_JSON[i]]).toBeGreaterOrEqualThan(ranking_JSON[nombres_equipos_JSON[i+1]]);
+        }
+
+        for (let i = 0; i < nombres_equipos.length; i++) {
+            aserciones.expect(ranking_string).toInclude(nombres_equipos[i]);
+        }
+    });
 });

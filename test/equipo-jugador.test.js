@@ -400,4 +400,20 @@ describe("Tests de la clase Liga", () =>{
         aserciones.expect(barcelona).toNotInclude("Real Madrid");
     });
 
+    test("Comprobación del método verJugador()", () => {
+        var jugador_inexistente_1 = liga.verJugador("NoExiste", true);
+        var jugador_inexistente_2 = liga.verJugador("NoExiste", false);
+        var messi_1 = liga.verJugador("Messi", true);
+        var messi_2 = liga.verJugador("Messi", false);
+
+        aserciones.expect(jugador_inexistente_2).toEqual("");
+        aserciones.expect(jugador_inexistente_1["NoExiste"].length).toEqual(0);
+
+        aserciones.expect(messi_2).toInclude("Lionel Messi");
+        aserciones.expect(messi_2).toNotInclude("Real Madrid");
+
+        aserciones.expect(messi_1["Messi"][0]["nombre"]).toEqual("Lionel Messi");
+        aserciones.expect(messi_1["Messi"][0]["nacionalidad"]).toNotInclude("Francia");
+    });
+
 });

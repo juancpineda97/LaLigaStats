@@ -298,6 +298,90 @@ class Liga{
         }
     }
 
+
+    traspasoJugador(nombre_jugador, nombre_equipo){
+        var equipos_total = this.getEquipos();
+        var jugadores_total = this.getJugadores();
+
+        var re1 = new RegExp(nombre_jugador, "i");
+        var jugadores_coinciden = [];
+
+        jugadores_total.forEach(jugador => {
+            if(jugador.getNombre().match(re1)){
+                jugadores_coinciden.push(jugador);
+            }
+        });
+
+        if (jugadores_coinciden.length < 1){
+            return {
+                "done":false,
+                "error":"No se ha encontrado al jugador especificado"
+            }
+        }
+
+        if (jugadores_coinciden.length > 1){
+            return {
+                "done":false,
+                "error":"Se ha encontrado más de un jugador"
+            }
+        }
+
+        var re2 = new RegExp(nombre_equipo, "i");
+        var re3 = new RegExp(jugadores_coinciden[0].getEquipo(), "i");
+        var equipos_coinciden = [];
+        var equipo_antiguo;
+
+        equipos_total.forEach(equipo => {
+            if(equipo.getNombre().match(re2)){
+                equipos_coinciden.push(equipo);
+            }
+
+            if(equipo.getNombre().match(re3)){
+                equipo_antiguo = equipo;
+            }
+        });
+
+        if (equipos_coinciden.length < 1){
+            return {
+                "done":false,
+                "error":"No se ha encontrado el equipo especificado"
+            }
+        }
+
+        if (equipos_coinciden.length > 1){
+            return {
+                "done":false,
+                "error":"Se ha encontrado más de un equipo"
+            }
+        }
+
+        equipo_antiguo.eliminaJugador(jugadores_coinciden[0]);
+
+        var jugador_traspaso = new Jugador(jugadores_coinciden[0].getNombre(),
+        equipos_coinciden[0].getNombre(), jugadores_coinciden[0].getNacionalidad(),
+        jugadores_coinciden[0].getFechaNacimiento(), jugadores_coinciden[0].getValor(),
+        0, jugadores_coinciden[0].getPosicion(), jugadores_coinciden[0].getPieHabil(),
+        jugadores_coinciden[0].getAltura(), false)
+
+        equipos_coinciden[0].aniadeJugador(jugador_traspaso);
+
+        return {
+            "done":true,
+            "jugador":{
+                'nombre':jugador_traspaso.getNombre(),
+                'equipo':jugador_traspaso.getEquipo(),
+                'nacionalidad':jugador_traspaso.getNacionalidad(),
+                'fechaNacimiento':jugador_traspaso.getFechaNacimiento(),
+                'valor':jugador_traspaso.getValor(),
+                'dorsal':jugador_traspaso.getDorsal(),
+                'posicion':jugador_traspaso.getPosicion(),
+                'pieHabil':jugador_traspaso.getPieHabil(),
+                'altura':jugador_traspaso.getAltura(),
+                'capitan':jugador_traspaso.getCapitan()
+            }
+        }
+    }
+
 }
 
 module.exports = Liga;

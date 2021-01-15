@@ -59,7 +59,7 @@ class Liga{
         }
     }
 
-    
+
     /**
      * Método para obtener la lista completa de jugadores de la liga.
      * @returns {array[Jugador]} - Lista de jugadores
@@ -78,7 +78,7 @@ class Liga{
 
 
     /**
-     * 
+     * Método que devuelve los jugadores de un equipo dado
      * @param {String} nombreEquipo - Nombre del equipo a mostrar
      * @param {boolean} JSON - True si se quieren los resultados en formato de JSON, False en formato de String.
      * @returns {JSON || boolean} - Jugadores del equipo
@@ -134,24 +134,58 @@ class Liga{
 
     }
 
-
+    /**
+     * Método que muestra a los jugadores que coinciden con el nombre dado
+     * @param {String} nombre - Nombre del jugador a mostrar
+     * @param {boolean} JSON - True si se quieren los resultados en formato de JSON, False en formato de String.
+     * @returns {JSON || boolean} - Jugadores que coinciden con el nombre
+     */
     verJugador(nombre, JSON){
         var re = new RegExp(nombre, "i");
         var resultado;
 
         if (JSON){
             resultado = {};
+            resultado[nombre] = [];
         }
         else {
             resultado = "";
         }
 
+        var jugadores_total = this.getJugadores();
+        var jugadores_coinciden = [];
 
+        jugadores_total.forEach(jugador => {
+            if(jugador.getNombre().match(re)){
+                jugadores_coinciden.push(jugador);
+            }
+        });
+
+        jugadores_coinciden.forEach(jugador => {
+            
+            if (JSON){
+
+                var datos_jugador = {};
+                datos_jugador['nombre'] = jugador.getNombre();
+                datos_jugador['nacionalidad'] = jugador.getNacionalidad();
+                datos_jugador['fechaNacimiento'] = jugador.getFechaNacimiento();
+                datos_jugador['valor'] = jugador.getValor();
+                datos_jugador['dorsal'] = jugador.getDorsal();
+                datos_jugador['posicion'] = jugador.getPosicion();
+                datos_jugador['pieHabil'] = jugador.getPieHabil();
+                datos_jugador['altura'] = jugador.getAltura();
+                datos_jugador['capitan'] = jugador.getCapitan();
+                    
+                resultado[nombre].push(datos_jugador);
+            }
+            else{
+                resultado += jugador.verJugador() + "\n\n";
+            }
+        });
+
+        return resultado;
     }
 
 }
-
-var liga = new Liga(archivo)
-
 
 module.exports = Liga;

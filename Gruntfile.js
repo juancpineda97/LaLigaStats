@@ -41,7 +41,8 @@ module.exports = function (grunt){
     grunt.loadNpmTasks('grunt-contrib-clean');  
     grunt.registerTask('test', ['run:tests']);
     grunt.registerTask('data', ['run:datos']);
-    grunt.registerTask('install', ['run:install']);
+    grunt.registerTask('installdeps', ['run:install']);
     grunt.registerTask('documentacion', ['docco']);
     grunt.registerTask('borrar_doc', ['clean']);
+    grunt.registerTask('default', ['test']);
 };

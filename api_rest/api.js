@@ -13,6 +13,28 @@ var liga = new Liga(archivo);
 //Middleware bodyparser
 app.use(express.json());
 
+//Middleware del log
+const fileConf = {
+    level: 'debug',
+    filename: './api_rest/logs.log',
+    handleExceptions: true,
+    json: true,
+    maxsize: 5242880,
+    maxFiles: 5,
+    colorize: false,
+    timestamp: true
+};
+var express_logger = require('express-logger-unique-req-id');
+express_logger.initializeLogger(app,fileConf);
+let logger = express_logger.getLogger();
+
+app.use((req, res, next) =>{
+    var mensaje = req.method + " " + req.originalUrl + " " + req.ip;
+    logger.debug(mensaje);
+    next();
+});
+
+
 /**
  * Función que ajusta el content type 
  * devuelto dependiendo del parámetro Accept de 

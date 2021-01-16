@@ -9,6 +9,6 @@ jobs:
         #Realiza comprobaciones del estado de los archivos, etc...
       - checkout
         #Cambiando permisos archivo log
-      - run: sudo chown -R $USER:$GROUP ./api_rest/logs.log
+      - run: sudo chown -R $USER:$GROUP `pwd`/api_rest/logs.log
         #Ejecuta los tests
       - run: docker run -t -v `pwd`:/test juancpineda97/laligastats

@@ -3,7 +3,6 @@ const Liga = require('../src/liga.js');
 const miError = require('./errores.js');
 const data = require("../data/equipos.json");
 const app = express();
-const puerto = process.env.port || 8080;
 
 //Carga del archivo con los equipos y jugadores originales
 var archivo = JSON.parse(JSON.stringify(data));
@@ -135,9 +134,6 @@ app.use((err, req, res, next) =>{
     var info_error = {};
     info_error[info_error_key] = err.message;
     res.status(err.codigo).send(info_error);
-});
-
-app.listen(puerto, function() {
 });
 
 module.exports = app;

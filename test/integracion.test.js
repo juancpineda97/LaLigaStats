@@ -4,10 +4,12 @@ const Asercion = require('../src/asserts.js');
 
 var aserciones = new Asercion();
 
+var api = app.listen(8080);
+
 //HU01
 describe('GET /equipos/barcelona', function() {
     it('Test de una petición GET correcta', function() {
-      return request(app)
+      return request(api)
         .get('/equipos/barcelona')
         .expect(200)
         .expect('Content-Type', 'application/json; charset=utf-8')
@@ -18,7 +20,7 @@ describe('GET /equipos/barcelona', function() {
     });
 
     it('Test de una petición GET incorrecta', function() {
-        return request(app)
+        return request(api)
           .get('/equipos/noexiste')
           .expect(404)
           .expect('Content-Type', 'application/json; charset=utf-8')
@@ -31,7 +33,7 @@ describe('GET /equipos/barcelona', function() {
 //HU02
 describe('GET /jugadores/hazard', function() {
     it('Test de una petición GET correcta', function() {
-      return request(app)
+      return request(api)
         .get('/jugadores/hazard')
         .expect(200)
         .expect('Content-Type', 'application/json; charset=utf-8')
@@ -42,7 +44,7 @@ describe('GET /jugadores/hazard', function() {
     });
 
     it('Test de una petición GET incorrecta', function() {
-        return request(app)
+        return request(api)
           .get('/jugadores/noexiste')
           .expect(404)
           .expect('Content-Type', 'application/json; charset=utf-8')
@@ -55,7 +57,7 @@ describe('GET /jugadores/hazard', function() {
 //HU04
 describe('GET /ranking', function() {
     it('Test de una petición GET correcta', function() {
-      return request(app)
+      return request(api)
         .get('/ranking')
         .expect(200)
         .expect('Content-Type', 'application/json; charset=utf-8')
@@ -74,7 +76,7 @@ describe('PUT /jugadores/traspaso', function() {
         "nombre_jugador":"Messi",
         "nombre_equipo":"Eibar"
     };
-      return request(app)
+      return request(api)
         .put('/jugadores/traspaso')
         .send(datos)
         .expect(200)
@@ -90,7 +92,7 @@ describe('PUT /jugadores/traspaso', function() {
         var datos = {
             "nombre_equipo":"Eibar"
         };
-          return request(app)
+          return request(api)
             .put('/jugadores/traspaso')
             .send(datos)
             .expect(400)
@@ -106,7 +108,7 @@ describe('PUT /jugadores/traspaso', function() {
             "nombre_jugador":"NoExiste",
             "nombre_equipo":"Eibar"
         };
-          return request(app)
+          return request(api)
             .put('/jugadores/traspaso')
             .send(datos)
             .expect(404)
@@ -122,7 +124,7 @@ describe('PUT /jugadores/traspaso', function() {
             "nombre_jugador":"Messi",
             "nombre_equipo":"Madrid"
         };
-          return request(app)
+          return request(api)
             .put('/jugadores/traspaso')
             .send(datos)
             .expect(400)
@@ -146,7 +148,7 @@ describe('POST /partidos/nuevo', function() {
         "fecha_hora":22,
         "fecha_minutos":30
     };
-      return request(app)
+      return request(api)
         .post('/partidos/nuevo')
         .send(datos)
         .expect(200)
@@ -168,7 +170,7 @@ describe('POST /partidos/nuevo', function() {
             "fecha_hora":22,
             "fecha_minutos":30
         };
-          return request(app)
+          return request(api)
             .post('/partidos/nuevo')
             .send(datos)
             .expect(400)
@@ -191,7 +193,7 @@ describe('POST /partidos/nuevo', function() {
             "fecha_hora":22,
             "fecha_minutos":30
         };
-            return request(app)
+            return request(api)
             .post('/partidos/nuevo')
             .send(datos)
             .expect(404)
@@ -209,7 +211,7 @@ describe('POST /partidos/nuevo', function() {
 //HU03
 describe('GET /partidos/:nombre_equipo', function() {
     it('Test de una petición GET correcta', function() {
-      return request(app)
+      return request(api)
         .get('/partidos/levante')
         .expect(200)
         .expect('Content-Type', 'application/json; charset=utf-8')
@@ -222,7 +224,7 @@ describe('GET /partidos/:nombre_equipo', function() {
     });
 
     it('Test de una petición GET incorrecta', function() {
-        return request(app)
+        return request(api)
           .get('/partidos/villareal')
           .expect(404)
           .expect('Content-Type', 'application/json; charset=utf-8')
@@ -234,3 +236,5 @@ describe('GET /partidos/:nombre_equipo', function() {
     });
 
 });
+
+api.close();

@@ -9,5 +9,6 @@ jobs:
         #Realiza comprobaciones del estado de los archivos, etc...
       - checkout
       - run: touch ./api_rest/logs.log
+      - run: sudo chmod 777 ./api_rest/logs.log
         #Ejecuta los tests
       - run: docker run -t -v `pwd`:/test juancpineda97/laligastats

@@ -8,6 +8,6 @@ jobs:
     steps:
         #Realiza comprobaciones del estado de los archivos, etc...
       - checkout
-      - run: ls -l .
+      - run: ls -l ./api_rest
         #Ejecuta los tests
       - run: docker run -t -v `pwd`:/test juancpineda97/laligastats

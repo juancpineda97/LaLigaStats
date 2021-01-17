@@ -14,6 +14,12 @@ module.exports = function (grunt){
                     'install'
                 ]
             },
+            build: {
+                cmd: 'echo',
+                args: [
+                    'build ya hecho'
+                ]
+            },
             datos:{
                 cmd: 'node',
                 args: [
@@ -42,6 +48,8 @@ module.exports = function (grunt){
     grunt.registerTask('test', ['run:tests']);
     grunt.registerTask('data', ['run:datos']);
     grunt.registerTask('installdeps', ['run:install']);
+    grunt.registerTask('build', ['run:build'])
+    grunt.registerTask('install', ['run:install'])
     grunt.registerTask('documentacion', ['docco']);
     grunt.registerTask('borrar_doc', ['clean']);
     grunt.registerTask('default', ['test']);

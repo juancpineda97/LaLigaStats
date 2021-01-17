@@ -3,4 +3,4 @@ lenguaje: javascript
 test: test/equipo-jugador.test.js
 taskfile: package.json
 URL: https://laligastats.netlify.app/.netlify/functions/getRanking
-make: grunt
+make: make

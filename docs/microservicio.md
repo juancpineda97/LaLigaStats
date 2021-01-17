@@ -151,3 +151,18 @@ El test de integración asociado a esta función es el siguiente:
 ![microservicio14](img/microservicio/microservicio14.png)
 
 ![microservicio15](img/microservicio/microservicio15.png)
+
+
+## Middleware
+
+Además se hace uso de varios middleware para cumplir diversa tareas, éstos son `express.json()` el cuál se ocupa de parsear los datos del body de una petición. También se ha programado un middleware para la gestión de errores, que capta los errores y crea la respuesta adecuada:
+
+![microservicio30](img/microservicio/microservicio30.png)
+
+Además, también se hace uso de un middleware para crear un log con las peticiones al API, para ello se hace uso del paquete [express-logger-unique-req-id](https://github.com/davicente/express-logger-unique-req-id), el cuál usa el middleware de logs Winston pero añadiendo automáticamente a cada entrada la fecha y un id único. El log guardará estos datos, el método de la petición, la ruta a la que se hace la petición, y la IP de la que procede la petición:
+
+![microservicio31](img/microservicio/microservicio31.png)
+
+El log se guarda en un archivo .log y además se muestra en pantalla:
+
+![microservicio32](img/microservicio/microservicio32.png)

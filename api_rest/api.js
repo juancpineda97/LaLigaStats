@@ -4,6 +4,14 @@ const miError = require('./errores.js');
 const data = require("../data/equipos.json");
 const app = express();
 
+var key = process.env.TEST;
+
+var quiero_log = true;
+
+if (key == 'true'){
+    quiero_log = false;
+}
+
 //Carga del archivo con los equipos y jugadores originales
 var archivo = JSON.parse(JSON.stringify(data));
 //Creación de una instancia de Liga con estos datos.
@@ -13,25 +21,27 @@ var liga = new Liga(archivo);
 app.use(express.json());
 
 //Middleware del log
-const fileConf = {
-    level: 'debug',
-    filename: './api_rest/logs.log',
-    handleExceptions: true,
-    json: true,
-    maxsize: 5242880,
-    maxFiles: 5,
-    colorize: false,
-    timestamp: true
-};
-var express_logger = require('express-logger-unique-req-id');
-express_logger.initializeLogger(app,fileConf);
-let logger = express_logger.getLogger();
+if (quiero_log){
+    const fileConf = {
+        level: 'debug',
+        filename: './api_rest/logs.log',
+        handleExceptions: true,
+        json: true,
+        maxsize: 5242880,
+        maxFiles: 5,
+        colorize: false,
+        timestamp: true
+    };
+    var express_logger = require('express-logger-unique-req-id');
+    express_logger.initializeLogger(app,fileConf);
+    let logger = express_logger.getLogger();
 
-app.use((req, res, next) =>{
-    var mensaje = req.method + " " + req.originalUrl + " " + req.ip;
-    logger.debug(mensaje);
-    next();
-});
+    app.use((req, res, next) =>{
+        var mensaje = req.method + " " + req.originalUrl + " " + req.ip;
+        logger.debug(mensaje);
+        next();
+    });
+}
 
 
 /**
@@ -136,4 +146,8 @@ app.use((err, req, res, next) =>{
     res.status(err.codigo).send(info_error);
 });
 
-module.exports = app;
+function defTests(pasando_tests){
+    tests = true;
+}
+
+module.exports = app, defTests;

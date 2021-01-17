@@ -63,3 +63,65 @@ En cambio, si no existe ningún jugador que cumpla con el criterio del nombre, d
 El test de integración asociado a esta función es el siguiente:
 
 ![microservicio8](img/microservicio/microservicio8.png)
+
+
+### [**HU03**](https://github.com/juancpineda97/LaLigaStats/issues/40)
+Esta historia de usuario corresponde a la funcionalidad de mostrar la información de un partido, el método correspondiente es [verPartido](https://github.com/juancpineda97/LaLigaStats/blob/1d9c57d8d7f0aa9af65dd0bb96ffb4dd2abcf933/src/liga.js#L195). La función de la API es la [siguiente](https://github.com/juancpineda97/LaLigaStats/blob/1d9c57d8d7f0aa9af65dd0bb96ffb4dd2abcf933/api_rest/api.js#L85):
+
+![microservicio3](img/microservicio/microservicio3.png)
+
+Se buscará en la lista de partidos los partidos en los que juegue algún equipo que coincida con el criterio del nombre de equipo pasado por parámetro, y se devolverá una lista con los partidos que coinciden y su información en formato json con código de estado 200:
+
+![microservicio20](img/microservicio/microservicio20.png)
+
+En cambio, si no existe ningún partido en el que juegue el equipo que cumpla con el criterio de nombre de equipo indicado, devolverá un error con código 404:
+
+![microservicio21](img/microservicio/microservicio21.png)
+
+El test de integración asociado a esta función es el siguiente:
+
+![microservicio9](img/microservicio/microservicio9.png)
+
+
+### [**HU04**](https://github.com/juancpineda97/LaLigaStats/issues/80)
+Esta historia de usuario corresponde a la funcionalidad de mostrar un ranking de los equipos mas valiosos conforme el valor de sus jugadores, el método correspondiente es [verRankingEquipos](https://github.com/juancpineda97/LaLigaStats/blob/1d9c57d8d7f0aa9af65dd0bb96ffb4dd2abcf933/src/liga.js#L250). La función de la API es la [siguiente](https://github.com/juancpineda97/LaLigaStats/blob/1d9c57d8d7f0aa9af65dd0bb96ffb4dd2abcf933/api_rest/api.js#L97):
+
+![microservicio4](img/microservicio/microservicio4.png)
+
+Se sumará el valor de los jugadores de cada equipo y se ordenarán para formar el ranking que se devolverá en formato json con código de estado 200:
+
+![microservicio22](img/microservicio/microservicio22.png)
+
+También está la opción de que se devuelva en formato de texto plano:
+
+![microservicio23](img/microservicio/microservicio23.png)
+
+**NOTA:** Tanto esta función, como las tres anteriores, tienen la opción de devolver también la respuesta en texto plano, haciendo la información más legible para el usuario. Esto dependerá del campo `Accept` de la cabecera de la petición recibida, si este campo indica `text/plain` se devolverá la respuesta en texto plano; si el campo no aparece o tiene otro valor diferente, se devolverá la respuesta en formato JSON.
+
+El test de integración asociado a esta función es el siguiente:
+
+![microservicio10](img/microservicio/microservicio10.png)
+
+
+### [**HU05**](https://github.com/juancpineda97/LaLigaStats/issues/92)
+Esta historia de usuario corresponde a la funcionalidad de cambiar el equipo de un jugador dado, es decir, realizar un traspaso, por ello se usa el método **PUT**, y los parámetros se pasarán en el `body` de la petición. El método correspondiente es [traspasoJugador](https://github.com/juancpineda97/LaLigaStats/blob/1d9c57d8d7f0aa9af65dd0bb96ffb4dd2abcf933/src/liga.js#L305). La función de la API es la [siguiente](https://github.com/juancpineda97/LaLigaStats/blob/1d9c57d8d7f0aa9af65dd0bb96ffb4dd2abcf933/api_rest/api.js#L108):
+
+![microservicio5](img/microservicio/microservicio5.png)
+
+Se buscará al jugador por su nombre, y el nombre del equipo al que se quiere traspasar, y si los dos existen, se modificará el campo del equipo en el jugador y se añadirá a la lista de jugadores del nuevo equipo, para devolver el jugador modificado en formato json con código de estado 200:
+
+![microservicio24](img/microservicio/microservicio24.png)
+
+Por ejemplo, si no existe ningún equipo que cumpla con el nombre indicado, devolverá un error con código 404:
+
+![microservicio25](img/microservicio/microservicio25.png)
+
+O, si no se han indicado bien los parámetros en el body, se devolverá un error con código 400:
+
+![microservicio26](img/microservicio/microservicio26.png)
+
+El test de integración asociado a esta función es el siguiente:
+
+![microservicio11](img/microservicio/microservicio11.png)
+
+![microservicio12](img/microservicio/microservicio12.png)

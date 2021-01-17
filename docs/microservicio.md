@@ -166,3 +166,10 @@ Además, también se hace uso de un middleware para crear un log con las peticio
 El log se guarda en un archivo .log y además se muestra en pantalla:
 
 ![microservicio32](img/microservicio/microservicio32.png)
+
+
+## Otros cambios
+
+En este avance también se ha aprendido el uso e instalación del almacén de claves distribuido `etcd`, pero no se ha configurado por ahora en este proyecto, ya que por ahora no se ha necesitado su uso; sin embargo, en el [ejercicio 1](https://github.com/juancpineda97/Ejercicios-IV/blob/main/ejercicios/tema6.md#ejercicio-1) de los ejercicios del tema 6 se expone su instalación y uso.
+
+También se ha creado la clase [miError](../api_rest/errores.js), con sus tests correspondientes, la cuál extiende la clase de Error predeterminada, y servirá para lanzar los errores en las peticiones y poder añadir el código de error correspondiente al objeto miError.

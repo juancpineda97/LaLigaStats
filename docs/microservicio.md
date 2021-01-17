@@ -11,3 +11,55 @@ Antes de empezar a crear la API diseñaré la estructura que tendrá y que rutas
 
 Cada método de esta clase se ajustará a las necesidades de su correspondiente historia de usuario, por lo que en la programación de la API sólo bastará con importar esta clase y usar sus métodos para cumplir las funciones de la API. Esto significa que se añade una capa de abstracción, ya que se separa la lógica de negocio asociada a cada historia de usuario, que estará en la clase Liga, del diseño de la API.
 
+Una vez implementada esta clase, realizaré el diseño de las rutas que tendrá la API, el método de la petición y su HU asociada. Estas serán:
+
+- [**HU01**](https://github.com/juancpineda97/LaLigaStats/issues/4) - Ver jugadores de un equipo:
+    - **GET /equipos/:nombre_equipo**
+- [**HU02**](https://github.com/juancpineda97/LaLigaStats/issues/5) - Mostrar datos del jugador:
+    - **GET /jugadores/:nombre_jugador**
+- [**HU03**](https://github.com/juancpineda97/LaLigaStats/issues/40) - Mostrar información sobre un partido:
+    - **GET /partidos/:nombre_equipo**
+- [**HU04**](https://github.com/juancpineda97/LaLigaStats/issues/80) - Mostrar ranking de los equipos más valiosos:
+    - **GET /ranking**
+- [**HU05**](https://github.com/juancpineda97/LaLigaStats/issues/92) - Modificar equipo de un jugador:
+    - **PUT /jugadores/traspaso**
+- [**HU06**](https://github.com/juancpineda97/LaLigaStats/issues/93) - Añadir nuevo partido:
+    - **POST /partidos/nuevo**
+
+
+Además, cada función de la API tendrá sus correspondientes [tests de integración](../test/integracion.test.js) para comprobar el funcionamiento conjunto de todos los elementos de la app. A continuación se explica en detalle cada función de la api, la cuál está implementada en el archivo [api.js](../api_rest/api.js).
+
+### [**HU01**](https://github.com/juancpineda97/LaLigaStats/issues/4)
+Esta historia de usuario persigue mostrar los jugadores de un equipo dado, para ello se ha diseñado el método [verJugadoresEquipo](https://github.com/juancpineda97/LaLigaStats/blob/1d9c57d8d7f0aa9af65dd0bb96ffb4dd2abcf933/src/liga.js#L85). La función de la API asociado a esta historia de usuario es el [siguiente](https://github.com/juancpineda97/LaLigaStats/blob/1d9c57d8d7f0aa9af65dd0bb96ffb4dd2abcf933/api_rest/api.js#L61):
+
+![microservicio1](img/microservicio/microservicio1.png)
+
+El funcionamiento es el siguiente: se pasa por parámetro en la URL el nombre del equipo, y si el equipo existe, se devuelve la lista de jugadores de este equipo en formato json con código de estado 200:
+
+![microservicio16](img/microservicio/microservicio16.png)
+
+En cambio, si no se encuentra el equipo, se devuelve un error 404 indicando el motivo con su código de error correspondiente:
+
+![microservicio17](img/microservicio/microservicio17.png)
+
+El test de integración asociado a esta función es el siguiente:
+
+![microservicio7](img/microservicio/microservicio7.png)
+
+
+### [**HU02**](https://github.com/juancpineda97/LaLigaStats/issues/5)
+Esta historia de usuario corresponde a la funcionalidad de mostrar los datos de un jugador dado, el método correspondiente es [verJugador](https://github.com/juancpineda97/LaLigaStats/blob/1d9c57d8d7f0aa9af65dd0bb96ffb4dd2abcf933/src/liga.js#L142). La función de la API es la [siguiente](https://github.com/juancpineda97/LaLigaStats/blob/1d9c57d8d7f0aa9af65dd0bb96ffb4dd2abcf933/api_rest/api.js#L73):
+
+![microservicio2](img/microservicio/microservicio2.png)
+
+Si existe algún jugador que cumpla con el nombre que se ha pasado por parámetro, devolverá los datos de estos jugadores en formato json con código de estado 200:
+
+![microservicio18](img/microservicio/microservicio18.png)
+
+En cambio, si no existe ningún jugador que cumpla con el criterio del nombre, devolverá un error con código 404:
+
+![microservicio19](img/microservicio/microservicio19.png)
+
+El test de integración asociado a esta función es el siguiente:
+
+![microservicio8](img/microservicio/microservicio8.png)

@@ -183,7 +183,7 @@ describe('POST /partidos/nuevo', function() {
             })
     });
 
-    it('Test de una petición POST correcta', function() {
+    it('Test de una petición POST incorrecta', function() {
         var datos = {
             "equipoLocal":"NoExiste",
             "equipoVisitante":"Huesca",

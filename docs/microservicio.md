@@ -125,3 +125,29 @@ El test de integración asociado a esta función es el siguiente:
 ![microservicio11](img/microservicio/microservicio11.png)
 
 ![microservicio12](img/microservicio/microservicio12.png)
+
+
+### [**HU06**](https://github.com/juancpineda97/LaLigaStats/issues/93)
+Esta historia de usuario corresponde a la funcionalidad de añadir un nuevo partido, por ello se usa el método **POST**, y los parámetros se pasarán en el `body` de la petición. El método correspondiente es [aniadePartido](https://github.com/juancpineda97/LaLigaStats/blob/1d9c57d8d7f0aa9af65dd0bb96ffb4dd2abcf933/src/liga.js#L398). La función de la API es la [siguiente](https://github.com/juancpineda97/LaLigaStats/blob/1d9c57d8d7f0aa9af65dd0bb96ffb4dd2abcf933/api_rest/api.js#L122):
+
+![microservicio6](img/microservicio/microservicio6.png)
+
+Se añadirá el partido con los datos indicados a la lista de partidos, y se devolverán los datos del partido recién creado en formato json con código de estado 200:
+
+![microservicio27](img/microservicio/microservicio27.png)
+
+Además, si no existe ningún equipo que cumpla con el nombre indicado, tanto el equipo local como el visitante, devolverá un error con código 404:
+
+![microservicio28](img/microservicio/microservicio28.png)
+
+O, si no se han indicado bien los parámetros en el body, se devolverá un error con código 400:
+
+![microservicio29](img/microservicio/microservicio29.png)
+
+El test de integración asociado a esta función es el siguiente:
+
+![microservicio13](img/microservicio/microservicio13.png)
+
+![microservicio14](img/microservicio/microservicio14.png)
+
+![microservicio15](img/microservicio/microservicio15.png)

@@ -83,10 +83,14 @@ async function obtenerDatosEquipo(nombre,id){
         fechaNacimiento = fecha.getDate() + "-" + mes_nac + "-" + fecha.getFullYear();
 
         //valor
-        let valor_temp = parseFloat(jugadores_full[i]['marketValue']['value']);
-        let valor = valor_temp/1000000;
-        if (valor == null){
+        let valor_temp = jugadores_full[i]['marketValue']['value'];
+        let valor;
+        if (valor_temp == null){
             valor = 0;
+        }
+        else{
+            let valor_float = parseFloat(valor_temp);
+            valor = valor_float/1000000;
         }
 
         //dorsal

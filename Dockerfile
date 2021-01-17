@@ -1,6 +1,8 @@
 #Usaré como base la versión 14.14.0 slim de node
 FROM node:14.14.0-slim
 
+ENV TEST=true
+
 #Copio el archivo de dependencias
 COPY package.json ./
 

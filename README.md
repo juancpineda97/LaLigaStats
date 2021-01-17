@@ -15,6 +15,9 @@ La aplicación contará con una [API REST](https://www.idento.es/blog/desarrollo
 
 La idea es empezar desarrollando una aplicación sencilla que muestre estadísticas de partidos de La Liga Española, para luego incorporar las predicciones sobre eventos de los partidos de la jornada. Una vez desarrollada una versión estable con estas características, se empezará a trabajar en mejoras como la posibilidad de mostrar estadísticas y predicciones en tiempo real sobre partidos que estén en juego, añadir más competiciones, la mejora del algoritmo de predicciones, etc...
 
+## Microservicio
+Se ha creado para esta aplicación un microservicio que funciona en forma de API REST, en el siguiente [documento](docs/microservicio.md) se explica todo lo relacionado a esta funcionalidad.
+
 ## Serverless
 Esta aplicación cuenta con un par de funciones serverless, y un bot de telegram que hace uso de otra función serverless, en el siguiente [documento](docs/serverless.md) se explica su implementación y funcionamiento.
 - Función Vercel: https://la-liga-stats.juancpineda97.vercel.app/api/getEquipo.js?equipo=barcelona

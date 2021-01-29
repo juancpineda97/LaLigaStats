@@ -188,17 +188,6 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Martin Ødegaard",
-			"nacionalidad": "Noruega",
-			"fechaNacimiento": "16-12-1998",
-			"valor": 40,
-			"dorsal": 21,
-			"posicion": "MC",
-			"pieHabil": "I",
-			"altura": 1.78,
-			"capitan": false
-		},
-		{
 			"nombre": "Federico Valverde",
 			"nacionalidad": "Uruguay",
 			"fechaNacimiento": "21-7-1998",
@@ -278,7 +267,7 @@
 			"capitan": true
 		},
 		{
-			"nombre": "Miralem Pjanic",
+			"nombre": "Miralem Pjanić",
 			"nacionalidad": "Bosnia-Herzegovina",
 			"fechaNacimiento": "1-4-1990",
 			"valor": 40,
@@ -692,7 +681,7 @@
 			"fechaNacimiento": "11-11-1995",
 			"valor": 20,
 			"dorsal": 11,
-			"posicion": "DL",
+			"posicion": "MC",
 			"pieHabil": "I",
 			"altura": 1.71,
 			"capitan": false
@@ -739,17 +728,6 @@
 			"posicion": "DL",
 			"pieHabil": "D",
 			"altura": 1.71,
-			"capitan": false
-		},
-		{
-			"nombre": "Ivan Saponjic",
-			"nacionalidad": "Serbia",
-			"fechaNacimiento": "1-8-1997",
-			"valor": 1.2,
-			"dorsal": 17,
-			"posicion": "DL",
-			"pieHabil": "D",
-			"altura": 1.9,
 			"capitan": false
 		},
 		{
@@ -819,6 +797,17 @@
 			"pieHabil": "D",
 			"altura": 1.72,
 			"capitan": true
+		},
+		{
+			"nombre": "Papu Gómez",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "14-2-1988",
+			"valor": 15,
+			"dorsal": 24,
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": 1.67,
+			"capitan": false
 		},
 		{
 			"nombre": "Ivan Rakitic",
@@ -986,19 +975,8 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Carlos Fernández",
-			"nacionalidad": "España",
-			"fechaNacimiento": "21-5-1996",
-			"valor": 9,
-			"dorsal": 24,
-			"posicion": "DL",
-			"pieHabil": "I",
-			"altura": 1.85,
-			"capitan": false
-		},
-		{
 			"nombre": "Munir El Haddadi",
-			"nacionalidad": "Marruecos",
+			"nacionalidad": "España",
 			"fechaNacimiento": "31-8-1995",
 			"valor": 10,
 			"dorsal": 11,
@@ -1373,6 +1351,16 @@
 			"capitan": false
 		},
 		{
+			"nombre": "Andrei Ratiu",
+			"fechaNacimiento": "19-6-1998",
+			"valor": 0.3,
+			"dorsal": 0,
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": 1.83,
+			"capitan": false
+		},
+		{
 			"nombre": "Álex Baena",
 			"nacionalidad": "España",
 			"fechaNacimiento": "19-7-2001",
@@ -1384,7 +1372,7 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Yeremy Santos",
+			"nombre": "Yeremy",
 			"nacionalidad": "España",
 			"fechaNacimiento": "19-10-2002",
 			"valor": 5,
@@ -1595,17 +1583,6 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Ante Palaversa",
-			"nacionalidad": "Croacia",
-			"fechaNacimiento": "5-4-2000",
-			"valor": 3,
-			"dorsal": 14,
-			"posicion": "MC",
-			"pieHabil": "D",
-			"altura": 1.87,
-			"capitan": false
-		},
-		{
 			"nombre": "Mathí­as Olivera",
 			"nacionalidad": "Uruguay",
 			"fechaNacimiento": "30-10-1997",
@@ -1729,17 +1706,6 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Willian José",
-			"nacionalidad": "Brasil",
-			"fechaNacimiento": "22-11-1991",
-			"valor": 20,
-			"dorsal": 9,
-			"posicion": "DL",
-			"pieHabil": "D",
-			"altura": 1.89,
-			"capitan": false
-		},
-		{
 			"nombre": "Adnan Januzaj",
 			"nacionalidad": "Bélgica",
 			"fechaNacimiento": "4-2-1995",
@@ -1770,6 +1736,17 @@
 			"posicion": "PT",
 			"pieHabil": "D",
 			"altura": 1.91,
+			"capitan": false
+		},
+		{
+			"nombre": "Carlos Fernández",
+			"nacionalidad": "España",
+			"fechaNacimiento": "21-5-1996",
+			"valor": 9,
+			"dorsal": 9,
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": 1.85,
 			"capitan": false
 		},
 		{
@@ -2047,6 +2024,16 @@
 			"posicion": "DF",
 			"pieHabil": "D",
 			"altura": 1.87,
+			"capitan": false
+		},
+		{
+			"nombre": "Cristiano Piccini",
+			"fechaNacimiento": "25-9-1992",
+			"valor": 2.8,
+			"dorsal": 24,
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": 1.89,
 			"capitan": false
 		},
 		{
@@ -2335,17 +2322,6 @@
 			"posicion": "MC",
 			"pieHabil": "D",
 			"altura": 1.7,
-			"capitan": false
-		},
-		{
-			"nombre": "Kenan Kodro",
-			"nacionalidad": "Bosnia-Herzegovina",
-			"fechaNacimiento": "18-8-1993",
-			"valor": 1,
-			"dorsal": 19,
-			"posicion": "DL",
-			"pieHabil": "D",
-			"altura": 1.88,
 			"capitan": false
 		},
 		{
@@ -2922,17 +2898,6 @@
 			"posicion": "DL",
 			"pieHabil": "I",
 			"altura": 1.9,
-			"capitan": false
-		},
-		{
-			"nombre": "Raúl Navas",
-			"nacionalidad": "España",
-			"fechaNacimiento": "10-5-1988",
-			"valor": 0.7,
-			"dorsal": 22,
-			"posicion": "DF",
-			"pieHabil": "D",
-			"altura": 1.87,
 			"capitan": false
 		},
 		{
@@ -3778,6 +3743,17 @@
 			"capitan": false
 		},
 		{
+			"nombre": "Kenan Kodro",
+			"nacionalidad": "Bosnia-Herzegovina",
+			"fechaNacimiento": "18-8-1993",
+			"valor": 1,
+			"dorsal": 0,
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": 1.88,
+			"capitan": false
+		},
+		{
 			"nombre": "Roque Mesa",
 			"nacionalidad": "España",
 			"fechaNacimiento": "6-6-1989",
@@ -3786,6 +3762,17 @@
 			"posicion": "MC",
 			"pieHabil": "D",
 			"altura": 1.72,
+			"capitan": false
+		},
+		{
+			"nombre": "Lucas Olaza",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "20-7-1994",
+			"valor": 6,
+			"dorsal": 0,
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": 1.76,
 			"capitan": false
 		},
 		{
@@ -3940,6 +3927,17 @@
 			"posicion": "MC",
 			"pieHabil": "I",
 			"altura": 1.84,
+			"capitan": false
+		},
+		{
+			"nombre": "Stiven Plaza",
+			"nacionalidad": "Ecuador",
+			"fechaNacimiento": "10-3-1999",
+			"valor": 0.65,
+			"dorsal": 0,
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": 1.88,
 			"capitan": false
 		}
 	],
@@ -4143,6 +4141,17 @@
 			"capitan": false
 		},
 		{
+			"nombre": "Ivan Saponjic",
+			"nacionalidad": "Serbia",
+			"fechaNacimiento": "1-8-1997",
+			"valor": 1.2,
+			"dorsal": 0,
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": 1.9,
+			"capitan": false
+		},
+		{
 			"nombre": "Iván Alejo",
 			"nacionalidad": "España",
 			"fechaNacimiento": "9-2-1995",
@@ -4206,17 +4215,6 @@
 			"posicion": "DF",
 			"pieHabil": "I",
 			"altura": 1.72,
-			"capitan": false
-		},
-		{
-			"nombre": "Bobby Adekanye",
-			"nacionalidad": "Países Bajos",
-			"fechaNacimiento": "13-2-1999",
-			"valor": 0.8,
-			"dorsal": 32,
-			"posicion": "DL",
-			"pieHabil": "I",
-			"altura": 1.75,
 			"capitan": false
 		},
 		{
@@ -4457,7 +4455,7 @@
 			"nacionalidad": "España",
 			"fechaNacimiento": "27-6-1997",
 			"valor": 2,
-			"dorsal": 0,
+			"dorsal": 19,
 			"posicion": "MC",
 			"pieHabil": "D",
 			"altura": 1.73,
@@ -4569,7 +4567,7 @@
 			"nacionalidad": "Suecia",
 			"fechaNacimiento": "14-4-1992",
 			"valor": 1.2,
-			"dorsal": 10,
+			"dorsal": 9,
 			"posicion": "DL",
 			"pieHabil": "D",
 			"altura": 1.85,
@@ -5185,17 +5183,6 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Lucas Olaza",
-			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "20-7-1994",
-			"valor": 6,
-			"dorsal": 15,
-			"posicion": "DF",
-			"pieHabil": "I",
-			"altura": 1.76,
-			"capitan": false
-		},
-		{
 			"nombre": "Kevin Vázquez",
 			"nacionalidad": "España",
 			"fechaNacimiento": "22-3-1993",
@@ -5248,6 +5235,17 @@
 			"posicion": "MC",
 			"pieHabil": "D",
 			"altura": 1.85,
+			"capitan": false
+		},
+		{
+			"nombre": "Augusto Solari",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "2-1-1992",
+			"valor": 4,
+			"dorsal": 21,
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": 1.76,
 			"capitan": false
 		},
 		{

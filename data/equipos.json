@@ -738,7 +738,7 @@
 			"dorsal": 22,
 			"posicion": "DF",
 			"pieHabil": "I",
-			"altura": 1.84,
+			"altura": 1.85,
 			"capitan": false
 		},
 		{
@@ -1252,17 +1252,6 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Soufiane Chakla",
-			"nacionalidad": "Marruecos",
-			"fechaNacimiento": "1-9-1993",
-			"valor": 0.8,
-			"dorsal": 22,
-			"posicion": "DF",
-			"pieHabil": "D",
-			"altura": 1.88,
-			"capitan": false
-		},
-		{
 			"nombre": "Rubén Peña",
 			"nacionalidad": "España",
 			"fechaNacimiento": "17-7-1991",
@@ -1348,16 +1337,6 @@
 			"posicion": "DF",
 			"pieHabil": "D",
 			"altura": 1.87,
-			"capitan": false
-		},
-		{
-			"nombre": "Andrei Ratiu",
-			"fechaNacimiento": "19-6-1998",
-			"valor": 0.3,
-			"dorsal": 0,
-			"posicion": "DF",
-			"pieHabil": "D",
-			"altura": 1.83,
 			"capitan": false
 		},
 		{
@@ -1451,6 +1430,16 @@
 			"capitan": false
 		},
 		{
+			"nombre": "Jack Harper",
+			"fechaNacimiento": "27-2-1996",
+			"valor": 0.5,
+			"dorsal": 0,
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": 1.87,
+			"capitan": false
+		},
+		{
 			"nombre": "David Timor",
 			"nacionalidad": "España",
 			"fechaNacimiento": "16-10-1989",
@@ -1492,6 +1481,17 @@
 			"posicion": "DL",
 			"pieHabil": "D",
 			"altura": 1.86,
+			"capitan": false
+		},
+		{
+			"nombre": "Soufiane Chakla",
+			"nacionalidad": "Marruecos",
+			"fechaNacimiento": "1-9-1993",
+			"valor": 0.8,
+			"dorsal": 0,
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": 1.88,
 			"capitan": false
 		},
 		{
@@ -1972,17 +1972,6 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Rubén Sobrino",
-			"nacionalidad": "España",
-			"fechaNacimiento": "31-5-1992",
-			"valor": 1.5,
-			"dorsal": 11,
-			"posicion": "DL",
-			"pieHabil": "D",
-			"altura": 1.85,
-			"capitan": false
-		},
-		{
 			"nombre": "Eliaquim Mangala",
 			"nacionalidad": "Francia",
 			"fechaNacimiento": "12-2-1991",
@@ -2078,6 +2067,27 @@
 			"posicion": "DL",
 			"pieHabil": "D",
 			"altura": 1.78,
+			"capitan": false
+		},
+		{
+			"nombre": "Patrick Cutrone",
+			"fechaNacimiento": "2-1-1998",
+			"valor": 12,
+			"dorsal": 0,
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": 1.83,
+			"capitan": false
+		},
+		{
+			"nombre": "Ferro",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "25-3-1997",
+			"valor": 7,
+			"dorsal": 0,
+			"posicion": "DF",
+			"pieHabil": "D",
+			"altura": 1.91,
 			"capitan": false
 		},
 		{
@@ -2210,6 +2220,17 @@
 			"posicion": "MC",
 			"pieHabil": "I",
 			"altura": 1.73,
+			"capitan": false
+		},
+		{
+			"nombre": "Christian Oliva",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "31-5-1996",
+			"valor": 3.2,
+			"dorsal": 0,
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": 1.78,
 			"capitan": false
 		}
 	],
@@ -2479,6 +2500,17 @@
 			"capitan": false
 		},
 		{
+			"nombre": "Oier Zarraga",
+			"nacionalidad": "España",
+			"fechaNacimiento": "3-1-1999",
+			"valor": 0.5,
+			"dorsal": 19,
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": 1.75,
+			"capitan": false
+		},
+		{
 			"nombre": "Oihan Sancet",
 			"nacionalidad": "España",
 			"fechaNacimiento": "24-4-2000",
@@ -2720,6 +2752,17 @@
 			"posicion": "MC",
 			"pieHabil": "D",
 			"altura": 1.84,
+			"capitan": false
+		},
+		{
+			"nombre": "Domingos Quina",
+			"nacionalidad": "Portugal",
+			"fechaNacimiento": "17-11-1999",
+			"valor": 2.8,
+			"dorsal": 0,
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": 1.73,
 			"capitan": false
 		},
 		{
@@ -3510,17 +3553,6 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Antonio Sanabria",
-			"nacionalidad": "Paraguay",
-			"fechaNacimiento": "3-3-1996",
-			"valor": 6.5,
-			"dorsal": 19,
-			"posicion": "DL",
-			"pieHabil": "D",
-			"altura": 1.81,
-			"capitan": false
-		},
-		{
 			"nombre": "Víctor Camarasa",
 			"nacionalidad": "España",
 			"fechaNacimiento": "27-5-1994",
@@ -3747,7 +3779,7 @@
 			"nacionalidad": "Bosnia-Herzegovina",
 			"fechaNacimiento": "18-8-1993",
 			"valor": 1,
-			"dorsal": 0,
+			"dorsal": 3,
 			"posicion": "DL",
 			"pieHabil": "D",
 			"altura": 1.88,
@@ -3762,17 +3794,6 @@
 			"posicion": "MC",
 			"pieHabil": "D",
 			"altura": 1.72,
-			"capitan": false
-		},
-		{
-			"nombre": "Lucas Olaza",
-			"nacionalidad": "Uruguay",
-			"fechaNacimiento": "20-7-1994",
-			"valor": 6,
-			"dorsal": 0,
-			"posicion": "DF",
-			"pieHabil": "I",
-			"altura": 1.76,
 			"capitan": false
 		},
 		{
@@ -3976,17 +3997,6 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Álvaro Giménez",
-			"nacionalidad": "España",
-			"fechaNacimiento": "18-5-1991",
-			"valor": 2.5,
-			"dorsal": 21,
-			"posicion": "DL",
-			"pieHabil": "I",
-			"altura": 1.83,
-			"capitan": false
-		},
-		{
 			"nombre": "Juan Cala",
 			"nacionalidad": "España",
 			"fechaNacimiento": "25-11-1989",
@@ -3995,6 +4005,17 @@
 			"posicion": "DF",
 			"pieHabil": "D",
 			"altura": 1.86,
+			"capitan": false
+		},
+		{
+			"nombre": "Rubén Sobrino",
+			"nacionalidad": "España",
+			"fechaNacimiento": "31-5-1992",
+			"valor": 1.5,
+			"dorsal": 0,
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": 1.85,
 			"capitan": false
 		},
 		{
@@ -4145,7 +4166,7 @@
 			"nacionalidad": "Serbia",
 			"fechaNacimiento": "1-8-1997",
 			"valor": 1.2,
-			"dorsal": 0,
+			"dorsal": 12,
 			"posicion": "DL",
 			"pieHabil": "D",
 			"altura": 1.9,
@@ -4185,28 +4206,6 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Yann Bodiger",
-			"nacionalidad": "Francia",
-			"fechaNacimiento": "8-2-1995",
-			"valor": 1,
-			"dorsal": 12,
-			"posicion": "MC",
-			"pieHabil": "I",
-			"altura": 1.88,
-			"capitan": false
-		},
-		{
-			"nombre": "Nano Mesa",
-			"nacionalidad": "España",
-			"fechaNacimiento": "4-2-1995",
-			"valor": 0.5,
-			"dorsal": 23,
-			"posicion": "DL",
-			"pieHabil": "D",
-			"altura": 1.78,
-			"capitan": false
-		},
-		{
 			"nombre": "Alfonso Espino",
 			"nacionalidad": "Uruguay",
 			"fechaNacimiento": "4-1-1992",
@@ -4237,17 +4236,6 @@
 			"posicion": "DL",
 			"pieHabil": "I",
 			"altura": 1.65,
-			"capitan": false
-		},
-		{
-			"nombre": "Javi Navarro",
-			"nacionalidad": "España",
-			"fechaNacimiento": "31-12-1996",
-			"valor": 0.2,
-			"dorsal": 0,
-			"posicion": "DL",
-			"pieHabil": "I",
-			"altura": 1.84,
 			"capitan": false
 		}
 	],
@@ -4567,7 +4555,7 @@
 			"nacionalidad": "Suecia",
 			"fechaNacimiento": "14-4-1992",
 			"valor": 1.2,
-			"dorsal": 9,
+			"dorsal": 10,
 			"posicion": "DL",
 			"pieHabil": "D",
 			"altura": 1.85,
@@ -4766,6 +4754,17 @@
 			"fechaNacimiento": "31-1-2001",
 			"valor": 2.5,
 			"dorsal": 29,
+			"posicion": "DL",
+			"pieHabil": "D",
+			"altura": 1.74,
+			"capitan": false
+		},
+		{
+			"nombre": "Facundo Pellistri",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "19-12-2001",
+			"valor": 7,
+			"dorsal": 0,
 			"posicion": "DL",
 			"pieHabil": "D",
 			"altura": 1.74,
@@ -5016,17 +5015,6 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Kelechi Nwakali",
-			"nacionalidad": "Nigeria",
-			"fechaNacimiento": "4-6-1998",
-			"valor": 0.7,
-			"dorsal": 26,
-			"posicion": "MC",
-			"pieHabil": "D",
-			"altura": 1.8,
-			"capitan": false
-		},
-		{
 			"nombre": "Idrissa Doumbia",
 			"nacionalidad": "Costa de Marfil",
 			"fechaNacimiento": "13-4-1998",
@@ -5139,17 +5127,6 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Okay Yokuslu",
-			"nacionalidad": "Turquía",
-			"fechaNacimiento": "8-3-1994",
-			"valor": 4,
-			"dorsal": 5,
-			"posicion": "MC",
-			"pieHabil": "D",
-			"altura": 1.91,
-			"capitan": false
-		},
-		{
 			"nombre": "David Juncà",
 			"nacionalidad": "España",
 			"fechaNacimiento": "15-11-1993",
@@ -5180,6 +5157,17 @@
 			"posicion": "PT",
 			"pieHabil": "D",
 			"altura": 1.88,
+			"capitan": false
+		},
+		{
+			"nombre": "Lucas Olaza",
+			"nacionalidad": "Uruguay",
+			"fechaNacimiento": "20-7-1994",
+			"valor": 6,
+			"dorsal": 15,
+			"posicion": "DF",
+			"pieHabil": "I",
+			"altura": 1.76,
 			"capitan": false
 		},
 		{
@@ -5523,17 +5511,6 @@
 			"posicion": "DF",
 			"pieHabil": "I",
 			"altura": 1.85,
-			"capitan": false
-		},
-		{
-			"nombre": "Youssouf Koné",
-			"nacionalidad": "Mali",
-			"fechaNacimiento": "4-7-1995",
-			"valor": 2,
-			"dorsal": 18,
-			"posicion": "DF",
-			"pieHabil": "I",
-			"altura": 1.74,
 			"capitan": false
 		},
 		{

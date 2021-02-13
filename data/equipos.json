@@ -468,7 +468,7 @@
 			"nombre": "Moussa Wagué",
 			"nacionalidad": "Senegal",
 			"fechaNacimiento": "3-10-1998",
-			"valor": 6,
+			"valor": 4,
 			"dorsal": 0,
 			"posicion": "DF",
 			"pieHabil": "D",
@@ -997,7 +997,7 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Óscar Rodríguez",
+			"nombre": "Óscar",
 			"nacionalidad": "España",
 			"fechaNacimiento": "27-6-1998",
 			"valor": 12,
@@ -3618,7 +3618,7 @@
 			"dorsal": 4,
 			"posicion": "MC",
 			"pieHabil": "A",
-			"altura": 1.9,
+			"altura": 1.81,
 			"capitan": false
 		},
 		{
@@ -5466,7 +5466,7 @@
 			"nacionalidad": "Colombia",
 			"fechaNacimiento": "8-6-1993",
 			"valor": 1.2,
-			"dorsal": 0,
+			"dorsal": 18,
 			"posicion": "DF",
 			"pieHabil": "D",
 			"altura": 1.81,

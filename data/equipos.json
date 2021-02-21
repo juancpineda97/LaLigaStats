@@ -1307,17 +1307,6 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Santiago Cáseres",
-			"nacionalidad": "Argentina",
-			"fechaNacimiento": "24-2-1997",
-			"valor": 4.8,
-			"dorsal": 0,
-			"posicion": "MC",
-			"pieHabil": "D",
-			"altura": 1.8,
-			"capitan": false
-		},
-		{
 			"nombre": "Juan Foyth",
 			"nacionalidad": "Argentina",
 			"fechaNacimiento": "11-1-1998",
@@ -3046,6 +3035,17 @@
 			"capitan": false
 		},
 		{
+			"nombre": "Javi Martínez",
+			"nacionalidad": "España",
+			"fechaNacimiento": "21-12-1999",
+			"valor": 0.2,
+			"dorsal": 28,
+			"posicion": "MC",
+			"pieHabil": "A",
+			"altura": 1.8,
+			"capitan": false
+		},
+		{
 			"nombre": "Jon Moncayola",
 			"nacionalidad": "España",
 			"fechaNacimiento": "12-5-1998",
@@ -3622,7 +3622,7 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Emerson",
+			"nombre": "Emerson Royal",
 			"nacionalidad": "Brasil",
 			"fechaNacimiento": "13-1-1999",
 			"valor": 20,
@@ -4066,7 +4066,7 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Filip Malbašić",
+			"nombre": "Filip Malbasic",
 			"nacionalidad": "Serbia",
 			"fechaNacimiento": "17-11-1992",
 			"valor": 1,

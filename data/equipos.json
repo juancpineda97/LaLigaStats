@@ -241,6 +241,28 @@
 			"pieHabil": "D",
 			"altura": 1.74,
 			"capitan": false
+		},
+		{
+			"nombre": "Sergio Arribas",
+			"nacionalidad": "España",
+			"fechaNacimiento": "29-9-2001",
+			"valor": 0.5,
+			"dorsal": 30,
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": 1.73,
+			"capitan": false
+		},
+		{
+			"nombre": "Hugo Duro",
+			"nacionalidad": "España",
+			"fechaNacimiento": "9-11-1999",
+			"valor": 2.5,
+			"dorsal": 34,
+			"posicion": "DL",
+			"pieHabil": "I",
+			"altura": 1.82,
+			"capitan": false
 		}
 	],
 	"FC Barcelona": [
@@ -1285,7 +1307,7 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Samu Chukwueze",
+			"nombre": "Samuel Chukwueze",
 			"nacionalidad": "Nigeria",
 			"fechaNacimiento": "21-5-1999",
 			"valor": 20,

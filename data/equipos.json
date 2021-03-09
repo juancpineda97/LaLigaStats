@@ -145,7 +145,7 @@
 		},
 		{
 			"nombre": "Mariano Díaz",
-			"nacionalidad": "España",
+			"nacionalidad": "República Dominicana",
 			"fechaNacimiento": "31-7-1993",
 			"valor": 10,
 			"dorsal": 24,
@@ -550,6 +550,17 @@
 			"posicion": "DF",
 			"pieHabil": "D",
 			"altura": 1.88,
+			"capitan": false
+		},
+		{
+			"nombre": "Ilaix Moriba",
+			"nacionalidad": "España",
+			"fechaNacimiento": "18-1-2003",
+			"valor": 5,
+			"dorsal": 27,
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": 1.85,
 			"capitan": false
 		},
 		{
@@ -1895,7 +1906,7 @@
 		},
 		{
 			"nombre": "Modibo Sagnan",
-			"nacionalidad": "Francia",
+			"nacionalidad": "Mali",
 			"fechaNacimiento": "13-4-1999",
 			"valor": 3,
 			"dorsal": 15,
@@ -3236,7 +3247,7 @@
 		},
 		{
 			"nombre": "Mickaël Malsa",
-			"nacionalidad": "Francia",
+			"nacionalidad": "Martinica",
 			"fechaNacimiento": "11-10-1995",
 			"valor": 2.8,
 			"dorsal": 12,
@@ -5371,6 +5382,17 @@
 			"posicion": "DF",
 			"pieHabil": "D",
 			"altura": 1.86,
+			"capitan": false
+		},
+		{
+			"nombre": "Pablo Piatti",
+			"nacionalidad": "Argentina",
+			"fechaNacimiento": "30-3-1989",
+			"valor": 2,
+			"dorsal": 20,
+			"posicion": "DL",
+			"pieHabil": "A",
+			"altura": 1.63,
 			"capitan": false
 		},
 		{

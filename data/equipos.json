@@ -1030,7 +1030,7 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Óscar",
+			"nombre": "Óscar Rodríguez",
 			"nacionalidad": "España",
 			"fechaNacimiento": "27-6-1998",
 			"valor": 12,
@@ -1091,7 +1091,7 @@
 			"valor": 15,
 			"dorsal": 15,
 			"posicion": "DL",
-			"pieHabil": "A",
+			"pieHabil": "I",
 			"altura": 1.89,
 			"capitan": false
 		}
@@ -5347,17 +5347,6 @@
 			"posicion": "DL",
 			"pieHabil": "I",
 			"altura": 1.79,
-			"capitan": false
-		},
-		{
-			"nombre": "Gabriel Veiga",
-			"nacionalidad": "España",
-			"fechaNacimiento": "26-5-2002",
-			"valor": 1,
-			"dorsal": 31,
-			"posicion": "MC",
-			"pieHabil": "D",
-			"altura": 1.84,
 			"capitan": false
 		}
 	],

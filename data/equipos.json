@@ -682,7 +682,7 @@
 			"valor": 35,
 			"dorsal": 21,
 			"posicion": "DL",
-			"pieHabil": "A",
+			"pieHabil": "D",
 			"altura": 1.81,
 			"capitan": false
 		},
@@ -1629,7 +1629,6 @@
 		},
 		{
 			"nombre": "John Joe Patrick Finn",
-			"nacionalidad": "España",
 			"fechaNacimiento": "23-10-2003",
 			"valor": 1,
 			"dorsal": 38,

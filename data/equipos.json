@@ -1824,7 +1824,7 @@
 			"dorsal": 19,
 			"posicion": "DL",
 			"pieHabil": "D",
-			"altura": 1.9,
+			"altura": 1.92,
 			"capitan": false
 		},
 		{
@@ -1996,7 +1996,7 @@
 		},
 		{
 			"nombre": "Gabriel Paulista",
-			"nacionalidad": "España",
+			"nacionalidad": "Brasil",
 			"fechaNacimiento": "25-11-1990",
 			"valor": 15,
 			"dorsal": 5,

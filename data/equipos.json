@@ -1872,17 +1872,6 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Alex Sola",
-			"nacionalidad": "España",
-			"fechaNacimiento": "8-6-1999",
-			"valor": 0.4,
-			"dorsal": 0,
-			"posicion": "DF",
-			"pieHabil": "D",
-			"altura": 1.78,
-			"capitan": false
-		},
-		{
 			"nombre": "Ander Guevara",
 			"nacionalidad": "España",
 			"fechaNacimiento": "6-7-1997",

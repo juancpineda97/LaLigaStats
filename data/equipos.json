@@ -2800,6 +2800,17 @@
 			"pieHabil": "D",
 			"altura": 1.85,
 			"capitan": false
+		},
+		{
+			"nombre": "Arnau Fàbrega",
+			"nacionalidad": "España",
+			"fechaNacimiento": "27-6-2000",
+			"valor": 0.05,
+			"dorsal": 31,
+			"posicion": "PT",
+			"pieHabil": "D",
+			"altura": 1.88,
+			"capitan": false
 		}
 	],
 	"CA Osasuna": [
@@ -3063,8 +3074,8 @@
 			"valor": 0.8,
 			"dorsal": 28,
 			"posicion": "MC",
-			"pieHabil": "A",
-			"altura": 1.8,
+			"pieHabil": "D",
+			"altura": 1.81,
 			"capitan": false
 		},
 		{
@@ -4472,6 +4483,17 @@
 			"posicion": "DF",
 			"pieHabil": "D",
 			"altura": 1.74,
+			"capitan": false
+		},
+		{
+			"nombre": "Miguel Atienza",
+			"nacionalidad": "España",
+			"fechaNacimiento": "26-5-1999",
+			"valor": 0.15,
+			"dorsal": 33,
+			"posicion": "MC",
+			"pieHabil": "D",
+			"altura": 1.86,
 			"capitan": false
 		},
 		{

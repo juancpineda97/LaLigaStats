@@ -1670,7 +1670,7 @@
 			"dorsal": 20,
 			"posicion": "DF",
 			"pieHabil": "I",
-			"altura": 1.8,
+			"altura": 1.79,
 			"capitan": false
 		},
 		{
@@ -1692,7 +1692,7 @@
 			"dorsal": 7,
 			"posicion": "DL",
 			"pieHabil": "D",
-			"altura": 1.68,
+			"altura": 1.67,
 			"capitan": false
 		},
 		{
@@ -1868,7 +1868,7 @@
 			"dorsal": 36,
 			"posicion": "MC",
 			"pieHabil": "D",
-			"altura": 1.8,
+			"altura": 1.81,
 			"capitan": false
 		},
 		{
@@ -1923,7 +1923,7 @@
 			"dorsal": 22,
 			"posicion": "DL",
 			"pieHabil": "D",
-			"altura": 1.78,
+			"altura": 1.75,
 			"capitan": false
 		}
 	],
@@ -3666,7 +3666,7 @@
 			"capitan": false
 		},
 		{
-			"nombre": "Rodri",
+			"nombre": "Rodri Sánchez",
 			"nacionalidad": "España",
 			"fechaNacimiento": "15-2-2000",
 			"valor": 1.5,
@@ -4317,7 +4317,7 @@
 			"dorsal": 9,
 			"posicion": "DL",
 			"pieHabil": "D",
-			"altura": 1.81,
+			"altura": 1.83,
 			"capitan": true
 		},
 		{

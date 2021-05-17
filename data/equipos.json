@@ -1081,7 +1081,7 @@
 			"dorsal": 12,
 			"posicion": "DF",
 			"pieHabil": "D",
-			"altura": 1.78,
+			"altura": 1.81,
 			"capitan": false
 		},
 		{
@@ -1857,7 +1857,7 @@
 			"dorsal": 5,
 			"posicion": "MC",
 			"pieHabil": "D",
-			"altura": 1.8,
+			"altura": 1.81,
 			"capitan": false
 		},
 		{
@@ -2112,7 +2112,7 @@
 			"dorsal": 2,
 			"posicion": "DF",
 			"pieHabil": "D",
-			"altura": 1.79,
+			"altura": 1.76,
 			"capitan": false
 		},
 		{
@@ -4195,17 +4195,6 @@
 			"posicion": "DL",
 			"pieHabil": "D",
 			"altura": 1.86,
-			"capitan": false
-		},
-		{
-			"nombre": "Luismi Quezada",
-			"nacionalidad": "República Dominicana",
-			"fechaNacimiento": "10-2-1996",
-			"valor": 0.3,
-			"dorsal": 0,
-			"posicion": "DF",
-			"pieHabil": "I",
-			"altura": 1.71,
 			"capitan": false
 		},
 		{

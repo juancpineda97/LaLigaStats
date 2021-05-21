@@ -3376,6 +3376,17 @@
 			"pieHabil": "D",
 			"altura": 1.73,
 			"capitan": false
+		},
+		{
+			"nombre": "Alejandro Cantero",
+			"nacionalidad": "España",
+			"fechaNacimiento": "7-6-2000",
+			"valor": 0.1,
+			"dorsal": 29,
+			"posicion": "DL",
+			"pieHabil": "A",
+			"altura": null,
+			"capitan": false
 		}
 	],
 	"Betis Sevilla": [

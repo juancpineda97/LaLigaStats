@@ -7,6 +7,7 @@ Proyecto de la asignatura Infraestructura Virtual del grado de Ingeniería Infor
 ![Logo LaLiga](./docs/img/logo_readme.png)
 
 ## Descripción
+(Actualización de datos automática actualmente parada)
 Cualquier amante del fútbol está acostumbrado a tener aplicaciones que le informan de diversas estadísticas sobre cualquier equipo de fútbol, jugador o competición. Pero, ¿y si además de esto, se quiere disponer de predicciones sobre resultados de futuros encuentros, campeones, goleadores, etc...? Por este motivo nace LaLigaStats, una aplicación que proporciona al usuario cualquier estadística presente de jugadores, partidos, equipos, etc... de La Liga Española de Fútbol, además de una serie de predicciones basadas en estadísticas sobre resultados futuros.
 
 La motivación de elegir este proyecto reside en que hay muy pocas aplicaciones que además de mostrar estadísticas de fútbol, muestren buenas predicciones sobre los acontecimientos que puedan pasar en un partido; y además, al ser el fútbol un deporte con muchos seguidores, esta aplicación será de ayuda para bastantes aficionados.

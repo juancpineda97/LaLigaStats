@@ -3385,7 +3385,7 @@
 			"dorsal": 29,
 			"posicion": "DL",
 			"pieHabil": "A",
-			"altura": null,
+			"altura": 0.0,
 			"capitan": false
 		}
 	],
